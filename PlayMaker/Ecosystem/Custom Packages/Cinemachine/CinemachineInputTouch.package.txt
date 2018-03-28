@@ -1,0 +1,12 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Component",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Cinemachine/CinemachineInputTouch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Scripts/Cinemachine/CinemachineCoreGetInputTouchAxis.cs",
+"UnityModules":["Cinemachine"],
+"keywords":"Cinemachine Touch Input"
+}
