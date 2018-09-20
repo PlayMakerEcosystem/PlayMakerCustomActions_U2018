@@ -1,0 +1,12 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"4.7",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/UI/Clean Title Transitions.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Clean Title Transitions/Demo PlayMaker.unity",
+"YoutubeVideos":["https://www.youtube.com/c/Michsky"],
+"keywords":"Michsky UI"
+}
