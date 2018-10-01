@@ -1,0 +1,12 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Component",
+"Version":"1.2.3",
+"UnityMinimumVersion":"2018",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Cinemachine/Cinemachine.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Cinemachine/README.md",
+"UnityModules":["Cinemachine"],
+"keywords":"Cinemachine Camera Touch"
+}
