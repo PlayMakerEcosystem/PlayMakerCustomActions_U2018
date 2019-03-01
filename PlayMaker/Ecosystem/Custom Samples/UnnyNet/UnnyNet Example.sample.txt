@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"2018.2",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/UnnyNet/UnnyNet Example.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/UnnyNet/UnnyNet Example/UnnyNet Example PlayMaker.unity",
+"keywords":""
+}
