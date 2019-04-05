@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Addon",
+"UnityMinimumVersion":"2018",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Audio/SpeechRecognition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Speech Recognition/Scripts/PlayMakerSpeechRecognitionProxy.cs",
+"keywords":"Speech Recognition Voice"
+}
