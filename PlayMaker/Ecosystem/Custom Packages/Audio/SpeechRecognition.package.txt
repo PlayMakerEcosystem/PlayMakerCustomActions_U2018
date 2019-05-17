@@ -2,6 +2,7 @@
 "__ECO__":"__PACKAGE__",
 "Author":"Jean Fabre",
 "Type":"Addon",
+"Version":"1.0.1",
 "UnityMinimumVersion":"2018",
 "PlayMakerMinimumVersion":"1.9",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Audio/SpeechRecognition.unitypackage",
