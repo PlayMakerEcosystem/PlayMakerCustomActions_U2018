@@ -1,7 +1,8 @@
 {
 "__ECO__":"__PACKAGE__",
 "Author":"Jean Fabre",
-"Version":"1.0",
+"Type":"Addon",
+"Version":"1.1",
 "UnityMinimumVersion":"2018.2",
 "PlayMakerMinimumVersion":"1.9",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Packages/UnnyNet/UnnyNet.unitypackage",
