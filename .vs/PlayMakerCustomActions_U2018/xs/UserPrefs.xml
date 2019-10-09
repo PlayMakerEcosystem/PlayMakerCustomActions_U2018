@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2A402B51-1A20-4BD2-F87C-78CD93747F7D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayMaker Custom Actions/AssetBundle/WWWAssetBundle.cs">
+    <Files>
+      <File FileName="Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/Item.cs" Line="330" Column="1" />
+      <File FileName="Assets/Tests/Bundles/Editor/BundleManager.cs" Line="9" Column="62" />
+      <File FileName="Assets/PlayMaker Custom Actions/AssetBundle/WWWAssetBundle.cs" Line="105" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
