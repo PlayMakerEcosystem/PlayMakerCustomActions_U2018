@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Levely WaveForm",
+"Type":"Actions",
+"Version":"1.0",
+"UnityMinimumVersion":"2018.3",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Post Processing V2/PostProcessingV2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Post Processing V2",
+"keywords":"camera effect post processing"
+}
