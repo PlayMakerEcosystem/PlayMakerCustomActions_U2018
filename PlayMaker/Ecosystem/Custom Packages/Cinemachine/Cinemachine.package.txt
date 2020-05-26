@@ -1,8 +1,8 @@
 {
 "__ECO__":"__PACKAGE__",
 "Author":"Jean Fabre",
-"Type":"Component",
-"Version":"1.5.0",
+"Type":"Addon",
+"Version":"1.6.0",
 "UnityMinimumVersion":"2018",
 "PlayMakerMinimumVersion":"1.9",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Cinemachine/Cinemachine.unitypackage",
