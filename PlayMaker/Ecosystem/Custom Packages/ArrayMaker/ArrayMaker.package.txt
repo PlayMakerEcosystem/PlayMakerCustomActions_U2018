@@ -1,0 +1,13 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Addon",
+"Version":"1.4",
+"UnityMinimumVersion":"2018",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/ArrayMaker/ArrayMaker.unitypackage",
+"pingAssetPath":"Assets/PlayMaker ArrayMaker/readme.txt",
+"YoutubeVideos":["https://www.youtube.com/watch?v=6SBuH1vxC7A&list=PL1EwQda_5HM_n8MEaBGfcXLNpmL8qBqV1"],
+"WebLink":"https://hutonggames.fogbugz.com/?W715",
+"keywords":"List Array Hashtable dictionnary data database"
+}
