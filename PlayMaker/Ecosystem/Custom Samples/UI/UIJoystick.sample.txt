@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Unity",
+"Version":"1.2",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/UI/UIJoystick.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/UI/UIJoystick/UIJoystick.unity",
+"keywords":"Touch Controller joystick"
+}

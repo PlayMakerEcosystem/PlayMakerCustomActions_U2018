@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Unity Module",
+"UnityModules":["PathFinding"],
+"Version":"1.2",
+"UnityMinimumVersion":"5.5",
+"PlayMakerMinimumVersion":"1.8.4",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/PathFinding/PathFinding.unitypackage",
+"pingAssetPath":"Assets/PlayMaker PathFinding/README.md",
+"keywords":"nav navmesh path A*"
+}

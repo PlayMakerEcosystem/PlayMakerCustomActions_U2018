@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Addon",
+"Version":"1.85",
+"UnityMinimumVersion":"5.3.5",
+"PlayMakerMinimumVersion":"1.8.5",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/Prototype/PrototypeActions.unitypackage",
+"pingAssetPath":"Assets/Scripts/InkleStudios/README.md",
+"keywords":"Pool Pooling Instance prefab"
+}

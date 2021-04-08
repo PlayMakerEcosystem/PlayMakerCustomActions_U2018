@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"",
+"Type":"",
+"Version":"",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Math/Mathos action.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/MathExpression/MathosAction.cs",
+"keywords":"math expression "
+}

@@ -1,0 +1,10 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Version":"1.0",
+"UnityMinimumVersion":"4.7",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Movement/SmoothPortals.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/SmoothPortals/SmoothPortals.unity",
+"keywords":"Portal Game play camera RenderTexture"
+}

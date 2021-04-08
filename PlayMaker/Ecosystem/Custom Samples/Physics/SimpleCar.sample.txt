@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Physics/SimpleCar.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/SimpleCar/SimpleCar.unity",
+"keywords":"Car wheel physics vehicle"
+}

@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/PlayerPrefs/ColoredSlot.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/PlayerPrefs/ColoredSlot/ColoredSlot.unity",
+"keywords":"PlayerPrefs Player Pref Prefs Preferences"
+}

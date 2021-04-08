@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Addon",
+"Version":"1.0.3",
+"UnityMinimumVersion":"5.3",
+"PlayMakerMinimumVersion":"1.8.3",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/Vuforia/PlayMakerVuforia.unitypackage",
+"pingAssetPath":"PlayMaker Vuforia/PlayMakerVuforiaTrackableProxy.cs",
+"keywords":"Qualcomm Vuforia VR AR virtual Augmented Reality image recognition"
+}

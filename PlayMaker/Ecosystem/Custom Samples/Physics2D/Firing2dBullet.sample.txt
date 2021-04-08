@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"4.7",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Physics2D/Firing2dBullet.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Physics 2d/Firing2dBullet/Firing2dBullet.unity",
+"keywords":"Bullet fire"
+}

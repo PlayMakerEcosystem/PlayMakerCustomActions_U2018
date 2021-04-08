@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Wizard",
+"Version":"1.5.8",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9.0",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/Utils/PlayMakerUtils.unitypackage",
+"pingMenu":"PlayMaker/Addons/Tools/Enum Creator Wizard",
+"keywords":"enum scripting wizard"
+}

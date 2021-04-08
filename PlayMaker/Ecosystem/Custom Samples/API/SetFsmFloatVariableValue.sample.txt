@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/API/SetFsmFloatVariableValue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/API/SetFsmFloatVariableValue/SetFsmFloatVariableValue.unity",
+"keywords":"Api float Variable"
+}

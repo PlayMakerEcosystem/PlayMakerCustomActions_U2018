@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Addon",
+"Version":"1.7.0",
+"UnityMinimumVersion":"5.4.2",
+"PlayMakerMinimumVersion":"1.8.3",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/Opsive/PlayMakerUFPS.unitypackage",
+"pingAssetPath":"Assets/PlayMaker UFPS/README.md",
+"keywords":"Ultimate First Person Shooter Camera Inventory weapon"
+}

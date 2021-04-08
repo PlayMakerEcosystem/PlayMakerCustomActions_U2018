@@ -1,0 +1,12 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"4.7",
+"PlayMakerMinimumVersion":"1.8.5",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Scenes/ScenesPreLoad.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Scenes/ScenesPreLoad/SceneA.unity",
+"UnityModules":["SceneManagement"],
+"keywords":"Scene Manager Management Activation"
+}

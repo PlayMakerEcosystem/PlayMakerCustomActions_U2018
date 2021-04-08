@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Third Party",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Prototype/PrototypePool.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/PrototypePool/PrototypePool.unity",
+"keywords":"Pool Pooling Instance Prototype"
+}

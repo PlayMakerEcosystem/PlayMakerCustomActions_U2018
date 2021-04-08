@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Wizard",
+"Version":"1.6.2",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Utils/PlayMakerUtils.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Utils/Changelog.md",
+"keywords":""
+}

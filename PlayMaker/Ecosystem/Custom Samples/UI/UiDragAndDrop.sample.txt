@@ -1,0 +1,12 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Unity",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/UI/UiDragAndDrop.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/UI/UiDragAndDrop/UiDragAndDrop.unity",
+"UnityModules":["UI"],
+"keywords":"drag drop"
+}

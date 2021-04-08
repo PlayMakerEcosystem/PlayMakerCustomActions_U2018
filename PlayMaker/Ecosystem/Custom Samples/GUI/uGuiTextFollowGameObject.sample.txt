@@ -1,0 +1,12 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"2.1",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/GUI/uGuiTextFollowGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/uGui/uGuiTextFollowGameObject/uGuiTextFollowGameObject.unity",
+"UnityModules":["UI"],
+"keywords":"UI"
+}

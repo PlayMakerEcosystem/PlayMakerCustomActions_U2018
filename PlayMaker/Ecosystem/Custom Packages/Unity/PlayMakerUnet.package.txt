@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"Module",
+"Version":"0.04a",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.6",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Unity/PlayMakerUnet.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Unet/Changelog.md",
+"keywords":"Unity multi player network networking lobby"
+}

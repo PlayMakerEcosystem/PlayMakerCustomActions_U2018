@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Version":"1.0.2",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Tasharen/PlayMakerNgui.unitypackage",
+"pingAssetPath":"Assets/PlayMaker NGUI/readme.txt",
+"keywords":"ngui UI Interface"
+}

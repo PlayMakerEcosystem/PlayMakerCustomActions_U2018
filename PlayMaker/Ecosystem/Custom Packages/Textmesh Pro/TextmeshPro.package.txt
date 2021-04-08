@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Eric Vander Wal",
+"Type":"Actions",
+"Version":"1.0",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Textmesh Pro/TextmeshPro.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/TextMeshPro",
+"keywords":""
+}
