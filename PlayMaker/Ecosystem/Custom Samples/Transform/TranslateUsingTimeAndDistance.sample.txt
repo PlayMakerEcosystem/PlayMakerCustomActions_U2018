@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.1",
+"UnityMinimumVersion":"2018",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Transform/TranslateUsingTimeAndDistance.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Transform/TranslateUsingTimeAndDistance/TranslateUsingTimeAndDistance.unity",
+"keywords":""
+}
