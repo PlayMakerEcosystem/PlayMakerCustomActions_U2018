@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ec061b5ce3f6849bc6ee6497489ccb, type: 3}
+  m_Name: EcoAutoPacker
+  m_EditorClassIdentifier: 
+  includeFolders:
+  - 76fd2c683edd249a081735e27aee7bf0
+  - 14fd32e1609174798aec56d95e9af027
+  excludeFolders: []
+  includeFiles: []
+  excludeFiles:
+  - fa3da3297b6404a558704970976d9a99
+  youTubeLists: []
+  webLinkList: []
+  modulesList: []
+  ecoFilterList: []
+  foldersToInclude: []
+  filesToInclude: []
+  foldersToExclude: []
+  filesToExclude: []
+  author: Jean Fabre
+  type: 
+  version: 1.0
+  keyWords: 
+  packageName: Playable Clip
+  targetDirectory: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/PlayMakerCustomActions_U2017/PlayMaker/Ecosystem/Custom
+    Packages/Timeline
+  targetRepository: 5
+  categoryString: Timeline
+  targetPackageTextFile: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/PlayMakerCustomActions_U2017/PlayMaker/Ecosystem/Custom
+    Packages/Timeline/Playable Clip.package.txt
+  packagetypeselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  packagetypeselected: 0
+  UminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  UminVselected: 0
+  PMminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  PMminVselected: 0
+  Pingtype:
+  - None
+  - Asset Path
+  - Menu
+  Pingtypeselected: 1
+  uMinVersionSelected: 11
+  pmMinVersionSelected: 7
+  categoryList:
+  - API
+  - Analytics
+  - AnimateVariables
+  - Animation
+  - Android
+  - Animator
+  - Application
+  - Array
+  - AssetBundle
+  - Audio
+  - AudioMixer
+  - BlendShapes
+  - Camera
+  - Color
+  - Convert
+  - CrossPlatformInput
+  - Debug
+  - Device
+  - Editor
+  - Effects
+  - Encryption
+  - Files
+  - FOV
+  - GarbageCollection
+  - GameObject
+  - GUI
+  - GuiElement
+  - GUILayout
+  - Input
+  - JSON
+  - Level
+  - Lights
+  - Logic
+  - Material
+  - Math
+  - Mesh
+  - Microphone
+  - MobileGameController
+  - Movement
+  - NavMeshAgent
+  - NoiseModule
+  - Particles
+  - Physics
+  - Physics2D
+  - PlayerPrefs
+  - QualitySettings
+  - Quaternion
+  - Rect
+  - RectTransform
+  - RenderSettings
+  - Renderer
+  - Resources
+  - Screen
+  - ScriptControl
+  - ShapeModule
+  - Social
+  - Sprite
+  - StateMachine
+  - String
+  - Texture
+  - Time
+  - Transform
+  - Trigonometry
+  - UnityAds
+  - UnityObject
+  - Vector2
+  - Vector3
+  - VideoClip
+  - VideoPlayer
+  - VR
+  - Web
+  - WebCam
+  - uGui
+  categorySelected: 0
+  assetPath: {fileID: 102900000, guid: 76fd2c683edd249a081735e27aee7bf0, type: 3}
+  pingMenu: {fileID: 0}
+  fileExistsCheck: 1
+  expandedList: 0
+  showList: 1
+  showSetFoldersAndFiles: 1
+  foldout: 1
