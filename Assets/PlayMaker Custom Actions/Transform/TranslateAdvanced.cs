@@ -1,7 +1,14 @@
 ﻿// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
 // License: Attribution 4.0 International(CC BY 4.0) 
-// REMOVED ECOSYSTEM FLAG TO AVOID DUPLICATES IN ECOSYSTEM BROWSER, AS IT SEARCHED THIS REP AS WELL
-
+/*--- __ECO__ __PLAYMAKER__ __ACTION__
+EcoMetaStart
+{
+"script dependancies":[
+						"Assets/PlayMaker Custom Actions/__Internal/FsmStateActionAdvanced.cs"
+					]
+}
+EcoMetaEnd
+---*/
 using UnityEngine;
 
 namespace HutongGames.PlayMaker.Actions
@@ -36,6 +43,10 @@ namespace HutongGames.PlayMaker.Actions
 		
 		[Tooltip("Translate over one second")]
 		public bool perSecond;
+
+		[Tooltip("is translation per seconds, uses realtime ( unaffected by time scale)")]
+		public bool realtime;
+
 	
 		Transform _transform;
 
@@ -107,7 +118,13 @@ namespace HutongGames.PlayMaker.Actions
 			}
 			else
 			{
-				_transform.Translate(translate * Time.deltaTime, space);
+				if ( realtime)
+				{
+					_transform.Translate(translate * Time.unscaledDeltaTime, space);
+				}else{
+					_transform.Translate(translate * Time.deltaTime, space);
+				}
+
 			}
 		}
 		

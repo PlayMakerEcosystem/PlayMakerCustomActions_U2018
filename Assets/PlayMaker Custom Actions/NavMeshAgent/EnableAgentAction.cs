@@ -1,0 +1,65 @@
+﻿// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
+// License: Attribution 4.0 International(CC BY 4.0)
+
+using UnityEngine;
+
+namespace HutongGames.PlayMaker.Actions
+{
+    [ActionCategory(ActionCategory.NavMeshAgent)]
+    [Tooltip("Enables/Disables Navmesh agent component. ")]
+    public class EnableAgentAction : FsmStateAction
+    {
+        [RequiredField]
+        [CheckForComponent(typeof(UnityEngine.AI.NavMeshAgent))]
+        public FsmOwnerDefault gameObject;
+        public FsmBool enable;   
+        public FsmBool everyFrame;
+        UnityEngine.AI.NavMeshAgent nm;
+        public override void Reset()
+        {
+            gameObject = null;
+            enable = null;
+            everyFrame = true;
+
+        }
+
+        public override void OnEnter()
+        {
+            if (!everyFrame.Value)
+            {
+                DoEnableAgent();
+                Finish();
+            }
+
+        }
+
+        public override void OnUpdate()
+        {
+            if (everyFrame.Value)
+            {
+                DoEnableAgent();
+            }
+        }
+
+        void DoEnableAgent()
+        {
+            var go = Fsm.GetOwnerDefaultTarget(gameObject);
+            if (go == null)
+            {
+                return;
+            }
+
+            if(go.GetComponent<UnityEngine.AI.NavMeshAgent>() == null)
+            {
+                return;
+            }
+
+            nm = go.GetComponent<UnityEngine.AI.NavMeshAgent>();
+
+            nm.enabled = enable.Value;
+
+
+        }
+
+    }
+}

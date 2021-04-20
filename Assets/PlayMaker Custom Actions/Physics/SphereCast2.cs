@@ -1,43 +1,40 @@
-﻿// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
+// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
 // License: Attribution 4.0 International(CC BY 4.0) 
+/*--- __ECO__ __PLAYMAKER__ __ACTION__ ---*/
 
 using UnityEngine;
 
 namespace HutongGames.PlayMaker.Actions
 {
-    [ActionCategory(ActionCategory.Physics)]
-    [Tooltip("Casts a Sphere against all Colliders in the scene. Use either a Game Object or Vector3 world position as the origin of the ray. Can ignore colliders set to trigger.")]
-    public class SphereCast2 : FsmStateAction
-    {
-        [ActionSection("Setup Spherecast")]
+	[ActionCategory(ActionCategory.Physics)]
+	[Tooltip("Performs a sphereCast hit")]
+	public class SphereCast2 : FsmStateAction
+	{		
+		[Tooltip("The center of the sphere at the start of the sweep. \nOr use From Position parameter.")]
+		public FsmOwnerDefault fromGameObject;
 
-        [Tooltip("Start ray at game object position. \nOr use From Position parameter.")]
-        public FsmOwnerDefault fromGameObject;
-
-        [Tooltip("Start ray at a vector3 world position. \nOr use Game Object parameter.")]
-        public FsmVector3 fromPosition;
+		[Tooltip("The center of the sphere at the start of the sweep. \nOr use Game Object parameter.")]
+		public FsmVector3 fromPosition;
 
         [Tooltip("The radius of the shpere.")]
         public FsmFloat radius;
 
-
-        [Tooltip("A vector3 direction vector")]
+        [Tooltip("The direction into which to sweep the sphere.")]
         public FsmVector3 direction;
 
-        [Tooltip("Cast the ray in world or local space. Note if no Game Object is specfied, the direction is in world space.")]
+        [Tooltip("Cast the sphere in world or local space. Note if no Game Object is specified, the direction is in world space.")]
         public Space space;
 
-        [Tooltip("The length of the ray. Set to -1 for infinity.")]
-        public FsmFloat distance;
+		[Tooltip("The length of the ray. Set to -1 for infinity.")]
+		public FsmFloat maxDistance;
 
-     
 
         [ActionSection("Result")]
 
-        [Tooltip("Event to send if the ray hits an object.")]
-        [UIHint(UIHint.Variable)]
+        [Tooltip("Event to send when there is a hit.")]
         public FsmEvent hitEvent;
 
+        [Tooltip("Event to send if there is no hit at all")]
         public FsmEvent noHitEvent;
 
         [Tooltip("Set a bool variable to true if hit something, otherwise false.")]
@@ -60,141 +57,144 @@ namespace HutongGames.PlayMaker.Actions
         [Tooltip("Get the distance along the ray to the hit point and store it in a variable.")]
         public FsmFloat storeHitDistance;
 
+
+        [Tooltip("this can be used with the wiresphere tester")]
+        public FsmVector3 sphereCastCenter;
+
+
+
         [ActionSection("Filter")]
-
-        [Tooltip("Set to true to ignore colliders set to trigger.")]
-        public FsmBool ignoreTriggerColliders;
-
 
         [Tooltip("Set how often to cast a ray. 0 = once, don't repeat; 1 = everyFrame; 2 = every other frame... \nSince raycasts can get expensive use the highest repeat interval you can get away with.")]
         public FsmInt repeatInterval;
 
         [UIHint(UIHint.Layer)]
-        [Tooltip("Pick only from these layers.")]
-        public FsmInt[] layerMask;
+		[Tooltip("Pick only from these layers.")]
+		public FsmInt[] layerMask;
+		
+		[Tooltip("Invert the mask, so you pick from all layers except those defined above.")]
+		public FsmBool invertMask;
 
-        [Tooltip("Invert the mask, so you pick from all layers except those defined above.")]
-        public FsmBool invertMask;
+        public QueryTriggerInteraction triggerInteraction;
 
-        [ActionSection("Debug")]
+        [ActionSection("Debug")] 
+		
+		[Tooltip("The color to use for the debug line.")]
+		public FsmColor debugMaxDistanceColor;
 
         [Tooltip("The color to use for the debug line.")]
-        public FsmColor debugColor;
+        public FsmColor debugCurrentDistanceColor;
 
         [Tooltip("Draw a debug line. Note: Check Gizmos in the Game View to see it in game.")]
-        public FsmBool debug;
+		public FsmBool debug;
 
-
-
-
-        int repeat;
+        private int repeat;
+        private Vector3 originPos;
 
         public override void Reset()
-        {
-            fromGameObject = null;
-            fromPosition = new FsmVector3 { UseVariable = true };
-            direction = new FsmVector3 { UseVariable = true };
-            space = Space.Self;
-           distance = 100;
+		{
+			
+			fromGameObject = null;
+			fromPosition = new FsmVector3 { UseVariable = true };
+			direction = Vector3.forward;
+			space = Space.Self;
+			maxDistance = 100;
+            radius = 1f;
             hitEvent = null;
-            storeDidHit = null;
+            noHitEvent = null;
             storeHitObject = null;
             storeHitPoint = null;
             storeHitNormal = null;
             storeHitDistance = null;
             repeatInterval = 1;
             layerMask = new FsmInt[0];
-            invertMask = false;
-            debugColor = Color.yellow;
+			invertMask = false;
+            triggerInteraction = QueryTriggerInteraction.UseGlobal;
+            debugMaxDistanceColor = Color.yellow;
+            debugCurrentDistanceColor = Color.red;
             debug = false;
-            ignoreTriggerColliders = false;
-            radius = null;
+            sphereCastCenter = null;
+
+
         }
 
-        public override void OnEnter()
-        {
-            DoRaycast();
+		public override void OnEnter()
+		{
+            DoSphereCast();
 
             if (repeatInterval.Value == 0)
             {
+                
                 Finish();
             }
-        }
+		}
 
         public override void OnUpdate()
         {
+            
             repeat--;
 
             if (repeat == 0)
             {
-                DoRaycast();
+                DoSphereCast();
             }
         }
 
-        void DoRaycast()
-        {
+        void DoSphereCast()
+		{
             repeat = repeatInterval.Value;
 
-            if (distance.Value == 0)
-            {
-                return;
-            }
+            if (maxDistance.Value == 0)
+			{
+				return;
+			}
 
-            var go = Fsm.GetOwnerDefaultTarget(fromGameObject);
+			var go = Fsm.GetOwnerDefaultTarget(fromGameObject);
+			
+			originPos = go != null ? go.transform.position : fromPosition.Value;
+			
+			var rayLength = Mathf.Infinity;
+			if (maxDistance.Value > 0 )
+			{
+				rayLength = maxDistance.Value;
+			}
 
-            var originPos = go != null ? go.transform.position : fromPosition.Value;
+			var dirVector = direction.Value;
+			if(go != null && space == Space.Self)
+			{
+				dirVector = go.transform.TransformDirection(direction.Value);
+			}
+			
+			
+			RaycastHit hitInfo;
+			Physics.SphereCast(originPos,radius.Value, dirVector,out hitInfo, rayLength, ActionHelpers.LayerArrayToLayerMask(layerMask, invertMask.Value), triggerInteraction);	
 
-            var rayLength = Mathf.Infinity;
-            if (distance.Value > 0)
-            {
-                rayLength = distance.Value;
-            }
-
-            var dirVector = direction.Value;
-            if (go != null && space == Space.Self)
-            {
-                dirVector = go.transform.TransformDirection(direction.Value);
-            }
-
-            RaycastHit hitInfo;
-
-            if (ignoreTriggerColliders.Value == true)
-            {
-                Physics.SphereCast(originPos, radius.Value, dirVector, out hitInfo, rayLength, ActionHelpers.LayerArrayToLayerMask(layerMask, invertMask.Value), QueryTriggerInteraction.Ignore);
-            } else
-            {
-                Physics.SphereCast(originPos, radius.Value, dirVector, out hitInfo, rayLength, ActionHelpers.LayerArrayToLayerMask(layerMask, invertMask.Value), QueryTriggerInteraction.Collide);
-            }
-
-
-            Fsm.RaycastHitInfo = hitInfo;
-
-            var didHit = hitInfo.collider != null;
-
-            storeDidHit.Value = didHit;
-
+			Fsm.RaycastHitInfo = hitInfo;
+			
+			var didHit = hitInfo.collider != null;
+			
+			storeDidHit.Value = didHit;
+            
             if (didHit)
             {
-                storeHitObject.Value = hitInfo.collider.gameObject;
+                storeHitObject.Value = hitInfo.transform.gameObject;
                 storeHitPoint.Value = Fsm.RaycastHitInfo.point;
                 storeHitNormal.Value = Fsm.RaycastHitInfo.normal;
                 storeHitDistance.Value = Fsm.RaycastHitInfo.distance;
                 Fsm.Event(hitEvent);
             }
-
-
             if (!didHit)
             {
-
+                storeHitDistance.Value = maxDistance.Value;
+                storeHitObject.Value = null;
                 Fsm.Event(noHitEvent);
             }
-
+            sphereCastCenter.Value = originPos + (direction.Value.normalized * storeHitDistance.Value);
             if (debug.Value)
             {
-                var debugRayLength = Mathf.Min(rayLength, 1000);
-                Debug.DrawLine(originPos, originPos + dirVector * debugRayLength, debugColor.Value);
+                Debug.DrawLine(originPos, originPos + (direction.Value.normalized * maxDistance.Value), debugMaxDistanceColor.Value);
+                Debug.DrawLine(originPos, originPos + (direction.Value.normalized * storeHitDistance.Value), debugCurrentDistanceColor.Value);
             }
         }
-    }
+	}
 }
-

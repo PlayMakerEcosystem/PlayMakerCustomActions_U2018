@@ -18,7 +18,7 @@ namespace HutongGames.PlayMaker.Actions
 		[Tooltip("Determines how much influence new changes have. E.g., 0.1 keeps 10 percent of the unfiltered vector and 90 percent of the previously filtered value")]
 		public FsmFloat filteringFactor;		
 		
-		private float filteredFloat;
+		float filteredFloat;
 		
 		public override void Reset()
 		{
