@@ -37,6 +37,7 @@ namespace HutongGames.PlayMaker.Actions
 		[HasFloatSlider(1f, 3f)]
 		public FsmInt dimensions = 3;
 		
+		[Tooltip("The noise type")]
 		public NoiseMethodType type;
 		
 		public Gradient coloring;

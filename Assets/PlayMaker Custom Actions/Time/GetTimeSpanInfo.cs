@@ -4,7 +4,7 @@
 EcoMetaStart
 {
 "script dependancies":[
-						"https://github.com/jeanfabre/PlayMaker--Utils/raw/master/PlayMakerUtils_FsmVar.cs?assetFilePath=Assets/PlayMaker Utils/PlayMakerUtils_FsmVar.cs"
+						"Assets/PlayMaker Utils/PlayMakerUtils_FsmVar.cs"
 					]
 }
 EcoMetaEnd

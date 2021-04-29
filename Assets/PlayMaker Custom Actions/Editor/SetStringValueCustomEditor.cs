@@ -1,10 +1,12 @@
+// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
+// License: Attribution 4.0 International(CC BY 4.0) 
+/*--- __ECO__ __PLAYMAKER__ __ACTION__ ---*/
+
 using HutongGames.PlayMaker.Actions;
 using HutongGames.PlayMakerEditor;
 
-using HutongGames.PlayMaker;
 using UnityEditor;
 using UnityEngine;
-using System;
 
 [CustomActionEditor(typeof(SetStringValue))]
 public class SetStringValueCustomEditor : CustomActionEditor
@@ -13,11 +15,8 @@ public class SetStringValueCustomEditor : CustomActionEditor
 	Vector2 _scroll = Vector2.zero;
     public override bool OnGUI()
     {
-	
-		
-		bool edited = false;
-		
-		
+	    bool edited = false;
+	    
 		SetStringValue _target = (SetStringValue)target;
 
 		EditField("stringVariable");

@@ -1,4 +1,4 @@
-// (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
+// (c) Copyright HutongGames, LLC 2010-2021. All rights reserved.  
 // License: Attribution 4.0 International(CC BY 4.0) 
 
 using UnityEngine;
@@ -7,7 +7,6 @@ namespace HutongGames.PlayMaker.Actions
 {
 	public abstract class FsmStateActionAdvanced : FsmStateAction
 	{
-		
 		public enum FrameUpdateSelector {OnUpdate,OnLateUpdate,OnFixedUpdate};
 
 		[ActionSection("Update type")]
