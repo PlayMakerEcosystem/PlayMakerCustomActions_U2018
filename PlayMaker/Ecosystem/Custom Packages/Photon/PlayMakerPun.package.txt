@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean fabre",
+"Type":"Addon",
+"Version":"1.101.1",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Photon/PlayMakerPUN.unitypackage",
+"keywords":"PlayMaker Pun Classic Photon Exitgames network multi player"
+}

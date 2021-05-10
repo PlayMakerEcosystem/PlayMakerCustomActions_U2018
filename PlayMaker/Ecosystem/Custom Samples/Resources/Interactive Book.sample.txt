@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.4",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Resources/Interactive Book.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Resources/Interactive Book/Interactive Book.unity",
+"keywords":"Audio Book narrative book"
+}

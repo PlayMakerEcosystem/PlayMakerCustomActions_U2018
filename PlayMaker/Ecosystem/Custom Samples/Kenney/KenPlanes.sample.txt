@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.4",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Kenney/KenPlanes.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Kenney/KenPlanes/KenPlanes PlayMaker.unity",
+"keywords":"Kenney Game Plane Dog Fight "
+}

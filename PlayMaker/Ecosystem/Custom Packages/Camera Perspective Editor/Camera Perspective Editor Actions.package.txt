@@ -1,0 +1,12 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"",
+"Version":"1.0.0",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Camera Perspective Editor/Camera Perspective Editor Actions.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CameraPerspectiveEditor",
+"UnityModules":["Addons"],
+"keywords":"matrix matrice  aspect clipping plane dolly zoom skew focal lens tilt shift"
+}

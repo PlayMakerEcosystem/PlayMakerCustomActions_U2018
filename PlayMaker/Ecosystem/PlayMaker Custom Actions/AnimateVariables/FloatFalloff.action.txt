@@ -1,0 +1,6 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AnimateVariables/FloatFalloff.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/AnimateVariables/FloatFalloff.cs"
+}

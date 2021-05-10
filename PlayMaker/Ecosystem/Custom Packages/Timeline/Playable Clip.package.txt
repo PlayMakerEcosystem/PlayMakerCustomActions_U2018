@@ -1,0 +1,11 @@
+{
+"__ECO__":"__PACKAGE__",
+"Author":"Jean Fabre",
+"Type":"",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.4",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Timeline/Playable Clip.unitypackage",
+"pingAssetPath":"Assets/Playmaker Timeline/PlayMaker Playable",
+"keywords":""
+}

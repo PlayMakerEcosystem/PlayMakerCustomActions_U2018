@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"Sample",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.8.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Vuforia/VuforiaRadialMenu.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Vuforia/RadialMenu/RadialMenu.unity",
+"keywords":"Vuforia Radial Menu AR"
+}

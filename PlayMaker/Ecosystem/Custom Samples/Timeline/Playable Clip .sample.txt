@@ -1,0 +1,11 @@
+{
+"__ECO__":"__SAMPLE__",
+"Author":"Jean Fabre",
+"Type":"",
+"Version":"1.0",
+"UnityMinimumVersion":"2017.4",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Timeline/Playable Clip .unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/Timeline/TimelineTest/TimelinePlayableTest.unity",
+"keywords":""
+}

@@ -1,0 +1,10 @@
+{
+"__ECO__":"__SAMPLE__",
+"Type":"Unity",
+"Version":"1.101.1",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.9.0",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/PhotonUnityNetworking/PhotonDemoWorker.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Samples/PhotonUnityNetworking/PhotonDemoWorker/PhotonDemoWorker.unity",
+"keywords":"Pun Classic Network MultiPlayer Photon Exitgames unet"
+}
