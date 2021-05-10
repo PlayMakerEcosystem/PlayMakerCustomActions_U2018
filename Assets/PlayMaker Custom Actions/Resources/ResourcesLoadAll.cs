@@ -83,7 +83,11 @@ namespace HutongGames.PlayMaker.Actions
 		
 		public bool loadAllResource()
 		{
-
+			storeAssets.Init();
+			Debug.Log(storeAssets.ElementType);
+		
+		
+			
 			switch (storeAssets.ElementType)
 			{
 			case VariableType.GameObject:
