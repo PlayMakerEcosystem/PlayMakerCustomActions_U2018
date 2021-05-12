@@ -21,6 +21,9 @@ namespace HutongGames.PlayMaker.Actions
 		[UIHint(UIHint.Variable)]
 		public FsmVar storeAsset;
 
+		[Tooltip("if true, asset will not be spawned directly")]
+		public FsmBool doNotSpawn;
+		
 		[ActionSection("Result")]
 
 		[Tooltip("true if the loading succedded or not")]
@@ -50,7 +53,8 @@ namespace HutongGames.PlayMaker.Actions
 			assetPath = null;
 			storeAsset = new FsmVar();
 			storeAsset.Type = VariableType.Texture;
-
+			doNotSpawn = false;
+			
 			success = null;
 			isDone = null;
 			progress = null;
@@ -184,15 +188,24 @@ namespace HutongGames.PlayMaker.Actions
 				{
 					return false;
 				}
-				GameObject _go = (GameObject)Object.Instantiate(source);
-				if (_go==null)
+				if (doNotSpawn.Value)
 				{
-					return false;
-				}else{
-					FsmGameObject _target= this.Fsm.Variables.GetFsmGameObject(storeAsset.variableName);
-					_target.Value = _go;
+					FsmGameObject _target = this.Fsm.Variables.GetFsmGameObject(storeAsset.variableName);
+					_target.Value = source;
 				}
-				
+				else
+				{
+					GameObject _go = (GameObject)Object.Instantiate(source);
+					if (_go == null)
+					{
+						return false;
+					}
+					else
+					{
+						FsmGameObject _target = this.Fsm.Variables.GetFsmGameObject(storeAsset.variableName);
+						_target.Value = _go;
+					}
+				}
 				break;
 			case VariableType.Texture:
 				Texture2D _texture = (Texture2D)_request.asset;
