@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/MicrophoneStopRecording.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Microphone/MicrophoneStopRecording.cs",
+"keywords":" Audio Stop sound MicrophoneStopRecording Passing will pick device the MicrophoneGetDeviceById example Reset Microphone deviceName Value"
+}

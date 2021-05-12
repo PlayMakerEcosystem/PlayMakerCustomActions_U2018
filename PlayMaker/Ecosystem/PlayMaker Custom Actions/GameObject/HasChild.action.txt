@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasChild.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/HasChild.cs",
+"keywords":" Finds Sends events based not NOTE will through children first specific Find HasChild need match Store the was Reset Untagged storeResult found notFoundEvent root transform Equals search recursively DoGetChildByName returnObject ErrorCheck childName withTag Value Specify Child Tag both"
+}

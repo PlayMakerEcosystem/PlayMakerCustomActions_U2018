@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FsmBoolTest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FsmBoolTest.cs",
+"keywords":" Modified Fabre contact fabrejean net combination since extras steps otherwise also feel like saving every single want avoid redundance sometimes added Ecosystem http index php topic Logic Sends Events based another FsmBoolTest Optional PlayMakerFSM Reset everyFrame isTrue isFalse DoGetFsmBool the changed goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmBool variableName storedValue Value"
+}

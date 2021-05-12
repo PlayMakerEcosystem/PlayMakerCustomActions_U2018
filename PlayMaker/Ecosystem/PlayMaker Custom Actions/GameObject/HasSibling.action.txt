@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasSibling.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/HasSibling.cs",
+"keywords":" Author Deek http index php topic Finds Sends events based not NOTE will through siblingren GameObjects first HasSibling need match Store the was Reset Untagged storeResult found notFoundEvent parent skip root transform Equals search recursively DoGetSiblingByName returnObject ErrorCheck siblingName withTag Value Specify sibling tag both"
+}

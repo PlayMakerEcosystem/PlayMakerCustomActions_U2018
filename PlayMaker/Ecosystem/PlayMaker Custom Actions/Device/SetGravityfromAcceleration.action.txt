@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/SetGravityfromAcceleration.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/SetGravityFromAcceleration.cs",
+"keywords":" Adjust direction based the device Typically control rolling balls SetGravityfromAcceleration Reset 10f SetGravity multiplier Value Screen ScreenOrientation LandscapeLeft Physics gravity Input acceleration _mult"
+}

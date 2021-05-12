@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetSphereColliderRadius.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetSphereColliderRadius.cs",
+"keywords":" Physics SetSphereColliderRadius ComponentAction SphereCollider apply Sphere Repeat every the active Reset everyFrame DoChange UpdateCache cachedComponent radius Value"
+}

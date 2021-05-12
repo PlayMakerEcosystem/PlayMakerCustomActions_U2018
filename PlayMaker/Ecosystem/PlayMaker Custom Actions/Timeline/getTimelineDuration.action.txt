@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/getTimelineDuration.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/getTimelineDuration.cs",
+"keywords":" Playables timelines requires above getTimelineDuration hold components Returns the current seconds box preform every Reset PlayableDirector everyFrame timelineAction timeline Value _duration"
+}

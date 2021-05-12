@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetFarthestGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetFarthestGameObject.cs",
+"keywords":" farthest within ArrayGetFarthestGameObject FsmArray Compare distance items list the declared offset Result Reset everyframe DoFindFarthestGo orDistanceFromVector3 distanceFrom _rootGo Mathf objectReferences transform position root sqrMagnitude sqrDist sqrDistTest farthestGameObject _go farthestIndex Value _index"
+}

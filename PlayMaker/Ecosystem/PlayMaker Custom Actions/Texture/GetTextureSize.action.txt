@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetTextureSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetTextureSize.cs",
+"keywords":" Gets pixels GetTextureSize The Reset width Value height"
+}

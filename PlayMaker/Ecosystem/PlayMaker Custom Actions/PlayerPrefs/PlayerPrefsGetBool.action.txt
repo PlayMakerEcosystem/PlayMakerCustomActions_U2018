@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsGetBool.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsGetBool.cs",
+"keywords":" playerpref player pref Returns corresponding the preference file exists Uses ints save doesn have built PlayerPrefsGetBool Count sensitive Reset Length Equals variables PlayerPrefs GetInt keys _value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IntSignTest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/IntSignTest.cs",
+"keywords":" Author Deek Logic http index php topic based sign Integer IntSignTest send Repeat every Useful the changing you waiting particular result Reset everyFrame DoSignTest intValue Value ErrorCheck isPositive isNegative sends events"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MouseLookInvert.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MouseLookInvert.cs",
+"keywords":" Made djay dino version builtin behaviour summary Rotates based Minimum Maximum values can used constrain MouseLookInvert enum Sensitivity movement around clamping Invert direction rotate down instead Repeat every Reset 15f 60f the rigid not change TODO Original script had Expose rigidbody freezeRotation initialize localRotation everyFrame DoMouseLook MouseXAndY MouseX invertX RotationAxes MouseY invertY transform localEulerAngles GetXRotation sensitivityX minimumX maximumX rotationX GetYRotation Input GetAxis Mouse sensitivityY minimumY maximumY rotationY Clamp function that respects ClampAngle max Value angle"
+}

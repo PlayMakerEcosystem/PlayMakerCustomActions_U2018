@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/NavMeshFindClosestPoint.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/NavMeshFindClosestPoint.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal ToDo Also Success NavMeshAgent Searches any given Useful lead teleport interest clicked independent where currently NavMeshFindClosestPoint FsmStateActionAdvanced what should searched Alternatively ignored Define big search radius quite expensive good starting would twice Agent height Wheter possible outcome seen being local closest send nearest that gets fired when there was found Increase Max see can find unless the desired result resets updateType Reset 100f source everyFrame DoTemplate NavMeshHit World transform localPosition sourcePosition SamplePosition pos maxDistance NavMesh AllAreas nearestPoint Value hit position succeeded failed"
+}

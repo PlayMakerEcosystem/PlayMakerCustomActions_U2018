@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmKeepDelayedEventsOnStateExit.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmKeepDelayedEventsOnStateExit.cs",
+"keywords":" StateMachine Raise flag that are when exited SetFsmKeepDelayedEventsOnStateExit TextArea delayed will kept the exits Reset KeepDelayedEventsOnStateExit keepDelayedEvents Value"
+}

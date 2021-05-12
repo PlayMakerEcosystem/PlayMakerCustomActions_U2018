@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertBytesLengthToReadableSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertBytesLengthToReadableSize.cs",
+"keywords":" http stackoverflow questions file abbreviation net bytes into like 13KB 4GB ConvertBytesLengthToReadableSize lenght human readable pattern being suffix example wouldshow single place options you search folder sub folders The Reset everyFrame Convert byteLength Length result format len sizes order Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonUp.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonUp.cs",
+"keywords":" original KellyRay http index php topic msg52975 UnityStandardAssets pragma disable Sends when Requires Standard CrossPlatformGetButtonUp send the button released Reset Fire1 ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput CROSS_PLATFORM_INPUT CrossPlatformInputManager GetButtonUp buttonName endif sendEvent storeResult Value buttonUp"
+}

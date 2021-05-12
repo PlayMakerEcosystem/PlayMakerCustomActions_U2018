@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/GetStreamProgressForLevelNum.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Level/GetStreamProgressForLevelNum.cs",
+"keywords":" Stream progres GetStreamProgressForLevelNum load Must list levels defined File Build Settings Store loading range send when loaded NOTE makes sense still the scene Reset GetProgress Application GetStreamProgressForLevel level loadingProgress Value loadedEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/IsFogEnabled.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/IsFogEnabled.cs",
+"keywords":" sent disabled Repeat every Useful the Enable setting changing Reset everyFrame DoIsFogEnabled store Value RenderSettings fog trueEvent falseEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/SplitIntToFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/SplitIntToFloat.cs",
+"keywords":" Convert split into http index php topic SplitIntToFloat Input Output Store result Options How many leading the example would mean 000xxx Reset everyFrame DoAction decimalNumber Floor Log10 tempInt leadingZeros floatVariable wholeNumber Value tamp Math Pow"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/Raycast2IgnoreTriggers.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/Raycast2IgnoreTriggers.cs",
+"keywords":" against scene either origin GetRaycastInfo more detailed Raycast2IgnoreTriggers nOr parameter Overrides used local specfied infinity trigger Result hits send does any otherwise world along script will store regardless whether not something doesn anything correctly Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see Reset yellow DoRaycast repeat repeatInterval fromGameObject fromPosition endObject Self goFr TransformDirection direction RaycastHit ignoreTriggerColliders Ignore Physics Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide storeDidHit storeHitObject Collider storeHitNormal normal RaycastHitInfo storeHitPointOnMiss storeHitPoint noHitEvent didHit storeDistanceOnMiss storeHitDistance dirVector next Mathf transform position normalized debugRayLength DrawLine originPos debugColor Value"
+}

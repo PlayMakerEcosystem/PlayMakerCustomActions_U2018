@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/AxisRawEvent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/AxisRawEvent.cs",
+"keywords":" Sends based AxisRawEvent defined Manager the any centered Reset Horizontal Vertical axes offsets horizontalAxis Input GetAxisRaw verticalAxis Value squared center Equals noDirection integer sector TODO directions Atan2 Mathf Rad2Deg 45f 360f angle 90f send events bases rightEvent upEvent leftEvent Left downEvent Down since already offset AnyDirection"
+}

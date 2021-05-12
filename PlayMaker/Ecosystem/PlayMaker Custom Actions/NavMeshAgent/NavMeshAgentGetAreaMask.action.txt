@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/NavMeshAgentGetAreaMask.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/NavMeshAgentGetAreaMask.cs",
+"keywords":" Author Deek http index php topic given Optionally send area changed NavMeshAgentGetAreaMask with the attached Wheter every once Reset everyFrame isInit hasChangedEvent GetAreaMask NavMeshAgent _nearestPointFound SamplePosition transform position nmAgent height NavMesh AllAreas _NavMeshHit prevMask areaMask Value"
+}

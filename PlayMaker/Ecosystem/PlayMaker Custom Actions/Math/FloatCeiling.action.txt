@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatCeiling.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatCeiling.cs",
+"keywords":" round Returns smallest integer greater equal FloatCeiling Repeat every the active Reset everyFrame DoMath floatResult Ceil intResult Mathf CeilToInt floatVariable Value"
+}

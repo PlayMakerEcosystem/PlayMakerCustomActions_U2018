@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/SetFloatIfBetween.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/SetFloatIfBetween.cs",
+"keywords":" Source Logic values http index php topic SetFloatIfBetween first than bools Repeat every Useful the variables changing you waiting particular result Reset everyFrame DoCompare floatValueBetween minFloat valueLessThanMin currentFloat maxFloat setFloat valueGreaterThanMax isInBetween isLess isGreater Value"
+}

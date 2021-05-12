@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmGameObjectCompare.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmGameobjectCompareTag.cs",
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Compares Objects sends Events based FsmGameObjectCompareTag that owns Optional the PlayMakerFSM Reset Untagged everyFrame Ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmGameObject variableName ttop storeFsmValue CompareTag storeResult Value hasTag trueEvent falseEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Lights/GetLightRange.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Lights/GetLightRange.cs",
+"keywords":" Lights Gets the ComponentAction Reset 20f everyFrame DoGetLightRange UpdateCache lightRange Value light range"
+}

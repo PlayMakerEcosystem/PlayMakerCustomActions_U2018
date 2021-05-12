@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetBoxColliderSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetBoxColliderSize.cs",
+"keywords":" Physics Box http index php topic GetBoxColliderSize ComponentAction Rigidbody apply along axis leave unchanged Repeat every the active Reset everyFrame DoChange BoxCollider Value collider"
+}

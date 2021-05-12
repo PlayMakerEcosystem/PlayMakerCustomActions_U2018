@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/DestroyRoot.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DestroyRoot.cs",
+"keywords":" Destroys transfom DestroyRoot its Optional before destroying the Reset Destroy transform root delay Value"
+}

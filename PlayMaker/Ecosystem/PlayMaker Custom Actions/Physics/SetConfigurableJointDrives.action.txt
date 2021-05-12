@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetConfigurableJointDrives.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetConfigurableJointDrives.cs",
+"keywords":" covers JointLimits differences define endif Physics Sets Configurable SetConfigurableJointDrives with when multiple joints are same ObjectType How movement will behave along its local axis rubber band pull Resistance strength against used mode includes Position Amount applied push toward the defined direction enum Reset 402823e 38f everyFrame DoAction ConfigurableJoint JointDrive maximumForce positionDamper positionSpring Value driveType DriveX DriveAngularX angularXDrive DriveAngularYZ angularYZDrive DriveZ zDrive DriveY yDrive Drives DriveSlerp slerpDrive"
+}

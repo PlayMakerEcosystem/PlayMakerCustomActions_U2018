@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmFloatSwitch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatSwitch.cs",
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Sends based could represent distance angle health left sets ranges correspond Events FsmFloatSwitch that owns Optional the Switches Less Send PlayMakerFSM Reset everyFrame ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName ttop Length StoreFsmVariable lessThan Value sendEvent"
+}

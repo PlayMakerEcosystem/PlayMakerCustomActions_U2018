@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioFadeIn.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioFadeIn.cs",
+"keywords":" Fades Audio Clip played AudioFadeIn Fade seconds send when finished Ignore TimeScale Useful paused the linear equation Reset inVolume realTime FsmTime RealtimeSinceStartup startTime deltaTime _audioSource volume currentTime time Value finishEvent"
+}

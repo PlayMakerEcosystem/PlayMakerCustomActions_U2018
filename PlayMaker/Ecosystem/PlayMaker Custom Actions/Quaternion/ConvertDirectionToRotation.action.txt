@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Quaternion/ConvertDirectionToRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Quaternion/ConvertDirectionToRotation.cs",
+"keywords":" convert lookat raycast Creates that looks along ConvertDirectionToRotation starting ending Invert Store the FsmQuaternion Reset QuaternionBaseAction everyFrame everyFrameOption everyFrameOptions Execute orDirectionVector directionStart directionEnd position zero _end _start invertDirection upVector Quaternion LookRotation _dir Value rotateGameObject _applyToGo transform rotation _result"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetNextChildReset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetNextChildReset.cs",
+"keywords":" added djaydino gets lets quickly perform them specific Find GetNextChildReset Note Store carries force you want renter back item send when there are cache changes increment through DoGetNextChild reset errors storeNextChild Value parent GetChild more children second time avoid possible infinite loop called Practically enabled calling will again iterating first transform childCount finishedEvent iterate the next child nextChildIndex loopEvent"
+}

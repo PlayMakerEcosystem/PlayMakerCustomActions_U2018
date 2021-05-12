@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/SetColorHSV.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Color/SetColorHSV.cs",
+"keywords":" script dependancies Assets Custom based values https fogbugz asp W1147 SetColorHSV overrides source The resulting Repeat every Reset everyframe SetHSVColor alpha hue saturation colorResult Value colorhsv ToColor"
+}

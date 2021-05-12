@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ReadFromClipboard.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ReadFromClipboard.cs",
+"keywords":" original https index php topic msg97434 Application lets you systems store ReadFromClipboard that will receive content Repeat every the active everyFrame GetClipboard Value GUIUtility systemCopyBuffer"
+}

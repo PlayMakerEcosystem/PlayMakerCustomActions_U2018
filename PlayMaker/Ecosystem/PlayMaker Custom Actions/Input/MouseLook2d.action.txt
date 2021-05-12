@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MouseLook2d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MouseLook2d.cs",
+"keywords":" Made djay dino axis looking rotate starting degrees your facing left Reset entering the rigid body not change TODO Original script had Expose rigidbody2d freezeRotation Code runs every frame DoMouseLook2d Input mousePosition Camera main WorldToScreenPoint localPosition mouse screenPoint Atan2 Mathf Rad2Deg Clamp function that respects minimumZ maximumZ zRotation onlyGetValue transform rotation Quaternion Euler angle rotationOffset Value"
+}

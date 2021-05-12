@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetSqrMagnitude.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetSqrMagnitude.cs",
+"keywords":" Measures between Objects stores faster than relative comparision preferable GetSqrMagnitude Measure Store the square Repeat every Reset everyFrame DoGetDistance storeResult SqrMagnitude Value transform position"
+}

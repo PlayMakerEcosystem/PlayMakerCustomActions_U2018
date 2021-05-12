@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Terrain/GetTerrainSampleHeight.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Terrain/GetTerrainSampleHeight.cs",
+"keywords":" Generic Splat Map GetTerrainSampleHeight sample will offset world Leave pick active The Repeat everyframe _terrain Reset ExecuteAction zero our _go transform activeTerrain Value terrain SampleHeight _position"
+}

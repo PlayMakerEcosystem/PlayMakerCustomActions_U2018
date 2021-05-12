@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraDepth.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraDepth.cs",
+"keywords":" Sets The Reset OwnerOption everyFrame DoSetCameraDepth _camera depth Value"
+}

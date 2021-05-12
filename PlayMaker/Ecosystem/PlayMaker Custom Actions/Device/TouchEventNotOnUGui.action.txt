@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/TouchEventNotOnUGui.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/TouchEventNotOnUGui.cs",
+"keywords":" EventSystems Device Sends does hit element also work with left mouse TouchEventNotOnUGui send when the NOT uGui Reset PLAYMAKER_1_8_5_OR_NEWER endif GetMouseButtonDown touchCount TouchPhase Began EventSystem current IsPointerOverGameObject Input GetTouch fingerId pointerNotOverUI isPointerOverUI Value pointerOverUI"
+}

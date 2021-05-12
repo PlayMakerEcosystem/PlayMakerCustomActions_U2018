@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetPolygonCollider2DSetPath.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetPolygonCollider2DSetPath.cs",
+"keywords":" Physics Sets defining the polygon SetPolygonCollider2DSetPath ComponentAction PolygonCollider2D Reset UpdateCache Length cachedComponent SetPath pathIndex Value _array"
+}

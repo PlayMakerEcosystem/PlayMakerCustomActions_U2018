@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ConvertTextureToSprite.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ConvertTextureToSprite.cs",
+"keywords":" http index php topic ConvertTextureToSprite Input convert Output The ObjectType Reset Texture2D Create Rect width height Value Sprite spriteTemp"
+}

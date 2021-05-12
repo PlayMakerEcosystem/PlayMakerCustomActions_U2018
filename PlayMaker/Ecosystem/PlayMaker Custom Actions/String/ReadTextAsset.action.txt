@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/ReadTextAsset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/ReadTextAsset.cs",
+"keywords":" ReadTextAsset the Reset content Value textAsset"
+}

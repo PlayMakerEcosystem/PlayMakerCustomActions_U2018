@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/MicrophoneStartRecording.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Microphone/MicrophoneStartRecording.cs",
+"keywords":" sound MicrophoneStartRecording created stored Passing pick MicrophoneGetDeviceById example indicates whether should lengthSec reached wrap around beginning Output ObjectType audio where saved device effectivly recording fired will not ignored sent when the record failed Reset RequestUserAuthorization yield Application HasUserAuthorization WebCam UserAuthorization devices Equals _deviceName deviceExists Microphone deviceNameString frequency audioClip AudioSource clip RecordStartedEvent loop DelayedEvent RecordDoneEvent recordDuration Value RecordFailedEvent"
+}

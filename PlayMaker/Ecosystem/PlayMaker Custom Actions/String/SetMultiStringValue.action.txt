@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/SetMultiStringValue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/SetMultiStringValue.cs",
+"keywords":" multi multiple Source Sets the many http index php topic SetMultiStringValue Count Reset everyFrame DoSetStringValue Length Equals stringVariable values Value"
+}

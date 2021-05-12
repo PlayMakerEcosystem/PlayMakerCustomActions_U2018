@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetRotationAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetRotationAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal Gets stores Axis you define when execute the GetRotationAdvanced FsmStateActionAdvanced FsmQuaternion Title Reset everyFrame DoGetRotation World transform localEulerAngles qXAngle qYAngle qZAngle Quaternion Euler xAngle yAngle zAngle Value rotation"
+}

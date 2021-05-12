@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetChildCountRecursive.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetChildCountRecursive.cs",
+"keywords":" Linq Gets recursivly not just direct childs that test will count gameobjects Store the number Reset DoGetChildCountRecursive GetComponentsInChildren Transform includeInactive storeResult Value _result Length"
+}

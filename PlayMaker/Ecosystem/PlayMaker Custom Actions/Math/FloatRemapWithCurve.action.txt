@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRemapWithCurve.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRemapWithCurve.cs",
+"keywords":" mapper cross multiplication rule three Math scale other example linear have existing remapping would give FloatRemapWithCurve reference defining between ranges Store Repeat every Useful any the values are changing Reset 50f 100f FsmAnimationCurve AnimationCurve Keyframe everyFrame DoFloatRemap theFloat baseStart baseEnd Evaluate _unitTarget storeResult _curveTarget targetStart targetEnd map ErrorCheck time animCurve keys Length value Curve must define mapping range"
+}

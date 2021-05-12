@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FsmFloatFlip.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatFlip.cs",
+"keywords":" Made nightcorelv forumlink http index php topic Math Inverts sign given positive gets flipped becomes negative vice versa FsmFloatFlip owns Optional Flip that will change the PlayMakerFSM Reset everyFrame Ggop ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmFloat variableName FlipFsmValue StoreResult storeFsmValue"
+}

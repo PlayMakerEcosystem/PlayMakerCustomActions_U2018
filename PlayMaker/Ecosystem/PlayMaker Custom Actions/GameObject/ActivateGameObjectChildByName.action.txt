@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectChildByName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectChildByName.cs",
+"keywords":" Generic deactivates more hide show areas enable disable many Behaviours once Optionally ActivateGameObjectChildByName children Slashes may used denote heirarchical paths deactivate Apply recursively Reverse Repeat every Useful changes time store the that activated can HashSet equal Reset Clear everyFrame resetOnExit root Find childName path heirarchy intermediate nodes node transform parent activatedGameObjects Add link SetActive activate recursive Value DoActivateGameObject child"
+}

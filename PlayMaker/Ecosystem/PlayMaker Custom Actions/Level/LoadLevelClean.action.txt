@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/LoadLevelClean.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/LoadLevelClean.cs",
+"keywords":" Loads special technic free avoid memory leak WILL itself survive LoadLevelClean Must list levels defined File Build Settings Ideally totally with litterally nothing hierarchy send when loaded NOTE makes sense still the scene enum Reset DebugLog message DontDestroyOnLoad transform root BaselevelName LoadLevelAsync isDone LoadBase UnloadUnusedAssets UnloadUnusedResources asyncOperation Application LoadLevelAdditiveAsync levelName Value loadState LoadLevel LogDebug loading done loadedEvent"
+}

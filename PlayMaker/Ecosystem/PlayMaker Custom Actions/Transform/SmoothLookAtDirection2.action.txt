@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SmoothLookAtDirection2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SmoothLookAtDirection2.cs",
+"keywords":" its forward points specified Lets you fire reached SmoothLookAtDirection2 smoothly towards length greater threshold Keep pointing any tilt down rotates How quickly rotate Perform eliminate jitters some situations send difference less than the Tolerance track can when changes Reset PLAYMAKER_1_8_5_OR_NEWER endif DoSmoothLookAtDirection initialize changed previousGo desired targetDirection keepVertical LookRotation diff upVector Slerp speed deltaTime lastRotation Quaternion Angle desiredRotation transform rotation minMagnitude Value finishEvent _done"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/WaitLateUpdate.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/WaitLateUpdate.cs",
+"keywords":" Source Wait Time every frame after functions have been called useful order execution http index php topic WaitLateUpdate Reset PLAYMAKER_1_8_5_OR_NEWER endif finishEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/LeadTarget.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/LeadTarget.cs",
+"keywords":" Reference Credit information compiled Lane Fox Original code Link http unity3d threads Getting with its shots Physics Compute point moving Primary variables firing lead resulting intercept Options projectile being fired magic mulitplier you probably need How often once every other frame nDo not change runtime Reset 15f DoLeadTarget repeat repeatInterval theOrigin theTarget weaponSpeed magicNumber OKAY calculation actual distTarget velocityPosition1 first velocityDist1 velocityPosition2 Origin third distance second calc transform Rigidbody velocity mult velocityDist2 projectileSpeed store the result upwards can will Value TargetInterceptPosition"
+}

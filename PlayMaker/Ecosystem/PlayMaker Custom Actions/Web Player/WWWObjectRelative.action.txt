@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Web Player/WWWObjectRelative.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWObjectRelative.cs",
+"keywords":" Linq Web Player store variables See docs more details WWWObjectRelative folder Results ObjectType Gets message during How far download progressed Events when the data finished loading send there was file Application dataPath Reset pathIsRelative urlPrefix WWW progress Equals storeText storeTexture storeAudio GetAudioClip storeMovieTexture GetMovieTexture Dispose wwwObject errorString Value isDone isError endif"
+}

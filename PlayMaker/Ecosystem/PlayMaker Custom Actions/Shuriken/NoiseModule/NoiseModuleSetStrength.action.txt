@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/NoiseModule/NoiseModuleSetStrength.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/NoiseModule/NoiseModuleSetStrength.cs",
+"keywords":" Made Ubik3D Link http index php topic topicseen Shuriken NoiseModuleSetStrength with Repeat every the active NoiseModule Reset _go ParticleSystem _ps noise everyFrame DoExecute _nm strength Value"
+}

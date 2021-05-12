@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetFlareStrength.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetFlareStrength.cs",
+"keywords":" GetFlareStrength intensity flares scene Repeat every Useful the changing Reset everyFrame _getValue Value RenderSettings flareStrength"
+}

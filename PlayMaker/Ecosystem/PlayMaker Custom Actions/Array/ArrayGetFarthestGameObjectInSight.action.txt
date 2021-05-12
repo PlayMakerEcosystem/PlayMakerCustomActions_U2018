@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetFarthestGameObjectInSight.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetFarthestGameObjectInSight.cs",
+"keywords":" farthest within arrayList which does not have collider between itself another ArrayGetFarthestGameObjectInSight FsmArray Compare distance items list declared offset Raycast Settings line sweep Layer these Invert the you pick layers except those defined above Result Reset everyframe DoFindFarthestGo orDistanceFromVector3 distanceFrom _rootGo Mathf objectReferences root sqrMagnitude sqrDist sqrDistTest farthestGameObject _go farthestIndex _index DoLineCast fromGameObject toGameObject transform position RaycastHit Physics Linecast startPos endPos ActionHelpers LayerArrayToLayerMask layerMask invertMask Value RaycastHitInfo rhit _hit"
+}

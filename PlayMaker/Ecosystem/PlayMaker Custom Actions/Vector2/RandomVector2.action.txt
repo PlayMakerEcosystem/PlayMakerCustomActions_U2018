@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/RandomVector2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/RandomVector2.cs",
+"keywords":" Creates represents magnitude can inside RandomVector2 enum generator Leave randomness number you want predictability repeatability imaginary Define where randomize occurs The randomized every Reset OnCirclePerimeter seed everyFrame GetValue RandomUnitCircleOption InsideCircle insideUnitCircle Random onUnitSphere unitCircleRadius storeResult Value"
+}

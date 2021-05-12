@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Android/DetectIfAndroidTv.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Android/DetectIfAndroidTv.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Android/DetectIfAndroidTv.cs",
+"keywords":" mode http index php topic DetectIfAndroidTv Output The Reset unity3d UnityPlayer unityPlayerJavaClass currentActivity Context contextJavaClass UI_MODE_SERVICE androidActivity AndroidJavaObject getSystemService modeServiceConst uiModeManager Call getCurrentModeType AndroidJavaClass android content Configuration configurationAndroidClass GetStatic UI_MODE_TYPE_TELEVISION modeTypeTelevisionConst currentModeType trueEvent falseEvent endif"
 }

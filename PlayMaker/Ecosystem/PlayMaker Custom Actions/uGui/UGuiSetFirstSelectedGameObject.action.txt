@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/UGuiSetFirstSelectedGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/UGuiSetFirstSelectedGameObject.cs",
+"keywords":" EventSystems uGui Sets first UGuiSetFirstSelectedGameObject Reset everyFrame firstSelectedGameObject EventSystem current SetSelectedGameObject firstSelected Value"
+}

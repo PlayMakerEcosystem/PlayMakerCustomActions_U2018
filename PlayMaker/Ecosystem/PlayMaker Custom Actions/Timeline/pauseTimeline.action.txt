@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/pauseTimeline.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/pauseTimeline.cs",
+"keywords":" Playables pauseTimeline hold the components box preform every Reset PlayableDirector everyFrame Value timelineAction timeline Pause"
+}

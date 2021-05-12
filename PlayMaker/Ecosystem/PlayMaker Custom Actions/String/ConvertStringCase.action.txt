@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/ConvertStringCase.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringCase.cs",
+"keywords":" original http index php topic Converts ConvertStringCase Select ObjectType FsmEnum Reset everyFrame DoSetStringValue operation _case ToLower result Value ToUpper"
+}

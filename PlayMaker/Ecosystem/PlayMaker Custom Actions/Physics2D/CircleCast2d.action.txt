@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/CircleCast2d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/CircleCast2d.cs",
+"keywords":" http index php topic script dependancies Assets Custom CircleCast2dActionEditor version CircleCast2d Setup offset nOr parameter based reference local are affected specified world circle being effect include objects coordinate less leave Result send hits something otherwise along store simply between origin not normalised then expressed which could greater than magnitude Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw line Note Gizmos View see Reset debugColor yellow NegativeInfinity fromGameObject fromPosition TransformDirection dirVector normalized proper later the rayCastHitinfo Self _transform position DoRaycast repeat repeatInterval Math Mathf Epsilon ComputeRayCastProperties RaycastHit2D Physics2D CircleCast _start radius _direction _length ActionHelpers LayerArrayToLayerMask layerMask invertMask _minDepth _maxDepth RecordLastRaycastHit2DInfo storeDidHit didHit storeHitObject collider storeHitPoint point storeHitNormal normal storeHitDistance distance storeHitFraction Value hitInfo fraction hitEvent"
+}

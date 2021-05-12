@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButton.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButton.cs",
+"keywords":" original KellyRay http index php topic msg52975 UnityStandardAssets pragma disable Gets pressed specified stores Requires Standard CrossPlatformGetButton Store the Repeat every Reset Fire1 ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput everyFrame DoGetButton CROSS_PLATFORM_INPUT storeResult CrossPlatformInputManager GetButton buttonName Value endif"
+}

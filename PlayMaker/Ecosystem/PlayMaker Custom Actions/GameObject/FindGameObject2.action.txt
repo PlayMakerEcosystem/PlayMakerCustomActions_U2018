@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObject2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindGameObject2.cs",
+"keywords":" pragma disable Finds searching tags defined optional when doesn exists FindGameObject2 can leave with specified then must match result fired not found typically possible you are define the Reset Untagged FindGameObjectsWithTag possibleGameObjects FindGameObjectWithTag UnityException TagDoesntExistEvent store Find ErrorCheck objectName withTag Value Specify Tag both"
+}

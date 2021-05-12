@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/Vector3ToVector2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/Vector3ToVector2.cs",
+"keywords":" original collidernyc http index php topic Store into Drops you can optionally save The Optional stored Reset everyFrame ConvertVector3toVector2 zValue Value"
+}

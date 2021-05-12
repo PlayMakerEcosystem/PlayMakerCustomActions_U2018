@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WWW/WWWObject2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/WWW/WWWObject2.cs",
+"keywords":" server Networking store variables See docs more details Works IOS WWWObject2 Results Save content ObjectType Gets message during How far download progressed Events when the finished loading send there was Reset UnityWebRequestTexture GetTexture UnityWebRequest DownloadHandlerBuffer SendWebRequest Web Request downloadProgress FileInfo Directory Create DownloadHandlerTexture downloadHandler uwr WWW progress Equals Saving data WriteAllBytes SaveInFile bytes storeText storeTexture GetMovieTexture storeMovieTexture movie wwwObject errorString Value isDone isError endif"
+}

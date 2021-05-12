@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/GetQualityNameFromIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/GetQualityNameFromIndex.cs",
+"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Gets its GetQualityNameFromIndex find Result level sent was not found the quality list Reset qualityIndex Length qualityNotFoundEvent qualityName Value QualitySettings _index qualityFoundEvent"
+}

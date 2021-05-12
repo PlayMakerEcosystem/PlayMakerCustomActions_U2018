@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Effects/DrawPathLineRenderer.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Effects/DrawPathLineRenderer.cs",
+"keywords":" Based DrawLine http index php topic Effects Draws DrawPathLineRenderer ComponentAction with the LineRenderer Path definition ArrayEditor FsmArray Updates every Reset everyFrame UpdateCache DoUpdatePositions positionCount Length cachedComponent SetPosition Points Values"
+}

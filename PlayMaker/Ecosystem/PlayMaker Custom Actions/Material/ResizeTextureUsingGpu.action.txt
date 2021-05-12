@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ResizeTextureUsingGpu.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ResizeTextureUsingGpu.cs",
+"keywords":" Unity5 script the sets http index php topic Setup enum Output Reset Input ResizeTextureUsingGpu FF9900ff Nothing happened Please review Bilinear Point Trilinear newTexture setWidth setHeight Value modeSelect texGpuItem scaled TextureFormat ARGB32 Resize ReadPixels texR result _gpu_scale Texture2D filterMode fmode Apply RenderTexture width height SetRenderTarget rtt LoadPixelMatrix Clear Graphics DrawTexture Rect src"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetMousePosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetMousePosition.cs",
+"keywords":" Gets the mouse stores Reset everyFrame DoGetMousePosition Input normalize width Screen height Value _mousePosition"
+}

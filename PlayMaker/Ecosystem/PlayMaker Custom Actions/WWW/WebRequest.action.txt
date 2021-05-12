@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WWW/WebRequest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/WWW/WebRequest.cs",
+"keywords":" upload server source https robots thoughtbot avoiding memory crashes mobile Networking Generic WWW store HEAD PATCH ObjectType redirect leave PUT PostData Results response status Gets Saves into Feedback during How far download progressed flag cancelOnExit Events when finished loading send there UnityWebRequestAsyncOperation Reset FsmEnum Requests _ok storedTextureAsReadable Exception Message DownloadHandlerBuffer _asop SendWebRequest CreateWebRequest Cancelled because was UnityWebRequest creation failed redirectLimit handleHeader headerKeys headerValues HandleWWWPost postKeys _Fsmkey Unknown not supported Texture2D textureValue AddBinaryData EncodeToPNG AddField _key postValues ToString uploadHandler UploadHandlerRaw KeyValuePair _wwwForm headers SetRequestHeader header Web Request responseCode downloadProgress Equals DownloadHandlerTexture errorString Value isDone isError uwr Dispose ErrorCheck Setup least property save the saveInFile storeTexture storeText You can select result DownloadHandlerScript FileDownloadHandler buffer FileMode OpenOrCreate FileAccess GetData ReceiveData Write data dataLength GetProgress received CompleteContent ReceiveContentLength expected contentLength Cancel canceled fileStream Close File Delete filepath"
+}

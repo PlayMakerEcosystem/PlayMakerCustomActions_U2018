@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventRandomDelay.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventRandomDelay.cs",
+"keywords":" Author Deek StateMachine PlayMakerFSM http index php topic Sends after they Browser SendEventRandomDelay Where FsmEventTarget NOTE Events must marked Global send between seconds Wheter the delay independent Reset Random Range delayMin delayMax 001f realTime Value FsmTime RealtimeSinceStartup startTime deltaTime timer time eventTarget sendEvent WasSent delayedEvent"
+}

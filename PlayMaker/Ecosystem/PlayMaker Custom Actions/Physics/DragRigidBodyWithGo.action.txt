@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/DragRigidBodyWithGo.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/DragRigidBodyWithGo.cs",
+"keywords":" Physics Rigid with another DragRigidBodyWithGo springness damping angular during Force between being dragged eone when starting would center mass whether feedback current the wanted dragDistance Reset 50f 10f zero OnExit StartDragging OwnerOption __Rigidbody dragger__ Rigidbody _RB_draggerGo AddComponent isKinematic UseStartDistance delta Mathf minDistance maxDistance tension _draggingGO _draggedRB transform position magnitude distance dragAnchor damper spring Value StopDragging _isDragging oldDrag oldAngularDrag springJoint connectedBody"
+}

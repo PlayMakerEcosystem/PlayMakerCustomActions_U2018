@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/BuildString2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/BuildString2.cs",
+"keywords":" Builds other optional can inserted BuildString2 enum Strings combine character behavior Store Repeat every the active Reset everyFrame DoBuildString Before After separatorInsert separatorInsertion InBetween stringParts Length separator storeResult Value result"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MousePickEvent2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MousePickEvent2.cs",
+"keywords":" Sends interactions with how close must well left MousePickEvent2 Collider Length camera button middle click pressed released when moves these Layer Invert you layers except those defined above Repeat every Reset 100f everyFrame DoMousePickEvent Store pick can seen Hit RaycastHitInfo mousePickInfo Send events based the mouse buttons GetMouseButtonDown mouseDown Input GetMouseButtonUp buttonId mouseUp mouseOff DoRaycast OwnerOption uses cache minimize Raycasts IsMouseOver testObject LayerArrayToLayerMask layerMask invertMask ErrorCheck CheckRayDistance rayDistance Value ActionHelpers CheckPhysicsSetup errorString"
+}

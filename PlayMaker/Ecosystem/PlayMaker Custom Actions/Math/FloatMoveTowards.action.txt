@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatMoveTowards.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatMoveTowards.cs",
+"keywords":" script dependancies Assets Custom __Internal Math Moves current essentially same Lerping instead function will ensure speed never exceeds Negative values pushes away FloatMoveTowards FsmStateActionAdvanced maximum change that should applied multiplied framerate independant animations which move considered finished sent continous execution resulting remaining send when the reached Reset DoMoveTowards timeBasedMaxDelta deltaTime MoveTowards floatVariable _maxDelta targetValue _result remainingDistance _distance Mathf finishDistance Value finishEvent"
+}

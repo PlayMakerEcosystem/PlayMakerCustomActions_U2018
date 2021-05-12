@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SphereCast2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SphereCast2.cs",
+"keywords":" Performs SphereCast2 nOr parameter shpere into which sweep local specified infinity Result when send there something otherwise world along store used wiresphere tester Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see Reset forward QueryTriggerInteraction UseGlobal yellow DoSphereCast repeat repeatInterval fromGameObject fromPosition Mathf Self TransformDirection RaycastHit Physics SphereCast radius dirVector rayLength ActionHelpers LayerArrayToLayerMask layerMask invertMask triggerInteraction collider storeDidHit transform storeHitPoint point storeHitNormal normal RaycastHitInfo didHit storeHitObject noHitEvent sphereCastCenter maxDistance debugMaxDistanceColor DrawLine originPos direction normalized storeHitDistance debugCurrentDistanceColor Value"
+}

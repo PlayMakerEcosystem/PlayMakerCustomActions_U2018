@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetEnabled.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetEnabled.cs",
+"keywords":" Shuriken TrailModuleSetEnabled with flag Repeat every the active TrailModule Reset _go ParticleSystem _ps trails everyFrame DoExecute _tm enabled Value"
+}

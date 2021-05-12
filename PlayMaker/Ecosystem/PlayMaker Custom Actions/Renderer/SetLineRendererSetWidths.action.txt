@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetLineRendererSetWidths.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetLineRendererSetWidths.cs",
+"keywords":" line SetLineRendererSetWidths Setup with The Repeat every Reset everyFrame SetWidths LineRenderer _lr SetWidth startWidth endWidth Value endif"
+}

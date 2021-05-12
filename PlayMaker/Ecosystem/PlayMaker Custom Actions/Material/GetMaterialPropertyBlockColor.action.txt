@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockColor.cs",
+"keywords":" Gets GetMaterialPropertyBlockColor ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset black MaterialPropertyBlock everyFrame DoGetMaterialColor propertyName _Color UpdateCache renderer GetPropertyBlock Value _propBlock GetVector colorName"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetBoxColliderSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetBoxColliderSize.cs",
+"keywords":" Physics Box http index php topic SetBoxColliderSize ComponentAction BoxCollider apply add Optionally any with parameters along axis leave unchanged Repeat every the active Reset everyFrame DoChange UpdateCache Value cachedComponent"
+}

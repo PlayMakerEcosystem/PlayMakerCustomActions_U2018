@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatSign.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatSign.cs",
+"keywords":" script dependancies Assets Custom __Internal Store GetFloatSign FsmStateActionAdvanced The Reset everyFrame signAsInt Math signAsBool Mathf Sign floatVariable Value"
+}

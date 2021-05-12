@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/CallMethodAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/CallMethodAdvanced.cs",
+"keywords":" script dependancies __Internal Assets Custom CallMethodAdvancedEditor Reflection Generic ScriptControl CallMethodAdvanced FsmStateActionAdvanced ObjectType MonoBehaviour nNOTE theObject that AudioListener camera paramters NOTE these must old manual manualUI Reset everyFrame DoMethodCall GetElementType CreateInstance objectArray index convertedArray UpdateValue GetValue Invoke parametersArray Unknown SetValue TODO Move tests helper function cached yet behavior changed ClearCache cachedMethodName cachedBehaviour UsesVariable might set runtime Display behaviour GetType Add GetTypeInfo GetDeclaredMethods methods cachedType GetMethod ToArray Invalid Value NETFX_CORE TestMethodSignature List GetParameters methodParameters parameterTypes ErrorCheck could when however super robust now just recache every frame Need test perf NeedToUpdateCache Application isPlaying last message DoCache errorString count nMethod nYou specified paramaters cachedParameterInfo ParameterType match signature nParameter paramType paramInfoType Method does not have nSpecify ReferenceEquals RealType Store the wrong should cachedMethodInfo ReturnType AutoName methodName ActionHelpers GetValueLabel NamedVar parameters Length storeResult variableName endif"
+}

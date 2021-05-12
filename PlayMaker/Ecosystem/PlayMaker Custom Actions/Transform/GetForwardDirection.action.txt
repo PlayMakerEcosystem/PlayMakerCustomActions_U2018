@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetForwardDirection.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetForwardDirection.cs",
+"keywords":" Transforms local world GetForwardDirection Reset everyFrame DoTransformDirection forwardDirection Value transform forward"
+}

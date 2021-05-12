@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntAverage.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntAverage.cs",
+"keywords":" Math Gets the listed variables IntAverage Reset everyFrame DoAverage storeResult Value average intArray Length"
+}

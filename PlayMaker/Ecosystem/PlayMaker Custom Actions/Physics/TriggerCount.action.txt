@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TriggerCount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TriggerCount.cs",
+"keywords":" Physics Detect objects that have RigidBody components nNOTE events STAY are sent when any collides with the filter collisions TriggerCount maxCollide Reset trigger TriggerType OnTriggerEnter Untagged sendEvent HandleTriggerEnter HandleTriggerExit everyFrame DoTriggerEnter DoTriggerExit Collider other collideTag collideCount collidedBool Value ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+}

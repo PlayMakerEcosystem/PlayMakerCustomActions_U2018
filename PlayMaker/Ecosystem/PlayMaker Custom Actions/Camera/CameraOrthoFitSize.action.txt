@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraOrthoFitSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraOrthoFitSize.cs",
+"keywords":" Ratio inside Cropping will occur CameraOrthoFillSize crop fill CameraOrthoFitSize control Leave MainCamera Reset OwnerOption SpecifyGameObject everyFrame DoFit _go main Screen greater less fit the targetHeight targetWidth Value windowAspect targetAspect _camera orthographicSize heightToBeSeen"
+}

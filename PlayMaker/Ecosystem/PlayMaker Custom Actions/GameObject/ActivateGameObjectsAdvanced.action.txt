@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectsAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectsAdvanced.cs",
+"keywords":" Author Deek Generic http index php topic multiple once version allows ActivateGameObjectsAdvanced Wheter disable current Recursively deactivate when exiting Useful you want Optionally Define between enabling disabling Repeat IDs accurately List deltaTime DoActivateGameObjects Contains Add timer finishedLoop Clear changes unchanged prevAmount Length sets bools enable item applyToAll skip not wanting reset resetOnExit reverse was changed changedEntries gameObjects entry activeInHierarchy recursive GetComponentsInChildren Transform child SetActive explicitly declare HandleOnGUI OnGUI ErrorCheck everyFrame Value Please set either delay select Every Frame the two options can applied"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/WriteToClipboard.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/WriteToClipboard.cs",
+"keywords":" original https index php topic msg97434 Application lets you write devices WriteToClipboard written into Repeat every active Code that runs entering the everyFrame SetClipboard GUIUtility systemCopyBuffer Value"
+}

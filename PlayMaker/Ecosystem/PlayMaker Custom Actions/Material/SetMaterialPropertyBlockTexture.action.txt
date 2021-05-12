@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialPropertyBlockTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialPropertyBlockTexture.cs",
+"keywords":" Sets SetMaterialPropertyBlockTexture ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset MaterialPropertyBlock everyFrame DoSetMaterialTexture _MainTex UpdateCache GetPropertyBlock SetTexture _propertyName Value renderer SetPropertyBlock _propBlock"
+}

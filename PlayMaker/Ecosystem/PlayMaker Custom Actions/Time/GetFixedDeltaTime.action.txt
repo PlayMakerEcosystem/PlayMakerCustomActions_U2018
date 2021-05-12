@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetFixedDeltaTime.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetFixedDeltaTime.cs",
+"keywords":" during call GetFixedDeltaTime the delta Repeat every Reset everyFixedFrame executeAction Value fixedDeltaTime"
+}

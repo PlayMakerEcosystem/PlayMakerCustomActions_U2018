@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayActivateGameObjects.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayActivateGameObjects.cs",
+"keywords":" within ArrayActivateGameObjects FsmArray deactivate Resets the affected objects when exiting their original Useful you want controlled Reset DoAction Length activeSelf activate resetOnExit Value objectReferences _go SetActive _activeStates endif"
+}

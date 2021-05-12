@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetMousePositionAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetMousePositionAdvanced.cs",
+"keywords":" Mouse GetMousePositionAdvanced Store every relative note doesn work Invert Invery with GUI Normalize the result Reset everyFrame DoGetPosition Input invertY fromScreenCenter normalized width Screen height storeMousePosition Value mousePos"
+}

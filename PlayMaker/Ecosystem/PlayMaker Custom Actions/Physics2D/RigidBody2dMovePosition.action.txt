@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/RigidBody2dMovePosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Rigidbody2dMovePosition.cs",
+"keywords":" Physics2D Moves particular more efficient then accessing transform interacts properly with colliders physics materials RigidBody2dMovePosition ComponentAction rigid body The move Repeat every Reset everyFrame DoPosition UpdateCache _pos orVector3position rigidbody2d MovePosition position Value"
+}

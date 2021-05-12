@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/MaterialDisableKeyword.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/MaterialDisableKeyword.cs",
+"keywords":" Shader parameter Sets MaterialDisableKeyword ComponentAction that the applied GameObjects can have multiple specific Alternatively specify instead disable sent was not found Reset fail DoSetMaterialProperty UpdateCache Length materialIndex DisableKeyword Value renderer materials"
+}

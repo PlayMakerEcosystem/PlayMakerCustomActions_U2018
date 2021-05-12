@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatEvaluateOnCurve.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatEvaluateOnCurve.cs",
+"keywords":" animation Math example linear ranging evaluating would FloatEvaluateOnCurve defining mapping between ranges Store Repeat every Useful any the values are changing Reset FsmAnimationCurve everyFrame DoFloatEvaluate storeResult Evaluate theFloat Value ErrorCheck animCurve curve"
+}

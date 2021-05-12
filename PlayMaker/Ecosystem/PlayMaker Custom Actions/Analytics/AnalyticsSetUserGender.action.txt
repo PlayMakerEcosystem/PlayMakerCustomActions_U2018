@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSetUserGender.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserGender.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserGender.cs",
+"keywords":" Sets Depending genre creating custom segments around age users may interest Whether receiving information signup your project third party SDK Facebook you can send these demographics AnalyticsSetUserGender the user ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled Analytics SetUserGender gender Value _result AnalyticsResult success failure"
 }

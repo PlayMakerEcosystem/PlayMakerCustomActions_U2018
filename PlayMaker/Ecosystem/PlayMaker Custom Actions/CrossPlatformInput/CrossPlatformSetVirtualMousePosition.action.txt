@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetVirtualMousePosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetVirtualMousePosition.cs",
+"keywords":" UnityStandardAssets pragma disable Requires Standard Assets CrossPlatformInput CrossPlatformSetVirtualMousePosition the mouse Repeat every Reset everyFrame DoSetMousePosition CROSS_PLATFORM_INPUT mousePosition mousePosition2d Value SetVirtualMousePositionX SetVirtualMousePositionY CrossPlatformInputManager SetVirtualMousePositionZ _pos endif"
+}

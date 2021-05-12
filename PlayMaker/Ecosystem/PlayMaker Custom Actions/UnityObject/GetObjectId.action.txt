@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetObjectId.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetObjectId.cs",
+"keywords":" Source getobject UnityObject instance always guaranteed http index php topic GetObjectId that needs identified The unique TitleAttribute Reset objectVariable objectValue Value GetInstanceID"
+}

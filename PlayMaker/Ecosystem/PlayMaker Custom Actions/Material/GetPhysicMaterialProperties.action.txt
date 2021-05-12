@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetPhysicMaterialProperties.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetPhysicMaterialProperties.cs",
+"keywords":" Gets various Physics GetPhysicMaterialProperties that applied Requires components alternativly can directly without reference Leave targeting ObjectType PhysicMaterialCombine FsmEnum Repeat every Useful the animated PhysicMaterial Reset everyFrame DoGetMaterialProperties physicsMaterial _go Collider _col bounceCombine bounciness dynamicFriction frictionCombine Value _mat staticFriction"
+}

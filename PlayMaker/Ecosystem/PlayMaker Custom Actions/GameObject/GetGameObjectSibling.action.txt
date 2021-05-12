@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetGameObjectSibling.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetGameObjectSibling.cs",
+"keywords":" Author Deek http php topic under same GetGameObjectSibling Negative before positive after Starting would above Hirarchy any wouldn reached send there could found Reset startingFrom GetSiblingIndex transform Trying the root not allowed childCount Specified sibling index bounds parent GetChild currChildID storeResultName storeResult Value notFoundEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetWheelColliderSteerAngle.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetWheelColliderSteerAngle.cs",
+"keywords":" Physics Sets SetWheelColliderSteerAngle ComponentAction The steer Repeats every usefull changes overtime Reset everyFrame ExecuteAction UpdateCache WheelCollider cachedComponent _wc steerAngle Value"
+}

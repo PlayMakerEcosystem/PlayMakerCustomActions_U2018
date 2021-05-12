@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3LerpAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3LerpAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal version Linearly interpolates vectors features allows selection against allowing framerate indepedant animations Vector3LerpAdvanced First Second Interpolate clamped range half way between multiplied Store Repeat every Useful any the values are changing Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3Lerp lerpAgainstDeltaTime deltaTime storeResult Lerp fromVector toVector Value _amount"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockFloat.cs",
+"keywords":" Gets GetMaterialPropertyBlockFloat ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset MaterialPropertyBlock everyFrame DoGetMaterialFloat _Glossiness UpdateCache renderer GetPropertyBlock floatValue Value _propBlock GetFloat _propertyName"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioRewind.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioRewind.cs",
+"keywords":" Sound Fastforward slowmotion Clip played the http index php topic AudioRewind options TitleAttribute Reset AudioSource Mathf finalSpeed timeSamples audio previousPitch rewind everyFrame Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/SetEnemyFov2d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/SetEnemyFov2d.cs",
+"keywords":" Send inside Does NOT physics http index php topic SetEnemyFov2d Range 360f Manually Leave ignore Options towards TitleAttribute Auto Your player npc Output Will Draw scene center the Reset green yellow PLAYMAKER_1_8_5_OR_NEWER endif useLateUpdate insideEvent outsideEvent everyFrame DirectionSetup autoOn Normalize Atan2 diff Rad2Deg Quaternion Euler rot_z autoRotate eulerAngles temp_rot tempdata rotation exitAction Vector2FromAngle InsideFOV squaredDistance playerPos signLeftLine signRightLine Cos angles Mathf Deg2Rad OnDrawGizmos drawGizmo centerColor angleColor rightLineFOV RotatePointAroundTransform direction normalized radius Value step Gizmos DrawRay transform position leftLineFOV"
+}

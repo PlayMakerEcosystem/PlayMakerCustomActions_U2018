@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatMoveTowardsAngle.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatMoveTowardsAngle.cs",
+"keywords":" script dependancies Assets Custom __Internal Math Moves makes sure interpolate correctly they wrap nVariables assumed optimization reasons negative values are not supported may cause oscillation push current away add instead FloatMoveTowardsAngle FsmStateActionAdvanced degrees maximum change that should applied multiplied framerate independant animations which move considered finished sent continous execution wrapped around resulting remaining floatvariable targetValue send when the reached Reset DoMoveTowardsAngle timeBasedMaxDelta deltaTime MoveTowards angleVariable _maxDelta resultInRadian targetAngle _result remainingAngle remainingAngleinRadian Deg2Rad _distance Mathf finishDistance Value finishEvent"
+}

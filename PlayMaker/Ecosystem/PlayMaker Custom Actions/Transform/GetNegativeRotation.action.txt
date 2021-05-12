@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetNegativeRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetNegativeRotation.cs",
+"keywords":" Author nFigther http index php topic script dependancies Assets Custom __Internal Gets the stores Axis GetNegativeRotation FsmStateActionAdvanced Reset DoGetRotation _go transform localEulerAngles xAngle yAngle zAngle Value _rotation"
+}

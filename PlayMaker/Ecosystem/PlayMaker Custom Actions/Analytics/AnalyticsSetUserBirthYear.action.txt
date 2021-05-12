@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSetUserBirthYear.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserBirthYear.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserBirthYear.cs",
+"keywords":" Sets Depending the genre creating custom segments around gender age users may interest Whether receiving information signup your project third party SDK Facebook you can send these demographics AnalyticsSetUserBirthYear Birth user Must digit format ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled Analytics SetUserBirthYear birthYear Value _result AnalyticsResult success failure"
 }

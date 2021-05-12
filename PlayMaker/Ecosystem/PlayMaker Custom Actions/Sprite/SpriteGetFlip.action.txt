@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteGetFlip.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteGetFlip.cs",
+"keywords":" Gets Flips values must have Sprite SpriteGetFlip control The Repeat every Reset SpriteFlip everyFrame GetFlipSprites flipX Value spriteRenderer flipY"
+}

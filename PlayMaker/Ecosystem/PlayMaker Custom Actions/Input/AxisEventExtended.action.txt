@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/AxisEventExtended.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/AxisEventExtended.cs",
+"keywords":" based Also sends intermedidate directions Expose changed AxisEventExtended defined Manager should trigger deadzone must between Range being full left the down centered when changes Reset Horizontal Vertical discreteEvents noDirection send events bases upRightEvent UpRight upEvent upLeftEvent downLeftEvent downEvent tolerance downRightEvent GetCurrentDirection horizontalAxis Input GetAxis verticalAxis squared center offset Equals Atan2 Mathf Rad2Deg storeAngle Value rawAngle 360f angle"
+}

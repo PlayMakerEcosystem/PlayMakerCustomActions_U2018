@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetLineRendererPosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetLineRendererPosition.cs",
+"keywords":" script dependancies Assets Custom __Internal version line particular SetLineRendererPosition Setup with The Repeat every Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame Execute LineRenderer _lr SetPosition index position Value"
+}

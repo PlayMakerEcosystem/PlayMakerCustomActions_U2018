@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.cs",
+"keywords":" Generic Advertisements status current platform UnityAdsIsSupported The suppported statux UnityAds sent when not Reset Advertisement endif Value _isSupported isSupportedEvent isNotSupporedEvent"
+}

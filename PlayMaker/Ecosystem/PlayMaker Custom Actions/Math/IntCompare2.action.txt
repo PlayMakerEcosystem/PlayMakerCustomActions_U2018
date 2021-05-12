@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntCompare2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntCompare2.cs",
+"keywords":" Math comparision Integers twice Allow saved can send events IntCompare2 enum Half first second integer method The sent Performs comparison usefull when changing Reset everyFrame NOTE very frame rate dependent DoIntCompare integer2 Greater GreaterOrEqual Less LessOrEqual Opposite Operation OppositeSign integer1 Value _result comparisonPassEvent comparisonFailEvent"
+}

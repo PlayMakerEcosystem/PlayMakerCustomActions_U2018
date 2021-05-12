@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetRigidbodyPosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetRigidbodyPosition.cs",
+"keywords":" Physics more efficient then accessing transform SetRigidbodyPosition rigid rotate The Repeat every Reset everyFrame DoPosition Value rigidBody position _pos"
+}

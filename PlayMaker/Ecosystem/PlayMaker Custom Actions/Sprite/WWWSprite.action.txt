@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Sprite/WWWSprite.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/WWWSprite.cs",
+"keywords":" store variables WWWSprite Pixels Results ObjectType Gets message during How far download progressed Events when the finished loading send there was Reset WWW progress Texture2D Rect width height storeSprite Sprite Create _tex rec pivot pixelsToUnit wwwObject Data not errorString Value isDone isError"
+}

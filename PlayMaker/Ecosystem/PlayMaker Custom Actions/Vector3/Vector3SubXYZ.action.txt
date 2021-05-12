@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3SubXYZ.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3SubXYZ.cs",
+"keywords":" Subtracts values Reset everyFrame DoVector3SubXYZ subX subY subZ perSecond deltaTime vector3Variable Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidBodyMoveRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyMoveRotation.cs",
+"keywords":" Rotates particular more efficient then accessing transform interacts properly with colliders physics materials RigidBodyMoveRotation The rigid FsmQuaternion Repeat every Reset everyFrame DoRotate rigidBody MoveRotation rotation Value"
+}

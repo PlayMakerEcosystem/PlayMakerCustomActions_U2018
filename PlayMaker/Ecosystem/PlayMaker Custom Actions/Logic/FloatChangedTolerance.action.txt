@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FloatChangedTolerance.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FloatChangedTolerance.cs",
+"keywords":" Made Djaydino Logic Tests changed store that can used other operations FloatChangedTolerance watch change send the changes Reset tolerance previousValue floatVariable storeResult Value changedEvent"
+}

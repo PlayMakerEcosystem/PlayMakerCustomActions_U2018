@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetNameFromMaterial.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetNameFromMaterial.cs",
+"keywords":" Gets GetNameFromMaterial Alternatively specify instead Index pointer appended removed will the Reset trimName EndsWith Instance Substring Length materialName Value"
+}

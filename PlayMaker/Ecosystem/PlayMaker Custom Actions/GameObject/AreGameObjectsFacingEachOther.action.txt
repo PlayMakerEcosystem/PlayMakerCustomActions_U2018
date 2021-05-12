@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/AreGameObjectsFacingEachOther.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/AreGameObjectsFacingEachOther.cs",
+"keywords":" look align Checks see two objects are with tolerance means they must perfectly aligned AreGameObjectsFacingEachOther Reset 15f everyFrame DoFacingCheck Mathf Angle transform forward dot threshold isFacing Value NotFacing"
+}

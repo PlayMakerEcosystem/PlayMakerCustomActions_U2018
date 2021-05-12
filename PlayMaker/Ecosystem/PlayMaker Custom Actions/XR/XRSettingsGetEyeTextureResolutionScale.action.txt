@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsGetEyeTextureResolutionScale.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsGetEyeTextureResolutionScale.cs",
+"keywords":" Controls specified lower which may improve expense less sharp Values greater than will higher resulting potentially sharper image cost performance increased memory usage XRSettingsGetEyeTextureResolutionScale actual eye textures multiplier the device resolution Reset Value XRSettings eyeTextureResolutionScale"
+}

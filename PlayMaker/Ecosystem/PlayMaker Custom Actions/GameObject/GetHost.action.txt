@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetHost.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetHost.cs",
+"keywords":" Gets the when runnin sub GetHost Reset hostName Value Host"
+}

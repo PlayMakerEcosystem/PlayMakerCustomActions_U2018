@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3Average.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3Average.cs",
+"keywords":" Gets the listed variables Vector3Average Reset everyFrame DoAverage storeResult Value average vectorArray Length"
+}

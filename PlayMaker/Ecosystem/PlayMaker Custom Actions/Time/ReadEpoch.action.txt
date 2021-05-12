@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/ReadEpoch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/ReadEpoch.cs",
+"keywords":" http index php topic ReadEpoch Input Unix Output Store timestamp Optional Convert local Reset yyyy everyFrame ReadEpochTime CurrentTimeZone ToLocalTime DateTimeKind Utc unixDateTime AddSeconds getEpoch ToString format Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetScaleAddOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetScaleAddOffset.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Optionally applies that another same GetScaleAddOffset FsmStateActionAdvanced enum off specify axis individually starting should changed with Store will the Reset everyFrame DoGetScale vector3Offset Add Subtract input Multiply multResult Vector3Operation Divide zero xOffset yOffset zOffset divResult applyOffsetToGO transform localScale storeVector3Result Value"
+}

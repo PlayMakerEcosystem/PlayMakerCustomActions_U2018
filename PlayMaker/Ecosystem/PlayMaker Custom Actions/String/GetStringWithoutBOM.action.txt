@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetStringWithoutBOM.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetStringWithoutBOM.cs",
+"keywords":" index php post topic last_msg http answers unity3d questions xmlexception node canot appear html Gets Order Mark can cause parsers like xml example without the Reset DoGetStringWithoutBOM not defined Encoding UTF8 GetBytes source ReadToEnd streamReader memoryStream Close Value _result"
+}

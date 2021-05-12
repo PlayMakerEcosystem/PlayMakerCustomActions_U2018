@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSetUserId.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserId.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSetUserId.cs",
+"keywords":" Sets AnalyticsSetUserId The User ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled Analytics SetUserId userId Value _result AnalyticsResult success failure"
 }

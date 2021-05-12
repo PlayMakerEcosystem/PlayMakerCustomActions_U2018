@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetRenderQueue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetRenderQueue.cs",
+"keywords":" RenderSettings Sets Transparent objects you want something draw choose higher number http index php topic SetRenderQueue Setup that owns the Render TitleAttribute Order Options Reset gos RenderSetupObj renderer data _target Length materials renderQueue m_queues Value"
+}

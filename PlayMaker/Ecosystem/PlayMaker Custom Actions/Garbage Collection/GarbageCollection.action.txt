@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Garbage Collection/GarbageCollection.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GarbageCollection/GarbageCollection.cs",
+"keywords":" Request explicitly http index php topic GarbageCollection Allow Garbage Reset collectionOn Value"
+}

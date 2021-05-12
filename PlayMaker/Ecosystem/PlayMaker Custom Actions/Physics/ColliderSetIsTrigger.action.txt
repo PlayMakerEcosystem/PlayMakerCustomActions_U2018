@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/ColliderSetIsTrigger.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/ColliderSetIsTrigger.cs",
+"keywords":" Physics Controls ColliderSetIsTrigger with control not the flag Reset DoSetIsTrigger resetOnExit _collider isTrigger _originalValue"
+}

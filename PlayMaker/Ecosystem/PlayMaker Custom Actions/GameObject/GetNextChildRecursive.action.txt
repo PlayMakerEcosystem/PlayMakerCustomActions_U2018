@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetNextChildRecursive.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetNextChildRecursive.cs",
+"keywords":" Childs Linq gets recursived within its hierarchy lets quickly perform them specific Find GetNextChildRecursive Note list gameobjects Store carries force you want renter back item send when there are cache changes increment through DoGetNextChild reset parent GetComponentsInChildren Transform includeInactive Where source ToArray errors storeNextChild Value more children second time avoid possible infinite loop called Practically enabled calling will again iterating first _result Length finishedEvent iterate the next child nextChildIndex loopEvent"
+}

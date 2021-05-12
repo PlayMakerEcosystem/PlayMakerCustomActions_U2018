@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteSetFlip.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteSetFlip.cs",
+"keywords":" must have Sprite SpriteSetFlip control The values when exits Repeat every Reset SpriteFlip everyFrame Enabled resetOnExit flipX_orig flipY_orig FlipSprites flipX spriteRenderer flipY Value"
+}

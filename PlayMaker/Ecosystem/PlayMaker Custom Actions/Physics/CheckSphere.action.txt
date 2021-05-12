@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/CheckSphere.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/CheckSphere.cs",
+"keywords":" Generic Returns collider inside Settings Center trigger Filter Layer these Invert you pick layers except those defined above Results hits send the does not any Reset everyFrame DoCheckSphere radius ignoreTriggerColliders Ignore Physics CheckSphere transform position range ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide didHit Value noHitEvent"
+}

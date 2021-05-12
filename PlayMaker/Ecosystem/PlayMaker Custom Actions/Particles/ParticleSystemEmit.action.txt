@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/particles/ParticleSystemEmit.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/ParticleSystemEmit.cs",
+"keywords":" Source http index php topic msg76389 Shuriken Generic Emits given number NOTE You need particle will not during mode itself ParticleSystemEmit with the that much particles Repeat every frames Reset everyFrame emitirParticulas previousGo ParticleSystem _ps Emit countParticules Value"
+}

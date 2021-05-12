@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SaveTextureAsImage.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SaveTextureAsImage.cs",
+"keywords":" http index php topic the Setup screenshotCount Reset Input should between set savePicture Texture2D both GetFolderPath Environment SpecialFolder filePath useMypictures useDefaultFolder Application persistentDataPath saveTexPath useJpg TextureFormat EncodeToPNG SaveTextureAsImage FF9900ff ARGB32 RGB24 Cannot save PNG Please review EncodeToJPG jpgQuality WriteAllBytes bytes debugOn screenshotFullPath File filename Value temp"
+}

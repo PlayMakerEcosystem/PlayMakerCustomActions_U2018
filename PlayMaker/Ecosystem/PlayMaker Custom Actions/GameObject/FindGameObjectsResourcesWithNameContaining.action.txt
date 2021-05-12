@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObjectsResourcesWithNameContaining.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/FindGameObjectsResourcesWithNameContaining.cs",
+"keywords":" original http index php topic Generic Linq Finds that contains particular stores FindGameObjectsResourcesWithNameContaining any with number them then search Store the result FsmArray Reset Find caseInsensitive InvariantCultureIgnoreCase StringComparison InvariantCulture AddRange Resources FindObjectsOfTypeAll Cast Where IndexOf _containString _compare ToList RawValue _list ToArray ErrorCheck withNameContaining Length Specify least found within Please either storeCount storeResults not necessary"
+}

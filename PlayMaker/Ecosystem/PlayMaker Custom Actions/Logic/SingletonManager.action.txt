@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/SingletonManager.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SingletonManager.cs",
+"keywords":" Generic Logic the given exists already then destroyed SingletonManager Reset Singleton List Contains Destroy SINGLETONS Add reference Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetTransformVelocity.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformVelocity.cs",
+"keywords":" Original https index php topic msg95032 Gets GetTransformVelocity enum velocity local world Store the square Takes less performances Reset UpdateType CalculateSpeed storeSquareMagnitude sqrMagnitude storeMagnitude Mathf Round deltaTime magnitude 100f normalized Self InverseTransformDirection storeDirection Value _direction _lastPos _go transform position"
+}

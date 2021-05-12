@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetColliderBounds.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetColliderBounds.cs",
+"keywords":" based http answers unity3d questions drawing similar html Physics values Can optionaly include GetColliderBounds with deactivate ran Result half total twice large minimal maximal always equal Title Bounding Draw Scene View the Repeat every may impact performances enabled Reset yellow everyFrame GetBound includeChildren GetComponentsInChildren GetComponents Collider Length Encapsulate _colliders max Application isEditor CalcPositons _bounds Front v3Center v3Extents Back bottom corner _go Transform TransformPoint DrawBox v3FrontTopRight v3BackTopRight v3FrontBottomLeft v3BackBottomLeft v3FrontTopLeft v3BackBottomRight DrawLine v3FrontBottomRight v3BackTopLeft debugColor Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Quaternion/SmoothPointAtY.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SmoothPointAtY.cs",
+"keywords":" Quaternion Smoothly Rotates rotating around local axis SmoothPointAtY rotate degrees seconds point the Repeat every Reset 90f everyFrame DoPointAt targetObject goTarget Atan2 targetPos position 180f Mathf MoveTowardsAngle ZRot AngleSpeed Value deltaTime _go transform localEulerAngles smoothAngle"
+}

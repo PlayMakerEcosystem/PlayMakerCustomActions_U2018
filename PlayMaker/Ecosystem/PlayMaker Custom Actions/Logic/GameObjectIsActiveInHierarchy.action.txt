@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.cs",
+"keywords":" Logic Tests GameObjectIsActiveInHierarchy test send GamObject NOT Store the console Repeat every Reset debugging everyFrame DoIsGameObjectActive activeInHierarchy storeResult Value goIsActive isActive isNotActive"
+}

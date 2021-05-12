@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/PlayRandomSound2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/PlayRandomSound2.cs",
+"keywords":" Generic Plays Random defined takes priority You relative control how often they are selected PlayRandomSound2 Audio Weight ObjectType Can hit the same number twice Reset DoPlayRandomClip Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex audioClips randomIndex AudioClip AudioSource PlayClipAtPoint clip transform position volume Value"
+}

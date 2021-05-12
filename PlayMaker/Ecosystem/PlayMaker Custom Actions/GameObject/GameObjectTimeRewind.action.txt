@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GameObjectTimeRewind.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GameObjectTimeRewind.cs",
+"keywords":" Generic elements Rotation can more variables marked code http index php topic GameObjectTimeRewind that owns Behaviour General render you Setup Which enum Buffer the Control Output Reset PLAYMAKER_1_8_5_OR_NEWER endif Rigidbody2D Rigidbody updateTypeSelect updateType doAction useStopMotion newTimeScale timeLimitInSeconds useSmoothDeltaTime stopMotion counter smoothDeltaTime listLimit forceQuit List forceQuitEvent position positionVal eulerAngles rotationVal transform localScale sizeVal velocity velocityVal RemoveAt add indexVal isRewinding rewind is2D rb2d rewindIsKinematic Value isKinematic useGravity"
+}

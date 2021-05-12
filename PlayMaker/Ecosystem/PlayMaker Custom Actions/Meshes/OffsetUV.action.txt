@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Meshes/OffsetUV.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/OffsetUV.cs",
+"keywords":" TooltipAttribute Meshes affectSharedMesh Reset MeshFilter Build vertices Take existing everyFrame DoOffsetUV offsetX offsetY Value Equals change Length _xOffset _yOffset Offset Apply the modded _mesh _new_uvs"
+}

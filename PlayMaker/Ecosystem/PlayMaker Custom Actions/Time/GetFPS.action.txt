@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetFPS.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetFPS.cs",
+"keywords":" calculates also fairly accurate very low counts not simply counting accumulating way with correct overall renders something like credits http unifycommunity wiki index php title FramesPerSecond GetFPS sampling accumulated drawn The current Frame second formated Reset timeScale deltaTime ended values FPS FPS_asString ToString display two fractional digits format timeleft updateInterval Value accum frames"
+}

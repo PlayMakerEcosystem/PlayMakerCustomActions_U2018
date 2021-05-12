@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetCircleCollider2DRadius.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetCircleCollider2DRadius.cs",
+"keywords":" Physics SetCircleCollider2DRadius ComponentAction Rigidbody apply Circle Repeat every the active Reset everyFrame DoChange CircleCollider2D collider radius Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/KnockBackPositionFinder.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/KnockBackPositionFinder.cs",
+"keywords":" FrankenCopyCoded MDS knockback Gets impact Input hitPosition cast projectile that hits The axis ignored You can easily add back KnockBackPositionFinder Reset everyFrame hitPoint hitNormal Ayray GetPoint KnockBackDistance knockBackPosition Value preKnock"
+}

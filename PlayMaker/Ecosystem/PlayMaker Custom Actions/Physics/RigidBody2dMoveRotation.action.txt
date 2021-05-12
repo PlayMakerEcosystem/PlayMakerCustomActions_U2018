@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidBody2dMoveRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Rigidbody2dMoveRotation.cs",
+"keywords":" Rotates particular more efficient then accessing transform interacts properly with colliders physics materials RigidBody2dMoveRotation ComponentAction The rigid angle Repeat every rigidBody Reset everyFrame DoRotate UpdateCache rigidbody2d MoveRotation rotation Value"
+}

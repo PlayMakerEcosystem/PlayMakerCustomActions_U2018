@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/PhysicsLineCast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/PhysicsLineCast.cs",
+"keywords":" Performs PhysicsLineCast Raycast Settings line sweep nOr parameter Layer these Invert the you pick layers except those defined above Result when are more hits loop send there Reset noHitEvent DoLineCast fromGameObject fromPosition toGameObject transform toPosition RaycastHit Physics Linecast startPos endPos ActionHelpers LayerArrayToLayerMask layerMask invertMask Value RaycastHitInfo rhit _hit"
+}

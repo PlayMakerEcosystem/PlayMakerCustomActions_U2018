@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetUnsignedInt.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetUnsignedInt.cs",
+"keywords":" Author Deek Math http index php topic Returns absolute optionally sets that GetUnsignedInt Apply unsigned Repeat every Useful the changing Reset everyFrame DoIntAbs Mathf applyToOriginal intVariable result Value"
+}

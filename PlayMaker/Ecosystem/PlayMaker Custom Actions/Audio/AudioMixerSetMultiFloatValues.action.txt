@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioMixerSetMultiFloatValues.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/AudioMixer/AudioMixerSetMultiFloatValues.cs",
+"keywords":" original Tropical http index php topic msg52963 Sets multiple parameters AudioMixerSetMultiFloatValues ObjectType Audio with Count the exposed parameter Reset everyFrame DoSetMixerFloatValues AudioMixer Length Equals _TheMixer SetFloat _ExposedFloatName _Floatvalue"
+}

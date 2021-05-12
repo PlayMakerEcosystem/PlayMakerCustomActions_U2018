@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioFade.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioFade.cs",
+"keywords":" Made DjayDino Fades Clip played AudioFade ComponentAction AudioSource Fade seconds Interpolation send when finished Ignore TimeScale Useful paused the equation Reset UpdateCache realTime FsmTime RealtimeSinceStartup startTime deltaTime currentTime mode Linear Lerp InterpolationType EaseInOut audio Mathf SmoothStep startingVolume fadeTo Value lerpTime finishEvent"
+}

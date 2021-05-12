@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/BuildStringFast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/BuildStringFast.cs",
+"keywords":" Optimized StringBuilder Generic Builds other with less memory allocations BuildStringFast Strings combine insert between character built Store Repeat every the active Reset everyFrame DoBuildString stringParts addToEnd separator storeResult Append Length value ReallocateIFN Math Max nbCharsToAdd m_charsCapacity CopyTo newChars IsEmpty Clear ToString m_chars m_charsCount m_isStringGenerated m_stringGenerated"
+}

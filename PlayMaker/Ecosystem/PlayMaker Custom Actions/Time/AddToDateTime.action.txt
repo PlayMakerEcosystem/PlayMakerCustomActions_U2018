@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/AddToDateTime.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/AddToDateTime.cs",
+"keywords":" Globalization Adds stores optional gives you lot control formatting see online docs syntax AddToDateTime following the described Integer Store result CultureInfo InvariantCulture Reset yyyy DateTime ParseExact provider TimeSpan FromSeconds _startDate ToString Value ActionHelpers AutoName startDate add storeString dateFormat endif"
+}

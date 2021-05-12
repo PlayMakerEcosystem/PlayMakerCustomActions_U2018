@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertFloatToStringFast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFloatToStringFast.cs",
+"keywords":" Optimized StringBuilder Generic Converts optional format with less memory allocations ConvertFloatToStringFast convert store converted Repeat every Useful the changing Reset everyFrame DoConvertIntToString floatVariable stringVariable Round 000001f Mathf RoundToInt valueInt nbFloatDigits Append IntToChar value nbChars ReallocateIFN CString reallocation Math Max nbCharsToAdd m_charsCapacity CopyTo newChars IsEmpty Clear ToString m_chars m_charsCount m_isStringGenerated m_stringGenerated"
+}

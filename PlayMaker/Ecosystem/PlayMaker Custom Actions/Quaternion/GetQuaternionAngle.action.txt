@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Quaternion/GetQuaternionAngle.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Quaternion/GetQuaternionAngle.cs",
+"keywords":" Gets quaternions GetQuaternionAngle QuaternionBaseAction First Second between the two Reset OwnerOption SpecifyGameObject FsmQuaternion everyFrame everyFrameOption everyFrameOptions DoQuatAngle orQuaternion1 gameObject1 _Go1 orQuaternion2 gameObject2 _Go2 transform rotation Value Quaternion Angle _Q1 _Q2"
+}

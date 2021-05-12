@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetPhysicsMaterialName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetPhysicsMaterialName.cs",
+"keywords":" Gets GetPhysicsMaterialName that Physcismaterial applied requires Alternatively specify Physics instead Index ObjectType PhysicMaterial pointer appended removed will the sent was not found instance Reset fail DoGetMaterialName Collider Value parseMaterialName trimName EndsWith Replace _token"
+}

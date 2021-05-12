@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayResize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayResize.cs",
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine FsmArrayResize BaseFsmVariableAction that owns Optional the Reset ggop UpdateCache fsmName FsmVariables GetFsmArray variableName fsmArray Resize range newSize Value sizeOutOfRangeEvent"
+}

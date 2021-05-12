@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/particleSystemIsAliveBridge.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/particleSystemIsAliveBridge.cs",
+"keywords":" Source Shuriken Particle http index php topic particleSystemIsAliveBridge Bools TitleAttribute Inactive Will disable itself both events used every frames needed when many particles are scene Perform the method Reset PLAYMAKER_1_8_5_OR_NEWER endif lastRecalculation optimization everyFrame IsPSAliveBridge frameCount FindObjectsOfType ParticleSystem boolTemp isPlayingEvent isPlaying isStopped Value isStoppedEvent"
+}

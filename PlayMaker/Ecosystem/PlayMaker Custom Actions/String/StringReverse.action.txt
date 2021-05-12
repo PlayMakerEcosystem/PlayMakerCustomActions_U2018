@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringReverse.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringReverse.cs",
+"keywords":" http index php topic StringReverse Reset storeResult stringVariable Value ToCharArray Reverse charArray"
+}

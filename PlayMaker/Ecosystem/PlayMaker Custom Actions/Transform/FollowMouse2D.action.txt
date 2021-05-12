@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/FollowMouse2D.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/FollowMouse2D.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Moves optional simulate Currently supports orthographic cameras FsmStateActionAdvanced attached that capture poisition independent much delay applied closer more lags behind stands still Title Center dragged not supposed directly under Store current Select you want off with mouse determines how close edge can Keep used Toggle Wheter move back before Reset FindGameObjectWithTag MainCamera zero 25f updateType FrameUpdateSelector everyFrame DoFollowMouse2D attachedGameObject Camera Input keeps inside the keepOnScreen currCam ScreenToWorldPoint Screen wScreenWidth wScreenHeight screenOffset xleft xright ytop ybottom camPos skip destroyed Stop enabled stopDragging resetPosition Lerp storeMousePosition smoothing Value transform position initGOPos"
+}

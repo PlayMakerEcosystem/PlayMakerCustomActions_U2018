@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidbodyMassCalculator.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyMassCalculator.cs",
+"keywords":" Physics Used approximate proper the colliders given http index php topic RigidbodyMassCalculator Setup Options Box Circle Polygon Reset is2D Rigidbody Rigidbody2D 6B8E23ff rigibody RecalculateMass RecalculateMass2D GetComponentsInChildren Length cols transform localScale rb2d mass density Value GetVolume BoxCollider MeshCollider SphereCollider CapsuleCollider direction CharacterController chc GetVolume2D BoxCollider2D PolygonCollider2D bounds extents CircleCollider2D uniScale Invalid attempt GetType BoxVolume CapsuleVolume SphereVolume radius twice large bigger than degenerates into sphere CylinderVolume cylHeight sphereVol cylVol Box2DVolume Sphere2DVolume Mathf"
+}

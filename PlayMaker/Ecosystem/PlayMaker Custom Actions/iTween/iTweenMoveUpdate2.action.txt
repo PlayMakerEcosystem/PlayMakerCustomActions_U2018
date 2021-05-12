@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/iTween/iTweenMoveUpdate2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/iTween/iTweenMoveUpdate2.cs",
+"keywords":" MoveTo incredibly less expensive usage inside function similar looping situations involving live changing values Does utilize EaseType you choose tyoe iTweenMoveUpdate2 used offset animation complete animate LookAt Whether not its direction travel percentage influence strict how much anticipate curve lookAhead seconds will take either Look Orient Restricts rotation the supplied Reset PLAYMAKER_1_8_5_OR_NEWER endif Hashtable parent InverseTransformPoint islocal Self Enum GetName iTweenFsmAction AxisRestriction axis orientToPath looktarget lookAtObject lookAtVector lookTime updateCall PlayMakerUpdateCallType PerformUpdate Remove zero World Add transformPosition transform localPosition vectorPosition Value OnExit DoiTween iTween MoveUpdate hash"
+}

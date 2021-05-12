@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/KeyboardPickEvent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/KeyboardPickEvent.cs",
+"keywords":" Sends keyboard stroke current position interactions with how close must KeyboardPickEvent Collider Length camera test pressed released when moves these Layer Invert you layers except those defined above Repeat every Reset 100f KeyCode everyFrame DoMousePickEvent Store pick can seen Hit RaycastHitInfo mousePickInfo Send events based the mouse buttons GetKeyDown keyDown Input GetKeyUp keyUp mouseOff DoRaycast OwnerOption uses cache minimize Raycasts IsMouseOver testObject LayerArrayToLayerMask layerMask invertMask ErrorCheck CheckRayDistance rayDistance Value ActionHelpers CheckPhysicsSetup errorString"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsSetCampaignDataURL.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsSetCampaignDataURL.cs",
+"keywords":" Generic Advertisements current status UnityAdsSetCampaignDataURL The Campaign data Reset Advertisement SetCampaignDataURL Value UnityAds supported IOS Android Platforms endif"
+}

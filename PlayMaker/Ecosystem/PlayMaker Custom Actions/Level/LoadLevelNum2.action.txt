@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/LoadLevelNum2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Level/LoadLevelNum2.cs",
+"keywords":" Loads number async loading gives progress feedback Before can you add list levels defined LoadLevelNum2 File Build Settings additively keeping current scene send after loaded NOTE components disabled then enabled Disable keep active Reset Have the since will parent destroyed transform DontDestroyOnLoad root LoadLevelAdditive Application LoadLevel levelIndex Value loadedEvent"
+}

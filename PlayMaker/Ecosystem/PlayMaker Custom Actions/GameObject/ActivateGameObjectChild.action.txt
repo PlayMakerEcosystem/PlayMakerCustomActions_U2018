@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectChild.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectChild.cs",
+"keywords":" Source deactivates with exception hide show areas enable disable many Behaviours once http index php topic ActivateGameObjectChild The Parent Except deactivate Repeat every Useful changes time activatedGameObject Reset everyFrame DoActivateGameObject activate SetActiveRecursively transform Length exceptThisChild Value temp equal child SetActive"
+}

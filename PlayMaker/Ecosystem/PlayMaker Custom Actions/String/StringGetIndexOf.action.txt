@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringGetIndexOf.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/StringGetIndexOf.cs",
+"keywords":" Finds StringGetIndexOf Test contains Leave begining Other values may used find multiple single updating time runing again until more are setting Results which first within means was not fired startSearchAt below greater than Repeat every Reset StringComparison CurrentCulture everyFrame DoGetIndexOf will euser left the count full search any errors including range potential strings though should never give you stringVariable IndexOf containsString _startIndex _searchLength stringComparision Exception Message failureEvent _index Value _found notFoundEvent"
+}

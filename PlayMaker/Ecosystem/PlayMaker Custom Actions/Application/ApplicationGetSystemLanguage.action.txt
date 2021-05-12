@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationGetSystemLanguage.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationGetSystemLanguage.cs",
+"keywords":" ApplicationGetSystemLanguage The Reset Value Application systemLanguage ToString"
+}

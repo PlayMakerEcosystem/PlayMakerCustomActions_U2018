@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetPositionAndRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetPositionAndRotation.cs",
+"keywords":" script dependancies Assets Custom __Internal version Sets leave unchanged Advanced features allows selection individual FsmQuaternion Title stored below Repeat every Reset dropdown with selected PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame ExecuteAction any current the eulerAngles axis xAngle yAngle zAngle Value apply transform SetPositionAndRotation _position Quaternion Euler _rotation"
+}

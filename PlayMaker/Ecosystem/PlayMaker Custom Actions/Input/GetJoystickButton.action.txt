@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetJoystickButton.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetJoystickButton.cs",
+"keywords":" joystick down http index php topic GetJoystickButton button Manager the result Repeat every Typically would Reset everyFrame DoGetAxis Input GetAxis buttonName axisValue temp store Value"
+}

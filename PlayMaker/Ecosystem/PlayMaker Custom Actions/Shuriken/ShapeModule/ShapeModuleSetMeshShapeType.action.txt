@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetMeshShapeType.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetMeshShapeType.cs",
+"keywords":" Shuriken ShapeModuleSetMeshShapeType with Mesh ObjectType FsmEnum Repeat every the active ShapeModule Reset Triangle _go ParticleSystem _ps shape everyFrame DoExecute _sm ParticleSystemMeshShapeType meshShapeType Value"
+}

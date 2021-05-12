@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetTimeInfoAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetTimeInfoAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal Gets various useful GetTimeInfoAdvanced FsmStateActionAdvanced enum measurements properties the choosen property Reset everyFrame getInfo timeScale smoothDeltaTime StateTime timeSinceLevelLoad RealTimeInCurrentState FsmTime RealtimeSinceStartup RealStartTime unscaledDeltaTime unscaledTime TimeInfo maximumDeltaTime storeValue Value"
+}

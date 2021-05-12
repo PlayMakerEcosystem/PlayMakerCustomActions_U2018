@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IsVisibleInCameraFrustrum.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/IsVisibleInCameraFrustrum.cs",
+"keywords":" Original http index php topic msg53550 Logic see within Because dynamic shadows better IsVisibleInCameraFrustrum test with leave send NOT Store the Plane Reset OwnerOption SpecifyGameObject everyFrame DoIsVisible goCam main _cam storeResult Value isVisible trueEvent falseEvent IsVisibleFrom CalculateFrustumPlanes camera endif GeometryUtility TestPlanesAABB planes renderer bounds"
+}

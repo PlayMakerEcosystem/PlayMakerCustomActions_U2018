@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/RotateAround.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/RotateAround.cs",
+"keywords":" http index php topic msg4509 offset Rotation will local Amount rotate degrees before stopping animation Zero rotates forever Reset everyFrame stopAngle DoRotateAround rotationAxis position aroundgo TransformDirection perSecond deltaTime rotatedAngle transform RotateAround _rotationPoint _axis _angle ErrorCheck Value useAroundGameObjectAxisSpace effective aroundGameObject defined"
+}

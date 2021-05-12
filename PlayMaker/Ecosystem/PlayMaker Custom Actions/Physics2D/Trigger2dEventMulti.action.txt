@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/Trigger2dEventMulti.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Trigger2dEventMulti.cs",
+"keywords":" Physics2D between Objects have RigidBody2D Trigger2dEventMulti Count collideTag sendEvent TagMenu Filter Tag send detected collisions detect Store that collided with the cached callbacks PlayMakerProxyBase Reset HandleTriggerEnter2D HandleTriggerStay2D HandleTriggerExit2D Add components now can OnExit OnChange UpdateCallback GetProxyComponent PlayMakerTriggerEnter2D PlayMakerTriggerStay2D PlayMakerFSM GetEventHandlerComponent PlayMakerTriggerExit2D source AddCallback AddTrigger2DEventCallback RemoveCallback cachedProxy RemoveTrigger2DEventCallback storeCollider Value DoTriggerEnter2D DoTriggerStay2D DoTriggerExit2D OwnerOption OnTriggerEnter2D OnTriggerStay2D Collider2D trigger Trigger2DType OnTriggerExit2D Length TagMatches collideTags StoreCollisionInfo other sendEvents ErrorCheck ActionHelpers CheckPhysics2dSetup"
+}

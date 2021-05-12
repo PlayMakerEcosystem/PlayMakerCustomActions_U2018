@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayGetNext.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayGetNext.cs",
+"keywords":" Made nightcorelv forumlink http php topic StateMachine time called gets item version lets quickly loop through items perform them FsmArrayGetNext BaseFsmVariableAction that owns Optional iteration raise when will indicate you want the beginning again Reset resetFlag startIndex ggop UpdateCache fsmName FsmVariables GetFsmArray variableName result SetValue fsmArray Length endIndex finishedEvent currentIndex Value nextItemIndex loopEvent"
+}

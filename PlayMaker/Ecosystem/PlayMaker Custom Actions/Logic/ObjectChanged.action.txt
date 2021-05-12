@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ObjectChanged.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/ObjectChanged.cs",
+"keywords":" objectcompare unityobject Logic Tests store that can used other operations ObjectChanged watch change send the changes Reset objectVariable previousValue storeResult Value changedEvent"
+}

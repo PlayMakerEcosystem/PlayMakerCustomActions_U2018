@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/CountupTimer.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/CountupTimer.cs",
+"keywords":" Author Deek http index php topic Counts ends leaving current CountupTimer since Count TimeScale independent Pauses Resumes again Setting counting Will itself once Sets the back when entering Otherwise continues where left restartOnEnter pause reset realTime FsmTime RealtimeSinceStartup startTime deltaTime storeTime Value timer"
+}

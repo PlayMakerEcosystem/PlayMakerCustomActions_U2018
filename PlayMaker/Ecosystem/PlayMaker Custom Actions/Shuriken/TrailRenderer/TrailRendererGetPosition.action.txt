@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailRenderer/TrailRendererGetPosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/TrailRenderer/TrailRendererGetPosition.cs",
+"keywords":" Shuriken TrailRendererGetPosition with particleSystem vertex given sent not found Repeat every the active Reset _go TrailRenderer everyFrame DoExecute positionCount _tr GetPosition index outOfRange Value outOfRangeEvent"
+}

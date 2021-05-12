@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs Encryption/PlayerPrefsGetStringWithSimpleHashing.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/PlayerPrefsGetStringWithSimpleHashing.cs",
+"keywords":" Source Security Cryptography Encryption Returns corresponding the preference file exists Checks with http index php topic PlayerPrefsGetStringWithSimpleHashing Count sensitive Options Optional You can leave blank wanted enum Reset Equals _hash GetString SH1 SHA1CryptoServiceProvider Selection MD5 Password MD5CryptoServiceProvider tempString tempString2 PlayerPrefs SetString keys variables Value HashAlgorithm algorithm ComputeHash Encoding GetBytes StringBuilder Length Append data ToString"
+}

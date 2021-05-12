@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetPositions.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetPositions.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Sets multiple SetPositions FsmStateActionAdvanced stored specify individually local Ignores effectively them Useful you want change manner Reset Self everyFrame DoSetPosition due safety precautions can occur when gets destroyed runtime Multi contains neither was individual global applyToAll Ignore ignoreZAxis apply current World transform localPosition pos explicitly declare HandleOnGUI OnGUI the changes set Value zero positions prevAmount gameObjects Length"
+}

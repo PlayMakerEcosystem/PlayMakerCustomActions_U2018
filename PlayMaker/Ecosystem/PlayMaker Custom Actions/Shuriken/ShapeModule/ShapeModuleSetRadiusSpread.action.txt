@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetRadiusSpread.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetRadiusSpread.cs",
+"keywords":" Radius Shuriken ShapeModuleSetRadiusSpread with Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm radiusSpread Value"
+}

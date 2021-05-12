@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRegexReplace.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRegexReplace.cs",
+"keywords":" http index php topic RegularExpressions StringRegexReplace execute matches expression The Match content replaced Reset everyFrame DoAction Length RegexOptions options optionsBit storeResult Replace stringVariable regex with Value"
+}

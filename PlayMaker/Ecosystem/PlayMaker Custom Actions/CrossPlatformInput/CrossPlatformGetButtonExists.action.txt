@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonExists.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonExists.cs",
+"keywords":" UnityStandardAssets pragma disable Gets specified exist Requires Standard CrossPlatformGetButtonExists the sent Button not Reset ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput DoGetButtonExists CROSS_PLATFORM_INPUT CrossPlatformInputManager buttonName endif buttonExists Value _exists buttonExistsEvent buttonDoNotExistsEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/AddFsmTemplate.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/AddFsmTemplate.cs",
+"keywords":" original Krileon https index php topic msg28493 Generic StateMachine AddFsmTemplate ObjectType FsmEventTarget Reset List AddRange GetComponents previousGo Count replaceEventTarget replaceSendEvent doNotDestroy Destroy exists AddComponent PlayMakerFSM FsmName SetFsmTemplate template Length NamedVariable GetVariable variableNames variables ApplyValueTo active enabled unique replace Add storeComponent newFsm existsEventTarget existsSendEvent Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetMasterTextureLimit.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetMasterTextureLimit.cs",
+"keywords":" Source Master applied textures Off half quarter http index php topic SetMasterTextureLimit Reset QualitySettings masterTextureLimit level Value"
+}

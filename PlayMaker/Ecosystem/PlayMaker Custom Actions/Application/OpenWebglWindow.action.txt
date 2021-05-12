@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/OpenWebglWindow.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/OpenWebglUrl.cs",
+"keywords":" script dependancies Assets Custom Plugins PlayMakerOpenWindow jslib Runtime InteropServices Opens browser given works Webgl OpenWebglWindow The open Reset Application OpenURL Value DllImport __Internal openWindow endif"
+}

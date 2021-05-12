@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/setTimelinePlayableAsset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/setTimelinePlayableAsset.cs",
+"keywords":" Playables used save setTimelinePlayableAsset hold components the playable ObjectType box preform every Reset PlayableDirector everyFrame timelineAction timeline PlayableAsset playableObject Value"
+}

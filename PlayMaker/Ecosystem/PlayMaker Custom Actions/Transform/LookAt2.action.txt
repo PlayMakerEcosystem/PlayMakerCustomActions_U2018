@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/LookAt2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/LookAt2.cs",
+"keywords":" Rotates forward points can specify both then specifies Optionnaly you define that works LookAt2 offset specified its hinted See Look docs more details rotate vertically Keep will local not world axis Title Draw the Repeat every Reset yellow PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoLookAt LookAt DrawLine debugLineColor UpdateLookAtPosition targetObject goTarget targetPosition upVector keepVertical constraintLocally InverseTransformPoint TransformPoint TransformDirection ProjectOnPlane Quaternion LookRotation lookAtPosFinal upVectorValue rotation qTo lookAtPos transform position"
+}

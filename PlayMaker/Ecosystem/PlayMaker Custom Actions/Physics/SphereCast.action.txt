@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SphereCast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SphereCast.cs",
+"keywords":" Performs Settings center nOr parameter shpere into which sweep sphere local specified world infinity Layer these Invert you pick layers except those defined above RayCast Draw Note Gizmos the View see something otherwise when send there Reset forward yellow noHitEvent hitEvent DoSphereCast fromGameObject fromPosition distance Self transform TransformDirection direction Mathf DrawLine debugRayLength debugColor RaycastHit Physics SphereCast originPos radius dirVector rayLength ActionHelpers LayerArrayToLayerMask layerMask invertMask RaycastHitInfo hitInfo collider storeDidHit Value didHit"
+}

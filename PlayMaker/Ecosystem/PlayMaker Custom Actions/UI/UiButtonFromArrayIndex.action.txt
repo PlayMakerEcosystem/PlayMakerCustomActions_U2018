@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UI/UiButtonFromArrayIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UI/UiButtonFromArrayIndex.cs",
+"keywords":" EventSystems multiple single UiButtonFromArrayIndex ArrayEditor need with FsmArray Where events FsmEventTarget Send when Clicked number pressed 1st 2nd SerializeField clickedButton Reset calls part sometimes the values are not known build time summary ErrorCheck set ElementType UnityAction cachedGameObjects InitButtons buttons AddListener OnExit Length buttonArray Button RemoveListener OnClick clickIndex Value index eventTarget clickEvent"
+}

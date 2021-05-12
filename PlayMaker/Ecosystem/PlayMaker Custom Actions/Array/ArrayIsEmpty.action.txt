@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayIsEmpty.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayIsEmpty.cs",
+"keywords":" Author Deek based ArrayIsEmpty FsmArray send the not Reset Length isEmpty isNotEmpty"
+}

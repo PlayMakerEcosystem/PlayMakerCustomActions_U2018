@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/SetHSVToColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Color/SetHSVToColor.cs",
+"keywords":" Made djaydino http www jinxtergames Creates HSV input SetHSVToColor Output colours the returned colour will not clamped Result Reset everyFrame DoSetHSVToRGBA HSVToRGB hue saturation brightness hdr alpha colorVariable Value newColor"
+}

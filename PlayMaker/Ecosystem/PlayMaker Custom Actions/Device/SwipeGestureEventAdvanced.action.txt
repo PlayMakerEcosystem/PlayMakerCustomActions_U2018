@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/SwipeGestureEventAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/SwipeGestureEventAdvanced.cs",
+"keywords":" Author Deek Device http index php topic Sends inedepent SwipeGestureEventAdvanced How far travel considered Uses normalized diagonal Should generally very small number traveled between Store the left send when swipe down detected Reset zero Sqrt width Screen height minSwipeDistance screenDiagonalSize touches Began Ended Input mousePosition Camera main ScreenToWorldPoint touchEndPos getForce force Canceled Stationary touchHasStarted TouchPhase Moved TestForSwipeGesture touch position FsmTime RealtimeSinceStartup touchStartTime getSwipeSpeed getSwipeDuration getSwipeDistance Value minSwipeDistancePixels lastPos touchStartPos Rad2Deg Mathf Atan2 swipeRightEvent swipeDownEvent angle swipeLeftEvent swipeUpEvent"
+}

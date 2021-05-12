@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/IsOnPlatformEvent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/IsOnPlatformEvent.cs",
+"keywords":" Author Deek Additions modifications BrokenStylus http index php topic Sends Detects targeted build IsOnPlatformEvent Description desc yet supported found Note Gets first finds send any the specified added Reset More Microsoft NETFX_CORE WINDOWS_UWP Web Video Consoles Nintendo Google Smartphones Tablets 1st group original code Enum Equals platforms block Alex Chouls March FIRE version checks could need iPad here with isOnIpadOS then separate necessary users can not assuming translates iPadOs doesn trigger iPhoneOS Miscellaneous Cloud Application RuntimePlatform _flag PlatformDependentFlags endif isOnEditor isOnEditorWin isOnEditorOSX isOnEditorLinux isOnStandalone isOnStandaloneOSX isOnStandaloneWin isOnStandaloneLinux isOnWSA isOnNetFXCore isOnWSA1010 isOnWindowsUWP isOnWinRT isOnWebplayer isOnWebGL isOnFacebook isOnFlash isOnNACL isOnWii isOnSwitch isOnPS3 isOnPS4 isOnXBOX360 isOnXBoxOne isOnLumin isOnStadia isOnTVOS isOnIOS isOnIPhone isOnAndroid isOnTizen isOnMetro isOnWP8 isOnBlackberry isOnAssertions isOn64 isOnUnityAnalytics isOnCloudRendering isOnDashboardWidget notOnEvent"
+}

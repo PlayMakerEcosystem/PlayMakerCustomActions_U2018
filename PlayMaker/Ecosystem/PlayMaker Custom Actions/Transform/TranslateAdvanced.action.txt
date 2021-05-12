@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/TranslateAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/TranslateAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal Translates XYZ components leave unchanged TranslateAdvanced FsmStateActionAdvanced The NOTE You can individual below along local world translation seconds uses unaffected scale Reset dropdown with selected Self everyFrame DoTranslate specified any axis Value apply perSecond realtime unscaledDeltaTime _transform translate deltaTime"
+}

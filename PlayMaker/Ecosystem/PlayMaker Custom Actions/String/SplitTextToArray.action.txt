@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/SplitTextToArray.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/SplitTextToArray.cs",
+"keywords":" into strings ints SplitTextToArray enum source where leave beginning parsing ignored not taken account Storage specific The FsmArray NewLine splitText textAsset OrThisString Reset Tab SplitSpecialChars _split _text Split OrThisChar ToCharArray startIndex Length Mathf parseRange Value rawlines Resize count Values _value_i parseAsType ArrayParseStringAs lines TryParse Set _result_float result SaveChanges"
+}

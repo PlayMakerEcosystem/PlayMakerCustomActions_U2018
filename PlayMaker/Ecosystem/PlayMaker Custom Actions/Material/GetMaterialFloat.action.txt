@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialFloat.cs",
+"keywords":" Gets that applied GameObjects can have multiple specific Alternatively specify instead NamedColor named shader the parameter sent was not found executes every Reset everyframe DoGetMaterialFloat namedFloat _Shininess Length Renderer HasProperty fail materials materialIndex Value GetFloat floatName"
+}

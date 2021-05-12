@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetMeshScale.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetMeshScale.cs",
+"keywords":" Shuriken ShapeModuleSetMeshScale with Mesh Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm meshScale Value"
+}

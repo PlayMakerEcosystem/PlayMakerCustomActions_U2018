@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/SendMessageVector3Out.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/sendMessageVector3Out.cs",
+"keywords":" ScriptControl Sends with specific holding reference See docs SendMessageVector3Out Reset SendMessageOptions DontRequireReceiver OwnerOption DoSendMessage zero SendMessage functionName options outVector3 Value _tmp"
+}

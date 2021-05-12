@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Random/SelectRandomAudioClip.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Random/SelectRandomAudioClip.cs",
+"keywords":" Author Deek http php topic Selects Random SelectRandomAudioClip Weight ObjectType AudioClip Reset DoSelectRandomObject Length ActionHelpers GetRandomWeightedIndex weights storeObject objects randomIndex Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetTimeSpanInfo.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetTimeSpanInfo.cs",
+"keywords":" script dependancies Assets PlayMakerUtils_FsmVar Globalization Gets various useful measurements timeSpane Totalx very likely query actual displayed not total amount time GetTimeSpanInfo enum FromDays FromHours FromMinutes FromMilliseconds creation sure you propery reflect the content Infos Reset everyFrame DoGetSpanTimeInfo _success TryParse TimeSpanCreate FromSeconds Convert ToDouble timeSpan Value values _prop TotalMilliseconds TotalSeconds TotalHours TotalMinutes TimeSpanProperties span TotalDays PlayMakerUtils ApplyValueToFsmVar _var"
+}

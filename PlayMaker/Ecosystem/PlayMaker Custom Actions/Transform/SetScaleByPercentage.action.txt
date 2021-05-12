@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetScaleByPercentage.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetScaleByPercentage.cs",
+"keywords":" Sets http index php topic Setup 200f Increase reduce TitleAttribute Repeat every Perform useful you want the position objects that are animated otherwise positioned Output stored axis Reset 100f PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoSetScale SetScaleByPercentage FF9900ff Does not below Please review originalScale global transform localScale Value scale"
+}

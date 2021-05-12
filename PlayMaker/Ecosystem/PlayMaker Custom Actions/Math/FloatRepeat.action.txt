@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRepeat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRepeat.cs",
+"keywords":" script dependancies Assets Custom __Internal Math Loops that larger never smaller than FloatRepeat FsmStateActionAdvanced multiplied repetition The Reset 10f everyFrame DoRepeat floatVariable timeBased time result Mathf Repeat _input length Value"
+}

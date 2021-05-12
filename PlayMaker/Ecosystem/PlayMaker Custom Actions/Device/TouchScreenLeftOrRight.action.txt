@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/TouchScreenLeftOrRight.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/TouchScreenLeftOrRight.cs",
+"keywords":" Device Sends events based http index php topic TouchScreenLeftOrRight Finger Reset useMouse TounchInput touchCount GetTouch touchPhase storeFingerId Value touch fingerId MouseInput GetMouseButtonDown sendEventLeft Input mousePosition Screen width sendEventRight"
+}

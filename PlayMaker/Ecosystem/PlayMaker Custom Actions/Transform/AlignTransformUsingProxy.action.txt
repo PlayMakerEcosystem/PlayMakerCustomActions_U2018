@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/AlignTransformUsingProxy.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/AlignTransformUsingProxy.cs",
+"keywords":" Aligns another relative that basically Reset DoAlignTransformUsingProxy Value goTarget goProxy _go go_parent proxy_parent Quaternion FromToRotation forward _go_proxy_delta_q rotation _target InverseTransformPoint _proxy position transform Translate _proxy_go_delta"
+}

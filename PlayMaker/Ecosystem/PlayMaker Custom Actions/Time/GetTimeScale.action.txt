@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetTimeScale.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetTimeScale.cs",
+"keywords":" Author Deek http index php topic GetTimeScale Store current GameTime the intervall wich physics other rate operates Repeat every Reset everyFrame DoTimeScale currentTimeScale timeScale Value fixedDeltaTime"
+}

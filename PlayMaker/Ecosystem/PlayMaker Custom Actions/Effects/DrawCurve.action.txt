@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Effects/DrawCurve.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Effects/DrawCurve.cs",
+"keywords":" Drawing code https wikibooks org wiki Cg_Programming A9zier_Curves Other elements DrawLine AndrewRaphaelLukasik live http index php topic Needs least control point should occupy first last two slots respectively Effects Draws Bézier between three Objects DrawCurve will automatically Number with which drawn Repeat every Destroys exiting the startObjectPosition middleObjectPosition endObjectPosition Reset clear white draw AddComponent Shader Find Particles Additive everyFrame line startColor startColour endColor endColour startWidth endWidth positionCount set quadratic Bezier curve middle transform numberOfPoints SetPosition position destroyOnExit Destroy goLineRenderer Value"
+}

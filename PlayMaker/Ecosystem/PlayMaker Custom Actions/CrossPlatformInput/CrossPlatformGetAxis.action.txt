@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetAxis.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetAxis.cs",
+"keywords":" original KellyRay http index php topic msg52975 UnityStandardAssets pragma disable Gets specified stores Requires Standard CrossPlatformGetAxis values are larger range the result Repeat every Typically would Reset ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput everyFrame DoGetAxis CROSS_PLATFORM_INPUT CrossPlatformInputManager GetAxis axisName endif set assume multiplier store axisValue"
+}

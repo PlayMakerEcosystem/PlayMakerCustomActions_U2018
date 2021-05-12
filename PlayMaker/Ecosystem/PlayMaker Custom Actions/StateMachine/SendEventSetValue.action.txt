@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventSetValue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventSetValue.cs",
+"keywords":" Author Deek StateMachine http index php topic Sets another then sends after combines convenience efficiency SendEventSetValue Where FsmEventTarget specified NOTE must marked Global send between Optional seconds Enables they are disabled before the Repeat every Rarely needed can useful when sending events other PlayMakerFSM INamedVariable sourceVariable Reset 001f delay everyFrame WasSent delayedEvent sendEvent DoSetFsmVariable enable SetActive fsmComponent enabled eventTarget GetGameObjectFsm cachedGameObject cachedFsmName fsmName FsmVariables FindVariable cachedVariableName UpdateValue setValue ApplyValueTo targetVariable AutoName Set ActionHelpers GetValueLabel variableName endif"
+}

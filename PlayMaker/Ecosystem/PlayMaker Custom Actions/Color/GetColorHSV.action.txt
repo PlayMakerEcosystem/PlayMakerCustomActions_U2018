@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/GetColorHSV.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Color/GetColorHSV.cs",
+"keywords":" script dependancies Assets Custom https fogbugz asp W1146 GetColorHSV Result values the Repeat every Reset everyframe GetHSVColor colorSource hue saturation alpha Value colorhsv"
+}

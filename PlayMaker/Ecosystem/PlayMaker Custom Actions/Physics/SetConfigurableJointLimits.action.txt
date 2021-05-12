@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetConfigurableJointLimits.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetConfigurableJointLimits.cs",
+"keywords":" covers differences define Physics Sets Configurable SetConfigurableJointLimits with multiple joints are same ObjectType rotation axis degree freedom hard otherwise soft damping effect stiffness sprint not zero position angle degrees When hits made bounce off Determines how far ahead solver can see the enum Reset everyFrame DoAction ConfigurableJoint SoftJointLimit SoftJointLimitSpring bounciness contactDistance damper Value limitType Linear linearLimit linearLimitSpring AngularY angularYLimit AngularZ angularZLimit angularYZLimitSpring AngularXHigh highAngularXLimit Limits AngularXLow lowAngularXLimit angularXLimitSpring endif"
+}

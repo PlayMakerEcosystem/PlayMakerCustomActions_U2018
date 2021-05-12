@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/DestroyObjectsByTag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DestroyObjectsByTag.cs",
+"keywords":" Destroys with given DestroyObjectsByTag Optional not accumulate dealy them after other basically Detach before destroying the Reset FindGameObjectsWithTag tag gos transform DetachChildren AccumulateDelay Value Destroy _delay"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetMouseDeltaPosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetMouseDeltaPosition.cs",
+"keywords":" Gets the mouse individual axis GetMouseDeltaPosition Reset DoGetMouseDelta Input normalize width Screen height mouseDeltaPosition mousePositionDeltaVector2 mouseDeltaPositionX mouseDeltaPositionY Value _delta _lastPosition _mousePosition"
+}

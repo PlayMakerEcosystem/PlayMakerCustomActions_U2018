@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateComponent2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateComponent2.cs",
+"keywords":" Destroys ActivateComponent2 that owns ScriptComponent destroy Deactivate the Repeat Reset everyFrame OwnerOption DoDestroyComponent ReflectionUtils GetGlobalType such aComponent Renderer _behaviour rend enabled activate Value"
+}

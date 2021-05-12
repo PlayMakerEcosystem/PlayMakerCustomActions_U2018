@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/SetSpriteColorRGBA.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Color/SetSpriteColorRGBA.cs",
+"keywords":" made DjayDino Sets sprite SetSpriteColorRGBA the channel Reset SpriteRenderer everyFrame SpriteColo green blue alpha Value sRenderer newColor"
+}

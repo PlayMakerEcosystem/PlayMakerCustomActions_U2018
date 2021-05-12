@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SubtractFsmFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SubtractFsmFloat.cs",
+"keywords":" StateMachine another that owns Optional Subtract Repeat Useful changing with Every PlayMakerFSM Reset everyFrame goLastFrame the changed ActionHelpers GetGameObjectFsm Could not find fsmName FsmVariables GetFsmFloat variableName perSecond subtractValue Value deltaTime DoSubtractFsmFloat"
+}

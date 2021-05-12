@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetComponentInChildren.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetComponentInChildren.cs",
+"keywords":" UnityObject Gets attached its stores owns Store nNOTE theObject that AudioListener the camera Repeat every Reset everyFrame DoGetComponent Value targetObject GetComponentInChildren storeComponent ObjectType"
+}

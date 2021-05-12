@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetUseMeshMaterialIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetUseMeshMaterialIndex.cs",
+"keywords":" Shuriken ShapeModuleSetUseMeshMaterialIndex with Mesh flag Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshMaterialIndex Value"
+}

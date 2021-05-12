@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/GetDeviceGyroscope.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/GetDeviceGyroscope.cs",
+"keywords":" Gets last data stores Variables GetDeviceGyroscope will show processed with initial measured gyroscope expressed reference frame that user giving FsmQuaternion the euler Reset device hello Inverse DoGetDeviceGyro enabled attitudeAngles Value deviceTransform initialRotation gyroInitialInvertedRotation Quaternion rotationRate blue rotationRateUnbiased cyan gravity userAcceleration green DrawLine zero Input gyro attitude eulerAngles yellow"
+}

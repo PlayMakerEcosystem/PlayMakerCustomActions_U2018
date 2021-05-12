@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ToggleComponent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ToggleComponent.cs",
+"keywords":" Author Deek Logic http index php topic Enables disabled vice versa The toggle Supports scripts colliders Wheter every once Reset everyFrame DoToggleComponent Behaviour Renderer Value Collider enabled"
+}

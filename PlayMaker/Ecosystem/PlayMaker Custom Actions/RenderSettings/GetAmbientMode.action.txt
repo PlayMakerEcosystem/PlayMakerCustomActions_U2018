@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientMode.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientMode.cs",
+"keywords":" Rendering Gets GetAmbientMode ObjectType FsmEnum Store the Ambient Reset DoSetAmbientColor ambientModeAsString Value RenderSettings ambientMode ToString"
+}

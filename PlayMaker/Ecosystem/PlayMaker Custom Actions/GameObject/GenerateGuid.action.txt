@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GenerateGuid.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/GenerateGuid.cs",
+"keywords":" original Kiriri http index php topic msg7348 Generates GenerateGuid unique identification storeResult Value NewGuid ToString"
+}

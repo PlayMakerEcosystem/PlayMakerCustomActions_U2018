@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetVelocityConstantSpeed3d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetVelocityConstantSpeed3d.cs",
+"keywords":" Source Physics Sets constant http index php topic SetVelocityConstantSpeed3d Exit the Reset Rigidbody speed velocity normalized exitAction Value"
+}

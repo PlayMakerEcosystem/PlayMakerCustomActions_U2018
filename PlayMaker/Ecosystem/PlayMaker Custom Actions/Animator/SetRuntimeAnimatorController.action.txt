@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Animator/SetRuntimeAnimatorController.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Animator/SetRuntimeAnimatorController.cs",
+"keywords":" Author Deek http index php topic SetRuntimeAnimatorController ObjectType insert into Change Wrap should once forever back forth _wrapMode Disable before playing Repeat every Useful when normalizedTime manually control animation Reset the everyFrame DoAnimatorPlay enabled enable _animator RuntimeAnimatorController setController Value"
+}

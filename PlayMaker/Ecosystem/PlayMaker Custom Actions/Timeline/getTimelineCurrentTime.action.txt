@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/getTimelineCurrentTime.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/getTimelineCurrentTime.cs",
+"keywords":" Playables incremented according mode getTimelineCurrentTime hold components Returns current the box preform every Reset PlayableDirector everyFrame timelineAction currentTime Value timeline time"
+}

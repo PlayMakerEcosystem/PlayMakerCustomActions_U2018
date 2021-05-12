@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetNormalOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetNormalOffset.cs",
+"keywords":" Shuriken ShapeModuleSetNormalOffset with normal Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm normalOffset Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetLastChild.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetLastChild.cs",
+"keywords":" Author Deek http index php topic Gets last the given Wheter every once Reset everyFrame DoGetLastChild result Value GetChild transform childCount"
+}

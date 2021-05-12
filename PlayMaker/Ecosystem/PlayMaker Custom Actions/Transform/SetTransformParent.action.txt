@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformParent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformParent.cs",
+"keywords":" Sets uses method Description format large info box descriptionArea NOT relative modified such that keeps the same world position rotation scale before Reset SetTransformParent available until Set instead you must work version _parent SetParent _parentTransform worldPositionStays Value endif"
+}

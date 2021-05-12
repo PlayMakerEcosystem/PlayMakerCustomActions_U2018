@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolFloatMultiplier.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolFloatMultiplier.cs",
+"keywords":" Made Thore whatever nefarious purpose you like Logic Multiply based BoolFloatMultiplier that determines multiplication work with Factor used when what was upon entering Repeat every the active Reset everyFrame multiplyIfTrue boolVariable floatVariable multiplyIfFalse DoTheModification OnExit resetFloat result Value storedFloat"
+}

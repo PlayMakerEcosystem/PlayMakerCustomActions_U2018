@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SceneObjectsCount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SceneObjectsCount.cs",
+"keywords":" Gets that Store the number children Optional Find with Reset DoSceneObjectsCount FindObjectsOfType FindGameObjectsWithTag findWithTag storeResult Value theGameObjects Length"
+}

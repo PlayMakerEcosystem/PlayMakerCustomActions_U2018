@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiSizerSetDefaultSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiSizerSetDefaultSize.cs",
+"keywords":" script dependancies Assets Custom the gui when GuiBeginSize GuiEndSize GuiSizerSetDefaultSize Reset defaultWidth GUISizer defaultHeight Value"
+}

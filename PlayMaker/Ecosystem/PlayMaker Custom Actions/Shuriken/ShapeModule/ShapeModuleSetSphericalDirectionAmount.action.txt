@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetSphericalDirectionAmount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetSphericalDirectionAmount.cs",
+"keywords":" Spherical Shuriken ShapeModuleSetSphericalDirectionAmount with Spherize Direction Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm sphericalDirectionAmount Value"
+}

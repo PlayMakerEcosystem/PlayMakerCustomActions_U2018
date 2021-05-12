@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/PhysicsIgnoreCollision.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/PhysicsIgnoreCollision.cs",
+"keywords":" Makes detection PhysicsIgnoreCollision first second Wether ignore not the collisions between Reset doIgnoreCollision collider1 collider2 Physics go1 go2 Collider ignoreCollision Value"
+}

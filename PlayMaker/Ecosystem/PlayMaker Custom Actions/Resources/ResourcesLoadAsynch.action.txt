@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/ResourcesLoadAsynch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/ResourcesLoadAsynch.cs",
+"keywords":" pragma disable Asynchronously Loads ResourcesLoadAsynch relative any inside Assets folder your project extensions must omitted stored will spawned directly succedded property the sent when loading failed ResourceRequest Reset UnityException Message progress isDone success _result doneEvent failureEvent ErrorCheck Sprites AudioClip are loadResourceAsynch Resources LoadAsync assetPath _objectVar StoreResource doNotSpawn Instantiate source GetFsmGameObject _go Texture2D GetFsmTexture _texture GetFsmMaterial _material TextAsset GetFsmString _target _asset Variables GetFsmObject storeAsset variableName _request asset GetType ObjectType _var Value not supported"
+}

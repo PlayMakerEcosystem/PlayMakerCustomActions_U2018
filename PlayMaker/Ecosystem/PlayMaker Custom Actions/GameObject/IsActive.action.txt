@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/IsActive.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/IsActive.cs",
+"keywords":" lets you know its property enabled well that parents uses not activeSelf will the Repeat every Useful Activate changes time Reset everyFrame DoIsActiveGameObject activeInHierarchy endif isActive Value _active isActiveEvent isNotActiveEvent"
+}

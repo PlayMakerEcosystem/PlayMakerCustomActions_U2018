@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRoundToNearest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRoundToNearest.cs",
+"keywords":" Math the specified Optional store FloatRoundToNearest Reset everyFrame DoFloatRound Round floatVariable nearest resultAsInt Mathf RoundToInt resultAsFloat Value"
+}

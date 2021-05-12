@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetComponentOwner.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetComponentGameObject.cs",
+"keywords":" source http index php post topic last_msg UnityObject Gets referencing your Reset Code that runs entering the DoGetComponentOwner componentToUse _mb storeGameObject Value"
+}

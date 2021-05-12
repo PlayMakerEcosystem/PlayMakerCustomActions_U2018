@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEvent.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEvent.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEvent.cs",
+"keywords":" Generic allows track specific configuring series within you can create Funnel Analysis observe your players behavior Good places put custom events include milestones levels scene transitions AnalyticsSendCustomEvent the EventData ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled Dictionary Length UpdateValue Add keys values GetValue Analytics CustomEvent eventName _data Value _result AnalyticsResult success failure"
 }

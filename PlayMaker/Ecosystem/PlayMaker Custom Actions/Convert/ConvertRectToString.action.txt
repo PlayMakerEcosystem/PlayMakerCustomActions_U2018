@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertRectToString.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertRectToString.cs",
+"keywords":" Convert Converts flexible are placeholders ConvertRectToString itself FsmRect pattern express components strings Useful you want optimized generated The Repeats every Reset everyFrame DoToString floatConversion rect width Replace _val height ToString _fFormat storeResult Value _result"
+}

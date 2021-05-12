@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmLoop.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmLoop.cs",
+"keywords":" StateMachine http index php topic another SetFsmLoop that owns Optional loop Repeat every Useful the changing PlayMakerFSM Reset goLastFrame fsmNameLastFrame ActionHelpers GetGameObjectFsm FF9900ff Could not find fsmName MaxLoopCountOverride loopOverride everyFrame Value DoSetFsmBool"
+}

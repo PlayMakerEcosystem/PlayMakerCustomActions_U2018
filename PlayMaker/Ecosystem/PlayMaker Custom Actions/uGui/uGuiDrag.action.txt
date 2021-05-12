@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/uGuiDrag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/uGuiDrag.cs",
+"keywords":" Generic EventSystems http index php topic uGui element uGuiDrag RawImage Setup enum Reset PLAYMAKER_1_8_5_OR_NEWER endif updateTypeSelect updateType isUpdate isLUpdate isFUpdate GetMouseButton touchCount TouchPhase Began pause isMobile PointerEventData mousePosition List RaycastResult EventSystem current RaycastAll pointer Count tag raycastResults transform Input GetTouch position forceQuit Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetRotationAddOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetRotationAddOffset.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Optionally applies that another same GetRotationAddOffset FsmStateActionAdvanced enum off specify axis individually Wheter local starting should changed with Store will the Reset Self everyFrame DoGetRotation xOffset yOffset zOffset vector3Offset Add Subtract Inverse Multiply multResult Divide zero Quaternion divResult QuaternionOperation Set storeVector3Result input World applyOffsetToGO Value transform localRotation quat"
+}

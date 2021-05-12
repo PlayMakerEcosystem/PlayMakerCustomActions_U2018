@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyFromString.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyFromString.cs",
+"keywords":" Made Djaydino http www jinxtergames Gets pressed GetKeyFromString keystring test Waring must valid Store the down Repeat every Useful you waiting press release Reset Enum Parse keyCode everyFrame DoGetKey storeResult Value Input GetKey"
+}

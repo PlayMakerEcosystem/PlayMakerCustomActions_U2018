@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/SetEnemyFov3dByTag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/SetEnemyFov3dByTag.cs",
+"keywords":" Generic Send inside Does NOT physics auto SetEnemyFov3dByTag distance 360f Manually Leave ignore Options Your agent npc TitleAttribute Output Will Draw scene Correct when looking down center the line leftLineFOV rightLineFOV Reset green yellow PLAYMAKER_1_8_5_OR_NEWER endif useLateUpdate insideEvent outsideEvent everyFrame DirectionSetup AddRange FindGameObjectsWithTag tag autoRotate eulerAngles tempdata Count tagList floatVariable exitAction InsideFOV targetTemp goTemp magnitude angleToPlayer angleTemp finalDistanceToPlayer distanceTemp OnDrawGizmos drawGizmo centerColor 25f LookRotation Euler arrowHeadAngle normalized left arrowHeadLength angleColor flipOn Quaternion AngleAxis fov forward leftRayRotation rightRayRotation leftRayDirection Gizmos DrawRay transform position rightRayDirection radius Value"
+}

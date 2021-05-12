@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/DxtCompressTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/DxtCompressTexture.cs",
+"keywords":" into DXT generated runtime Compressed textures less graphics memory are faster render After compression will DXT1 the original DXT5 format had alpha channel http index php topic DxtCompressTexture Input Reset Texture2D Compress highQuality Value temp"
+}

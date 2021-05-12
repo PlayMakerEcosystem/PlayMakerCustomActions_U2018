@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/EnableChildrenInRange.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/EnableChildrenInRange.cs",
+"keywords":" Author Deek http php topic Enables Disables specified given EnableChildrenInRange change children off first which index enabling disabling Leave the last Reset parent childCount transform startingFrom endingAt Value child SetActive enable"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetWheelColliderRpm.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetWheelColliderRpm.cs",
+"keywords":" Physics Gets GetWheelColliderRpm ComponentAction The wheel Repeats every usefull changes overtime Reset everyFrame ExecuteAction UpdateCache WheelCollider cachedComponent Value _wc rpm"
+}

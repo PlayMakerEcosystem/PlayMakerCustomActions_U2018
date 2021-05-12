@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Screen/SetCursorLockState.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Screen/SetCursorLockState.cs",
+"keywords":" Screen mouse SetCursorLockState ObjectType FsmEnum will revert the original when exiting every Reset everyframe resetOnExit Value _orig SetCursorMode CursorLockMode Cursor lockState mode"
+}

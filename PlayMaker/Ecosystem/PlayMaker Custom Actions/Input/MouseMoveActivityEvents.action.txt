@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MouseMoveActivityEvents.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MouseMoveActivityEvents.cs",
+"keywords":" still after some inactivity can fine tuned MouseMoveActivityEvents seconds under which are sent not duration trigger future moved Result Where move FsmEventTarget becomes The when moves again NOTE Events must marked Global send between Reset WatchMouse Input Equals mouseMoveEvent _lastPosition _mousePosition realtimeSinceStartup _lastMoveTime inactivityThreshold Value _isInactive eventTarget mouseStillEvent"
+}

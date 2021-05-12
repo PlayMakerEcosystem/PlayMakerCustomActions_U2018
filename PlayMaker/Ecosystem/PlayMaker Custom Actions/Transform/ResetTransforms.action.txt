@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/ResetTransforms.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/ResetTransforms.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic given their inital FsmStateActionAdvanced the Include resets updateType Reset everyFrame DoResetTransforms gameObjects transform resetPosition position resetRotation rotation Quaternion resetScale Value trans localScale"
+}

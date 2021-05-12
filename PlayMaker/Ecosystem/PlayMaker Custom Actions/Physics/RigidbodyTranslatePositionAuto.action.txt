@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidbodyTranslatePositionAuto.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyTranslatePositionAuto.cs",
+"keywords":" Physics Moves calcs smoothing are RigidbodyTranslatePositionAuto move defined manager the Reset Horizontal Vertical Rigidbody horizontalAxis Input GetAxisRaw verticalAxis DoMovement Set normalized speed deltaTime MovePosition transform position storeVector Value movement"
+}

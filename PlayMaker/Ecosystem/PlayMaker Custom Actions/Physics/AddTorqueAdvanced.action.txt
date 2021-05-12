@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/AddTorqueAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/AddTorqueAdvanced.cs",
+"keywords":" Adds rotational optional setting AddTorqueAdvanced ComponentAction add Optionally parameters around leave unchanged local See Physics docs Repeat every active Translate makes the work instead scaled Reset dropdown with selected Force everyFrame DoAddTorque UpdateCache any axis Value seconds perSecond inRealtime unscaledDeltaTime deltaTime apply World AddTorque rigidbody AddRelativeTorque torque forceMode"
+}

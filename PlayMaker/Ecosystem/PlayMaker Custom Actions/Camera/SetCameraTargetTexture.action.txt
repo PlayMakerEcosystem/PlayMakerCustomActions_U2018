@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraTargetTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraTargetTexture.cs",
+"keywords":" Sets SetCameraTargetTexture The that Reset OwnerOption _camera ErrorCheck Value RenderTexture can used Camera TargetTexture"
+}

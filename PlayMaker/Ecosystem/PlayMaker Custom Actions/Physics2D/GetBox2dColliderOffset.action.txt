@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetBox2dColliderOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetBox2dColliderOffset.cs",
+"keywords":" Physics2D Box GetBox2dColliderOffset ComponentAction Targeted BoxCollider2d Repeat every the active Reset everyFrame ExecuteAction UpdateCache offsetX offsetY Value cachedComponent offset"
+}

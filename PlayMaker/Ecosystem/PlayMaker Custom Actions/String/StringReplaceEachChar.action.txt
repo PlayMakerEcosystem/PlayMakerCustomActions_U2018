@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringReplaceEachChar.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringReplaceEachChar.cs",
+"keywords":" Author Deek RegularExpressions http index php topic given specified Useful obfuscate confidential not yet unlocked Optionally removes StringReplaceEachChar that should Store Can same keep them separate revert these changes gets spaces consists several Repeat every the active Reset everyFrame DoBuildString startString replaceWith removeEmptySpace Regex Replace alt storeResult Value tmp"
+}

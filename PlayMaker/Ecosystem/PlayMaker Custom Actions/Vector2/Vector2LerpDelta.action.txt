@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/Vector2LerpDelta.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/Vector2LerpDelta.cs",
+"keywords":" Linearly interpolates vectors Allows selection against allowing framerate indepedant animations https fogbugz asp W1016 Vector2LerpDelta First Second Interpolate clamped range half way between multiplied Store Repeat every Useful any the values are changing Reset everyFrame DoVector2Lerp lerpAgainstDeltaTime deltaTime storeResult Lerp fromVector toVector Value _amount"
+}

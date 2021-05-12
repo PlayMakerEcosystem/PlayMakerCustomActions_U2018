@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/WWWEscapeUrl.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWEscapeUrl.cs",
+"keywords":" used whole portion the getter values WWWEscapeUrl Reset everyFrame DoEscape escapedString WWW EscapeURL stringSource Value"
+}

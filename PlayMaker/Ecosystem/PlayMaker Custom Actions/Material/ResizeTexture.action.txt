@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ResizeTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ResizeTexture.cs",
+"keywords":" Resize Example would mean current devided half http php topic Setup Leave change the Output enum modeSelect simpleMode Reset ResizeTexture FF9900ff Input Please review Average Biliner Nearest filterModeFinal ratio newTexture Value texItem ResizeTextureAction GetPixels RoundToInt pSource pScale Texture2D TextureFormat RGBA32 xLength xWidth xHeight Round xSourceIndex xIndexTL xIndexTR Lerp xIndexBL xIndexBR xRatioX xRatioY pFilterMode Max Floor Mathf Ceil vCenter vPixelSize xYFrom xYTo xXFrom xXTo aSourceColor vSourceSize oColorTemp xGridCount SetPixels aColor Apply oNewTex"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dFriction.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dFriction.cs",
+"keywords":" Sets Physics SetPhysicsMaterial2dFriction that applied Requires components alternativly can directly without reference Leave targeting Repeat every Useful the animated Reset everyFrame DoSetMaterialValue physicsMaterial2d _go Collider2D _col2d sharedMaterial friction Value"
+}

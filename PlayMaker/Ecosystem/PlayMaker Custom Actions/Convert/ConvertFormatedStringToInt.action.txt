@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertFormatedStringToInt.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFormatedStringToInt.cs",
+"keywords":" Converts ConvertFormatedStringToInt convert integer Store result Repeat every Useful the changing Reset Globalization NumberStyles Any everyFrame DoConvertStringToInt intVariable Parse stringVariable Value numberStyle"
+}

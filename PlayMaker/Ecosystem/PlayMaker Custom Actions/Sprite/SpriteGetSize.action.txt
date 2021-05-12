@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteGetSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteGetSize.cs",
+"keywords":" Gets must have Sprite SpriteGetSize ComponentAction control SpriteRenderer The Repeat every Reset everyFrame Execute UpdateCache sizeX sizeY Value cachedComponent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetStringNumbers.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetStringNumbers.cs",
+"keywords":" Author Deek Linq http index php topic given GetStringNumbers Store Repeat every the active Reset everyFrame DoGetNumbers startString Where IsDigit ToArray storeNumbersAsString storeNumbersAsFloat storeNumbersAsInt Value Parse tmpString"
+}

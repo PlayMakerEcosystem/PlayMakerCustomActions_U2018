@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringContainsSwitch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringContainsSwitch.cs",
+"keywords":" Author Deek http index php topic Tests against Multiple see within them Switches Compare Send raise matches are found Reset everyFrame DoStringContainsSwitch Length stringVariable Contains compareTo Value sendEvent NoMatchEvent"
+}

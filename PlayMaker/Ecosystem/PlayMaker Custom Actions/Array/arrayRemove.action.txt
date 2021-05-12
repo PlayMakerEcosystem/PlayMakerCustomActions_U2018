@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/arrayRemove.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/arrayRemove.cs",
+"keywords":" Generic arrayRemove The FsmArray MatchElementType Item remove Reset DoRemoveValue UpdateValue List Equals GetValue Add _obj Values _new ToArray SaveChanges"
+}

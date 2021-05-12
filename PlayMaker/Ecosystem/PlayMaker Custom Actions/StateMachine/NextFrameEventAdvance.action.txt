@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/NextFrameEventAdvance.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/NextFrameEventAdvance.cs",
+"keywords":" StateMachine Sends after Useful you want states every NextFrameEventAdvance Reset loop frameCount Value AutoName Next Frame sendEvent endif"
+}

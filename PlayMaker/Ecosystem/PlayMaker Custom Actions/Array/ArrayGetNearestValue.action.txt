@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetNearestValue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetNearestValue.cs",
+"keywords":" Linq given works ArrayGetNearestValue FsmArray Store MatchElementType nearest found Repeat every the active Reset everyFrame ErrorCheck ints are supported DoGetNearestValue floatValues ElementType OrderBy Mathf GetValue First result SetValue index Value IndexOf intValues closest"
+}

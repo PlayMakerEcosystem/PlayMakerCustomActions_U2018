@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetPointInCurve.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetPointInCurve.cs",
+"keywords":" Math within graph http index php topic GetPointInCurve setup FsmAnimationCurve since scene TitleAttribute Convert Auto Options with Output Reset everyFrame getPoint More than selected please correct useTimeMinutes 60f keys length returnedBool curvePoint useTime time getRandomValue getRandomNormal getRandomAdvance Your above below the horizontal axis storeResult animCurve curve Evaluate Random Range setMin setMax Value CheckBoolArrays lowVal highVal boolarray boolCount"
+}

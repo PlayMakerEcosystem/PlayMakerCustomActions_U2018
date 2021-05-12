@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetLayerRecursive.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetLayerRecursive.cs",
+"keywords":" Sets the its SetLayerRecursive Reset DOSetLayer GetComponentsInChildren Transform trans layer"
+}

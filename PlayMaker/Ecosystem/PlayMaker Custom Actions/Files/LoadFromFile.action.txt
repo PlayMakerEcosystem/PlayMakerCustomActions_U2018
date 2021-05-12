@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/LoadFromFile.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Files/LoadFromFile.cs",
+"keywords":" Files Load into LoadFromFile example Assets myfile txt Reset Exists ReadAllText filePath Value successEvent does not exist Did you the correct filename file extension failureEvent"
+}

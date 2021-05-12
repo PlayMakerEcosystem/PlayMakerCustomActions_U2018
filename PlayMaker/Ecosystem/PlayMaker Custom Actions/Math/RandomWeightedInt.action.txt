@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomWeightedInt.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomWeightedInt.cs",
+"keywords":" http php topic msg41731 Math Pick weighted picked RandomWeightedInt Weight Can hit the same number twice Reset PickRandom Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex result ints randomIndex Value"
+}

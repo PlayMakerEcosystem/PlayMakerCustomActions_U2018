@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/BlendShapes/GetBlendShapeWeight.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/BlendShapes/GetBlendShapeWeight.cs",
+"keywords":" BlendShapes Returns You can continously Requires starting range indexes produce will ignored BlendShape ranging Repeat every the active Reset OwnerOption SkinnedMeshRenderer sharedMesh GetBlendShapeIndex orBlendShapeName everyFrame DoGetBlendShapeWeight Value _skr GetBlendShapeWeight _blendShapeIndex"
+}

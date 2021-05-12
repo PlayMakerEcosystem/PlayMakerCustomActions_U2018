@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Web/WWWPostHeaders.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWPostHeaders.cs",
+"keywords":" Generic Web store Accept variables setup See docs more details WWWPostHeaders Header POST Results Gets ObjectType setting message during How far download progressed Events when the finished loading send there was Reset Dictionary headerKeys _hkey Add _headerKey headerValues Length postKeys _Fsmkey Texture2D textureValue AddBinaryData EncodeToPNG AddField _key ToString _wwwForm Count _headers WWW progress storeText storeTexture storeMovieTexture GetMovieTexture storeAudio GetAudioClip audio3d audioStream audioType Dispose wwwObject errorString Value isDone isError ErrorCheck postValues Unknown _Fsmvar not supported endif"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetLastItem.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetLastItem.cs",
+"keywords":" ArrayGetLastItem FsmArray MatchElementType Store last the Reset ExecuteAction SetValue Length AutoName storeValue NamedVar ActionHelpers GetValueLabel storeIndex endif"
+}

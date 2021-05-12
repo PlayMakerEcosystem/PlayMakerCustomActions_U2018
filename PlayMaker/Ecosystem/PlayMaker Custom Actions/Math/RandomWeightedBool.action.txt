@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomWeightedBool.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomWeightedBool.cs",
+"keywords":" Math Sets randomly RandomWeightedBool higher more the chance have Reset storeResult Random Range weights Value"
+}

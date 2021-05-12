@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmStringCompare.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringCompare.cs",
+"keywords":" Made nightcorelv StateMachine the another FsmStringCompare Optional PlayMakerFSM Reset everyFrame DoGetFsmString goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName DoStringCompare StoreFsmVariable Value equal NotEqualEvent"
+}

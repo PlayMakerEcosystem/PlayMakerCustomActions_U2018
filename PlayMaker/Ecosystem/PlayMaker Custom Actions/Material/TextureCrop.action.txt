@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureCrop.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureCrop.cs",
+"keywords":" Square NOTE Write enabled not created http index php topic TextureCrop Input Options Output RectTransform _rt Reset Texture2D GetPixels width offsetY height offsetX SetPixels cropSize data Apply newTexture Value inportTex cropTex"
+}

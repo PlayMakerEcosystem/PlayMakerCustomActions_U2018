@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/Vector2SmoothDamp.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/Vector2SmoothDamp.cs",
+"keywords":" Gradually changes towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars Vector2SmoothDamp modified function every call take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the Reset DoVector2Damp maxSpeed SmoothDamp smoothTime _velocity_x _velocity_y currentVelocity _velocity_cache current _isDone isDone Value IsApproximately 01f Mathf tolerance"
+}

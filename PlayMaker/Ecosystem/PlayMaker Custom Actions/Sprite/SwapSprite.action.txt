@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SwapSprite.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SwapSprite.cs",
+"keywords":" Replaces single any must have SwapSprite ObjectType Reset SwapSingleSprite resetOnExit _orig SwapSprites spriteRenderer spriteToSwap Value Sprite"
+}

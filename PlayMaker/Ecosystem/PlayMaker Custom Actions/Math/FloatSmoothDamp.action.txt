@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatSmoothDamp.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatSmoothDamp.cs",
+"keywords":" Math Gradually changes towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars FloatSmoothDamp modified function every call take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the Reset DoFloatDamp maxSpeed SmoothDamp smoothTime currentVelocity _velocity current _isDone isDone Value IsApproximately 01f Mathf tolerance"
+}

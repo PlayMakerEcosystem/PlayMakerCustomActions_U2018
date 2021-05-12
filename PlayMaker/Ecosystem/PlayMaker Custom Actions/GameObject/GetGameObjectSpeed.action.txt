@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetGameObjectSpeed.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetGameObjectSpeed.cs",
+"keywords":" need have with physic GetGameObjectSpeed current local the Reset World doComputeSpeed speed magnitude deltaTime Self InverseTransformPoint transform speedVector Value delta lastPosition currentPosition"
+}

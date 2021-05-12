@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetVisibilityByTag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetVisibilityByTag.cs",
+"keywords":" original http index php topic msg47749 then Note sets Sprite SetVisibilityByTag Setup Off Should the included Options TitleAttribute incl Also Filter Reset inclChildren layerFilterOn DoSetVisibility with DoSetVisibilitywithLayer FindGameObjectsWithTag Length tag LayerMask LayerToName gos GetComponentsInChildren Transform layer inclLayerFilterOnChild Renderer inclCollider Collider trans Collider2D enabled visible Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/SetSleepTimeOut.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/SetSleepTimeOut.cs",
+"keywords":" Application power saving dim some time after last active user interaction useful allowing preserve battery life most efficient ways Does nothing handheld devices measured The varies platform generally being SetSleepTimeOut never means revert settings above zero values are seconds Reset SystemSetting NeverSleep Screen sleepTimeout Value"
+}

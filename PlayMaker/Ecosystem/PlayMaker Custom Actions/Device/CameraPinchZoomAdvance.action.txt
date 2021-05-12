@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/CameraPinchZoomAdvance.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraPinchZoomAdvance.cs",
+"keywords":" Source Device http php topic CameraPinchZoomAdvance Setup current storeGameObject should Perspective zoom FOV Minimum below Maximum Cannot that number Disable above change Where FsmEventTarget NOTE Events must marked Global between Send Optional seconds Store Index Total when which means have screen once Not after the other Title finger tempfingercount Reset useMainCamera Untagged tag MainCamera tCount fingerIdCountRule activateIfFingerCount Length Equals fingerId fingerIdCount temp2 RunPinch touchCount tInt Input GetTouch deltaPosition touchZeroPrevPos touchOnePrevPos touchZero touchOne position magnitude prevTouchDeltaMag touchDeltaMag orthographic orthoZoomSpeed orthographicSize deltaMagnitudeDiff perspectiveZoomSpeed Mathf Camera main fieldOfView minSizeClamp maxSizeClamp activate pinchZoomActive 001f temp DelayedEvent eventTarget sendExternalEvent delay Value"
+}

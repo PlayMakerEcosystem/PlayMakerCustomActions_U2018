@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/StringCompareAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/StringCompareAdvanced.cs",
+"keywords":" Crafted https github elusiven Globalization Scripts CustomPlayMakerActions Logic Compares sends Events based version few extra StringCompareAdvanced Store Repeat every Useful any the changing time OPTIONAL current Ignore sensitivity Reset everyFrame DoStringCompare DoStringCompareWithIgnoreAccentsAndCase IgnoreSymbols Doing comparisment with cases DoStringCompareWithIgnoreAccents IgnoreNonSpace DoStringCompareWithIgnoreCase Compare stringVariable compareTo CultureInfo CurrentCulture CompareOptions IgnoreCase both strings are NOT equal storeResult Value notEqualEvent"
+}

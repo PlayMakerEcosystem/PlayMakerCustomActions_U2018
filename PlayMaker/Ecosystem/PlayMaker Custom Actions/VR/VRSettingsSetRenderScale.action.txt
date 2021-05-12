@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/VR/VRSettingsSetRenderScale.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsSetRenderScale.cs",
+"keywords":" Alter controls texel pixel ratio before lens correction meaning that trade sharpness VRSettingsSetRenderScale The render Higher numbers better quality trades performance Reset XRSettings eyeTextureResolutionScale renderScale Value"
+}

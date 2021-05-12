@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialVector4.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialVector4.cs",
+"keywords":" Sets SetMaterialVector4 that applied GameObjects can have multiple specific Alternatively specify instead named parameter shader Repeat every Useful the animated Reset everyFrame DoSetMaterialProperty xValue yValue zValue wValue Length materialIndex SetVector namedVector4 Value _vector4 Renderer materials"
+}

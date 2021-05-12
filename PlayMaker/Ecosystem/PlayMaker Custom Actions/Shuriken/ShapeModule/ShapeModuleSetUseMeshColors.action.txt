@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetUseMeshColors.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetUseMeshColors.cs",
+"keywords":" Shuriken ShapeModuleSetUseMeshColors with Mesh flag Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshColors Value"
+}

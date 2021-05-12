@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialHDRColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialHDRColor.cs",
+"keywords":" http php topic msg58593 Sets HDR SetMaterialHDRColor ComponentAction that applied GameObjects can have multiple specific Alternatively specify instead named shader parameter Repeat every Useful the animated Reset black everyFrame DoSetMaterialColor brightness namedColor _EmissionColor UpdateCache Length materialIndex SetColor colorName Value brightnessFactor renderer materials"
+}

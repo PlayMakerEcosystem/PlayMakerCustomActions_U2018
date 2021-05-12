@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IntEquals.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntEquals.cs",
+"keywords":" Logic based the comparison multiple IntEquals sent ints not Reset everyFrame DoIntCompare _base _int Value ErrorCheck notEqual sends events integers Length needs more than compare"
+}

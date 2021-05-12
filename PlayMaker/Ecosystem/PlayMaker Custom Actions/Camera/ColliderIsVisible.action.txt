@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/ColliderIsVisible.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/ColliderIsVisible.cs",
+"keywords":" Author Deek http index php topic Tests Collider2D will just portion checks are outside frustum ColliderIsVisible test against send not Store the Reset main everyFrame DoIsVisible Plane CalculateFrustumPlanes Camera GeometryUtility TestPlanesAABB planes Collider bounds storeResult Value result trueEvent falseEvent"
+}

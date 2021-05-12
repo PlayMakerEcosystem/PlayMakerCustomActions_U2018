@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventFromState.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventFromState.cs",
+"keywords":" StateMachine Sends STILL running anymore they Browser SendEventFromState Where FsmEventTarget Events must marked Global between Optional seconds NOTE will not fired exited before Reset 001f timer know when send delayed delta against the realtimeSinceStartup startTime deltaTime delay Value fire normal eventTarget sendEvent"
+}

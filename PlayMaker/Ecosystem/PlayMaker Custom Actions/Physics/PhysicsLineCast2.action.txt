@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/PhysicsLineCast2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/PhysicsLineCast2.cs",
+"keywords":" extra like trip wire between PhysicsLineCast2 Setup sweep nOr parameter trigger Result hits send does not any something otherwise world along store Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see Reset DoRaycast repeat repeatInterval fromGameObject fromPosition toGameObject transform toPosition RaycastHit ignoreTriggerColliders Ignore Physics Linecast ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide storeDidHit storeHitObject collider storeHitPoint point storeHitNormal normal storeHitDistance RaycastHitInfo distance didHit noHitEvent DrawLine startPos endPos debugColor Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformAsLastSibling.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformAsLastSibling.cs",
+"keywords":" child local list SetTransformAsLastSibling Description format large info box descriptionArea NOT move the last Reset SetTransformParent available until Set Parent instead you must work version transform SetAsLastSibling endif"
+}

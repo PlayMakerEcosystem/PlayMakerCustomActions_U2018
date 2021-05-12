@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/BinaryLoad.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Files/BinaryLoad.cs",
+"keywords":" Author Romi Fauzi Disk Runtime Serialization Formatters Files working feel free test other types BinaryLoad there any saved your here more than can different integer are currently tested FsmArray that will loaded sure its same with the Binary Save Reset DoLoad Exists BinaryFormatter FileStream Application persistentDataPath filename FileMode Open SavedData Deserialize file Close floatVar savedFloat intVar savedInt savedString stringVar boolVar savedBool Value loadData savedArray Values Clone Resize arrayVar Length notFoundEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/SetPlayableSpeed.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/SetPlayableSpeed.cs",
+"keywords":" Generic Linq Playables pragma disable SetPlayableSpeed hold components playbale the Sent Track not found repeat every Reset PlayableDirector everyFrame execute timeline playableGraph GetRootPlayable trackIndex SetSpeed Math Max speed Value Exception failureEvent"
+}

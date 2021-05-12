@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetRadiusSpeedMultiplier.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetRadiusSpeedMultiplier.cs",
+"keywords":" Radius Shuriken ShapeModuleSetRadiusSpeedMultiplier with arc Speed Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm radiusSpeedMultiplier Value"
+}

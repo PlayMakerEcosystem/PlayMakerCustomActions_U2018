@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UI/UiButtonArrayIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UI/UiButtonArrayIndex.cs",
+"keywords":" EventSystems multiple single UiButtonArrayIndex Where FsmEventTarget with Send when Clicked SerializeField clickedButton Reset calls part sometimes the values are not known build time summary UnityAction cachedGameObjects InitButtons buttons AddListener OnExit Length Button RemoveListener OnClick clickIndex gameObjects Value eventTarget clickEvents index"
+}

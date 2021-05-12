@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RaycastAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RaycastAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal against Colliders scene either origin GetRaycastInfo more detailed RaycastAdvanced FsmStateActionAdvanced Setup nOr parameter local specfied infinity Result send hits something otherwise world along store Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see Reset yellow repeat repeatInterval DoRaycast fromGameObject fromPosition Self transform TransformDirection direction RaycastHit Physics Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask storeDidHit didHit storeHitObject collider storeHitPoint point storeHitNormal normal storeHitDistance RaycastHitInfo distance hitEvent Mathf DrawLine originPos dirVector debugRayLength debugColor Value"
+}

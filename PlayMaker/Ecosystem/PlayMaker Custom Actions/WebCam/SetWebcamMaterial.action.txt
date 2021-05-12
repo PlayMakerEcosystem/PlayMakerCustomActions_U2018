@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/SetWebcamMaterial.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/SetWebcamMaterial.cs",
+"keywords":" Adam brzozowsky gmail http index php topic msg53819 Stream webcam video selected SetWebcamMaterial Reset deviceName webcamName webcamMaterial Value SetTexture _MainTex webCamTexture"
+}

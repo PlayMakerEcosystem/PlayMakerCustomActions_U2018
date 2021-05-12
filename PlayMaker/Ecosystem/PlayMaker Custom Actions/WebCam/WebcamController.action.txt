@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/WebcamController.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/WebcamController.cs",
+"keywords":" Controls http index php topic Optional autoAdjust with raw Options Take enum Output RectTransform _rt Reset safeMode AspectRatioFitter useCustom Length devices device finalWebCamName webTextureWidth webTextureHeight setFps webcamMaterial SetTexture _MainTex endTemp autoAdjustRotation videoRotationAngle UiRawImage transform localEulerAngles ccwNeeded useAspectRatio setAspectRatio aspectRatio videoRatio videoVerticallyMirrored _texture uvRect Rect isPlaying StopCam Stop PauseCam Pause PlayCam ARGB32 DXT1 DXT1Crunched DXT5 DXT5Crunched ETC_RGB4 ETC_RGB4_3DS ETC_RGBA8_3DS ETC2_RGB ETC2_RGBA1 ETC2_RGBA8 PVRTC_RGB2 PVRTC_RGB4 PVRTC_RGBA2 PVRTC_RGBA4 RGB24 TextureFormat RGB565 Bilinear Point FilterModeSelect FilterMode Trilinear useCrop Texture2D WebcamController FF9900ff Webcam smaller than the crop set Please review GetPixels offsetY offsetX width height SetPixels cropSize data webCamTex GetPixels32 SetPixels32 pix Apply webcamTexture webcamTextTemp cropTex takePicture Value"
+}

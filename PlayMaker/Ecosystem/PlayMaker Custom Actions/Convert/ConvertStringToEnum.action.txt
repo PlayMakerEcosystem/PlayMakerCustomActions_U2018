@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToEnum.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToEnum.cs",
+"keywords":" ConvertStringToEnum convert FsmEnum Fired conversion failed that not found the Repeat every Reset everyFrame DoSetEnumValue IsDefined Enum Parse enumVariable GetType _valueCache Value errorEvent"
+}

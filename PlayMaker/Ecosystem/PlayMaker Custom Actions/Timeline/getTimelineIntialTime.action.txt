@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/getTimelineIntialTime.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/getTimelineIntialTime.cs",
+"keywords":" Playables inital which should getTimelineIntialTime hold components Returns the current intial box preform every Reset PlayableDirector everyFrame timelineAction Value timeline initialTime"
+}

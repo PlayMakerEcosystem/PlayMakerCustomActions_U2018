@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/WebcamCount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/WebcamCount.cs",
+"keywords":" WebCam the amount connected WebcamCount Output front facing camera Reset WebCamDevice WebCamTexture count Value devices Length"
+}

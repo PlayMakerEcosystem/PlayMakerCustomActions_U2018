@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Rect/RectContains2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Rect/RectContains2.cs",
+"keywords":" Tests also takes account negative RectContains2 Specify inside send outside Store the Repeat every Reset FsmRect everyFrame DoRectContains test inputs width rectangle height results _rect Contains testPoint storeResult Value contained trueEvent falseEvent"
+}

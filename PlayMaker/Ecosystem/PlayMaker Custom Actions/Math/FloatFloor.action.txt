@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatFloor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatFloor.cs",
+"keywords":" Returns largest integer smaller equal FloatFloor Repeat every the active Reset everyFrame DoMath floatResult Floor intResult Mathf FloorToInt floatVariable Value"
+}

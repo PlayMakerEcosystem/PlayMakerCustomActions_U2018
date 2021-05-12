@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/RendererSetOrderInLayer.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/RendererSetOrderInLayer.cs",
+"keywords":" RendererSetOrderInLayer ComponentAction with the Renderer attached Provide Repeat every Reset everyFrame DoSetSortingGroup UpdateCache cachedComponent sortingOrder orderInLayer Value method"
+}

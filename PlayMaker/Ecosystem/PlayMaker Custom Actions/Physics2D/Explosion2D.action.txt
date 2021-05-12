@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/Explosion2D.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Explosion2D.cs",
+"keywords":" Physics2D Explosion2D Filter explode which will its max power Add Result send when the complete Reset 15f initialization AddComponent isTrigger CircleCollider2D deltaTime explosionTimer DoExplosion explosionSize explosionRate finishEvent Destroy parent explosion_radius current_radius DoTriggerEnter2D Collider2D collideTag exploded transform position explosionForce bomb Rigidbody2D AddForce explodeX direction explodeY Value"
+}

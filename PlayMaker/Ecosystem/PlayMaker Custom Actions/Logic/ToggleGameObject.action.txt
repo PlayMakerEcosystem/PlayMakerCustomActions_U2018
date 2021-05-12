@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ToggleGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ToggleGameObject.cs",
+"keywords":" Author Deek Logic http index php topic Enables disabled vice versa enum toggle What should are visible scene the independent its parents Wheter every once Reset everyFrame DoToggleGameObject Value ActiveInHirarchy activeInHierarchy ActiveType SetActive activeSelf"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTransformPointSide.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformPointSide.cs",
+"keywords":" Gets compared GetTransformPointSide acting which setting Leave effect overrides pointTransform used define its means that must perfectly perpendicular you results lower Result ObjectType FsmEnum likely because are the same Repeat every Note Events will sent when changed _goCollider Reset World unknownEvent everyFrame ExecuteAction Self TransformPoint pointGameObject _goPosition _goReference _position sideAsString ToString _previousSide frontEvent backEvent topEvent bottomEvent leftEvent _side rightEvent GetSide point center Normalize Dot _normal transform Bottom dotUp Back dotForward Front Left dotRight threshold Value Sides Unknown"
+}

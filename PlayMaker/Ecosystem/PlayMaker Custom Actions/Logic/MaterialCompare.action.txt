@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/MaterialCompare.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/MaterialCompare.cs",
+"keywords":" Logic Variables events based MaterialCompare send values not equal Store the Repeat every Reset everyFrame DoCompare materialVariable compareTo storeResult Value result notEqualEvent"
+}

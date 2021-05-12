@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureSize.cs",
+"keywords":" http index php topic TextureSize Always Reset textureVariable Texture2D GetRawTextureData storeResult floatMb Value LongLength texItem BytesToString KiB Convert ToInt32 Floor Round bytes Pow Math Sign byteCount num ToString suf place"
+}

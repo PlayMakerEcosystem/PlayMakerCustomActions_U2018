@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringInsertAtIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringInsertAtIndex.cs",
+"keywords":" Made Djaydino http www jinxtergames add into StringInsertAtIndex place with the included Reset Length stringResult stringVariable Insert index character Value"
+}

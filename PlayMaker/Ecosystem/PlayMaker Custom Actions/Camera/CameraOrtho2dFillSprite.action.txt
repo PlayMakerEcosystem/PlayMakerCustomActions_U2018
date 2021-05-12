@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraOrtho2dFillSprite.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraOrtho2dFillSprite.cs",
+"keywords":" inside assuming setup may occur CameraOrthoFitSprite you want any cropping CameraOrtho2dFillSprite control Leave MainCamera The ObjectType Reset OwnerOption SpecifyGameObject everyFrame DoFill _go main Value _targetGo targetSprite width Screen height _spriteRenderer bounds windowAspect targetAspect _camera orthographicSize heightToBeSeen"
+}

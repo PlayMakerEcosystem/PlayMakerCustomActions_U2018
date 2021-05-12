@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/InverseFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/InverseFloat.cs",
+"keywords":" Math Inverts example becomes InverseFloat Where store result offset growth Repeat every the active Reset everyFrame DoFloatInverse baseValue floatVariable storeFloat Value temp"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetHaloStrength.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetHaloStrength.cs",
+"keywords":" GetHaloStrength Light halos Repeat every Useful the changing Reset everyFrame _getValue Value RenderSettings haloStrength"
+}

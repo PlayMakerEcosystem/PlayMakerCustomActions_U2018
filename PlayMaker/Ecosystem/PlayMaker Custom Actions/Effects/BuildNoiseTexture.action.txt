@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Effects/BuildNoiseTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/BuildNoiseTexture.cs",
+"keywords":" Effects Build noisy BuildNoiseTexture GamObject used spacial position Octave resulting can animated values GradientColorKey blue GradientAlphaKey alpha time Gradient SetKeys gck gak Reset perlinNoise supposed once Texture2D TextureFormat RGB24 Procedural TextureWrapMode Clamp FilterMode Trilinear anisoLevel result suppose every here see cref everyFrame hasChanged Compute store the current perlin summary ComputeNoise width Resize _go transform TransformPoint NoiseMethod methods point00 point01 point10 point11 Lerp point0 point1 stepSize Noise Sum method point NoiseMethodType SetPixel Evaluate sample _texture Apply _resolution resolution _frequency frequency _octaves octaves _lacunarity lacunarity _persistence persistence _dimensions dimensions Value _type _coloring coloring"
+}

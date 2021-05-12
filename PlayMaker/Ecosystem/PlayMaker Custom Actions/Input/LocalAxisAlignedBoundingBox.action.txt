@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/LocalAxisAlignedBoundingBox.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/LocalAxisAlignedBoundingBox.cs",
+"keywords":" Input Gets local allows you know Bounding arbitrary directions LocalAxisAlignedBoundingBox represent compute Store the result Repeat every Typically would Reset axis meshTarget root MeshFilter everyFrame DoGetBounds _mesh vertices _transform InverseTransformPoint _targetTransform TransformPoint _vertex Encapsulate _localVertex BoundsSize Value _bounds"
+}

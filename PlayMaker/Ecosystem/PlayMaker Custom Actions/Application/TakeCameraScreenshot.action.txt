@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/TakeCameraScreenshot.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/TakeCameraScreenshot.cs",
+"keywords":" NOTE Saves http index php topic take have Automatically current RECOMMENDED save Setup Must precision the bits When used then buffer created Reset PLAYMAKER_1_8_5_OR_NEWER endif Auto setDepth _16 depthSelect _24 AddComponent getPicture Depth Texture2D TextureFormat RGB24 Render ReadPixels Rect Apply Camera targetTexture RenderTexture active SaveTextureAsImage FF9900ff cannot both Please review GetFolderPath Environment SpecialFolder filePath useMypictures useDefaultFolder Application persistentDataPath autoNumber Exists screenshotPath screenshotCount useJpeg EncodeToPNG EncodeToJPG WriteAllBytes bytes debugOn screenshotFullPath File filename inclGui _helper getResolutions useCurrentRes currentResolution resWidth width resHeight Value Screen height RequestHelper MonoBehaviour startEndofFrame TakeCameraScreenshot StartCoroutine IEnumerator getPictureIENUM yield WaitForEndOfFrame takePicture Destroy"
+}

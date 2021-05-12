@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/AddToFsmInt.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/AddToFsmInt.cs",
+"keywords":" StateMachine Adds Integer that owns Optional storage Repeat every Useful changing PlayMakerFSM Reset everyFrame the changed goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmInt variableName add storeResult Value DoAddToFsmInt"
+}

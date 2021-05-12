@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetAngularVelocity.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetAngularVelocity.cs",
+"keywords":" based http index php topic Physics Sets leave unchanged NOTE must have ComponentAction The Angular Reset dropdown with selected Self everyFrame DoSetAngularVelocity UpdateCache init position InverseTransformDirection any axis Value apply World rigidbody transform TransformDirection angularVelocity"
+}

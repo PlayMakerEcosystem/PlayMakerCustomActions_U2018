@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsGetloadedDeviceName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsGetloadedDeviceName.cs",
+"keywords":" that XRSettingsGetloadedDeviceName currently the sent not Stereo rendering ObjectType FsmEnum Reset loadedDeviceName noDevice isDeviceActive IsNotActiveEvent RawValue XRSettings stereoRenderingMode"
+}

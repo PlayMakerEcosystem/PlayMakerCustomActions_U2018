@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/StringIsNullOrEmpty.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringIsNullOrEmpty.cs",
+"keywords":" Logic sends Events based Store Repeat every Useful any the changing time Reset everyFrame DoStringIsNullOrEmpty stringVariable storeResult Value _isNullOrEmpty isNullOrEmptyEvent isNotNullOrEmptyEvent"
+}

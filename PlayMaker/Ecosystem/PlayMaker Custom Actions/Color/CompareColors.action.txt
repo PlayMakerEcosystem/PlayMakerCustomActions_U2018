@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/CompareColors.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Color/CompareColors.cs",
+"keywords":" Author Deek http index php topic Compares against multiple sends based enum Amount compare main raise matches are Defines what part should compared Green Blue Alpha Store not Repeat every Useful you waiting Reset white everyFrame DoCompareColors mainColor Length compareTos compareBy RGA RBA RGB CompareColorBy RGBA col1 col2 nothing found fire the Match noMatchEvent IsEqual compareEvents storeResult Value"
+}

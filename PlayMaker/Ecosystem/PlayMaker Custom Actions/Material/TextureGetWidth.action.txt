@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureGetWidth.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureGetWidth.cs",
+"keywords":" http index php topic TextureGetWidth Reset getWidth Value width"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetRelativeRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetRelativeRotation.cs",
+"keywords":" Gets the relative compared another GetRelativeRotation QuaternionBaseAction Results FsmQuaternion Title Euler Reset OwnerOption SpecifyGameObject everyFrame everyFrameOption everyFrameOptions ExecuteAction reference Inverse _go _ref transform rotation quaternion xAngle yAngle zAngle Value _result eulerAngles"
+}

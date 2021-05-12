@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/particleSystemMultiIsAlive.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/particleSystemMultiIsAlive.cs",
+"keywords":" Source Shuriken Particles Particle Emitters http index php topic particleSystemMultiIsAlive Count Setup when turned off Data Will disable itself events are used Reset everyFrame IsPSALive Length ParticleSystem isAlive Value allTrueEvent falsePs allFalseEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/LookAt2dClamped.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/LookAt2dClamped.cs",
+"keywords":" original created collidernyc http index php topic msg37373 Rotates axis its forward points Optional between angles LookAt2dClamped rotate Look will added starting your facing left minimum maximum angle being degrees Leave effect Title Draw the Repeat every lookAtPos Reset green everyFrame DoLookAt vector2Target vector3Target Normalize Atan2 diff Rad2Deg rotationOffset MinAngleLimit 180f MaxAngleLimit Clamp max rotation Quaternion Euler Mathf final_rot_z 01f not almost equal magnitude TransformDirection distance RealPointingtip DrawLine transform position debugLineColor Value"
+}

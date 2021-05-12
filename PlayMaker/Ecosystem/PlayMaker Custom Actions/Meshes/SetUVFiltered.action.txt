@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Meshes/SetUVFiltered.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/SetUVFiltered.cs",
+"keywords":" TooltipAttribute Meshes values matching properties are SetUVFiltered Reset affectSharedMesh sharedMesh MeshFilter everyFrame DoSetUV baseU baseV zero targetU targetV Value Length ignoreBase Equals _baseUV _targetUV Apply the modded _mesh _uvs"
+}

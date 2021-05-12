@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsSetBool.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsSetBool.cs",
+"keywords":" playerpref player pref Sets the preference identified Uses ints save doesn have built PlayerPrefsSetBool Count sensitive Reset Length values Equals PlayerPrefs SetInt keys _value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasRigidBody.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/HasRigidBody.cs",
+"keywords":" attached Sends events based result not HasRigidBody The was Reset Rigidbody Value _found notFoundEvent"
+}

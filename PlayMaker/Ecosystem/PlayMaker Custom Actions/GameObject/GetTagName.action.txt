@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTagName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetTagName.cs",
+"keywords":" Original goren enderunstudios Gets the given GetTagName Reset Untagged storeResult tag Value"
+}

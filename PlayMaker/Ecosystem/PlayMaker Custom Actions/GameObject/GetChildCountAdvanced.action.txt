@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetChildCountAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetChildCountAdvanced.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Adds options recursively those every GetChildCountAdvanced FsmStateActionAdvanced enum amount Store number Title Inactive that are enabled disabled Gets ignored What should against nActiveInHirarchy scene nActiveSelf the itself independent any parents nActive Deprecated function included support users Wheter resets updateType Reset everyFrame GoThroughChildren currChildTrans storeResult Transform childCount Recursive GetChild rootTrans AddCurrentChild ActiveInHirarchy activeSelf ActiveType activeInHierarchy currGO endif getActive Value isActive tmpResult"
+}

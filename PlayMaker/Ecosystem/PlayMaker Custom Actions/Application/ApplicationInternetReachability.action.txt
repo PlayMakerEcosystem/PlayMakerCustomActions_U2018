@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationInternetReachability.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationInternetReachability.cs",
+"keywords":" gets status ApplicationInternetReachability deemed available the actual ObjectType FsmEnum carrier data via local fired when internet not Reset Application internetReachability NotReachable Value _reachable notReachableEvent ReachableViaCarrierDataNetwork CarrierDataNetworkEvent _reachability NetworkReachability ReachableViaLocalAreaNetwork LocalAreaNetworkEvent"
+}

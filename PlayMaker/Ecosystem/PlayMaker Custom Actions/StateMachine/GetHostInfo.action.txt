@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetHostInfo.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetHostInfo.cs",
+"keywords":" StateMachine Gets information the when template running Sub GetHostInfo Reset everyFrame GetInfo hostFsmName GameObjectName currentStateName Value Host ActiveStateName"
+}

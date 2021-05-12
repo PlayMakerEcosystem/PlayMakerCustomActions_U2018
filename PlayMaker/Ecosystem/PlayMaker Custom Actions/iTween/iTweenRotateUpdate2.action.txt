@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/iTween/iTweenRotateUpdate2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/iTween/iTweenRotateUpdate2.cs",
+"keywords":" RotateTo incredibly less expensive usage inside function similar looping situations involving live changing values Does not utilize EaseType you choose tyoe iTweenRotateUpdate2 enum Rotate seconds the animation will take complete used offset Whether animate Reset PLAYMAKER_1_8_5_OR_NEWER endif Hashtable time islocal Self OnExit updateCall PlayMakerUpdateCallType PerformUpdate Remove zero World Add transformRotation transform localEulerAngles vectorRotation Value DoiTween iTween RotateUpdate hash"
+}

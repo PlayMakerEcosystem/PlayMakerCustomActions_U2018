@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/Iterate.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/Iterate.cs",
+"keywords":" StateMachine time called lets safely loop anything iteratation absolute itself find needs substract add child raise will indicate you want beginning again send when reached Result current the iteration resetFlag DoGetNext reset _up startIndex started finishedEvent iterate Max endIndex currentIndex Mathf increment Value loopEvent"
+}

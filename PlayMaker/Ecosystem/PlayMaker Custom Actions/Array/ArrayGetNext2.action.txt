@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetNext2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetNext2.cs",
+"keywords":" gets version lets quickly perform them ArrayGetNext2 FsmArray where leave until send there are iteration raise when indicate you want beginning MatchElementType increment that through Reset resetFlag startIndex DoGetNextItem children errors item result SetValue more items second time avoid possible infinite loop called Practically enabled calling will again iterating first Length endIndex finishedEvent iterate the next child currentIndex Value nextItemIndex loopEvent"
+}

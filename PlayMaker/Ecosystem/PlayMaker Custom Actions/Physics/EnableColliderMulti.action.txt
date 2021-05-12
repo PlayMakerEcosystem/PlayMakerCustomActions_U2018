@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/EnableColliderMulti.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/EnableColliderMulti.cs",
+"keywords":" Author Deek Physics http index php topic disable several GamObject Optionally found EnableColliderMulti with attached flag Reset DoEnableCollider gameObjects applyToAllColliders cols Find colliders the set them GetComponents cols2D Collider Collider2D enabled enable Value"
+}

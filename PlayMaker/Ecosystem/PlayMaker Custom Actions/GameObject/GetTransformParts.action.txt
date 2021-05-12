@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTransformParts.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformParts.cs",
+"keywords":" Gets either individual Pos Sca GetTransformParts ObjectType entire FsmQuaternion The Reset everyFrame DoGetTransform storeTransform storePosition position storeRotation eulerAngles storeQuaternion rotation storeScale Value transform localScale"
+}

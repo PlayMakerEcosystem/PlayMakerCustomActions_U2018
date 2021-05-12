@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetGravity2d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetGravity2d.cs",
+"keywords":" author ransomink physics store the channels Variables GetGravity2d Reset everyFrame DoGetGravity Physics2D storeX StoreY storeVector Value gravity"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/FindClosestAgent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/FindClosestAgent.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic FindClosestAgent FsmStateActionAdvanced containing without consider objects camera Returns with Store the closest resets updateType Reset everyFrame DoTemplate FindObjectsOfType NavMeshAgent allNavMeshAgents skip equals specified withTag Untagged ignoreTag mustBeVisible ActionHelpers IsVisible transform position sqrMagnitude closestAgent closestObj storeDistance Value Mathf Sqrt closestDist"
+}

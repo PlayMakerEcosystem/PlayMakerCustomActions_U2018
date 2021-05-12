@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/RunTemplateFSM.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/RunTemplateFSM.cs",
+"keywords":" StateMachine Creates saved define time via Unlike you can assign variables simply running instead RunTemplateFSM ObjectType send when usually because ran Reset Forward events sub IsGlobal IsSystemEvent entering fsmTemplate CreateSubFsm OnEnable Started storeID Value DoTriggerEnter HandleTriggerEnter OnTriggerEnter DoTriggerStay HandleTriggerStay OnTriggerStay DoTriggerExit Collider HandleTriggerExit OnTriggerExit other DoCollisionEnter HandleCollisionEnter OnCollisionEnter DoCollisionStay HandleCollisionStay OnCollisionStay DoCollisionExit Collision HandleCollisionExit OnCollisionExit DoControllerColliderHit OnControllerColliderHit collisionInfo HandleOnGUI OnGUI exiting the summary OnExit Stop FsmTemplateControl CheckIfFinished runFsm Finished finishEvent"
+}

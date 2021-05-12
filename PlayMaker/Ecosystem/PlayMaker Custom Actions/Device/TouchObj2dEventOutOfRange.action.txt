@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/TouchObj2dEventOutOfRange.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/TouchObj2dEventOutOfRange.cs",
+"keywords":" Device Sends Optionally filter NOTE Uses when TouchObj2dEventOutOfRange Collider2D detect that match Events cancel send Results where the was touched Reset MainCamera defined touchCount Input touches position RaycastHit2D Physics2D GetRayIntersection Camera main ScreenPointToRay screenPos Mathf Store can accessed other RecordLastRaycastHit2DInfo transform storeFingerId fingerId storeHitPoint Value hitInfo point touch touchBegan touchMoved touchStationary touchEnded TouchPhase touchCanceled touchOutOfRange"
+}

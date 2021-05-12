@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiKeyboardEvent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiKeyboardEvent.cs",
+"keywords":" Sends Always before textfield example GuiKeyboardEvent The send when detected Reset OnGUI EventType KeyDown current keyCode sendEvent"
+}

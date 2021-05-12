@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/GetLoadedLevel.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/GetLoadedLevel.cs",
+"keywords":" SceneManagement the that was last loaded GetLoadedLevel Reset SceneManager GetActiveScene buildIndex loadedLevelName Value Application loadedLevel endif"
+}

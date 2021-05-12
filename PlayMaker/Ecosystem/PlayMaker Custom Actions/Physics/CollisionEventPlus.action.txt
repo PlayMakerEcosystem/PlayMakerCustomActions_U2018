@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/CollisionEventPlus.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/CollisionEventPlus.cs",
+"keywords":" Physics between Objects have RigidBody components nNOTE events are sent automatically any collisions CollisionEventPlus enum detect Select Chech Filter Where FsmEventTarget send detected that collided with Store NOTE more about the Reset HandleCollisionEnter HandleCollisionStay HandleCollisionExit HandleControllerColliderHit HandleParticleCollision relativeVelocity magnitude DoCollisionEnter OnCollisionEnter DoCollisionStay OnCollisionStay DoCollisionExit OnCollisionExit StoreCollisionInfo DoControllerColliderHit OnControllerColliderHit collisionInfo DoParticleCollision CollisionType OnParticleCollision ColliderOnly LayerOnly ColliderOrLayer Options ColliderAndLayer set Collider collideLayer collideTag storeCollideObject other storeForce Value TODO impact force eventTarget sendEvent ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+}

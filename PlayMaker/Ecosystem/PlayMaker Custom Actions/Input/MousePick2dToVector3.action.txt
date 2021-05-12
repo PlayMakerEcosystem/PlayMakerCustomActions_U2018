@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MousePick2dToVector3.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MousePick2dToVector3.cs",
+"keywords":" Perform Mouse scene stores results Distance how close must MousePick2dToVector3 was otherwise Store picked Layer these Invert you layers except those defined above Repeat every Reset everyFrame DoMousePick2d Physics2D GetRayIntersection Camera main ScreenPointToRay Input mousePosition Mathf ActionHelpers LayerArrayToLayerMask layerMask invertMask storeDidPickObject didPick collider hitInfo point TODO not sure the strategy storeGameObject storeValue Value zero"
+}

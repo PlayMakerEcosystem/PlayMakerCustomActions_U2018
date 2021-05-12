@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetPrevious.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetPrevious.cs",
+"keywords":" time called gets version lets quickly perform them ArrayGetPrevious FsmArray where leave until beginning send there are items iteration raise when will indicate you want again MatchElementType increment that loop through Reset resetFlag startIndex Length DoGetPreviousItem more children first avoid errors endIndex finishedEvent item result SetValue currentIndex Value iterate the previous child index loopEvent"
+}

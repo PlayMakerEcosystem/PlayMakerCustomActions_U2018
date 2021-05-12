@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsInitialize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsInitialize.cs",
+"keywords":" Generic Advertisements Manually Initializes Normally done should call method have disabled UnityAds Settings the Connect Window UnityAdsInitialize IOS You are currently targeting Android Reset IosGameId elif Advertisement Initialize AndroidGameId testMode Value endif"
+}

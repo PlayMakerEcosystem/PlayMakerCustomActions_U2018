@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Debug/DebugDrawArrow.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Debug/DebugDrawArrow.cs",
+"keywords":" Draw towards http index php topic DebugDrawArrow Setup TitleAttribute distance head needed spehere arrow not manually setting Options Correct gizmo when looking the center line Reset forward yellow 20f 25f OnDrawGizmos setColor left using2D LookRotation Quaternion Euler arrowHeadAngle DrawRay direction normalized radius down arrowHeadLength sphereColor Gizmos DrawSphere transform position sphereSize Value"
+}

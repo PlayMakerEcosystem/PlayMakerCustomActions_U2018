@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUIElement/SetGUITexturePixelInsetSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GuiElement/SetGUITexturePixelInsetSize.cs",
+"keywords":" GUIElement Sets Pixel Soze the attached Useful sizing GUI elements around SetGUITexturePixelInsetSize Reset everyFrame DoGUITexturePixelInsetSize Rect width height Value GUITexture pixelInset"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/UriDecode.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/UriDecode.cs",
+"keywords":" Converts its unescaped representation UriDecode Reset everyFrame DoReplace storeResult Uri UnescapeDataString stringVariable Value"
+}

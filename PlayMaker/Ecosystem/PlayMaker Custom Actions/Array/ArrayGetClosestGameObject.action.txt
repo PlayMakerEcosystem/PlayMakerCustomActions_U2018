@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetClosestGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetClosestGameObject.cs",
+"keywords":" closest within ArrayGetClosestGameObject FsmArray Compare distance items list the declared offset Result Reset everyframe DoFindClosestGo orDistanceFromVector3 distanceFrom _rootGo Mathf objectReferences transform position root sqrMagnitude sqrDist sqrDistTest closestGameObject _go closestIndex Value _index"
+}

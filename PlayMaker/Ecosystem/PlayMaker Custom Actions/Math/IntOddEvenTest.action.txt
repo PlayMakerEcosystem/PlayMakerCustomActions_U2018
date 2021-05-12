@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntOddEvenTest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntOddEvenTest.cs",
+"keywords":" Math given Store result boolean send events IntOddEvenTest Reset everyFrame DoCheck isEven Value isOddEvent _isOdd isEvenEvent"
+}

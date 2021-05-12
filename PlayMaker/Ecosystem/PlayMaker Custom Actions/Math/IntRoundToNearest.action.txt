@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntRoundToNearest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntRoundToNearest.cs",
+"keywords":" Author Deek http index php topic Rounds specified down given then HealthManager consticted IntRoundToNearest rounded should repeat useful changes time Reset entering the everyFrame Code that runs every frame DoRound intVariable result Math Round baseValue Value"
+}

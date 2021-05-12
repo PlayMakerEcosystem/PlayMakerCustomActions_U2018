@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/RandomWaitAroundOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/RandomWaitAroundOffset.cs",
+"keywords":" Author Deek Like also randomizes values the result more unpredictable RandomWaitAroundOffset Minimum Maximum amount wait send when finished Ignore scale Reset max offset Value minFrom minTo maxFrom maxTo Random Range realTime FsmTime RealtimeSinceStartup startTime deltaTime timer time finishEvent"
+}

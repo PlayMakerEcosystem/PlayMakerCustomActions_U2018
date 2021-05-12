@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetLayer2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetLayer2.cs",
+"keywords":" Gets stores GetLayer2 Reset everyFrame DoGetLayer storeIntValue storeNameValue LayerMask LayerToName Value layer"
+}

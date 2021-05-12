@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockTexture.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockTexture.cs",
+"keywords":" Gets GetMaterialPropertyBlockTexture ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset MaterialPropertyBlock everyFrame DoGetMaterialTexture _MainTex UpdateCache renderer GetPropertyBlock Value _propBlock GetTexture _propertyName"
+}

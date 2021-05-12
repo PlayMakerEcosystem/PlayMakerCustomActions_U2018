@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomIntSeed.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomIntSeed.cs",
+"keywords":" http index php topic msg83571 Generic Math Sets between RandomIntSeed Reset InitState seed storeResult Random Range max Value"
+}

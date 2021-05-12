@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialName.cs",
+"keywords":" Gets that applied GameObjects can have multiple specific Alternatively specify instead pointer appended removed will the sent was not found instance Reset fail DoGetMaterialName Length Renderer materials materialIndex Value parseMaterialName trimName EndsWith Replace _token"
+}

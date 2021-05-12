@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetRatio.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetRatio.cs",
+"keywords":" Shuriken TrailModuleSetRatio with Repeat every the active TrailModule Reset _go ParticleSystem _ps trails everyFrame DoExecute _tm ratio Value"
+}

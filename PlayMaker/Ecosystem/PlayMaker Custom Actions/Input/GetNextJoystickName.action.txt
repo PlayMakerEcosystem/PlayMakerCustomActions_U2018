@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetNextJoystickName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetNextJoystickName.cs",
+"keywords":" gets lets you quickly perform them GetNextJoystickName Store send when there are Joysticks Reset increment through DoGetNextJoystick children errors child storeNextJoystickName Value more items second time avoid possible infinite loop called Practically enabled calling will again iterating first Input GetJoystickNames Length finishedEvent iterate the next Joystick nextIndex loopEvent"
+}

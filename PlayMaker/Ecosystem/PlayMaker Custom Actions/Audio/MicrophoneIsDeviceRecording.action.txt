@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/MicrophoneIsDeviceRecording.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Microphone/MicrophoneIsDeviceRecording.cs",
+"keywords":" Audio currently MicrophoneIsDeviceRecording Passing will pick MicrophoneGetDeviceById example sent when the device not Reset Microphone deviceName isRecording Value DeviceIsRecordingEvent DeviceIsNotRecordingEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetOrthCameraPixelPerfect.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetOrthCameraPixelPerfect.cs",
+"keywords":" requires ArrayMaker https fogbugz asp W715 original http index php topic msg48444 SetOrthCameraPixelPerfect Square 32x32 64x64 the Sprite 1x1 2x2 3x3 pixels disable Pixel feedback Description TitleAttribute See Reset Wrong Please set Orthographic DoSetCameraOrthoSize gos _camera orthographicSize temp seeFormula CameraSize sizeResult Screen height spriteSize pixelScale Value ToString"
+}

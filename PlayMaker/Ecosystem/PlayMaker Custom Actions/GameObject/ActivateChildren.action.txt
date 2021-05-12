@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateChildren.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateChildren.cs",
+"keywords":" deactivates optionnaly define recursion affects many levels ActivateChildren deactivate given their direct grand children means objects when exiting Useful you want nNote applies last deactivated won work changes store the can Reset resetOnExit parent activate SetActive recursiveDepth Value currentDepth transform SetActiveRecursively child _nextDepth"
+}

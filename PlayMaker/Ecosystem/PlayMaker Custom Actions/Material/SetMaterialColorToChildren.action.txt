@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialColorToChildren.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialColorToChildren.cs",
+"keywords":" Updated sebaslive Sets named its SetMaterialColorToChildren Reset black DictionaryEntry Item namedColor _Color Hashtable revertOnExit everyFrame DoSetMaterialColor affectAllHierarchy Transform childCount ApplyColorToHierarchy parent GetChild DoSetMaterialColorToGO Length materialIndex GetColor Renderer materials _mat SetColor colorName Value storeOriginalColor _originalColors Add _originalColor"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetTextureName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetTextureName.cs",
+"keywords":" GetTextureName The Reset DoGetMaterialTextureName textureName Value"
+}

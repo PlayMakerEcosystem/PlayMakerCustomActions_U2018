@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TorqueRotateTowards.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TorqueRotateTowards.cs",
+"keywords":" equation source https answers questions rigidbodyaddtorque with quaternions forward html Physics rotate TorqueRotateTowards effect should apply The ObjectType FsmEnum Force 1000f PLAYMAKER_1_8_5_OR_NEWER endif DoRotateTowardsAt targetObject maxAngularVelocity maxSpeed Inverse AddTorque forceMultiplier fixedDeltaTime forceMode Value Rigidbody angularVelocity zero Quaternion Dot transform rotation 9999f _done frame delay reset angular velocity"
+}

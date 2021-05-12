@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayTransferValue.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayTransferValue.cs",
+"keywords":" Made nightcorelv forumlink http php topic Generic StateMachine another basically paste steroids FsmArrayTransferValue BaseFsmVariableAction owns Optional MatchFieldType The Options ObjectType FsmEnum Result sent does not contains that element described below Reset DoTransferValue Invert UpdateCache fsmName FsmVariables GetFsmArray variableName indexToTransfer Cut RemoveAt _list copyType ArrayTransferType nullify fsmArray SetValue AsFirstItem AsLastItem Resize InsertAtSameIndex List Insert Values _listTarget ToArray ArrayPasteType ReplaceAtSameIndex Length indexOutOfRange arrayTarget Set _index _value"
+}

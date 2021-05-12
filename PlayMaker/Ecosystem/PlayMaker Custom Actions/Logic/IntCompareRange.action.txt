@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IntCompareRange.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/IntCompareRange.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal Logic http index php topic Checks between multiple sends accordingly Since order you should define smallest negative FsmStateActionAdvanced compare with Amount next given Reset everyFrame DoIntCompareRange been set behind loop through previous ranges any can equal not Length current matching last bigger that currEvent send integer smaller the range integerValue biggerThan Value smallerThanFirst"
+}

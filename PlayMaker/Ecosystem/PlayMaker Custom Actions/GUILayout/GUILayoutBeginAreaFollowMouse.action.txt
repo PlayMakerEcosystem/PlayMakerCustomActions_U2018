@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUILayout/GUILayoutBeginAreaFollowMouse.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GUILayout/GUILayoutBeginAreaFollowMouse.cs",
+"keywords":" Generic Begin that follows Useful overlays playerName NOTE Block must with corresponding GUILayoutEndArea GUILayoutBeginAreaFollowMouse Optional named the current GUISkin Reset OnGUI Input mousePosition offsetLeft screenPos offsetTop left normalized width convert coordinates Screen height GUILayout BeginArea rect style Value"
+}

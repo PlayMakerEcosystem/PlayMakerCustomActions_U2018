@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UI/UiCanvasGroupGetAlpha.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UI/UiCanvasGroupGetAlpha.cs",
+"keywords":" UiCanvasGroupGetAlpha ComponentAction with the CanvasGroup Repeats every useful animation Reset everyFrame DoGetValue UpdateCache Value cachedComponent alpha"
+}

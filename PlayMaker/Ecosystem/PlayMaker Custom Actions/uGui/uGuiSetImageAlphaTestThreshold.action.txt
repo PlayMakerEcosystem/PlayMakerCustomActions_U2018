@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/uGuiSetImageAlphaTestThreshold.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/uGuiImageSetAlphaTestThreshold.cs",
+"keywords":" test uGui uGuiSetImageAlphaTestThreshold ComponentAction with specifies minimum alpha pixel must have considered hit the Reset _image _go Image ExecuteAction UpdateCache cachedComponent alphaHitTestMinimumThreshold alphaThreshold Value"
+}

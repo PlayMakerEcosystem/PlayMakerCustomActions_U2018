@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/CreateEmptyObject2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/CreateEmptyObject2.cs",
+"keywords":" Creates nUse you specify will CreateEmptyObject2 create Usually Prefab Optional defined used local offset NOTE Overrides Spawn Optionally store the created Reset zero TransformPoint spawnPoint Instantiate EmptyObjectFromNull storeObject Value spawnPosition newObject transform eulerAngles spawnRotation"
+}

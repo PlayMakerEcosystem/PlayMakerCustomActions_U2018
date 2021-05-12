@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs Encryption/PlayerPrefsSetIntWithSimpleHashing.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/PlayerPrefsSetIntWithSimpleHashing.cs",
+"keywords":" Source Security Cryptography Encryption Sets the preference identified with Simple http index php topic PlayerPrefsSetIntWithSimpleHashing Count sensitive Options Optional You can leave blank wanted enum Reset Equals SetInt values SH1 SHA1CryptoServiceProvider Selection MD5 Password MD5CryptoServiceProvider keys Value _hash PlayerPrefs SetString tempString2 tempString HashAlgorithm algorithm ComputeHash Encoding GetBytes StringBuilder Length Append data ToString"
+}

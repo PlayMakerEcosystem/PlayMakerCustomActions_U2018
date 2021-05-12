@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetLineRendererSetColors.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetLineRendererSetColors.cs",
+"keywords":" line SetLineRendererSetColors Setup with The Repeat every Reset everyFrame LineRenderer _lr SetColors startColor endColor Value endif"
+}

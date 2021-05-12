@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/MaterialGetShaderKeywords.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/MaterialGetShaderKeywords.cs",
+"keywords":" parameter Gets MaterialGetShaderKeywords ComponentAction that the applied GameObjects can have multiple specific Alternatively specify instead shader ArrayEditor FsmArray sent was not found Reset fail DoSetMaterialProperty _vector4 UpdateCache Length stringValues materialIndex Value shaderKeywords renderer materials"
+}

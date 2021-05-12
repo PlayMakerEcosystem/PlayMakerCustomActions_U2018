@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetRigidbodyRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetRigidbodyRotation.cs",
+"keywords":" Gets Physics stores Axis more efficient than getting the GetRigidbodyRotation FsmQuaternion Title Euler Reset everyFrame DoGetRotation quaternion rigidBody eulerAngles xAngle yAngle zAngle Value rotation"
+}

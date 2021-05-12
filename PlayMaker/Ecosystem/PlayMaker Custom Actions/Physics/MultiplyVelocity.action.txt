@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/MultiplyVelocity.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/MultiplyVelocity.cs",
+"keywords":" original trentSterling http index php topic msg32820 Physics Multiplies the leave unchanged NOTE must have MultiplyVelocity Reset dropdown with selected everyFrame DoSetVelocity InverseTransformDirection any axis Value apply Rigidbody World transform TransformDirection velocity"
+}

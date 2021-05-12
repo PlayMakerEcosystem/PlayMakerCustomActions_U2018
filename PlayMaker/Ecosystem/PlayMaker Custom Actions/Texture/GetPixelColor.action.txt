@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetPixelColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetPixelColor.cs",
+"keywords":" must otherwise function will fail GetPixelColor needs have readable flag set import settings the position defined Texture2D texture1 GetPixel Value"
+}

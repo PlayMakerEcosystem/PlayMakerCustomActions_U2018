@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyMulti.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyMulti.cs",
+"keywords":" Created DjayDino Gets pressed GetKeyMulti Count StoreValue test Store the down Repeat every Useful you waiting press release Reset KeyCode everyFrame DoGetKey Length values Value Input GetKey"
+}

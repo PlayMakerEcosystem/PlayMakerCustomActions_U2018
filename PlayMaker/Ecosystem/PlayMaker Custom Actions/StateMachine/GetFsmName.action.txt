@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetFsmName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetFsmName.cs",
+"keywords":" StateMachine GetFsmName full Store the fullLabel GetFullFsmLabel Value"
+}

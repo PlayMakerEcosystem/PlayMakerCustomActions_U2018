@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/SetBox2dColliderOffset.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetBox2dColliderOffset.cs",
+"keywords":" Physics2D Box SetBox2dColliderOffset ComponentAction Targeted BoxCollider2d Leave effect overrides Repeat every the active Reset everyFrame ExecuteAction UpdateCache offsetX offsetY Value cachedComponent _offset"
+}

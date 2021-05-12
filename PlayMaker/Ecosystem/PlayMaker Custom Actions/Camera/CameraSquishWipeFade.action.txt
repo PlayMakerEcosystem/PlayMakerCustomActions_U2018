@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraSquishWipeFade.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraSquishWipeFade.cs",
+"keywords":" Squish between two http index php topic CameraSquishWipeFade General FsmAnimationCurve Settings enum Output Reset cameraFrom cameraTo StartCoroutine fadeTime TypeSelect OnExit StopCoroutine routine AlphaTimer alpha enableThis cam1Active AudioListener reEnableListener listener enabled SetActive IEnumerator SquishWipe Camera Matrix4x4 CameraSetup useCurve curve Evaluate deltaTime rate Left TransitionType Down cam1Matrix projectionMatrix cam2Matrix yield originalCam1Rect originalCam2Rect CameraCleanup cam1 cam2 isWorking inProgress Value"
+}

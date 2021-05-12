@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/GetQualityLevel.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/GetQualityLevel.cs",
+"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Sets graphics the current quality Reset qualityIndex qualityName Value QualitySettings GetQualityLevel"
+}

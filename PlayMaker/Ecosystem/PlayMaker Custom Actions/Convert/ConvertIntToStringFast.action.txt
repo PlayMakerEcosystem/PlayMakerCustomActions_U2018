@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertIntToStringFast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertIntToStringFast.cs",
+"keywords":" Optimized StringBuilder Generic Converts Integer optional format with less memory allocations ConvertIntToStringFast convert store converted Repeat every Useful the changing Reset everyFrame DoConvertIntToString intVariable stringVariable Append IntToChar value nbChars ReallocateIFN CString reallocation Math Max nbCharsToAdd m_charsCapacity CopyTo newChars IsEmpty Clear ToString m_chars m_charsCount m_isStringGenerated m_stringGenerated"
+}

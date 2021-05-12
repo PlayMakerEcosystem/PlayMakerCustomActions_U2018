@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Garbage Collection/GarbageCollectionLargeHeap.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GarbageCollection/GarbageCollectionLargeHeap.cs",
+"keywords":" Garbage strategy works best where allocations therefore are relatively infrequent can handled during pauses gameplay http index php topic Large Setup Reset Value tmp GarbageCollectionLargeHeap FF9900ff byteSize number not power nothing happened Please review IsPowerOfTwo"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEvents.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEvents.cs",
+"keywords":" Author Deek script dependancies __Internal Assets Custom SendEventsInspector StateMachine multiple targets FsmStateActionAdvanced Where Sends referenced their selected those scene When contains specific every ObjectType options want also include specified Optionally specify any with Wheter exclude being targeted Sub local transition here http index php topic The NOTE must marked between Optional seconds work around counter part tmpTarget Reset DoSendEvents BroadcastEventToGameObject sendToChildren GameObjectFSM Some GameObjects GetComponents currComponent Length set fsmComponents item ToString IsGlobal You are trying broadcast that global BroadcastEvent excludeSelf HostFSM Host SubFSMs Current doesn have called GetSubFsm subFSMName Send PlayMakerFSM 001f FsmEventTarget EventTarget BroadcastAll everyFrame DelayedEvent sendEvent delay Value LogPath FsmComponent ActiveStateName SendEvents ErrorCheck"
+}

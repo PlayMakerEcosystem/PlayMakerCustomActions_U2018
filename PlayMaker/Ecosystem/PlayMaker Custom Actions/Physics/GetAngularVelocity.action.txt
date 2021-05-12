@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetAngularVelocity.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetAngularVelocity.cs",
+"keywords":" based http index php topic Physics Gets stores NOTE must have Rigid ComponentAction with axis The Angular referencing Repeat every Useful watch evolve time Reset World everyFrame DoGetAngularVelocity UpdateCache Self rigidbody transform InverseTransformDirection Value _angularVelocity"
+}

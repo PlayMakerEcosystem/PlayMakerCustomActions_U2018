@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertVector3ToString.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertVector3ToString.cs",
+"keywords":" Convert Converts flexible are placeholders ConvertVector3ToString itself pattern express components strings Useful you want optimized generated The Repeats every Reset everyFrame DoToString floatConversion Replace _val ToString _fFormat storeResult Value _result"
+}

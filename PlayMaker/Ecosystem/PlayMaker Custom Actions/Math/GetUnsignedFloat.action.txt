@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetUnsignedFloat.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetUnsignedFloat.cs",
+"keywords":" Author Deek Math http index php topic Returns absolute optionally sets that GetUnsignedFloat Apply unsigned Repeat every Useful the changing Reset everyFrame DoFloatAbs Mathf applyToOriginal floatVariable result Value"
+}

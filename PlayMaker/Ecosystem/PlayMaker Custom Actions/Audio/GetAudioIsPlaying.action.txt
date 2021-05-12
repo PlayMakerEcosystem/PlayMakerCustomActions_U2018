@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/GetAudioIsPlaying.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/GetAudioIsPlaying.cs",
+"keywords":" Audio send the not Reset GetAudioIsPlaying AudioSource _comp Value _isPlaying isPlayingEvent isNotPlayingEvent"
+}

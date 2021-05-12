@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/CreateNewMaterial.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/CreateNewMaterial.cs",
+"keywords":" CreateNewMaterial create The newly created sent reference not Reset Diffuse Find shader ShaderNotFound NewMaterial Value"
+}

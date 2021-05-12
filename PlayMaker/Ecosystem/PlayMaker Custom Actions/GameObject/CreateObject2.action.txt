@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/CreateObject2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/CreateObject2.cs",
+"keywords":" Creates nUse you specify will remove obsolete old networking properties CreateObject2 create Usually Prefab Optional defined used local offset NOTE Overrides Spawn Optionally store the created Reset zero TransformPoint spawnPoint Instantiate Quaternion Euler endif storeObject Value spawnPosition newObject transform eulerAngles spawnRotation"
+}

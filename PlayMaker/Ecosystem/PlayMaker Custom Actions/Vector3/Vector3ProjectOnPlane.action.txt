@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3ProjectOnPlane.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3ProjectOnPlane.cs",
+"keywords":" https index php topic msg84027 Performs its Vector3ProjectOnPlane project the resulting projection Runs every Reset everyFrame DoProjectOnPlane storeVector3Result ProjectOnPlane planeNormal Value"
+}

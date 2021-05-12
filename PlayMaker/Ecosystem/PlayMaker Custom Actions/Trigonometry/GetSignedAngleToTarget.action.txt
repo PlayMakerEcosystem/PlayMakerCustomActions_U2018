@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Trigonometry/GetSignedAngleToTarget.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Trigonometry/GetSignedAngleToTarget.cs",
+"keywords":" original https github pedrosanta PlaymakerActionsPack Trigonometry Gets signed degrees clockwise between given axis can defined world you specify both then will used local offset the GetSignedAngleToTarget enum Reset PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoGetAngleToTarget targetObject goTarget targetPosition transform InverseTransformPoint targetPos invertSign GetSignedAngleToTargetDirection storeAngle Value Atan2 localTarget Mathf Rad2Deg _mult"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetPositionAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetPositionAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal version Gets the stores Axis features allows selection GetPositionAdvanced Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoGetPosition World transform localPosition Value position"
+}

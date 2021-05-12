@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayAdd.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayAdd.cs",
+"keywords":" Made nightcorelv forumlink http index php topic PlayMakerFSM StateMachine item FsmArrayAdd BaseFsmVariableAction that owns Optional the Reset ggop UpdateCache fsmName FsmVariables GetFsmArray variableName Resize UpdateValue Set fsmArray Length GetValue"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Mesh/WaveMeshFx.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Mesh/WaveMeshFx.cs",
+"keywords":" Create wave effect http index php topic Setup Options Reset 01f 05f MeshFilter WaveMeshFx FF9900ff Please review failureEvent forceQuit WaveAction Distance waveSource waveLength amp time freq Value Mathf dist mesh vertices"
+}

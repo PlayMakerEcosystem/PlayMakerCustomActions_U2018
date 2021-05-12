@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/GetResourcesCount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/GetResourcesCount.cs",
+"keywords":" original Amaranth http index php post topic last_msg resource directory GetResourcesCount number files the folder sent found Reset DoGetFileCount Resources LoadAll folderName resourceDir Length fileCount Value _count noResourcesEvent"
+}

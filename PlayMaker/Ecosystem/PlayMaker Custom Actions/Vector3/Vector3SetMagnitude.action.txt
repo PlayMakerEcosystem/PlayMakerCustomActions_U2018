@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3SetMagnitude.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3SetMagnitude.cs",
+"keywords":" script dependancies Assets Custom __Internal version Sets Advanced features allows selection length that sent which makes impossible because direction information lost Repeat every Useful any the values are changing Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3SetMagnitude sqrMagnitude failureEvent normalized magnitude Value"
+}

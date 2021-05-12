@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRegexMatch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRegexMatch.cs",
+"keywords":" http index php topic msg34170 RegularExpressions whether was found StringRegexMatch execute expression sure did the matched sent not matches Executes every Reset everyFrame DoAction Length RegexOptions options optionsBit stringVariable regex storeMatch storeIsSuccess Value match Success trueEvent falseEvent"
+}

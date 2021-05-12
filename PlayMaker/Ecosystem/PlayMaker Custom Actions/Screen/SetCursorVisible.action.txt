@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Screen/SetCursorVisible.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Screen/SetCursorVisible.cs",
+"keywords":" Screen mouse SetCursorVisible with will revert the original when exiting every Reset everyframe resetOnExit Value _orig SetCursorVisibility Cursor visible"
+}

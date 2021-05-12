@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/TargetsTrackingOrthoCamera.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/TargetsTrackingOrthoCamera.cs",
+"keywords":" Source Fighter smooth follow track multiple focuses every screen Unlimited objs must same http index php topic TargetsTrackingOrthoCamera main should have The Buffer TitleAttribute Function enum LerpInterpolationType Off Linear Quadratic EaseIn EaseOut Smoothstep Smootherstep SimpleSine DoubleSine DoubleByHalfSine Reset 20f 100f 15f PLAYMAKER_1_8_5_OR_NEWER endif orthographic Please review everyFrame updateTypeSelect updateType CalculateCameraPosition boundingBoxCenter CalculateBounds useTag FindGameObjectsWithTag MainCamera transform position tempPlayer players targets Length MinMaxRect minX maxY maxX minY boundingBoxPadding CalculateCameraPosAndSize Rect WorldToViewportPoint topRight topRightAsViewport width aspect boundingBox height Clamp Mathf Lerp _camera orthographicSize smoothDeltaTime zoomSpeed orthoSizeMin orthoSizeMax Value tempResult goDebug 6B8E23ff always need you will problems"
+}

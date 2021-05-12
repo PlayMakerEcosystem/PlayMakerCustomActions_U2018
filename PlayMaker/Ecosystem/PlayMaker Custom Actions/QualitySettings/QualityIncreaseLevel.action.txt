@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/QualityIncreaseLevel.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/QualityIncreaseLevel.cs",
+"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Increase graphics QualityIncreaseLevel force expensive applied apply anti aliasing Result quality fired when reached the highest available Reset IncreaseLevel applyExpensiveChanges qualityIndex qualityName Value GetQualityLevel QualitySettings Length LimitReachedEvent"
+}

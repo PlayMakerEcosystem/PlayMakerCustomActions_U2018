@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetGameObjectScreenPosition.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetGameObjectScreenPosition.cs",
+"keywords":" Author Deek script dependancies Assets Custom __Internal actual screen given FsmStateActionAdvanced Insert description that sees not specified uses MainCamera store the you wont need convert other coordinates considered otherwise they are expected pixels resets updateType Reset everyFrame DoGetGameObjectScreenPosition main camera WorldToScreenPoint transform position normalize normalized v3Result v2Result Value tmpV3"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialColor.cs",
+"keywords":" Gets that applied GameObjects can have multiple specific Alternatively specify instead named shader the parameter sent was not found Reset DoGetMaterialColor namedColor _Color Length Renderer HasProperty fail materials materialIndex Value GetColor colorName"
+}

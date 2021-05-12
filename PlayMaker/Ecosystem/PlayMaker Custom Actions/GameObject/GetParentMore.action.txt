@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetParentMore.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetParentMore.cs",
+"keywords":" Gets the GetParentMore Reset repetitions repeat go2 transform parent storeResult Value"
+}

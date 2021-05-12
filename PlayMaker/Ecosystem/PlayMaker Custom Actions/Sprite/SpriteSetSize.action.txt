@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteSetSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteSetSize.cs",
+"keywords":" Sets must have Sprite SpriteSetSize ComponentAction control SpriteRenderer The flip values when exits Repeat every Reset everyFrame resetOnExit size_orig Execute UpdateCache sizeX sizeY Value cachedComponent _size"
+}

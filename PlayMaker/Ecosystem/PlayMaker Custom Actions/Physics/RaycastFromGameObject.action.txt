@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RaycastFromGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RaycastFromGameObject.cs",
+"keywords":" against Colliders scene GetRaycastInfo more detailed RaycastFromGameObject enum infinity send hits something otherwise Store how often once everyFrame every other frame nSince raycasts expensive highest can away with these Layer Invert the you pick layers except those defined above Reset DoRaycast repeat repeatInterval fromGameObject position distance RaycastHit Physics Raycast ActionHelpers LayerArrayToLayerMask invertMask TODO LayerMask support RaycastHitInfo storeDidHit didHit hitEvent storeHitObject hitInfo Collider Value Mathf DrawLine originPos debugRayLength DebugRaycastColor GetDirectionVector Backward forward Down Left Direction transform dir"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TriggerEventOncePerObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TriggerEventOncePerObject.cs",
+"keywords":" Generic Physics same except specific register once TriggerEventOncePerObject Might functionality later ignore ignoreThis ignoreGameObject iteration raise when will indicate you want beginning again that activated the instead additional List Reset Untagged OnTriggerEnter HandleTriggerEnter HandleTriggerStay HandleTriggerExit storeCollider DoTriggerEnter DoTriggerStay OnTriggerStay DoTriggerExit trigger TriggerType OnTriggerExit Clear resetFlag TriggerCollider collideTag Contains StoreCollisionInfo other sendEvent alreadyHit Add gameObjectHit Value ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetVSyncCount.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetVSyncCount.cs",
+"keywords":" Source The number VSyncs that should pass frame http index php topic SetVSyncCount Reset must between QualitySettings vSyncCount level Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringAddNewLine.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringAddNewLine.cs",
+"keywords":" Adds together separated StringAddNewLine List strings compose Store the Reset DoBuildString Length count stringParts storeResult Value result"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/EnableChildren.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/EnableChildren.cs",
+"keywords":" Author Deek http index php topic Enables Disables specified EnableChildren change the children off Reset parent transform child SetActive enable"
+}

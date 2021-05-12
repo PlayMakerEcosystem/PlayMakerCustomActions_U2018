@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindFarthest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindFarthest.cs",
+"keywords":" Based FindClosest2 Finds specified nOptionally filter Visibility measure NOTE generally lot quicker find with ignores that owns camera these Invert you pick layers except those defined above closest Store the Repeat every Reset LayerArrayToLayerMask invertMask everyFrame DoFindFarthest OwnerOption consider Untagged FindObjectsOfType FindGameObjectsWithTag withTag objects ignoreOwner mustBeVisible ActionHelpers IsVisible Length _layerMask layer transform position sqrMagnitude storeObject farthestObj storeDistance Value Mathf Sqrt farthestDist"
+}

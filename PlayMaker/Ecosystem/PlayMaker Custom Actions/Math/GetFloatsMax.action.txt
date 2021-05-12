@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatsMax.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatsMax.cs",
+"keywords":" Math Returns maximum list GetFloatsMax The Reset everyFrame DoMaxFromFloats NegativeInfinity Variables GetFsmFloat _value Mathf _val storeResult Value _max"
+}

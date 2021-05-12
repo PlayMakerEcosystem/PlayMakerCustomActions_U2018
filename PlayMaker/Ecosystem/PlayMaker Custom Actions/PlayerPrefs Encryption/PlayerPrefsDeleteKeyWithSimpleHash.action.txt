@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs Encryption/PlayerPrefsDeleteKeyWithSimpleHash.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/PlayerPrefsDeleteKeyWithSimpleHash.cs",
+"keywords":" Source Encryption Removes with its corresponding the preferences http index php topic PlayerPrefsDeleteKeyWithSimpleHash Reset _hash Equals PlayerPrefs DeleteKey tempString Value"
+}

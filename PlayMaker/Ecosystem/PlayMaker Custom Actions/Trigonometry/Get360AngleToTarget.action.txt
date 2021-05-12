@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Trigonometry/Get360AngleToTarget.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Trigonometry/Get360AngleToTarget.cs",
+"keywords":" original https github pedrosanta PlaymakerActionsPack Trigonometry Gets degreees between given axis can defined world you specify both then will used local offset the Get360AngleToTarget enum Reset PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoGetAngleToTarget targetObject goTarget targetPosition transform InverseTransformPoint targetPos invertDirection GetSignedAngleToTargetDirection Atan2 localTarget Mathf Rad2Deg _mult 360f storeAngle Value _angle"
+}

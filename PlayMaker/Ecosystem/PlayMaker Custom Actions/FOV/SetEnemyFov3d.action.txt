@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/SetEnemyFov3d.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/SetEnemyFov3d.cs",
+"keywords":" Send inside Does NOT physics http index php topic SetEnemyFov3d distance Range 360f Manually Leave ignore Options towards TitleAttribute Auto Your npc Output Will Draw scene Correct when looking down center the line leftLineFOV rightLineFOV Reset green yellow PLAYMAKER_1_8_5_OR_NEWER endif useLateUpdate insideEvent outsideEvent everyFrame DirectionSetup autoOn Normalize diff tempQuat autoRotate eulerAngles tempdata floatVariable exitAction InsideFOV targetTemp goTemp magnitude angleToPlayer angleTemp finalDistanceToPlayer distanceTemp OnDrawGizmos drawGizmo centerColor 25f LookRotation Euler arrowHeadAngle normalized left arrowHeadLength angleColor flipOn Quaternion AngleAxis fov forward leftRayRotation rightRayRotation leftRayDirection Gizmos DrawRay transform position rightRayDirection radius Value"
+}

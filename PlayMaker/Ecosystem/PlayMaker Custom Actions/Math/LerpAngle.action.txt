@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/LerpAngle.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/LerpAngle.cs",
+"keywords":" http index php topic msg58654 Math Allows without problems when exceeding degrees Interpolate clamped range FromFloat ToFloat half way between Store result Repeat every Useful any the values are changing Reset everyFrame DoAngleLerp LerpedAngle Mathf LerpAngle fromAngle toAngle amount Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetObjectName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetObjectName.cs",
+"keywords":" Author Deek http index php topic Gets stores the specified Reset everyFrame DoGetObjectName specifyObject storeName Value"
+}

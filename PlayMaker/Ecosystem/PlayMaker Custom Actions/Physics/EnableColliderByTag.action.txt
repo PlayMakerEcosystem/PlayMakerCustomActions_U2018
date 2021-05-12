@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/EnableColliderByTag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/EnableColliderByTag.cs",
+"keywords":" Source Physics Enables Disables http index php topic EnableColliderByTag enum disable Should the included Options Activate TitleAttribute Incl Also componentTarget Reset your setup allCollider layerFilterOn colliderSelect Box Capsule Sphere Mesh Wheel Selection Terrain DisableAllTagFilter DisableAllTag DisableBoxCollider BoxCollider DisableCapsuleCollider CapsuleCollider DisableSphereCollider SphereCollider DisableRigidbody Rigidbody isKinematic detectCollisions DisableMeshCollider MeshCollider DisableWheelCollider WheelCollider DisableTerrainCollider FindGameObjectsWithTag with Length GetComponents scriptComponents temp scriptChildComponents inclChildren inclLayerFilterOnChild objtag GetComponentsInChildren TerrainCollider layer script enabled enable Value"
+}

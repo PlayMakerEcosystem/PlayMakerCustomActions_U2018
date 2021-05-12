@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatFollow.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatFollow.cs",
+"keywords":" Math outside defined Typically camera movement player when getting close screen sides FloatFollow enum follow trigger lerping distance between greater than The startTime currentTime endTime looping Reset PLAYMAKER_1_8_5_OR_NEWER endif margin Mathf Lerp lerpSmoothing deltaTime Value _result updateType FrameUpdateSelector"
+}

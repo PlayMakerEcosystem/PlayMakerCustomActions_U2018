@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/PlayUGuiImageAnimation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/PlayUGuiImageAnimation.cs",
+"keywords":" Plays series given with http php topic framerate animate sprites infinite done will never More than define the number times Reset 12f PlayUGuiImageAnimation UGui called once frame Time timeSinceLevelLoad framesPerSecond Length imgRenderer sprite _image loopCounter loop Value animationDoneEvent lastSpriteIndex spriteIndex"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyDownFromString.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyDownFromString.cs",
+"keywords":" Made Djaydino http www jinxtergames Sends when pressed GetKeyDownFromString keystring test Waring The must valid Reset Enum Parse Input GetKeyDown storeKey keyCode sendEvent storeResult Value keyDown"
+}

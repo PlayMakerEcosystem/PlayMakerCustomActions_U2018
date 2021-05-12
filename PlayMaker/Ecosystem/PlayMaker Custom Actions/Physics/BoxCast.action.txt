@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/BoxCast.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/BoxCast.cs",
+"keywords":" Fires Like Spherecast Returns extras ignore Half dimension which Rotation box FsmQuaternion max length infinite Select deal colliders trigger ObjectType FsmEnum Result hits send does not any something otherwise world along store Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see RaycastHit repeat Reset yellow UseGlobal repeatInterval DoBoxCast fromGameObject transform position maxDistance Physics BoxCast orientation Quaternion identity ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction triggerInteraction storeDidHit DrawLine center halfExtents direction Mathf 10000f _distance debugColor didHit storeHitObject Collider storeHitPoint point storeHitNormal normal storeHitDistance Value RaycastHitInfo distance noHitEvent"
+}

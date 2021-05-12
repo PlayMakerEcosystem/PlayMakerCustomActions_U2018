@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/CollisionEvent2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/CollisionEvent2.cs",
+"keywords":" Physics between other Objects have RigidBody components nNOTE events are sent automatically any CollisionEvent2 detect Filter Leave you want collisions send detected that collided with Store NOTE more about the Reset HandleCollisionEnter HandleCollisionStay HandleCollisionExit relativeVelocity magnitude DoCollisionEnter OnCollisionEnter DoCollisionStay OnCollisionStay DoCollisionExit OnCollisionExit StoreCollisionInfo DoControllerColliderHit collision CollisionType OnControllerColliderHit collideTag storeCollider collisionInfo storeForce Value TODO impact force sendEvent ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+}

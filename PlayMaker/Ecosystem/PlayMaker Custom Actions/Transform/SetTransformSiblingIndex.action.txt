@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformSiblingIndex.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformSiblingIndex.cs",
+"keywords":" given SetTransformSiblingIndex Description format large info box descriptionArea NOT its sibling local list move will clamped between the last child Reset SetTransformParent available until Set instead you must work version SetSiblingIndex Mathf Clamp index Value transform parent childCount endif"
+}

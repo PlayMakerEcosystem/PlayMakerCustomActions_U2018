@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/SetTimeScale.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Time/SetTimeScale.cs",
+"keywords":" SetTimeScale Scales normal half speed Repeat every Useful when animating the Reset everyFrame DoTimeScale Time timeScale Value"
+}

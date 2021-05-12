@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetNextRandomInt.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetNextRandomInt.cs",
+"keywords":" made Jeanfabre added djaydino Math gets which means always unique results with duplicated ints might iteration number because already GetNextRandomInt Starts Defines How many picks within before finished looping Store series carries force you want renter back item child send when there are children cache changes increment reset ArrayList Add DoGetNextPick intSerieCount Random Range intPool RemoveAt randomIndex storeNextInt more second time avoid possible infinite loop called Practically enabled calling will again iterating first intPoolCount Value finishedEvent iterate the next _nextPick loopEvent"
+}

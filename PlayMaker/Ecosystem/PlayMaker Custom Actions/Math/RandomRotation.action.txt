@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomRotation.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Quaternion/RandomRotation.cs",
+"keywords":" Math Sets RandomRotation FsmQuaternion Store euler Seems related the randomization algorythm could provide better results when avoid similar rotations time Quaternion Reset rotation Random rotationUniform storeResult storeEulerResult Value _quat eulerAngles"
+}

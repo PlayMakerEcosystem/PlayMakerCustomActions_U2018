@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/GetScreenSizeRatio.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/GetScreenSizeRatio.cs",
+"keywords":" Application Gets GetScreenSizeRatio The Reset storeScreenSizeRatio Value height Screen width"
+}

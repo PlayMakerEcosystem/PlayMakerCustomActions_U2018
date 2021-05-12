@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Garbage Collection/GarbageCollectionGetTotalMemory.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GarbageCollection/GarbageCollectionGetTotalMemory.cs",
+"keywords":" Mono Total http index php topic GarbageCollectionGetTotalMemory Allow Garbage Reset getGcMem GetTotalMemory resultMb Convert ToSingle everyframe Value ConvertBytesToMegabytes bytes 1024f"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmStringSwitch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringSwitch.cs",
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Sends based FsmStringSwitch that owns Optional the Switches Compare Send PlayMakerFSM Reset everyFrame Ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName ttop Length StoreFsmVariable compareTo Value sendEvent"
+}

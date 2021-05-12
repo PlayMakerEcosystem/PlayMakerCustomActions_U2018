@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FsmGameObjectChanged.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmGameObjectChanged.cs",
+"keywords":" Made nightcorelv Logic Tests the send change store that can used other operations FsmGameObjectChanged PlayMakerFSM Reset Ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmGameObject variableName ttop storeFsmValue previousValue storeResult Value changedEvent"
+}

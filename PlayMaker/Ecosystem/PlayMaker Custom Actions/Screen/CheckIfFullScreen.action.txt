@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Screen/CheckIfFullScreen.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Screen/CheckIfFullScreen.cs",
+"keywords":" Checks CheckIfFullScreen send application not full Runs are sent discretly first execution then when changes occur Reset everyFrame isFullScreenEvent _cache isFullScreen Value isNotFullScreenEvent"
+}

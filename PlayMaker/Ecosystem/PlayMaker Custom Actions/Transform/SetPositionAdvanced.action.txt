@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetPositionAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetPositionAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal version Sets leave unchanged features allows selection SetPositionAdvanced The stored individual below local Repeat every Reset dropdown with selected Self PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoSetPosition init any axis Value apply World transform localPosition position"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetBox2dColliderSize.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetBox2dColliderSize.cs",
+"keywords":" Physics2D Box GetBox2dColliderSize ComponentAction Targeted BoxCollider2d Repeat every the active Reset everyFrame ExecuteAction UpdateCache sizeX sizeY Value cachedComponent"
+}

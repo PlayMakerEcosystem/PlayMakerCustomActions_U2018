@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetTransformDistance.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformDistance.cs",
+"keywords":" http index php topic msg52121 based GetTransformDistance enum Gets positive values depending the Reset everyFrame DoGetDistance OwnerOption selectDistanceType Vector3Distance newPos xDistance newX yDistance newY distanceSelect zDistance getNegative InverseTransformPoint newZ storeResult Mathf Value transform position"
+}

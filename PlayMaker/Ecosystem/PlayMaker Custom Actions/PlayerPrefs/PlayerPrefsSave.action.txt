@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsSave.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsSave.cs",
+"keywords":" Saves the Player You should need some platform like PS4 PlayerPrefsSave PlayerPrefs Save"
+}

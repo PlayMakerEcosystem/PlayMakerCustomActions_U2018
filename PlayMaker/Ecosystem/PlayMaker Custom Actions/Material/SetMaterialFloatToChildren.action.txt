@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialFloatToChildren.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialFloatToChildren.cs",
+"keywords":" Updated sebaslive Sets named its SetMaterialFloatToChildren Reset DictionaryEntry Item namedFloat _Shininess Hashtable revertOnExit everyFrame DoSetMaterialColor affectAllHierarchy Transform childCount ApplyColorToHierarchy parent GetChild DoSetMaterialColorToGO Length materialIndex GetFloat Renderer materials _mat SetFloat floatName Value storeOriginalFloat _originalFloats Add _originalFloat"
+}

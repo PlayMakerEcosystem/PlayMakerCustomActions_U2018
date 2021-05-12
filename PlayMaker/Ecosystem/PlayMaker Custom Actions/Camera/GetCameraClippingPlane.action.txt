@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/GetCameraClippingPlane.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/GetCameraClippingPlane.cs",
+"keywords":" Gets ortho ComponentAction with not defined will Main near The far Clipping Reset everyFrame DoGetCameraClippingPlane UpdateCache nearClippingPlane nearClipPlane farClippingPlane Value camera farClipPlane"
+}

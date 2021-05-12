@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsLoadDeviceByName.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsLoadDeviceByName.cs",
+"keywords":" the desired will Note that was already loaded restart may forced XRSettingsLoadDeviceByName device load Reset XRSettings LoadDeviceByName deviceType Value"
+}

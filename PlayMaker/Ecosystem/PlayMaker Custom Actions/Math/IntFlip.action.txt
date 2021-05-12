@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntFlip.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntFlip.cs",
+"keywords":" Author Deek Math http index php topic Inverts sign given positive gets becomes negative vice versa IntFlip divide flipped Repeat every Useful the variables are changing Reset everyFrame DoFlip result intVariable Value"
+}

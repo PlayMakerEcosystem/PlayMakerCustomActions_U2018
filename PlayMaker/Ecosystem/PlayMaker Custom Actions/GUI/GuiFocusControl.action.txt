@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiFocusControl.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiFocusControl.cs",
+"keywords":" Move keyboard named GuiFocusControl the focus OnlyForce Reset OnGUI GetNameOfFocusedControl GUI FocusControl controlName Value"
+}

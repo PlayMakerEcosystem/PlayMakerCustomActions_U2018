@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolCompare.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolCompare.cs",
+"keywords":" Logic Compares sends Events based BoolCompare test Store Repeat every Useful any the strings changing time Reset everyFrame DoStringCompare boolVariable compareTo storeResult Value equal notEqualEvent"
+}

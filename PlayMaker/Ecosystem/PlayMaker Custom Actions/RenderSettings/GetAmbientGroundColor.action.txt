@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientGroundColor.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientGroundColor.cs",
+"keywords":" Rendering Gets GetAmbientGroundColor Store the Ambient Ground Repeats every Reset everyFrame DoSetAmbientGroundColor Value RenderSettings ambientGroundColor"
+}

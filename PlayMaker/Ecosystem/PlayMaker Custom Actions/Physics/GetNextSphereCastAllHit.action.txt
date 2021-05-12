@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetNextSphereCastAllHit.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetNextSphereCastAllHit.cs",
+"keywords":" Performs sphereCast time called gets lets quickly perform them GetNextSphereCastAllHit Settings center nOr parameter shpere into which sweep sphere local specified world infinity Layer these Invert you pick layers except those defined above RayCast Draw Note Gizmos View see next child send when there are more Reset forward yellow cache RaycastHit increment hit loop through the finishedEvent getting RaycastHitInfo nextHitIndex loopEvent DoRaycastAll fromGameObject fromPosition distance Self transform TransformDirection direction Physics SphereCastAll radius ActionHelpers LayerArrayToLayerMask layerMask invertMask Mathf DrawLine originPos dirVector debugRayLength debugColor Value hits Length noHitEvent"
+}

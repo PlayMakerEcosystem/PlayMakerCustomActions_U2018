@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformAxisEvent.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformAxisEvent.cs",
+"keywords":" original KellyRay http index php topic msg52975 UnityStandardAssets pragma disable Sends based CrossPlatformAxisEvent defined the any centered Reset Horizontal Vertical ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput axes offsets CROSS_PLATFORM_INPUT horizontalAxis CrossPlatformInputManager GetAxis verticalAxis Value endif squared center Equals noDirection integer sector TODO directions Atan2 Mathf Rad2Deg 45f 360f angle 90f send events bases rightEvent upEvent leftEvent Left downEvent Down since already offset AnyDirection"
+}

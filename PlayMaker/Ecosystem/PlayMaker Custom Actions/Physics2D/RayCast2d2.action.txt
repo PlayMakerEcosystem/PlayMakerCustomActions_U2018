@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/RayCast2d2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/RayCast2d2.cs",
+"keywords":" against Colliders scene conceptually like laser that fired particular making contact beam detected reported GetRaycastHit2dInfo more detailed version also feature RayCast2d2 Setup nOr parameter local specified world effect include objects coordinate less leave Result does any send hits something otherwise along store simply between origin not then expressed which could greater than magnitude Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos View see Reset yellow fromGameObject DoRaycast repeat repeatInterval Math Epsilon fromPosition position normalized proper later the rayCastHitinfo Self _transform TransformDirection direction dirVector RaycastHit2D NegativeInfinity Physics2D Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask _minDepth _maxDepth RecordLastRaycastHit2DInfo storeDidHit storeHitObject collider storeHitPoint point storeHitNormal normal storeHitDistance distance storeHitFraction hitInfo fraction didHit noHitEvent Mathf originPos dirVector2 dirVector3 debugRayLength DrawLine debugColor Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/CustomMousePick.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Input/CustomMousePick.cs",
+"keywords":" Perform scene stores results how close must CustomMousePick same reference bottom left window width Screen height which LEave Layer these Invert you layers except those defined above RaycastHit Reset 100f everyFrame main activeSelf find mouse outside camera both performance thing pixelRect Contains screenPosition cameraComp ScreenPointToRay Input mousePosition Physics Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask debugLine DrawRay origin direction rayDistance debugColor storeDidPickObject didPick collider hit TODO not sure the strategy storeGameObject storeDistance Mathf storePoint storeNormal Value zero DoMousePick"
+}

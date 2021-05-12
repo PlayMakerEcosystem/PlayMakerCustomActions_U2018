@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetBoxColliderCenter.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetBoxColliderCenter.cs",
+"keywords":" Physics Box http index php topic SetBoxColliderCenter ComponentAction BoxCollider apply add Optionally any with parameters along axis leave unchanged Repeat every the active Reset everyFrame DoChange UpdateCache Value cachedComponent center"
+}

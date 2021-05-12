@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/TransformDirectionAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/TransformDirectionAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal Transforms operation not affected scale position returned same length TransformDirectionAdvanced FsmStateActionAdvanced The local expressed world Reset everyFrame DoTransformDirection storeResult transform TransformDirection localDirection Value"
+}

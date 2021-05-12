@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TriggerEvent2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TriggerEvent2.cs",
+"keywords":" Physics objects have RigidBody components nNOTE events are sent when any collides collisions TriggerEvent2 detect Filter Where FsmEventTarget send detected Store that collided with the Reset HandleTriggerEnter HandleTriggerStay HandleTriggerExit storeCollider DoTriggerEnter OnTriggerEnter DoTriggerStay OnTriggerStay DoTriggerExit Collider trigger TriggerType OnTriggerExit Value collideTag StoreCollisionInfo other eventTarget sendEvent ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+}

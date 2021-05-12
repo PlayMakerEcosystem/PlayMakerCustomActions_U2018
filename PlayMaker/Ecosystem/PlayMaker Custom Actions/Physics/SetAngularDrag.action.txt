@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetAngularDrag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetAngularDrag.cs",
+"keywords":" Physics Sets angular applies rotational separately the linear that affects positional movement SetAngularDrag ComponentAction 10f Repeat every Typically would Reset Rigidbody everyFrame DoSetDrag angularDrag drag Value"
+}

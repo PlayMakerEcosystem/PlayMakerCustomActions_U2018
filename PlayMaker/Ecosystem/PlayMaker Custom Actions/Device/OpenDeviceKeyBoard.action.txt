@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.cs",
+"keywords":" Device Opens native provided screen single setting Hides inputed Swith theme entering becomes Comes back keep sent when the user Reset TouchScreenKeyboardType TouchScreenKeyboard keyBoardType autoCorrection multiLine secure alert textPlaceHolder OPEN NOT Value _active active _done OpenDeviceKeyBoard done endif"
+}

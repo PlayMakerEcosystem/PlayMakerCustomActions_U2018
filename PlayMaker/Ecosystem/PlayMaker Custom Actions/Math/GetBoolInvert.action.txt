@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetBoolInvert.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetBoolInvert.cs",
+"keywords":" Math Flips save into another GetBoolInvert Store the invertion Reset invertedBoolVariable boolVariable Value"
+}

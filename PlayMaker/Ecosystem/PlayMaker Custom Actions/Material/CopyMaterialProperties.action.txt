@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/CopyMaterialProperties.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Material/CopyMaterialProperties.cs",
+"keywords":" paste onto another CopyMaterialProperties Reset CopyMaterial recipient CopyPropertiesFromMaterial source Value"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringDeleteLine.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringDeleteLine.cs",
+"keywords":" specificy last first StringDeleteLine The line delete Reset DoDeleteLineFromString not defined source Length lineIndex index split count theString Value result"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/SetEnemyFov2dByTag.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/SetEnemyFov2dByTag.cs",
+"keywords":" Generic Send inside Does NOT physics auto http index php topic SetEnemyFov2dByTag 360f Manually Leave ignore Options Your agent player npc TitleAttribute Output Will Draw scene center the Reset green yellow PLAYMAKER_1_8_5_OR_NEWER endif useLateUpdate insideEvent outsideEvent everyFrame DirectionSetup AddRange FindGameObjectsWithTag tag autoRotate eulerAngles temp_rot tempdata rotation Count tagList exitAction Vector2FromAngle InsideFOV squaredDistance playerPos signLeftLine signRightLine Cos angles Mathf Deg2Rad OnDrawGizmos drawGizmo centerColor angleColor rightLineFOV RotatePointAroundTransform direction normalized radius Value step Gizmos DrawRay transform position leftLineFOV"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Trigonometry/ConvertDegreesToRadians.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Trigonometry/ConvertDegreesToRadians.cs",
+"keywords":" Original Wesley Brown BadSeedGames http index php topic Trigonometry Convert constant ConvertDegreesToRadians The angle expressed Repeat every Reset everyFrame DoConvertion angleInRadians angleInDegrees Value Mathf Deg2Rad"
+}

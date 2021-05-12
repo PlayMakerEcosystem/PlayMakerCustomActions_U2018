@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/ArrayGetChildrenOfGameObject.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetChildrenOfGameObject.cs",
+"keywords":" Original DudeBxl Generic Store direct ArrayGetChildrenOfGameObject The Reset FsmArray GetAllChilds GetComponentsInChildren includeInactive childs includeParent Value parent transform Add trans objectReferences list ToArray storeChildren SaveChanges"
+}

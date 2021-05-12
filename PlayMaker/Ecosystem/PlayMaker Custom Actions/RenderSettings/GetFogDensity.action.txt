@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetFogDensity.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetFogDensity.cs",
+"keywords":" GetFogDensity distance Repeat every Useful the Fog setting changing Reset everyFrame _getValue Value RenderSettings fogDensity"
+}

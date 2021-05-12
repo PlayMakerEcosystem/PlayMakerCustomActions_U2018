@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FsmEnumSwitch.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FsmEnumSwitch.cs",
+"keywords":" Logic Sends based given FsmEnumSwitch with Optional Switches Compare Values Send MatchFieldType PlayMakerFSM Reset everyFrame DoEnumSwitch the changed goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmEnum variableName Length Equals enumVariable compareTo Value sendEvent"
+}

@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetLength.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetLength.cs",
+"keywords":" cone Shuriken ShapeModuleSetLength with Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm length Value"
+}

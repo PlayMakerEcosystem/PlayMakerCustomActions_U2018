@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetDistance2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetDistance2.cs",
+"keywords":" Measures betweens vectors stores the are offseted GameObjects declared GetDistance2 Reset everyFrame DoGetDistance OwnerOption orVector3 zero transform position orVector3Target storeResult Value Distance"
+}

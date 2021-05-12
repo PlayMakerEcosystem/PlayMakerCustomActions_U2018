@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsShowing.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsShowing.cs",
+"keywords":" Generic Advertisements status UnityAdsIsShowing The current ready sent when not useful you want changes Reset everyFrame checkIsShowing Advertisement Value _isShowing isShowingEvent isNotShowingEvent UnityAds supported IOS Android Platforms endif"
+}

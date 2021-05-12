@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatOperatorAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatOperatorAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal Performs operations version you choose when FloatOperatorAdvanced FsmStateActionAdvanced enum first second math perform Store the Reset DoFloatOperator float1 float2 Add Subtract Multiply Divide Max Operation Power storeResult Value Mathf Pow"
+}

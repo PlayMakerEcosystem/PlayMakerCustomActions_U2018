@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatLerp.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatLerp.cs",
+"keywords":" Math Linearly interpolates against allowing framerate indepedant animations First Second Interpolate clamped range half way between multiplied Store Repeat every Useful any the values are changing Reset everyFrame DoFloatLerp lerpAgainstDeltaTime deltaTime storeResult Mathf Lerp fromFloat toFloat Value _amount"
+}

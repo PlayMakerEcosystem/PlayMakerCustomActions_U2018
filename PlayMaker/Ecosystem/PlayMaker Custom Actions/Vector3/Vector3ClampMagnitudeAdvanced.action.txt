@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3ClampMagnitudeAdvanced.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3ClampMagnitudeAdvanced.cs",
+"keywords":" script dependancies Assets Custom __Internal version Clamps the Vector3ClampMagnitudeAdvanced Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3ClampMagnitude ClampMagnitude vector3Variable maxLength Value"
+}

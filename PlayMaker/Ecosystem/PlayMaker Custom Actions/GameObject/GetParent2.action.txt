@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetParent2.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetParent2.cs",
+"keywords":" Gets the with complex flow GetParent2 Reset everyFrame Execute transform parent storeResult Value"
+}

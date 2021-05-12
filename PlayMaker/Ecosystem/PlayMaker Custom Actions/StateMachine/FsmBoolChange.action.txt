@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmBoolChange.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmBoolChange.cs",
+"keywords":" Source http index php topic msg47455 StateMachine Tests another FsmBoolChange Optional Setup expection that should changes send the did not work will Data Change Result Title Store PlayMakerFSM Reset originalValue DoGetFsmBool goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmBool variableName BoolChanged storeFsmValue previousValue everyFrame storeValue Value notChangedEvent"
+}

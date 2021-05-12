@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetNextRayCastAllHitFromScreen.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetNextRayCastAllHitFromScreen.cs",
+"keywords":" Linq Performs time called gets lets quickly them GetNextRayCastAllHitFromScreen Settings Leave Screenspace pixels bottom left screen pixelWidth pixelHeight infinity Layer these Invert you pick layers except those defined above will perform raycast useful whne exiting before next child send when there are more Reset OwnerOption SpecifyGameObject cache RaycastHit increment hit loop through the resetAction finishedEvent getting RaycastHitInfo nextHitIndex loopEvent DoRaycastAll main _camera fromScreenPosition Mathf _cam ScreenPointToRay screenPos Physics RaycastAll rayLength ActionHelpers LayerArrayToLayerMask layerMask invertMask Value OrderBy distance ToArray hits Length noHitEvent"
+}

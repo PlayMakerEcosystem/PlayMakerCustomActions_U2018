@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FsmFloatChanged.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatChaned.cs",
+"keywords":" Made nightcorelv Logic Tests the send change store that can used other operations FsmFloatChanged Optional PlayMakerFSM Reset Ggop ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmFloat variableName ttop storeFsmValue previousValue storeResult Value changedEvent"
+}

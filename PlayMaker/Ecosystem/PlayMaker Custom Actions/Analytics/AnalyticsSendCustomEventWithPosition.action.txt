@@ -2,5 +2,6 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEventWithPosition.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEventWithPosition.cs"
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEventWithPosition.cs",
+"keywords":" Generic allows track specific configuring series within you can create Funnel Analysis observe your players behavior Good places put custom events include milestones levels scene transitions AnalyticsSendCustomEventWithPosition The ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled zero gameObjectPosition transform OrVector3position Analytics CustomEvent eventName _position Value _result AnalyticsResult success failure endif"
 }

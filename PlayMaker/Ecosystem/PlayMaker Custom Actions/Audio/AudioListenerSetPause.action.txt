@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioListenerSetPause.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioListenerSetPause.cs",
+"keywords":" Paused audio will not generate sound Similar setting the volume AudioListenerSetPause Reset everyFrame SetPause AudioListener pause Value"
+}
