@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dBounciness.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dBounciness.cs",
 "keywords":" Sets Physics SetPhysicsMaterial2dBounciness that applied Requires components Alternativly can directly without reference Leave targeting friction FsmFloat Repeat every Useful the animated bool Reset everyFrame DoSetMaterialValue physicsMaterial2d gameObject _go Collider2D _col2d sharedMaterial bounciness Value",
+"documentation":{
 "description":"Sets the bounciness value of a Physics Material 2d."
+}
 }

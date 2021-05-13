@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsGetloadedDeviceName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsGetloadedDeviceName.cs",
 "keywords":" that XRSettingsGetloadedDeviceName currently FsmString the FsmBool sent not Stereo rendering ObjectType FsmEnum Reset string loadedDeviceName noDevice isDeviceActive IsNotActiveEvent RawValue XRSettings stereoRenderingMode",
+"documentation":{
 "description":"Get Type of VR device that is currently in use."
+}
 }

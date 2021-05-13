@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Meshes/SetMesh.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/SetMesh.cs",
 "keywords":" Meshes Sets attached ObjectType Place the Spline Computer here FsmObject bool Reset everyFrame DoSetMesh gameObject MeshFilter meshObject Value Mesh",
+"documentation":{
 "description":"Sets the Mesh attached to a Game Object."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetAmbientSkyColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetAmbientSkyColor.cs",
 "keywords":" Rendering Sets The Ambient Sky Repeats every bool Reset everyFrame DoSetAmbientSkyColor RenderSettings ambientSkyColor Value",
+"documentation":{
 "description":"Sets the RenderSettings Ambient Sky Color."
+}
 }

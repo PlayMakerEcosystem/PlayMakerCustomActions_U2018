@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomWeightedBool.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomWeightedBool.cs",
 "keywords":" Math Sets randomly RandomWeightedBool higher more the chance have FsmFloat FsmBool Reset storeResult Random Range weights Value",
+"documentation":{
 "description":"Sets a Bool Variable to True or False randomly."
+}
 }

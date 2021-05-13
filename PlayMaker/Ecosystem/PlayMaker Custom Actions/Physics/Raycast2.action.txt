@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/Raycast2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/Raycast2.cs",
 "keywords":" against Colliders scene either origin GetRaycastInfo more detailed Raycast2 nOr parameter Overrides used local specfied infinity Result hits send does any otherwise world along FsmFloat script will store regardless whether not something doesn anything correctly Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see FsmBool Reset FsmVector3 FsmGameObject FsmInt yellow DoRaycast repeat repeatInterval fromGameObject fromPosition endObject Self goFr TransformDirection direction RaycastHit Physics Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask storeDidHit storeHitObject Collider gameObject storeHitNormal normal RaycastHitInfo storeHitPointOnMiss storeHitPoint noHitEvent didHit storeDistanceOnMiss storeHitDistance dirVector next Mathf Min transform position normalized debugRayLength DrawLine originPos debugColor Value",
+"documentation":{
 "description":"Casts a Ray against all Colliders in the scene. Use either a Game Object or Vector3 world position as the origin of the ray. Use GetRaycastInfo to get more detailed info."
+}
 }

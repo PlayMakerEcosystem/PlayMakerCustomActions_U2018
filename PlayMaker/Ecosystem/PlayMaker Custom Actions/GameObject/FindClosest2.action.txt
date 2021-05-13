@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindClosest2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindClosest2.cs",
 "keywords":" Based Added Ignore Thanks Nueral Echo http index php topic Finds specified nOptionally filter Visibility FindClosest2 measure NOTE generally lot quicker find with FsmString ignores that owns camera these Invert you pick layers except those defined above FsmBool FsmGameObject Store the FsmFloat Repeat every bool Reset FsmInt LayerArrayToLayerMask invertMask everyFrame DoFindClosest OwnerOption consider string Untagged FindObjectsOfType FindGameObjectsWithTag withTag GameObject objects ignoreOwner mustBeVisible ActionHelpers IsVisible Length _layerMask layer transform position sqrMagnitude storeObject closestObj storeDistance Value Mathf Sqrt closestDist",
+"documentation":{
 "description":"Finds the closest object to the specified Game Object.
 Optionally filter by Tag, layer and Visibility."
+}
 }

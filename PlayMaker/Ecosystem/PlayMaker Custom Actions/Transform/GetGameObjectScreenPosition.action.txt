@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetGameObjectScreenPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetGameObjectScreenPosition.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal actual screen given FsmStateActionAdvanced Insert description that sees not specified uses MainCamera FsmVector2 store the you wont need convert other FsmVector3 coordinates considered otherwise they are expected pixels FsmBool resets updateType Reset everyFrame DoGetGameObjectScreenPosition GameObject main camera WorldToScreenPoint transform position normalize normalized v3Result Vector3 v2Result Value Vector2 tmpV3",
+"documentation":{
 "description":"Get the actual position on the screen of the given GameObject."
+}
 }

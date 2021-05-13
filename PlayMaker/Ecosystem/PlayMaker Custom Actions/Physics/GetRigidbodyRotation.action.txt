@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetRigidbodyRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetRigidbodyRotation.cs",
 "keywords":" Gets Physics stores Axis more efficient than getting the GetRigidbodyRotation FsmQuaternion Title Euler FsmVector3 FsmFloat bool Reset gameObject everyFrame DoGetRotation quaternion rigidBody eulerAngles vector xAngle yAngle zAngle Value rotation",
+"documentation":{
 "description":"Gets the Rotation of a Physics Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable. It's more efficient than getting the rotation of the gameobject"
+}
 }

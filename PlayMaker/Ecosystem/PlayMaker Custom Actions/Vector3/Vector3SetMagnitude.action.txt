@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3SetMagnitude.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3SetMagnitude.cs",
 "keywords":" script dependancies Assets Custom __Internal version Sets Advanced features allows selection FsmVector3 length that vector3 FsmFloat sent which makes impossible because direction information lost Repeat every Useful any the values are changing bool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3SetMagnitude sqrMagnitude failureEvent vector normalized magnitude Value",
+"documentation":{
 "description":"Sets the magnitude ( length ) a Vector3. 
  Advanced features allows selection of update type."
+}
 }

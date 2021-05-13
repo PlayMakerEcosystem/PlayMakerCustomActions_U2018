@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetPositionMultiple.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetPositionMultiple.cs",
 "keywords":" Gets GetPositionMultiple Variables Store bool Reset FsmGameObject FsmVector3 everyFrame DoGetPositions Length gameObjects World transform localPosition storePositions Value position",
+"documentation":{
 "description":"Gets Vector3 positions of multiple GameObjects."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetComponentOwner.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetComponentGameObject.cs",
 "keywords":" source http index php post topic last_msg UnityObject Gets referencing your FsmObject FsmGameObject Reset Code that runs entering the DoGetComponentOwner componentToUse _mb storeGameObject Value",
+"documentation":{
 "description":"Gets the owner gameobject of a component"
+}
 }

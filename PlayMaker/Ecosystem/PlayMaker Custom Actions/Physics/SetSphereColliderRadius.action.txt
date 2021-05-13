@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetSphereColliderRadius.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetSphereColliderRadius.cs",
 "keywords":" Physics SetSphereColliderRadius ComponentAction SphereCollider apply Sphere FsmFloat Repeat every the active bool Reset everyFrame DoChange UpdateCache gameObject cachedComponent radius Value",
+"documentation":{
 "description":"Set the size of a Sphere Collider"
+}
 }

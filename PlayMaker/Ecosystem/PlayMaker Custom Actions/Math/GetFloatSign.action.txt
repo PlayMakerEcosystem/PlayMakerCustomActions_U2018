@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatSign.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatSign.cs",
 "keywords":" script dependancies Assets Custom __Internal Store GetFloatSign FsmStateActionAdvanced FsmInt The FsmBool Reset FsmFloat everyFrame signAsInt Math signAsBool Mathf Sign floatVariable Value",
+"documentation":{
 "description":"Store sign of a float as -1 or 1."
+}
 }

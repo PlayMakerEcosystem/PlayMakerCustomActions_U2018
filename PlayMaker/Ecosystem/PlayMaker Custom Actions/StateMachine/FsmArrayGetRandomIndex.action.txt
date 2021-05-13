@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayGetRandomIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayGetRandomIndex.cs",
 "keywords":" Made nightcorelv forumlink http php topic StateMachine item FsmArrayGetRandomIndex BaseFsmVariableAction that owns Optional the FsmString FsmInt Reset ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName Random Range Length randomIndex storeValue SetValue fsmArray index Value",
+"documentation":{
 "description":"Get a FSM Random item from an Array."
+}
 }

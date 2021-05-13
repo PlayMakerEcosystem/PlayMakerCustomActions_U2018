@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetCustomAxisVector.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetCustomAxisVector.cs",
 "keywords":" NoActionTargets Gets Inputs used third person controller with GetCustomAxisVector enum horizontal vertical usually reported lets you range world map input onto result typically main camera FsmGameObject FsmVector3 Store length Reset FsmFloat relativeTo mapToPlane AxisPlane NOTE mode ans are same normalized transform TransformDirection Vector3 relative Always orthogonal the individual leaving blank set sets horizontalAxis verticalAxis calculate resulting forward multiplier storeVector storeMagnitude Value direction magnitude",
+"documentation":{
 "description":"Gets a world direction Vector from 2 Inputs. Typically used for a third person controller with Relative To set to the camera."
+}
 }

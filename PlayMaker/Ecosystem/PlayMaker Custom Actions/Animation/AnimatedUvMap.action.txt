@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Animation/AnimatedUvMap.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Animation/AnimatedUvMap.cs",
 "keywords":" Frankencopypastecoded MDS animate sprite Random AnimatedUvMap MeshFilter vars whole sheet Zero Indexed Maybe should FsmBool Reset gameObject _go everyFrame SetSpriteAnimation FsmInt Calculate time fps Repeat when exhausting totalCells every cell rowCount sizeX sizeY split into horizontal vertical columnCount build coordinate bottom the image opengl need invert uIndex colNumber vIndex rowNumber Value Vector2 offsetX offsetY SetTextureOffset offset _renderer material SetTextureScale _MainTex",
+"documentation":{
 "description":"TODO"
+}
 }

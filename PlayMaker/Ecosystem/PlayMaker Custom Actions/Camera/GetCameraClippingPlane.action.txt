@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/GetCameraClippingPlane.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/GetCameraClippingPlane.cs",
 "keywords":" Gets ortho ComponentAction with not defined will Main near The far Clipping FsmFloat bool Reset everyFrame DoGetCameraClippingPlane gameObject UpdateCache nearClippingPlane nearClipPlane farClippingPlane Value camera farClipPlane",
+"documentation":{
 "description":"Gets the ortho size of the Camera."
+}
 }

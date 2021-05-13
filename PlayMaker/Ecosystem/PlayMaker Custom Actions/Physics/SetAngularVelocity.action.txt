@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetAngularVelocity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetAngularVelocity.cs",
 "keywords":" based http index php topic Physics Sets leave unchanged NOTE must have ComponentAction FsmVector3 The Angular bool Reset dropdown with selected FsmFloat Self everyFrame DoSetAngularVelocity UpdateCache gameObject init position Vector3 InverseTransformDirection vector any axis Value apply World rigidbody transform TransformDirection angularVelocity",
+"documentation":{
 "description":"Sets the Angular Velocity of a Game Object. To leave any axis unchanged, set variable to 'None'. NOTE: Game object must have a rigidbody."
+}
 }

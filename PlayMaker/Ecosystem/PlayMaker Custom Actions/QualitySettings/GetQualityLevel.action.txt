@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/GetQualityLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/GetQualityLevel.cs",
 "keywords":" bundle Assets Ecosystem Custom Packages unitypackage Sets graphics FsmInt the current quality FsmString Reset qualityIndex qualityName Value QualitySettings GetQualityLevel",
+"documentation":{
 "description":"Sets a new graphics quality level."
+}
 }

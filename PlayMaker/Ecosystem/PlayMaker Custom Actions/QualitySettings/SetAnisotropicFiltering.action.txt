@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetAnisotropicFiltering.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetAnisotropicFiltering.cs",
 "keywords":" Source Global anisotropic mode http index php topic SetAnisotropicFiltering FsmInt Reset must Disable level Value QualitySettings AnisotropicFiltering ForceEnable",
+"documentation":{
 "description":"Global anisotropic filtering mode. 1 = Disable // 2 = Enable // 3 = ForceEnable"
+}
 }

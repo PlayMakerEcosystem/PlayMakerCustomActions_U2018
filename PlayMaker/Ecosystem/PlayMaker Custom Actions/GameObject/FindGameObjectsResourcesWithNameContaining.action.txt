@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObjectsResourcesWithNameContaining.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/FindGameObjectsResourcesWithNameContaining.cs",
 "keywords":" original http index php topic Generic Linq Finds that contains particular stores FindGameObjectsResourcesWithNameContaining any with number them then search FsmBool FsmInt Store the result FsmArray Reset Find caseInsensitive InvariantCultureIgnoreCase StringComparison InvariantCulture FsmString AddRange Resources FindObjectsOfTypeAll Cast Where IndexOf _containString _compare ToList RawValue _list ToArray ErrorCheck withNameContaining Length Specify least found within GameObject Please either storeCount storeResults not necessary string",
+"documentation":{
 "description":"Finds any GameObject(s) with a Name that contains a particular set of String and stores the count of them in an FSM Int."
+}
 }

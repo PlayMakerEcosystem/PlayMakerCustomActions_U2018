@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetMousePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetMousePosition.cs",
 "keywords":" Gets the mouse stores FsmVector3 bool Reset everyFrame DoGetMousePosition Vector3 Input normalize width Screen height Value _mousePosition",
+"documentation":{
 "description":"Gets the Vector3 Position of the mouse and stores it in a Variable."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetFogColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetFogColor.cs",
 "keywords":" GetFogColor Repeat every Useful the Fog setting changing bool Reset everyFrame _getValue Value RenderSettings fogColor",
+"documentation":{
 "description":"Get the color of the fog"
+}
 }

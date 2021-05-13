@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonDown.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetButtonDown.cs",
 "keywords":" original KellyRay http index php topic msg52975 UnityStandardAssets pragma disable Sends when Requires Standard CrossPlatformGetButtonDown FsmString send the button pressed FsmBool Reset Fire1 string ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput CROSS_PLATFORM_INPUT CrossPlatformInputManager GetButtonDown buttonName endif sendEvent storeResult Value buttonDown",
+"documentation":{
 "description":"Sends an Event when a Button is pressed. Requires Standard Assets CrossPlatformInput."
+}
 }

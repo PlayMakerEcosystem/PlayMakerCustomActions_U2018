@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/ConvertHexToColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/ConvertHexToColor.cs",
 "keywords":" ToHtmlStringRGB ToHtmlStringRGBA Convert ConvertHexToColor hexadecimal FsmString Adds beginning necessary Result The resulting FsmBool Repeat every Reset everyframe Execute hexaString StartsWith StringComparison InvariantCulture appendHashChar bool ColorUtility TryParseHtmlString success Value failureEvent _ok successEvent",
+"documentation":{
 "description":"Convert a hexadecimal string to color"
+}
 }

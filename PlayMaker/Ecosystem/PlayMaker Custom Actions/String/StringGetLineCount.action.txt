@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringGetLineCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringGetLineCount.cs",
 "keywords":" StringGetLineCount FsmString The number lines FsmInt Reset DoGetLineCountFromString not defined theString lineCount Value split Length",
+"documentation":{
 "description":"Get the number of lines of a string."
+}
 }

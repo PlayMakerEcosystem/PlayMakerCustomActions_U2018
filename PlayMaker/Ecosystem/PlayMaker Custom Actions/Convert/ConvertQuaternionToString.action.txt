@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertQuaternionToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertQuaternionToString.cs",
 "keywords":" Convert Converts flexible are placeholders ConvertQuaternionToString itself FsmQuaternion pattern express vector components strings Useful you want optimized generated The FsmString Repeats every bool Reset everyFrame DoToString floatConversion quaternion Replace _val ToString _fFormat storeResult Value _result",
+"documentation":{
 "description":"Converts a Quaternion to a string. Format is flexible, [x] [y] [z] and [w] are placeholders"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SpriteRendererGetSprite.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SpriteRendererGetSprite.cs",
 "keywords":" Gets image SpriteRendererGetSprite ComponentAction with source the ObjectType FsmObject SpriteRenderer Reset gameObject UpdateCache cachedComponent DoSetImageSourceValue Value sprite",
+"documentation":{
 "description":"Gets the image sprite of a SpriteRenderer component."
+}
 }

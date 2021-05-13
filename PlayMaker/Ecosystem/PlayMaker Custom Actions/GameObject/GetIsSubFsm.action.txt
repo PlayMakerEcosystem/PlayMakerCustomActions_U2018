@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetIsSubFsm.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetIsSubFsm.cs",
 "keywords":" GameObject Gets GetIsSubFsm FsmBool sent the NOT Reset bool isSubFsm _isSub isSubFsmEvent isNotSubFsmEvent",
+"documentation":{
 "description":"Gets if the fsm is a sub fsm."
+}
 }

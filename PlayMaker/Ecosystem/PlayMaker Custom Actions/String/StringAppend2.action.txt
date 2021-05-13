@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringAppend2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringAppend2.cs",
 "keywords":" Author Deek http index php topic Concatenates two Strings with other StringAppend2 first instead the beginning Wheter every once FsmBool Reset FsmString everyFrame cachedInitString DoAddString addToEnd stringToAdd _string Value",
+"documentation":{
 "description":"Concatenates two Strings with each other."
+}
 }

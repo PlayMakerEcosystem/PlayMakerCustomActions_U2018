@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/EnumChanged.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/EnumChanged.cs",
 "keywords":" Author skipadu Logic http index php topic Tests EnumChanged watch MatchFieldType wanted certain not given will look whatever possible send the changes FsmBool Reset FsmEnum previousValue enumVariable Equals wantedEnumValue EnumWasChanged storeResult Value changedEvent",
+"documentation":{
 "description":"Tests if the value of a Enum Variable has changed"
+}
 }

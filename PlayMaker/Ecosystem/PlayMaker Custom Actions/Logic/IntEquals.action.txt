@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IntEquals.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntEquals.cs",
 "keywords":" Logic based the comparison multiple IntEquals sent ints not bool Reset everyFrame DoIntCompare FsmInt _base _int Value string ErrorCheck notEqual sends events integers Length needs more than compare",
+"documentation":{
 "description":"Sends Events based on the comparison of multiple Integers."
+}
 }

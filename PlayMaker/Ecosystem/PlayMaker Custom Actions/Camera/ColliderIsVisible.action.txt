@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/ColliderIsVisible.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/ColliderIsVisible.cs",
 "keywords":" Author Deek http index php topic Tests Collider2D will just portion checks are outside frustum ColliderIsVisible test against FsmGameObject send not Store the FsmBool bool Reset main everyFrame DoIsVisible gameObject Plane CalculateFrustumPlanes Camera GeometryUtility TestPlanesAABB planes Collider bounds storeResult Value result trueEvent falseEvent",
+"documentation":{
 "description":"Tests if the Collider2D on a GameObject is visible. This will return true even if just a portion of the collider is visible (checks if the Collider bounds are outside the camera frustum planes)."
+}
 }

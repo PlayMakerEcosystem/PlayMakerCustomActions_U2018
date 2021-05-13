@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Meshes/SetUVFiltered.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/SetUVFiltered.cs",
 "keywords":" TooltipAttribute Meshes values matching properties are SetUVFiltered FsmBool Reset FsmVector2 FsmFloat gameObject affectSharedMesh sharedMesh MeshFilter everyFrame DoSetUV bool baseU baseV Vector2 zero targetU targetV Value Length ignoreBase Equals _baseUV _targetUV Apply the modded _mesh _uvs",
+"documentation":{
 "description":"Set UV values, only for uv's matching the base value. If all Base properties are set to none, all UV's are set."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioFade.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioFade.cs",
 "keywords":" Made DjayDino Fades Clip played AudioFade ComponentAction AudioSource Fade seconds FsmFloat Interpolation send when finished Ignore TimeScale Useful paused bool the equation Reset gameObject UpdateCache realTime FsmTime RealtimeSinceStartup startTime deltaTime currentTime mode Linear Lerp InterpolationType EaseInOut audio Mathf SmoothStep startingVolume fadeTo Value lerpTime finishEvent",
+"documentation":{
 "description":"Fades out the Volume of the Audio Clip played by the AudioSource component on a Game Object."
+}
 }

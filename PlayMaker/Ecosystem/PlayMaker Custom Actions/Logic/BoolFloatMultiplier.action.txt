@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolFloatMultiplier.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolFloatMultiplier.cs",
 "keywords":" Made Thore whatever nefarious purpose you like Logic Multiply based BoolFloatMultiplier that determines multiplication FsmBool work with Factor used when what was upon entering FsmFloat Repeat every the active bool Reset everyFrame multiplyIfTrue boolVariable floatVariable multiplyIfFalse DoTheModification OnExit resetFloat result Value storedFloat",
+"documentation":{
 "description":"Multiply a float based on a bool variable."
+}
 }

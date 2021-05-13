@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Enum/GetEnumAsArray.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Enum/GetEnumAsArray.cs",
 "keywords":" Author Deek http index php topic Gets saves GetEnumAsArray FsmEnum MatchElementType Items ArrayEditor FsmArray Optionally save separated FsmString sArray DoGetEnumValues reset results Clear enumVariable GetType Types arrayType are not same Please match them the Variables Enum GetValues enumType saveAsEnumArray Resize Set saveAsStringArray Length singleItem ToString saveAsString Value TrimEnd ToCharArray",
+"documentation":{
 "description":"Gets all Items in an Enum and saves it in an array."
+}
 }

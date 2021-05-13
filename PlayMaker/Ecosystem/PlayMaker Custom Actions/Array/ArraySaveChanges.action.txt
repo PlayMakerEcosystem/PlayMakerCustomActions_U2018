@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArraySaveChanges.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArraySaveChanges.cs",
 "keywords":" Save internally values edited reflected properly you have such ArraySaveChanges The FsmArray Reset SaveChanges",
+"documentation":{
 "description":"Save changes internally for all values edited to be reflected properly. Use this only if you have such a case"
+}
 }

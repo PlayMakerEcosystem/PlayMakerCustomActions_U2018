@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/LoadFromFile.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/LoadFromFile.cs",
 "keywords":" Files Load into LoadFromFile example Assets myfile txt FsmString Reset Exists ReadAllText filePath Value successEvent does not exist Did you the correct filename file extension failureEvent",
+"documentation":{
 "description":"Load a File into a string for example Assets/myfile.txt"
+}
 }

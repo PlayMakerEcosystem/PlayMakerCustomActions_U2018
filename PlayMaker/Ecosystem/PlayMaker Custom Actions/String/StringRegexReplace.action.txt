@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRegexReplace.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRegexReplace.cs",
 "keywords":" http index php topic Text RegularExpressions StringRegexReplace execute matches expression The Match content replaced bool Reset FsmString everyFrame DoAction Length RegexOptions options optionsBit storeResult Replace stringVariable regex with Value",
+"documentation":{
 "description":"Execute a Regex on a string and to replace match."
+}
 }

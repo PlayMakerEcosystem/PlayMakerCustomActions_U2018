@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraRect.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraRect.cs",
 "keywords":" Sets enum Pixel relative bottom left the Otherwise are pixels bool Reset FsmRect OwnerOption gameObject everyFrame DoSetCameraRect Value RectCoordinates Viewport width Screen height _camera _rect",
+"documentation":{
 "description":"Sets the Rect of a Camera."
+}
 }

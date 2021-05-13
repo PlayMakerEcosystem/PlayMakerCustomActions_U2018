@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/DragRigidBody.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/DragRigidBody.cs",
 "keywords":" Rigid mouse select instead view DragRigidBody springness damping angular during Max between being dragged FsmFloat have close effect rotation hits other axis normal Typically ground want objects around floor tagging FsmInt Invert you layers except those above FsmBool will rigidBodies with the defined masking taken consideration well FsmString Reset 50f 10f Camera main draggingPlaneTransform GetMouseButtonDown actually Physics need that not bool tags tag dragTaggedOnly against Length ActionHelpers LayerArrayToLayerMask layerMask invertMask layer mask isAllowed StartDragging RaycastHit GameObject __Rigidbody dragger__ AddComponent isKinematic attachToCenterOfMass TransformDirection centerOfMass InverseTransformPoint anchor Vector3 zero spring damper maxDistance rigidbody Value hit GetMouseButton _cam ScreenPointToRay Input mousePosition _goPlane _dragStartPos _plane Raycast transform position GetPoint dragDistance isDragging oldDrag oldAngularDrag springJoint connectedBody OnExit StopDragging",
+"documentation":{
 "description":"Drag a Rigid body with the mouse. If draggingPlaneTransform is defined, it will use the UP axis of this gameObject as the dragging plane normal 
 That is select the ground Plane, if you want to drag object on the ground instead of from the camera point of view."
+}
 }

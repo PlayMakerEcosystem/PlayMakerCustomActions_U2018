@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/RuntimePlatformEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/RuntimePlatformEvent.cs",
 "keywords":" Author Djaydino http www jinxtergames Sends the specified Platforms not RuntimePlatformEvent Switches Compare Values Send MatchFieldType enumVariable ObjectType RuntimePlatform Reset FsmEnum DoEnumSwitch Length Equals Application platform compareTo Value sendEvent",
+"documentation":{
 "description":"Sends an Event if on the specified Platforms or not."
+}
 }

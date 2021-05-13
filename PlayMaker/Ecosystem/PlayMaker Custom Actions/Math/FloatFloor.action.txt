@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatFloor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatFloor.cs",
 "keywords":" Returns largest integer smaller equal FloatFloor FsmFloat FsmInt Repeat every the active bool Reset everyFrame DoMath floatResult Floor intResult Mathf FloorToInt floatVariable Value",
+"documentation":{
 "description":"Returns the largest integer smaller to or equal to f."
+}
 }

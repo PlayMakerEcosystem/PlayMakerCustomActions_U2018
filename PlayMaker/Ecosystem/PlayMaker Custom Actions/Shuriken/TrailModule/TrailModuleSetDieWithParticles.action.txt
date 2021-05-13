@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetDieWithParticles.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetDieWithParticles.cs",
 "keywords":" Shuriken TrailModuleSetDieWithParticles with flag FsmBool Repeat every the active bool TrailModule Reset gameObject _go ParticleSystem _ps trails everyFrame DoExecute _tm dieWithParticles Value",
+"documentation":{
 "description":"Set the dieWithParticles flag of a particleSystem's TrailModule ( Shuriken)"
+}
 }

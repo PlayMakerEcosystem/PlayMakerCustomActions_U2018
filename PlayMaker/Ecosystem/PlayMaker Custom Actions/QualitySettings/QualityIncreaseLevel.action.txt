@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/QualityIncreaseLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/QualityIncreaseLevel.cs",
 "keywords":" bundle Assets Ecosystem Custom Packages unitypackage Increase graphics QualityIncreaseLevel force expensive applied apply anti aliasing FsmBool Result quality fired when reached the highest available Reset FsmInt FsmString IncreaseLevel applyExpensiveChanges qualityIndex qualityName Value GetQualityLevel QualitySettings Length LimitReachedEvent",
+"documentation":{
 "description":"Increase the graphics quality level."
+}
 }

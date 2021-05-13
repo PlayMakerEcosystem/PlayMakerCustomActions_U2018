@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetBox2dColliderSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetBox2dColliderSize.cs",
 "keywords":" Physics2D Box GetBox2dColliderSize ComponentAction Targeted FsmVector2 BoxCollider2d FsmFloat Repeat every the active FsmBool Reset everyFrame ExecuteAction UpdateCache gameObject sizeX sizeY Value cachedComponent",
+"documentation":{
 "description":"Get Box Collider2D size"
+}
 }

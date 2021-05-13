@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomIntSeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomIntSeed.cs",
 "keywords":" http index php topic msg83571 Generic Math Sets between RandomIntSeed FsmInt Reset InitState seed storeResult Random Range min max Value",
+"documentation":{
 "description":"Sets a Float Variable to a random value between Min/Max."
+}
 }

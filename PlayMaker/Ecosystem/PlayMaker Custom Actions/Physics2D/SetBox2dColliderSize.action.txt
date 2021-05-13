@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/SetBox2dColliderSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetBox2dColliderSize.cs",
 "keywords":" Physics2D Box SetBox2dColliderSize ComponentAction Targeted FsmVector2 BoxCollider2d Leave effect overrides Repeat every the active FsmBool Vector2 Reset FsmFloat everyFrame ExecuteAction UpdateCache gameObject offset sizeX sizeY Value cachedComponent _size",
+"documentation":{
 "description":"Set Box Collider2D Size"
+}
 }

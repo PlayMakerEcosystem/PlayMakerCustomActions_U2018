@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MousePickEventCustom.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MousePickEventCustom.cs",
 "keywords":" Sends interactions with how close must MousePickEventCustom which LEave FsmGameObject Length FsmFloat pressed released when moves these Layer Invert you layers except those defined above FsmBool RaycastHit Reset 100f FsmInt everyFrame DoMousePickEvent Store pick can seen RaycastHitInfo Send events based the buttons isMouseOver GetMouseButtonDown mouseDown mouseOver GetMouseButtonUp mouseUp mouseOff bool DoRaycast main OwnerOption activeSelf find mouse outside camera both performance thing pixelRect Contains cameraComp ScreenPointToRay Input mousePosition Physics Raycast LayerArrayToLayerMask layerMask invertMask debugLine DrawRay origin direction debugColor hit collider testObject ErrorCheck CheckRayDistance rayDistance Value ActionHelpers CheckPhysicsSetup GameObject errorString",
+"documentation":{
 "description":"Sends Events based on mouse interactions with a Game Object: MouseOver, MouseDown, MouseUp, MouseOff. Use Ray Distance to set how close the camera must be to pick the object."
+}
 }

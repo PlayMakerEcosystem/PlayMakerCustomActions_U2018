@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntAddMultiple.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntAddMultiple.cs",
 "keywords":" Math Adds multipe IntAddMultiple FsmInt Repeat every the active bool Reset everyFrame DoIntAdd Length addTo intVariables Value",
+"documentation":{
 "description":"Adds multipe int variables to int variable."
+}
 }

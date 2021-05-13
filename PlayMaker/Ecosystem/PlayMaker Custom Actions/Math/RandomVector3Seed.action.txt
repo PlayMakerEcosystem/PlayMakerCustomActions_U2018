@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomVector3Seed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomVector3Seed.cs",
 "keywords":" http index php topic msg83571 Generic Math Sets between RandomVector3Seed FsmInt FsmFloat FsmVector3 Reset InitState seed storeResult Vector3 Random Range min max Value",
+"documentation":{
 "description":"Sets a Float Variable to a random value between Min/Max."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetParent2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetParent2.cs",
 "keywords":" Sets Same official you convenience SetParent2 the local after parenting FsmBool Reset OwnerOption SpecifyGameObject resetLocalPosition localPosition Vector3 zero resetLocalRotation Value transform localRotation Quaternion identity string ErrorCheck gameObject _parent Can not parent self",
+"documentation":{
 "description":"Sets the Parent of a Game Object. Same as official action but lt you use 'owner' for the parent for convenience."
+}
 }

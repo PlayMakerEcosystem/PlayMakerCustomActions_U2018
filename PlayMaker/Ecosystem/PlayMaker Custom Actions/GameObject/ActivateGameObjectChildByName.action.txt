@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectChildByName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectChildByName.cs",
 "keywords":" Generic deactivates more hide show areas enable disable many Behaviours once Optionally ActivateGameObjectChildByName children Slashes may used denote heirarchical paths deactivate Apply recursively Reverse FsmBool Repeat every Useful changes time store the that activated can HashSet bool equal Reset FsmString Clear everyFrame resetOnExit root Find childName path heirarchy intermediate nodes node transform parent activatedGameObjects Add link SetActive activate recursive Value DoActivateGameObject child gameObject",
+"documentation":{
 "description":"Activates/deactivates one or more Game Object children by name. Use this to hide/show areas, or enable/disable many Behaviours at once. Optionally reverse the action on exit."
+}
 }

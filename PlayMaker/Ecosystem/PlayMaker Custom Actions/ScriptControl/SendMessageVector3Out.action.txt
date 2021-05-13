@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/SendMessageVector3Out.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/sendMessageVector3Out.cs",
 "keywords":" ScriptControl Sends with specific holding reference See docs SendMessageVector3Out string FsmVector3 Reset SendMessageOptions DontRequireReceiver OwnerOption DoSendMessage GameObject zero SendMessage functionName options outVector3 Value _tmp",
+"documentation":{
 "description":"Sends a Message to a Game Object with a specific variable holding reference to a fsmVector3. See Unity SendMessage docs."
+}
 }

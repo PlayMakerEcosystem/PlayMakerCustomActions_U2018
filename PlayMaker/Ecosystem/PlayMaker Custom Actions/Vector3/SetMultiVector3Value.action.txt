@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/SetMultiVector3Value.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/SetMultiVector3Value.cs",
 "keywords":" multi multiple Source Sets the many http index php topic SetMultiVector3Value Count bool Reset FsmVector3 everyFrame DoSetVector3Value Length vector3Variable values Value",
+"documentation":{
 "description":"Sets the value of many Vector3 Variable."
+}
 }

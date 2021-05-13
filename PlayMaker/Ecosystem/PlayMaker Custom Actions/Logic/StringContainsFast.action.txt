@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/StringContainsFast.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/StringContainsFast.cs",
 "keywords":" Logic Optimised tests another StringContainsFast Test FsmString send Store FsmBool Repeat every Useful any the strings are changing time bool Reset everyFrame DoStringContains stringVariable Replace containsString Length storeResult Value trueEvent contains falseEvent",
+"documentation":{
 "description":"Optimised tests if a String contains another String."
+}
 }

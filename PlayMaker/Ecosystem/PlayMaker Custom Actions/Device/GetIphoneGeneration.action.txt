@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/GetIphoneGeneration.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/GetIphoneGeneration.cs",
 "keywords":" Device Gets The FsmString Reset DoGetIphoneGeneration iphoneGeneration Value iPhone generation ToString endif",
+"documentation":{
 "description":"Gets the iPhone generation."
+}
 }

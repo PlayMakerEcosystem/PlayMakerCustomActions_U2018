@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetBox2dColliderOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetBox2dColliderOffset.cs",
 "keywords":" Physics2D Box GetBox2dColliderOffset ComponentAction Targeted FsmVector2 BoxCollider2d FsmFloat Repeat every the active FsmBool Reset everyFrame ExecuteAction UpdateCache gameObject offsetX offsetY Value cachedComponent offset",
+"documentation":{
 "description":"Get Box Collider2D Offset"
+}
 }

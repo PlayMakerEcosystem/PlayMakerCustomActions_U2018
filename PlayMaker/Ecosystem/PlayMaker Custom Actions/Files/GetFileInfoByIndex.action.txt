@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/GetFileInfoByIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/GetFileInfoByIndex.cs",
 "keywords":" infos within options you search sub folders number datetime properties folder Result full FsmBool creation access last write FsmString The bytes FsmInt sent file found Reset TopDirectoryOnly dddd MMMM yyyy DoGetFileInfoByIndex Directory GetFiles folderPath searchPattern searchOption IndexOutOfRangeEvent FileInfo _files fileIndex fileName Path GetExtension DirectoryName FullName IsReadOnly CreationTime LastWriteTime dateTimeFormat ToString lastAccessTime fileSize Value _info Length",
+"documentation":{
 "description":"Get infos from a file by index within a directory."
+}
 }

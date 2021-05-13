@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRegexIsMatch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRegexIsMatch.cs",
 "keywords":" http index php topic msg34168 Text RegularExpressions whether was found StringRegexMatch you want store result StringRegexIsMatch execute expression the matched FsmBool sent not matches Executes every bool Reset FsmString everyFrame DoAction Length RegexOptions options optionsBit stringVariable regex storeIsMatch Value trueEvent falseEvent",
+"documentation":{
 "description":"Execute a Regex on a string and return whether a match was found. Use StringRegexMatch if you want to store the result"
+}
 }

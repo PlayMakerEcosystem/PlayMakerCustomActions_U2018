@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/PhysicsLineCast2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/PhysicsLineCast2.cs",
 "keywords":" extra like trip wire between PhysicsLineCast2 Setup sweep nOr parameter trigger Result hits send does not any something otherwise FsmGameObject world along store FsmFloat Filter how often once everyFrame every other frame nSince raycasts expensive highest can away with Layer these Invert you pick layers except those defined above Draw Note Gizmos the View see FsmBool Reset FsmVector3 FsmInt DoRaycast repeat repeatInterval fromGameObject fromPosition Vector3 toGameObject transform toPosition RaycastHit ignoreTriggerColliders Ignore Physics Linecast ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide storeDidHit storeHitObject collider gameObject storeHitPoint point storeHitNormal normal storeHitDistance RaycastHitInfo distance didHit noHitEvent DrawLine startPos endPos debugColor Value",
+"documentation":{
 "description":"Casts a line like a trip wire between the from and to position/gameObject. Option to ignore colliders set to trigger."
+}
 }

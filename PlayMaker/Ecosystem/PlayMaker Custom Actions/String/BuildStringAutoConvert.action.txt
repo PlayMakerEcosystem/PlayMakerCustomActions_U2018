@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/BuildStringAutoConvert.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/BuildStringAutoConvert.cs",
 "keywords":" Author Deek http index php topic Based Build Fast with added benefit automatically converting rendering any conversion obsolete BuildStringAutoConvert HideTypeFilter Strings combine insert between character built Store FsmString Repeat every the active FsmBool Reset everyFrame DoBuildString UpdateValue stringParts GetValue addToEnd separator storeResult Append Length value ReallocateIFN Math Max nbCharsToAdd m_charsCapacity CopyTo newChars bool IsEmpty Clear ToString string m_chars m_charsCount m_isStringGenerated m_stringGenerated",
+"documentation":{
 "description":"Based on 'Build String Fast' with the added benefit of automatically converting any variable to String, rendering any pre-conversion obsolete."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/SplitFloatToInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/SplitFloatToInt.cs",
 "keywords":" Convert Split into Ints http index php topic SplitFloatToInt FsmFloat Store the result FsmInt FsmBool Reset everyFrame DoAction floatVariable intPart number2 wholeNumber decimalCount decimalNumber Value precision Pow Math Round multiplied GetDecimals",
+"documentation":{
 "description":"Split Float into Ints."
+}
 }

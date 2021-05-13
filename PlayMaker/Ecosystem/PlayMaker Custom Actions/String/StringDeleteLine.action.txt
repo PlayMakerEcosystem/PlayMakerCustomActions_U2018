@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringDeleteLine.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringDeleteLine.cs",
 "keywords":" specificy last first StringDeleteLine FsmString The line delete FsmInt Reset DoDeleteLineFromString not defined source Length lineIndex index split count theString Value result",
+"documentation":{
 "description":"Delete a specificy line from a string. use -1 to delete the last line. else line 0 is the first line, etc"
+}
 }

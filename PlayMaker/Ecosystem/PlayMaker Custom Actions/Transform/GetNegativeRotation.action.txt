@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetNegativeRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetNegativeRotation.cs",
 "keywords":" Author nFigther http index php topic script dependancies Assets Custom __Internal Gets the stores Axis GetNegativeRotation FsmStateActionAdvanced FsmFloat Vector3 Reset DoGetRotation gameObject _go transform localEulerAngles xAngle yAngle zAngle Value _rotation",
+"documentation":{
 "description":"Gets the Rotation of a Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable"
+}
 }

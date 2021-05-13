@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/SplitTextToArray.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/SplitTextToArray.cs",
 "keywords":" into strings ints SplitTextToArray enum source where leave beginning parsing FsmInt ignored not taken account Storage specific The FsmArray FsmString NewLine splitText textAsset OrThisString Reset Tab SplitSpecialChars _split _text Split OrThisChar ToCharArray startIndex Length Mathf Min parseRange Value rawlines Resize count Values _value_i parseAsType ArrayParseStringAs String lines TryParse text Set _result_float result SaveChanges",
+"documentation":{
 "description":"Split a text asset or string into an array or strings|ints|floats."
+}
 }

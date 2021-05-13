@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/TransformDirectionAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/TransformDirectionAdvanced.cs",
 "keywords":" script dependancies Assets Custom __Internal Transforms operation not affected scale position returned vector same length TransformDirectionAdvanced FsmStateActionAdvanced The local expressed world FsmVector3 Reset everyFrame DoTransformDirection gameObject storeResult transform TransformDirection localDirection Value",
+"documentation":{
 "description":"Transforms a Direction from a Game Object's local space to world space. This operation is not affected by scale or position of the transform. The returned vector has the same length as direction."
+}
 }

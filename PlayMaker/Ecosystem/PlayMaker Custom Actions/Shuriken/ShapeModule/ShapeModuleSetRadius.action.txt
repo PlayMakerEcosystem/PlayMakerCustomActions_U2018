@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetRadius.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetRadius.cs",
 "keywords":" Shuriken ShapeModuleSetRadius with FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm radius Value",
+"documentation":{
 "description":"Set Radius of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

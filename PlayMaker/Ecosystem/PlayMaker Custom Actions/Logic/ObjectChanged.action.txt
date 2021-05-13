@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ObjectChanged.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/ObjectChanged.cs",
 "keywords":" objectcompare unityobject Logic Tests store that can used other operations ObjectChanged watch change FsmObject send the changes FsmBool Reset objectVariable previousValue storeResult Value changedEvent",
+"documentation":{
 "description":"Tests if the value of a Object variable changed. Use this to send an event on change, or store a bool that can be used in other operations."
+}
 }

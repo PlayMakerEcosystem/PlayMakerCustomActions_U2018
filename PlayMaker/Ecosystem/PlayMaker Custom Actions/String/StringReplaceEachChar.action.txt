@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringReplaceEachChar.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringReplaceEachChar.cs",
 "keywords":" Author Deek RegularExpressions http index php topic given specified Useful obfuscate confidential not yet unlocked text Optionally removes StringReplaceEachChar that should Store Can same keep them separate revert these changes FsmString gets spaces consists several Repeat every the active FsmBool Reset everyFrame DoBuildString startString replaceWith removeEmptySpace Regex Replace string alt storeResult Value tmp",
+"documentation":{
 "description":"Replace each char in a given String with the specified one. Useful to obfuscate confidential or not yet unlocked text. Optionally removes spaces."
+}
 }

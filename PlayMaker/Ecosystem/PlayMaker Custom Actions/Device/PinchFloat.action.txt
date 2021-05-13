@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/PinchFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/PinchFloat.cs",
 "keywords":" Device Pinch http index php topic PinchFloat Setup Minimum below Maximum Cannot above that number FsmFloat Events Disable send FsmBool Reset touchCount Input GetTouch Vector2 deltaPosition touchZeroPrevPos touchOnePrevPos touchZero touchOne position magnitude prevTouchDeltaMag touchDeltaMag invert deltaMagnitudeDiff speed Mathf targetFloat minSizeClamp maxSizeClamp disableAction isActive Value sendEvent",
+"documentation":{
 "description":"Pinch"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/SetEnemyFov3dByTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/SetEnemyFov3dByTag.cs",
 "keywords":" Generic Send inside Does NOT physics auto SetEnemyFov3dByTag distance Min 360f FsmInt Manually Leave ignore FsmVector3 Options Your agent npc TitleAttribute FsmString Output Will Draw scene Correct when looking down center the line FsmBool leftLineFOV rightLineFOV Reset green yellow PLAYMAKER_1_8_5_OR_NEWER endif useLateUpdate insideEvent outsideEvent everyFrame DirectionSetup AddRange FindGameObjectsWithTag tag autoRotate eulerAngles tempdata FsmFloat Count tagList floatVariable exitAction bool InsideFOV GameObject targetTemp goTemp magnitude angleToPlayer angleTemp finalDistanceToPlayer distanceTemp OnDrawGizmos drawGizmo centerColor 25f LookRotation Euler arrowHeadAngle normalized left arrowHeadLength angleColor flipOn Quaternion AngleAxis fov forward leftRayRotation Vector3 rightRayRotation leftRayDirection Gizmos DrawRay transform position rightRayDirection radius Value",
+"documentation":{
 "description":"Send event or set bool if target is inside gameobject FOV. Does NOT use physics. Set FOV direction manually or auto to target"
+}
 }

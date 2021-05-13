@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/EnableFsms.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/EnableFsms.cs",
 "keywords":" Author Deek StateMachine http index php topic Enables Disables multiple different EnableFsms that owns Optional Useful you have more than FsmString disable initial when exiting the FsmBool bool FsmGameObject gameObjects gameObject string GetComponents fsmComponents fsmName PlayMakerFSM fsmComponent enabled enable resetOnExit Value doReset DoEnableFSM",
+"documentation":{
 "description":"Enables/Disables multiple FSM components on different GameObjects."
+}
 }

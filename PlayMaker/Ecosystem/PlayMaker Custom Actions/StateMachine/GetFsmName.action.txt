@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetFsmName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetFsmName.cs",
 "keywords":" StateMachine GetFsmName full Store the FsmString fullLabel GetFullFsmLabel Value",
+"documentation":{
 "description":"Get this FSM name."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/Explosion2D.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Explosion2D.cs",
 "keywords":" Physics2D Explosion2D Filter explode which will its max power Add Result FsmFloat send when the complete bool Reset FsmString 15f initialization AddComponent isTrigger CircleCollider2D deltaTime explosionTimer DoExplosion explosionSize explosionRate finishEvent Destroy parent explosion_radius current_radius DoTriggerEnter2D Collider2D string collideTag exploded transform position explosionForce bomb gameObject Rigidbody2D AddForce Vector2 explodeX direction explodeY Value",
+"documentation":{
 "description":"2D explosion."
+}
 }

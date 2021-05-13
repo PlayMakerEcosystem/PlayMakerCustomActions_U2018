@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Encryption/SimpleHashing.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/SimpleHashing.cs",
 "keywords":" Source Security Cryptography Encryption Simple http index php topic SimpleHashing Setup Options Optional You can leave blank wanted FsmString enum Reset DoSetStringValue SH1 SHA1CryptoServiceProvider Selection MD5 stringValue stringVariable Value Password MD5CryptoServiceProvider HashAlgorithm algorithm ComputeHash Encoding GetBytes Text StringBuilder Length Append data ToString",
+"documentation":{
 "description":"Simple Hashing - MD5 or SH1"
+}
 }

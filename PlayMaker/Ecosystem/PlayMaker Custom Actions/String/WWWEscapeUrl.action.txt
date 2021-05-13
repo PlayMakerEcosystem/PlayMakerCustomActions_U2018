@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/WWWEscapeUrl.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWEscapeUrl.cs",
 "keywords":" used whole portion the getter values WWWEscapeUrl FsmString bool Reset everyFrame DoEscape escapedString WWW EscapeURL stringSource Value",
+"documentation":{
 "description":"Escape a Url String to be used. don't escape the whole url, only the portion for the getter values."
+}
 }

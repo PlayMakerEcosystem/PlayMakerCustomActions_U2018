@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/GetEnvironmentSpecialFolder.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/GetEnvironmentSpecialFolder.cs",
 "keywords":" Files Operating into GetEnvironmentSpecialFolder The special FsmString Reset Personal specialFolderPath Value Environment GetFolderPath specialFolder endif",
+"documentation":{
 "description":"Get Operating Special folder path into a string"
+}
 }

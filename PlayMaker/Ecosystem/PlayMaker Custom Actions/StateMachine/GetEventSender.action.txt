@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetEventSender.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetEventSender.cs",
 "keywords":" StateMachine Gets info the last that caused change GetEventSender FsmGameObject FsmString Reset EventData SentByFsm sentByGameObject fsmName Value",
+"documentation":{
 "description":"Gets sender info on the last event that caused a state change."
+}
 }

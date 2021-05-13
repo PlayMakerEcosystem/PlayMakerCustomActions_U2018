@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatCeiling.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatCeiling.cs",
 "keywords":" round Returns smallest integer greater equal FloatCeiling FsmFloat FsmInt Repeat every the active bool Reset everyFrame DoMath floatResult Ceil intResult Mathf CeilToInt floatVariable Value",
+"documentation":{
 "description":"Returns the smallest integer greater to or equal to f."
+}
 }

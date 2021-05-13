@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/NoiseModule/NoiseModuleSetDamping.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/NoiseModule/NoiseModuleSetDamping.cs",
 "keywords":" Made Ubik3D Link http index php topic topicseen ShapeModule Shuriken NoiseModuleSetDamping with flag FsmBool Repeat every the active bool NoiseModule Reset gameObject _go ParticleSystem _ps noise everyFrame DoExecute _nm damping enabled Value",
+"documentation":{
 "description":"Set the enabled flag of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

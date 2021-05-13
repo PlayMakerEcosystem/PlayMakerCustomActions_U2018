@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatsMax.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatsMax.cs",
 "keywords":" Math Returns maximum list GetFloatsMax The bool Reset everyFrame DoMaxFromFloats NegativeInfinity Variables GetFsmFloat _value Mathf _val storeResult Value _max",
+"documentation":{
 "description":"Returns the maximum float from a list"
+}
 }

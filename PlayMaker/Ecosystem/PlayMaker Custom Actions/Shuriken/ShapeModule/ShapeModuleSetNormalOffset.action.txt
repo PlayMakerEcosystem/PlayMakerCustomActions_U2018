@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetNormalOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetNormalOffset.cs",
 "keywords":" Shuriken ShapeModuleSetNormalOffset with normal FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm normalOffset Value",
+"documentation":{
 "description":"Set the normal offset of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

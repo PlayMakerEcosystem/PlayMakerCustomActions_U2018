@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetNearestPowerOfTwo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetNearestPowerOfTwo.cs",
 "keywords":" Find given integer GetNearestPowerOfTwo The power that FsmInt Repeat bool Reset everyFrame DoNearest Math number nearestPowerOfTwo Value",
+"documentation":{
 "description":"Find nearest power of two for a given integer value"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/DestroyBehaviour.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/DestroyBehaviour.cs",
 "keywords":" ScriptControl DestroyBehaviour that owns the FsmString Optionally drag directly into behavior will ignored Reset DoEnableBehaviour Destroy componentTarget ErrorCheck gameObject string ReflectionUtils GetGlobalType Value Behaviour",
+"documentation":{
 "description":"Destroy a Behaviour on a GameObject."
+}
 }

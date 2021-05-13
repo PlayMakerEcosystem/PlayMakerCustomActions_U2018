@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/GetSystemInfo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/GetSystemInfo.cs",
 "keywords":" Gets the device calls needed GetSystemInfo NOTE Some are expensive FsmString FsmBool FsmInt deviceModel Handheld Desktop Console deviceType Unknown deviceUniqueIdentifier graphicsDeviceID graphicsDeviceName graphicsDeviceVendor graphicsDeviceVendorID graphicsDeviceVersion graphicsMemorySize graphicsPixelFillrate graphicsShaderLevel Restricted npotSupport Full operatingSystem processorCount processorType supportedRenderTargetCount supports3DTextures supportsAccelerometer supportsComputeShaders supportsGyroscope supportsImageEffects supportsInstancing supportsLocationService supportsRenderTextures supportsRenderToCubemap supportsShadows supportsSparseTextures supportsStencil endif supportsVibration Value SystemInfo systemMemorySize",
+"documentation":{
 "description":"Gets the system info on the device. Some are expensive calls so use only as needed."
+}
 }

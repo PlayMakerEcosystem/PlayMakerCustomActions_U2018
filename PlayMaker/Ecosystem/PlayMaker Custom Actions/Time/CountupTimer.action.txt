@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/CountupTimer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/CountupTimer.cs",
 "keywords":" Author Deek http index php topic Counts ends leaving current CountupTimer since FsmFloat Count TimeScale independent Pauses Resumes again Setting counting Will itself once Sets the back when entering Otherwise continues where left FsmBool restartOnEnter pause reset realTime FsmTime RealtimeSinceStartup startTime deltaTime storeTime Value timer",
+"documentation":{
 "description":"Counts up as long as in current state and ends when leaving the current state."
+}
 }

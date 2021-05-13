@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraOrthoFillSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraOrthoFillSize.cs",
 "keywords":" Ratio inside may occur CameraOrthoFitSize you want any cropping CameraOrthoFillSize control Leave MainCamera The FsmFloat bool Reset OwnerOption SpecifyGameObject FsmGameObject everyFrame DoFill _go main Screen targetHeight targetWidth Value windowAspect targetAspect _camera orthographicSize heightToBeSeen",
+"documentation":{
 "description":"Fill an Aspect Ratio inside the screen. Cropping may occur, use CameraOrthoFitSize if you don't want any cropping"
+}
 }

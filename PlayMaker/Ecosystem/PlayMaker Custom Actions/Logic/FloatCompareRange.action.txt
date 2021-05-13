@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FloatCompareRange.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FloatCompareRange.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal Logic http index php topic Checks between multiple sends accordingly Since order you should define smallest negative FloatCompareRange FsmStateActionAdvanced compare with Amount next given Reset FsmFloat everyFrame DoIntCompareRange been set behind loop through previous ranges any can equal not Length current matching last bigger that currEvent send smaller the range floatValue biggerThan Value smallerThanFirst",
+"documentation":{
 "description":"Checks if a float variable is between one or multiple ranges and sends an event accordingly. Since the ranges go in order, you should define the smallest float first (even if negative)."
+}
 }

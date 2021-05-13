@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/SetFixedTimeStep.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/SetFixedTimeStep.cs",
 "keywords":" Scales normal half speed SetFixedTimeStep vaule FsmFloat Repeat every Useful when animating the bool Reset everyFrame DoSetFixedDeltaTime fixedDeltaTime timeStep Value",
+"documentation":{
 "description":"Scales time: 1 = normal, 0.5 = half speed, 2 = double speed."
+}
 }

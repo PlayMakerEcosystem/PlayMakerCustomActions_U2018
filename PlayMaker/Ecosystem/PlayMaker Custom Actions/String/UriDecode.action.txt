@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/UriDecode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/UriDecode.cs",
 "keywords":" Converts its unescaped representation UriDecode FsmString FsmBool Reset everyFrame DoReplace storeResult Uri UnescapeDataString stringVariable Value",
+"documentation":{
 "description":"Converts a string to its unescaped representation."
+}
 }

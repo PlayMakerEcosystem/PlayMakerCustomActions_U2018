@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetGameObjectHierarchyPath.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetGameObjectHierarchyPath.cs",
 "keywords":" based http index php topic msg67762 Generic Gets hierarchy selected GetGameObjectHierarchyPath which you its Include FsmBool FsmString Store the FsmArray Reset Find go1 transform string IncludeSelf Add parent gameObject Insert StoreFullPath result StoreParentNames _stringList StoreParents RawValue _goList ToArray",
+"documentation":{
 "description":"Gets the hierarchy Path of the selected GameObject."
+}
 }

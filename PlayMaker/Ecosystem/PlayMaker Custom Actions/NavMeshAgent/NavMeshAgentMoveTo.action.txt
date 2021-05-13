@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/NavMeshAgentMoveTo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/NavMeshAgentMoveTo.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal Sets updates moved NavMeshAgentMoveTo FsmStateActionAdvanced with attached Alternatively define supposed directly given local Result Send reached dependent below works Every selected 100f Determines sent FsmFloat Wheter should stop where currently when leaving keep going FsmBool Reset FsmGameObject FsmVector3 offsetFromTarget Vector3 updateType FrameUpdateSelector everyFrame still being calculated counteract asynchronicity NavMeshAgent pathPending remainingDistance stoppingDistance hasPath velocity sqrMagnitude reachedTargetEvent UpdateDestination Please specify either the targetPosition World localPosition skip hasn changed isOnNavMesh move NavMesh prevTargetPos tPos stopAgentOnExit Value SetDestination compAgent gameObject transform position",
+"documentation":{
 "description":"Sets the destination of the given NavMesh Agent to an object or position (only updates when the target has moved)."
+}
 }

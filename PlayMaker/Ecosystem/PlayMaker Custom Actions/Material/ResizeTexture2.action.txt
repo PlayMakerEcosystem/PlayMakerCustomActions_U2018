@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ResizeTexture2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ResizeTexture2.cs",
 "keywords":" Threading Material the with another method works ARGB32 RGB24 Alpha8 textures that are marked readable http index php topic ResizeTexture2 Setup FsmInt FsmTexture enum Reset Input ResizeTexture FF9900ff Output Please review FilterMode Biliner setWidth setHeight newTexture texItem TextureScale Point ThreadedScale Texture2D bool GetPixels Min SystemInfo processorCount ParameterizedThreadStart slice cores Thread Sleep useBilinear Resize newWidth newHeight SetPixels Apply BilinearScale Mathf xFloor xLerp yFloor PointScale threadData ratioY newColors texColors thisY ratioX WaitOne finishCount ReleaseMutex ColorLerpUnclamped value",
+"documentation":{
 "description":"Resize the texture with another method - Only works on ARGB32, RGB24 and Alpha8 textures that are marked readable"
+}
 }

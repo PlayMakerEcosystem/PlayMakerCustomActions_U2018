@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GameObjectTimeRewind.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GameObjectTimeRewind.cs",
 "keywords":" Generic elements Rotation can more variables marked code http index php topic GameObjectTimeRewind that owns Behaviour General render you Setup Which enum FsmFloat Buffer the FsmInt Control Output FsmBool Reset PLAYMAKER_1_8_5_OR_NEWER endif gameObject Rigidbody2D Rigidbody updateTypeSelect updateType doAction useStopMotion newTimeScale timeLimitInSeconds useSmoothDeltaTime stopMotion counter smoothDeltaTime listLimit forceQuit List Vector3 forceQuitEvent position positionVal eulerAngles rotationVal transform localScale sizeVal velocity velocityVal RemoveAt add indexVal isRewinding rewind is2D rb2d rewindIsKinematic Value isKinematic useGravity",
+"documentation":{
 "description":"Rewind a Gameobject. Default elements: Position + Rotation + Scale + Velocity. You can add more variables or component by code to the action (marked in code)."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetPositions.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetPositions.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Sets multiple SetPositions FsmStateActionAdvanced stored specify individually local Ignores effectively them Vector2 Useful you want change manner FsmBool Reset FsmGameObject FsmVector3 Self everyFrame DoSetPosition due safety precautions can occur when gets destroyed runtime Multi contains neither was individual global applyToAll Ignore ignoreZAxis apply current World transform localPosition pos explicitly declare HandleOnGUI OnGUI the changes set GameObject Value Vector3 zero positions prevAmount gameObjects Length",
+"documentation":{
 "description":"Sets the Position of multiple Game Object to one Vector3 or each one individually."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetRadiusSpeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetRadiusSpeed.cs",
 "keywords":" Shuriken ShapeModuleSetRadiusSpeed with radius FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm radiusSpeed Value",
+"documentation":{
 "description":"Set Radius Speed of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

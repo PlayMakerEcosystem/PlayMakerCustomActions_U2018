@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetMinVertexDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetMinVertextDistance.cs",
 "keywords":" MininumVertexDistance Shuriken TrailModuleSetMinVertexDistance with FsmFloat Repeat every the active bool TrailModule Reset gameObject _go ParticleSystem _ps trails everyFrame DoExecute _tm minVertexDistance Value",
+"documentation":{
 "description":"Set the MininumVertexDistance of a particleSystem's TrailModule ( Shuriken)"
+}
 }

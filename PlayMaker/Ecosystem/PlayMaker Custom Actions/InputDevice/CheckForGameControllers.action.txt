@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/InputDevice/CheckForGameControllers.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/MobileGameController/CheckForGameControllers.cs",
 "keywords":" pattern profile_type connection_type assume that can Text RegularExpressions InputDevice Sends Events Mobile Currently IOS potentially works future supported devices CheckForGameControllers raw FsmInt FsmString FsmBool detected send controller lost Repeat every active current will fire when changes based status started with bool Reset isExtended isWireless isDisconnectedEvent Input GetJoystickNames Length initialyConnected everyFrame isConnected currentlyConnected _controllers basic wired Logitech PowerShell Match rawJoystickName TryParse _num Groups Value during dev facilitate the development ComputeRegex joystick model string profile connection attributeRegex number floatregex Replace vendorName vendorNameRegex fullregex",
+"documentation":{
 "description":"Sends Events based on the Connection status of Mobile Game Controller. Currently Only works on IOS devices, but potentially works on all future supported devices"
+}
 }

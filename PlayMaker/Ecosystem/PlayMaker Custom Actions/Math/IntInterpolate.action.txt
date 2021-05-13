@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntInterpolate.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntInterpolate.cs",
 "keywords":" Math Interpolates between values specified IntInterpolate Interpolate amount seconds FsmFloat Store current FsmInt send when interpolation finished Ignore TimeScale Useful the paused scaled bool Reset realTime FsmTime RealtimeSinceStartup startTime deltaTime currentTime mode Linear Lerp InterpolationType EaseInOut storeResult Mathf SmoothStep fromInt toInt Value lerpTime finishEvent",
+"documentation":{
 "description":"Interpolates between 2 Int values over a specified Time."
+}
 }

@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetPositionAndRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetPositionAndRotation.cs",
 "keywords":" script dependancies Assets Custom __Internal version Sets leave unchanged Advanced features allows selection individual vector FsmQuaternion Title stored below Repeat every bool Reset dropdown with selected FsmVector3 FsmFloat PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame ExecuteAction gameObject any Vector3 current the eulerAngles axis xAngle yAngle zAngle Value apply transform SetPositionAndRotation _position Quaternion Euler _rotation",
+"documentation":{
 "description":"Sets the Position and rotation of a Game Object. To leave any axis unchanged, set variable to 'None'.
  Advanced features allows selection of update type."
+}
 }

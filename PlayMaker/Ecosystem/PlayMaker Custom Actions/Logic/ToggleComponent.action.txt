@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ToggleComponent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ToggleComponent.cs",
 "keywords":" Author Deek Logic http index php topic Enables disabled vice versa The toggle Supports scripts colliders FsmObject Wheter every once FsmBool Reset everyFrame DoToggleComponent Behaviour Renderer Value Collider enabled",
+"documentation":{
 "description":"Enables a Component if it's disabled and vice versa."
+}
 }

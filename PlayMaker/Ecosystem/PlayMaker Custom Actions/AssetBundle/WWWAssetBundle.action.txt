@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AssetBundle/WWWAssetBundle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AssetBundle/WWWAssetBundle.cs",
 "keywords":" store See Bundles docs more details WWWAssetBundle cached available downloads normally FsmBool file will disk cache previously been downloaded with same parameter incrementing number requested your application you can force Caching AssetBunlde FsmInt Results ObjectType Gets FsmObject message during FsmString How far progressed FsmFloat Events when the finished loading send there was Reset LoadFromCacheOrDownload cacheVersion WWW progress storeBundle assetBundle wwwObject errorString Value isDone isError",
+"documentation":{
 "description":"Gets Bundle from a url and store it in a FsmObject. See Unity WWW and Bundles docs for more details."
+}
 }

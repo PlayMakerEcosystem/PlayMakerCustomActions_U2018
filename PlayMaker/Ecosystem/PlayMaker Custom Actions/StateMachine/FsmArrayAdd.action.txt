@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayAdd.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayAdd.cs",
 "keywords":" Made nightcorelv forumlink http index php topic PlayMakerFSM StateMachine item FsmArrayAdd BaseFsmVariableAction that owns Optional the FsmString Reset ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName Resize UpdateValue Set fsmArray Length GetValue",
+"documentation":{
 "description":"Add an item to the end of a FSM Array."
+}
 }

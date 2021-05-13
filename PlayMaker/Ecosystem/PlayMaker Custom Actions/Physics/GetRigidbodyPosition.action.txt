@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetRigidbodyPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetRigidbodyPosition.cs",
 "keywords":" Gets Physics stores Axis more efficient than getting rotation the GetRigidbodyPosition FsmVector3 FsmFloat bool Reset gameObject everyFrame DoGetPosition Value rigidBody position",
+"documentation":{
 "description":"Gets the Position of a Physics Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable. It's more efficient than getting the rotation of the gameobject"
+}
 }

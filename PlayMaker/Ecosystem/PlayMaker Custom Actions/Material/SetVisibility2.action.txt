@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetVisibility2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetVisibility2.cs",
 "keywords":" Based MaDDoX work http index php topic msg591 Material Can optionnaly recurse SetVisibility2 toggled nHas priority setting Should invisible FsmBool once leaves Affects Reset OwnerOption DoSetVisibility GetComponentsInChildren memorizes initial bool not set simply toggle otherwise toggles isRootRenderer isVisible recursive renderers visible Value resetOnExit ResetVisibility uses the resets its gameObject Renderer enabled initialVisibility",
+"documentation":{
 "description":"Sets or toggle the visibility on a game object. Can optionnaly reset on exit and recurse children visibility"
+}
 }

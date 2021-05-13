@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetOverlapSphere.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetOverlapSphere.cs",
 "keywords":" Author Romi Fauzi Overlap script dependancies Assets Custom Gets GetOverlapSphere GetOverlapBase FsmFloat GetOverlappedGameObject LayerMask LayerToName layer Physics OverlapSphere originPos Collider bool Set afterOwner includeOwner ownerCol targetMask ownerMask Resize cols Length onFoundGameObject drawGizmo OnDrawActionGizmos Gizmos DrawWireSphere transform fromPosition radius Value",
+"documentation":{
 "description":"Gets GameObject(s) using Physics.OverlapSphere"
+}
 }

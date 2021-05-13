@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WWW/WebDownloadRequest.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/WWW/WebDownloadRequest.cs",
 "keywords":" server source https robots thoughtbot avoiding memory crashes mobile Networking WWW store WebDownloadRequest Results Gets FsmTexture Saves into Feedback during FsmString How far download progressed FsmFloat Events when finished loading send there was Reset UnityWebRequestTexture GetTexture Exception Message UnityWebRequest DownloadHandlerBuffer SendWebRequest Web Request downloadProgress Equals DownloadHandlerTexture errorString Value isDone isError uwr Dispose ErrorCheck Setup least property save the saveInFile storeTexture storeText You can select result DownloadHandlerScript ToFileDownloadHandler string buffer FileMode OpenOrCreate FileAccess GetData bool ReceiveData Write data dataLength GetProgress received CompleteContent ReceiveContentLength expected contentLength Cancel canceled fileStream Close File Delete filepath",
+"documentation":{
 "description":"Gets data from a url and store it as text or texture or in a file."
+}
 }

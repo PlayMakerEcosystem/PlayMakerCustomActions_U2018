@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformParent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformParent.cs",
 "keywords":" Sets uses method Description format text large info box string descriptionArea NOT FsmGameObject relative modified such that keeps the same world position rotation scale before FsmBool Reset SetTransformParent available until Set instead you must work version gameObject _parent SetParent _parentTransform worldPositionStays Value endif",
+"documentation":{
 "description":"Sets the Parent of a Game Object. It uses the Transform.SetParent method"
+}
 }

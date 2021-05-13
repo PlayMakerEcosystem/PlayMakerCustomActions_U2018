@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/EnableEventSystem.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/EnableEventSystem.cs",
 "keywords":" first selected EventSystems uGui Enables EnableEventSystem FsmBool Reset everyFrame EventSystem current enabled enableES Value",
+"documentation":{
 "description":"Enables an Event System "
+}
 }

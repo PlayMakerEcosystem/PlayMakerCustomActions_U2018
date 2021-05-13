@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/IsActive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/IsActive.cs",
 "keywords":" lets you know its property enabled well that parents FsmGameObject uses not activeSelf will the FsmBool Repeat every Useful Activate changes time Reset everyFrame DoIsActiveGameObject gameObject bool activeInHierarchy endif isActive Value _active isActiveEvent isNotActiveEvent",
+"documentation":{
 "description":"Check if a gameObject is active.This lets you know if a gameObject is active in the game. That is the case if its GameObject.activeSelf property is enabled, as well as that of all it's parents."
+}
 }

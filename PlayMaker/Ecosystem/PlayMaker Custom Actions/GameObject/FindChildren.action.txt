@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindChildren.cs",
 "keywords":" Author Deek Generic Finds matching stores them FindChildren can leave you Find with was then must match FsmString ArrayEditor Store FsmArray any could found trigger when matches given criteria Reset Resize Count Set result SaveChanges successEvent failedEvent ErrorCheck Specify both summary List sub returns FindChildrenRecursive GetComponentsInChildren Transform tmpChildren skip that have the specified string Untagged CompareTag tag Value children Add child gameObject",
+"documentation":{
 "description":"Finds all child GameObject's with the matching name and/or tag and stores them in an FsmArray."
+}
 }

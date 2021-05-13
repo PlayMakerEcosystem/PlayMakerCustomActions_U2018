@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetArcSpread.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetArcSpread.cs",
 "keywords":" Arc Shuriken ShapeModuleSetArcSpread with FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm arcSpread Value",
+"documentation":{
 "description":"Set Arc Spread of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

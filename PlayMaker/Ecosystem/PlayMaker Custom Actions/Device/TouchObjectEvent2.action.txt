@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/TouchObjectEvent2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/TouchObjectEvent2.cs",
 "keywords":" Device Sends when Optionally filter NOTE Uses prevents mix some cases TouchObjectEvent2 Collider How far pickable FsmFloat detect that match Events send cancel Results world surface vector where the was touched FsmVector3 Reset FsmInt MainCamera defined touchCount Input touches position RaycastHit Physics Camera main ScreenPointToRay screenPos pickDistance layer Store can accessed other Raycast Hit RaycastHitInfo transform gameObject storeFingerId fingerId storeHitPoint point storeHitNormal Value hitInfo normal touch touchBegan touchMoved touchStationary touchEnded TouchPhase touchCanceled",
+"documentation":{
 "description":"Sends events when an object is touched. Optionally filter by a fingerID. NOTE: Uses the MainCamera! Only raycast on the gameObject layer, prevents mix up in some cases."
+}
 }

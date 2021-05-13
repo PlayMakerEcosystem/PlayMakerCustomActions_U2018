@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TriggerEventByLayer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TriggerEventByLayer.cs",
 "keywords":" Source Physics Detect objects that have RigidBody components nNOTE events are sent when any collides with the filter collisions http index php topic TriggerEventByLayer FsmGameObject Reset HandleTriggerEnter HandleTriggerStay HandleTriggerExit storeCollider Value DoTriggerEnter OnTriggerEnter DoTriggerStay OnTriggerStay DoTriggerExit Collider trigger TriggerType OnTriggerExit gameObject layer StoreCollisionInfo other sendEvent string ErrorCheck ActionHelpers CheckOwnerPhysicsSetup",
+"documentation":{
 "description":"Detect collisions with objects that have RigidBody components. 
 NOTE: The system events, TRIGGER ENTER, TRIGGER STAY, and TRIGGER EXIT are sent when any object collides with the trigger. Use this action to filter collisions by Layer."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetFixedJoint2DProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetFixedJoint2DProperties.cs",
 "keywords":" Physics Gets the various GetFixedJoint2DProperties ComponentAction FixedJoint2D FsmGameObject FsmBool FsmFloat FsmVector2 bool Reset everyFrame ExecuteAction UpdateCache reactionForce autoConfigureConnectedAnchor enableCollision breakForce breakTorque dampingRatio frequency Value cachedComponent connectedBody gameObject",
+"documentation":{
 "description":"Gets the various properties of a FixedJoint2D component."
+}
 }

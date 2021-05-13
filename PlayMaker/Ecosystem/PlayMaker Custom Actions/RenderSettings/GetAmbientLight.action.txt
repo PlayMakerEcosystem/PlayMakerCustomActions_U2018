@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientLight.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientLight.cs",
 "keywords":" GetAmbientLight ambient Repeat every Useful the setting changing bool Reset everyFrame _getValue Value RenderSettings ambientLight",
+"documentation":{
 "description":"Get the ambient light color"
+}
 }

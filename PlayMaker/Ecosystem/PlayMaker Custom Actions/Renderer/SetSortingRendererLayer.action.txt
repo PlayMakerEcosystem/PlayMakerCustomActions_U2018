@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetSortingRendererLayer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetSortingRendererLayer.cs",
 "keywords":" requires ArrayMaker https fogbugz asp W715 original http index php topic msg48427 any Sprite Particle Mesh SetSortingRendererLayer that owns the more than then Select FsmString Layer TitleAttribute Sorting FsmInt Reset gos RenderSetup gameObject _target RenderSetupObj sortingLayerName layerString gameObjectRenderer sortingOrder layerOrder Value",
+"documentation":{
 "description":"Set any renderer Sorting Layer (Sprite, Particle, Mesh, etc)."
+}
 }

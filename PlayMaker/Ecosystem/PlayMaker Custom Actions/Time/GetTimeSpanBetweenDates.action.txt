@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetTimeSpanBetweenDates.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetTimeSpanBetweenDates.cs",
 "keywords":" Globalization Gets various useful measurements between two Totalx very likely query actual displayed not total amount GetTimeSpanBetweenDates enum are expressed with FsmString The result FsmFloat bool Reset yyyy everyFrame DoGetSpanTimeInfo CultureInfo InvariantCulture DateTime ParseExact dateFormat provider TimeSpan _endDate Subtract _startDate getSpanInfo TotalMilliseconds TotalSeconds TotalHours TotalMinutes TimeSpanInfo elapsed TotalDays storeValue Value",
+"documentation":{
 "description":"Gets various useful Time measurements between two dates. Use Totalx very likely, query for Minutes return the actual 'displayed' minutes of the time, not the total amount of the time span."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/ActivateComponents.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/ActivateComponents.cs",
 "keywords":" Author Deek Generic UnityObject http index php topic multiple once ActivateComponents Wheter disable objects when exiting Useful you want contains IDs accurately List FsmObject FsmBool GetType bool GameObject Add current supported disabled currType ToString can status with skip wanting reset resetOnExit reverse active was changedEntries entry Behaviour Renderer currValue Collider enabled OnGUI changes set unchanged entries prevAmount components Length sets bools the not enable item applyToAll Value",
+"documentation":{
 "description":"Enable/Disable multiple Components at once."
+}
 }

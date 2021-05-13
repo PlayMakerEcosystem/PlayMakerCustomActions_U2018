@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetQualityLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetQualityLevel.cs",
 "keywords":" bundle Assets Ecosystem Custom Packages unitypackage Sets graphics FsmString say first the list Leave force expensive applied when changing quality FsmBool Reset qualityName Fastest FsmInt QualitySettings SetQualityLevel qualityIndex applyExpensiveChanges Value",
+"documentation":{
 "description":"Sets a new graphics quality level."
+}
 }

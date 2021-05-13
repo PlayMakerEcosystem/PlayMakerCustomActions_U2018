@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/IsFogEnabled.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/IsFogEnabled.cs",
 "keywords":" sent disabled FsmBool Repeat every Useful the Enable setting changing bool Reset everyFrame DoIsFogEnabled store Value RenderSettings fog trueEvent falseEvent",
+"documentation":{
 "description":"Check if a the fog is enabled"
+}
 }

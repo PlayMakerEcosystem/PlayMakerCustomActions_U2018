@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/ButtonAutoScrollForGamePad.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/ButtonAutoScrollForGamePad.cs",
 "keywords":" Frankencopypastecoded MDS selection menu auto important code Twiik http unity3d threads bar arrow keys control EventSystems uGui Makes filled they Put ButtonAutoScrollForGamePad with add when Grid Layout group your also padding FsmFloat setting nested buttons working FsmBool Reset ScrollRect DoAutoScroll nestedButton selected1 currently EventSystem currentSelectedGameObject gameObject there are not inside parent same was last frame meaning haven moved tranform element local within its absolute content scrolling anchor below lower scrollViewMaxY DOWN selectedPositionY scrollRectTransform rect height newY above current upper bound the view scroll scrollViewMinY Vector2 contentPanel Mathf selectedRectTransform anchoredPosition upAdjust Value lastSelected selected",
+"documentation":{
 "description":"Makes a scroll rect filled with buttons autoscroll when they are selected. Put this on the GameObject with the Scroll Rect. "
+}
 }

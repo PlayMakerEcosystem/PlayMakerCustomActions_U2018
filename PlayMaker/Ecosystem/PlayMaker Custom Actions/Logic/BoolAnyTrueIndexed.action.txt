@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolAnyTrueIndexed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolAnyTrueIndexed.cs",
 "keywords":" Made DjayDino Logic Tests given BoolAnyTrueIndexed send any are FsmBool Store FsmInt Repeat every the active bool Reset everyFrame DoAnyTrue Length boolVariables sendEvent storeResult elementIndex Value",
+"documentation":{
 "description":"Tests if any of the given Bool Variables are True."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Enum/RandomWeightedEnum.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Enum/RandomWeightedEnum.cs",
 "keywords":" Author Deek http php topic Pick weighted picked specified Enums RandomWeightedEnum Weighting Can hit the same twice FsmBool Reset FsmEnum FsmFloat PickRandom Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex result amount randomIndex Value",
+"documentation":{
 "description":"Pick a random weighted Enum picked from an array of specified Enums."
+}
 }

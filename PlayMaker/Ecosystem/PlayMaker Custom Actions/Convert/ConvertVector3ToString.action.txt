@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertVector3ToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertVector3ToString.cs",
 "keywords":" Convert Converts flexible are placeholders ConvertVector3ToString itself FsmVector3 pattern express vector components strings Useful you want optimized generated The FsmString Repeats every bool Reset everyFrame DoToString floatConversion vector3 Replace _val ToString _fFormat storeResult Value _result",
+"documentation":{
 "description":"Converts a vector3 to a string. Format is flexible, [x] [y] and [z] are placeholders"
+}
 }

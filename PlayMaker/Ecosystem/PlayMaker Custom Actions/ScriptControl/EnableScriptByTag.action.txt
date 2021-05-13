@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/EnableScriptByTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/EnableScriptByTag.cs",
 "keywords":" Source ScriptControl Enables Disables http index php topic EnableScriptByTag Note must same Project view Should the included disable will ignored Options FsmString TitleAttribute incl Also Filter FsmBool componentTarget Reset string your allScripts layerFilterOn DisableAll DisableAllwithlayer GetComponents scriptComponents scriptChildComponents GetComponentsInChildren TagSetup TagAndLayerSetup FindGameObjectsWithTag with Length inclChildren inclLayerFilterOnChild childCount objtag transform GetChild layer child gameObject script Behaviour enabled enable Value",
+"documentation":{
 "description":"Enables/Disables a Script by Tag (with layer filter)."
+}
 }

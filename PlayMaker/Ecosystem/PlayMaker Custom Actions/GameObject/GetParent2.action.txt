@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetParent2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetParent2.cs",
 "keywords":" Gets the with complex flow GetParent2 FsmGameObject bool Reset everyFrame Execute transform parent gameObject storeResult Value",
+"documentation":{
 "description":"Gets the Parent of a Game Object with option to get it everyframe for complex one state flow"
+}
 }

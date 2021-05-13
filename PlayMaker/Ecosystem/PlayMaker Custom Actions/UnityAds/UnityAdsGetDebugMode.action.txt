@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsGetDebugMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsGetDebugMode.cs",
 "keywords":" Generic Advertisements Gets UnityAdsGetDebugMode The FsmBool sent Reset Value Advertisement debugMode isInDebuggingModeEvent isNotInDebuggingModeEvent UnityAds supported IOS Android Platforms endif",
+"documentation":{
 "description":"Gets the debug mode of UnityAds."
+}
 }

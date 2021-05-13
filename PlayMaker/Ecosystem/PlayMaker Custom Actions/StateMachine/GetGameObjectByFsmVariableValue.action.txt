@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetGameObjectByFsmVariableValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetGameObjectByFsmVariableValue.cs",
 "keywords":" Author Deek StateMachine http index php topic Searches certain returns first occurrence Leave FsmString HideTypeFilter the search Wheter every once FsmBool FsmGameObject could found Reset everyFrame DoGetGameObjectByFsmVariableValue string variableName FsmList NamedVariable Variables FindVariable variableValue varName foundVar GameObject result Value noneFoundEvent",
+"documentation":{
 "description":"Searches for a certain fsm variable in all FSMs and returns the GameObject of the first occurrence."
+}
 }

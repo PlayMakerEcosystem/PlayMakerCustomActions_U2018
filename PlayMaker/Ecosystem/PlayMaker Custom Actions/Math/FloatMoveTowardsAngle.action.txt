@@ -4,7 +4,9 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatMoveTowardsAngle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatMoveTowardsAngle.cs",
 "keywords":" script dependancies Assets Custom __Internal Math Moves makes sure interpolate correctly they wrap nVariables assumed optimization reasons negative values are not supported may cause oscillation push current away add instead FloatMoveTowardsAngle FsmStateActionAdvanced degrees maximum change that should applied multiplied framerate independant animations bool which move considered finished sent continous execution wrapped around resulting remaining floatvariable targetValue send when the reached Reset FsmFloat DoMoveTowardsAngle timeBasedMaxDelta deltaTime MoveTowards angleVariable _maxDelta resultInRadian targetAngle _result remainingAngle remainingAngleinRadian Deg2Rad _distance Mathf finishDistance Value finishEvent",
+"documentation":{
 "description":"Moves a value current towards target,and makes sure the values interpolate correctly when they wrap around 360 degrees.
 
 Variables current and target are assumed to be in degrees. For optimization reasons, negative values of maxDelta are not supported and may cause oscillation. To push current away from a target angle, add 180 to that angle instead."
+}
 }

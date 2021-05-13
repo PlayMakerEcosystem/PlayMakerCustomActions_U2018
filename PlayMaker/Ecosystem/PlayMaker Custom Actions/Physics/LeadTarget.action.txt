@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/LeadTarget.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/LeadTarget.cs",
 "keywords":" Reference Credit information compiled Lane Fox Original code Link http unity3d threads Getting with its shots Physics Compute point moving Primary variables firing lead FsmGameObject resulting intercept FsmVector3 Options projectile being fired magic mulitplier you probably need FsmFloat How often once every other frame nDo not change runtime FsmInt Reset 15f DoLeadTarget repeat repeatInterval theOrigin theTarget weaponSpeed magicNumber OKAY calculation actual distTarget velocityPosition1 first velocityDist1 Vector3 velocityPosition2 Origin third distance second calc transform Rigidbody velocity mult velocityDist2 projectileSpeed store the result upwards can will Value TargetInterceptPosition",
+"documentation":{
 "description":"Compute the intercept point for firing a projectile at a moving target."
+}
 }

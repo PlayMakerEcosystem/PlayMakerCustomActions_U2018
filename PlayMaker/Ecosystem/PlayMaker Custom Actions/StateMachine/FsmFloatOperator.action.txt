@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmFloatOperator.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatOperator.cs",
 "keywords":" Made nightcorelv forumlink http index php topic StateMachine Performs math operations FsmFloatOperator enum owns Optional FsmString original that will change the FsmBool bool PlayMakerFSM Reset everyFrame Ggop gameObject ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmFloat variableName storeFsmValue ModifyFsmValue fsmFloat Add Subtract Multiply Divide Min Operation StoreResult Value Mathf Max",
+"documentation":{
 "description":"Performs math operations on FSM Floats: Add, Subtract, Multiply, Divide, Min, Max."
+}
 }

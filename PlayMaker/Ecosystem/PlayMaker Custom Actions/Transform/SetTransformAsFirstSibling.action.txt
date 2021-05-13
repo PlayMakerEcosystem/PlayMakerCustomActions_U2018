@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformAsFirstSibling.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformAsFirstSibling.cs",
 "keywords":" child local list SetTransformAsFirstSibling Description format text large info box string descriptionArea NOT The move first Reset SetTransformParent available until Set Parent instead you must work version gameObject transform SetAsFirstSibling endif",
+"documentation":{
 "description":"Move the transform to the start of the local transform list."
+}
 }

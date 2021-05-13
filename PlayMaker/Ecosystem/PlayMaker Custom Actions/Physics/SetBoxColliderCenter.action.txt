@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetBoxColliderCenter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetBoxColliderCenter.cs",
 "keywords":" Physics Box http index php topic SetBoxColliderCenter ComponentAction BoxCollider apply add Optionally any with parameters FsmVector3 along axis leave unchanged Repeat every the active bool Reset FsmFloat everyFrame DoChange UpdateCache gameObject Vector3 vector Value cachedComponent center",
+"documentation":{
 "description":"Set the center of a Box Collider"
+}
 }

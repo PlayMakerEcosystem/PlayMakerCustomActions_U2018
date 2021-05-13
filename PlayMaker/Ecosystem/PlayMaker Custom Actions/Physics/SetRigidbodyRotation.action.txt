@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetRigidbodyRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetRigidbodyRotation.cs",
 "keywords":" Physics more efficient then accessing transform SetRigidbodyRotation rigid rotate The FsmQuaternion Repeat every bool Reset gameObject everyFrame DoRotation rigidBody rotation Value",
+"documentation":{
 "description":"Set a Rigidbody rotation. It's more efficient then accessing the transform of the gameObject."
+}
 }

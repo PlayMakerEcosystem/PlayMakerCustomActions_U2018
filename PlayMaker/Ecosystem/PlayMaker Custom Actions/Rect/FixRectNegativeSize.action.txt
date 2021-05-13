@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Rect/FixRectNegativeSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Rect/FixRectNegativeSize.cs",
 "keywords":" Source https answers questions rectcontains cant accept rects with wid html Fixes negative sizes that are always positive moving values accordingly FixRectNegativeSize FsmRect bool Reset result everyFrame ExecuteAction Value _rect FixNegativeSize originalRect width Mathf fixedRect height",
+"documentation":{
 "description":"Fixes negative sizes of a rect so that width and height are always positive, moving x and y values accordingly"
+}
 }

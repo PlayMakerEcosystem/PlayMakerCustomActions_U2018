@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.cs",
 "keywords":" Logic Tests GameObjectIsActiveInHierarchy test FsmGameObject send GamObject NOT Store the FsmBool console Repeat every bool Reset debugging everyFrame DoIsGameObjectActive gameObject activeInHierarchy storeResult Value goIsActive isActive isNotActive",
+"documentation":{
 "description":"Tests if a GameObject Variable is Active or not."
+}
 }

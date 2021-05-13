@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayFindGameObjectsByTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayFindGameObjectsByTag.cs",
 "keywords":" Find active GameObjects with specific store Tags must declared manager before them ArrayFindGameObjectsByTag FsmArray the Reset FsmString FindGOByTag Values GameObject FindGameObjectsWithTag tag Value",
+"documentation":{
 "description":"Find all active GameObjects with a specific tag and store them in an array. Tags must be declared in the tag manager before using them"
+}
 }

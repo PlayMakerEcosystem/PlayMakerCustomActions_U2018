@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayIsEmpty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayIsEmpty.cs",
 "keywords":" Author Deek based ArrayIsEmpty FsmArray send the not Reset Length isEmpty isNotEmpty",
+"documentation":{
 "description":"Send an event based on the length of an array."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Analytics/AnalyticsSendCustomEvent.cs",
 "keywords":" Generic allows track specific configuring series within you can create Funnel Analysis observe your players behavior Good places put custom events include milestones levels scene transitions AnalyticsSendCustomEvent the EventData FsmString ObjectType FsmEnum went Sent execution failed more infos Reset AnalyticsDisabled Dictionary string Length UpdateValue Add keys values GetValue Analytics CustomEvent eventName _data Value _result AnalyticsResult success failure",
+"documentation":{
 "description":"Unity Analytics allows you to track specific events within your game. By configuring a series of Custom Events within your game, you can create your own Funnel Analysis to observe your players' game behavior. Good places to put custom events include: milestones, new levels, scene transitions, etc."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectsByTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectsByTag.cs",
 "keywords":" Original https index php topic UnityEditor Activates deactives given ActivateGameObjectsByTag FsmString The with FsmBool Reset activate FindGameObjectsWithTag gos Resources FindObjectsOfTypeAll GameObject HideFlags PrefabUtility GetPrefabType PrefabType ModelPrefab endif tag Value SetActive",
+"documentation":{
 "description":"Activates/deactives all Game Object with a given tag."
+}
 }

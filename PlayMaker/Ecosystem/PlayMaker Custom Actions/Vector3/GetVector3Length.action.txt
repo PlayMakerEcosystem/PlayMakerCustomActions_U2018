@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/GetVector3Length.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/GetVector3Length.cs",
 "keywords":" GetVector3Length FsmVector3 FsmFloat Repeat every bool Reset everyFrame DoVectorLength storeLength vector3 Value magnitude",
+"documentation":{
 "description":"Get Vector3 Length."
+}
 }

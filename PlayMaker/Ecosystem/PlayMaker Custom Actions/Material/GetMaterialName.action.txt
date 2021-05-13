@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialName.cs",
 "keywords":" Gets that applied GameObjects can have multiple specific FsmInt Alternatively specify instead FsmMaterial pointer appended removed will the FsmString sent was not found instance Reset fail bool DoGetMaterialName gameObject material Length Renderer materials materialIndex Value parseMaterialName string trimName EndsWith Replace _token",
+"documentation":{
 "description":"Gets the name of game object's material."
+}
 }

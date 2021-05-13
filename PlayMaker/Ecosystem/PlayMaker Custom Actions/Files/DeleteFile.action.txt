@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/DeleteFile.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/DeleteFile.cs",
 "keywords":" Windows endif Files http php topic DeleteFile Input FsmString FsmBool FsmInt Output Reset bool exist failed secureDelete pathToFile Value done TwoPassFileErase FileStream FileMode Open FileAccess blockSize loop random NextBytes Seek SeekOrigin Begin Clear index Write buffer Length stream Flush string Combine GetDirectoryName GetRandomFileName Exists Move File Delete newPath",
+"documentation":{
 "description":"Delete a file"
+}
 }

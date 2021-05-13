@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidBodySetMaxAngularVelocity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidBodySetMaxAngularVelocity.cs",
 "keywords":" RigidBodySetMaxAngularVelocity ComponentAction maximimum angular range infinity FsmFloat Repeat every the active bool Reset everyFrame DoSetMaxAngularVelocity gameObject UpdateCache Value string ErrorCheck rigidbody maxAngularVelocity available Physics Settings endif",
+"documentation":{
 "description":"Set The maximimum angular velocity of the rigidbody. (Default 7) range { 0, infinity }."
+}
 }

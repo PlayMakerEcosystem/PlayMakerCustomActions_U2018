@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3ProjectOnPlane.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3ProjectOnPlane.cs",
 "keywords":" https index php topic msg84027 Performs its Vector3ProjectOnPlane project the resulting projection FsmVector3 Runs every bool Reset everyFrame DoProjectOnPlane storeVector3Result Vector3 ProjectOnPlane vector planeNormal Value",
+"documentation":{
 "description":"Performs projection of a vector on a plane using its normal."
+}
 }

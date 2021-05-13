@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraDreamWipeFade.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraDreamWipeFade.cs",
 "keywords":" script dependancies Assets Min between two http index php topic CameraDreamWipeFade FsmGameObject General FsmAnimationCurve Settings Higher numbers the effect smoother take more CPU FsmInt FsmFloat You should FsmMaterial Output FsmBool Reset cameraFrom cameraTo StartCoroutine fadeTime setWaveScale setWaveFrequency OnExit StopCoroutine routine AlphaTimer useCurve curve Evaluate alpha bool enableThis cam1Active AudioListener reEnableListener listener SetActive Shader Find Custom Unlit2Pass AddComponent MeshRenderer Rendering ShadowCastingMode Off receiveShadows Vector2 add idx newUV newTriangles RenderTexture width Screen height FilterMode _Tex1 SetTexture _Tex2 IEnumerator InitializeDreamWipe Clamp 25f planeResolution CameraSetup Instantiate rotation Camera depth farClipPlane InverseTransformPoint ScreenToWorldPoint localScale localPosition localEulerAngles zero nearClipPlane 00005f Translate Vector3 forward MeshFilter deltaTime rate planeMaterial InverseLerp 75f 15f Length baseVertices waveFrequency time planeMesh newVertices Mathf SmoothStep waveScale yield CameraCleanup Renderer enabled plane transform parent MonoBehaviour Destroy cam2Clone gameObject cam1 cam2 targetTexture renderTex renderTex2 Release isWorking inProgress Value",
+"documentation":{
 "description":"DreamWipe fade between two camera"
+}
 }

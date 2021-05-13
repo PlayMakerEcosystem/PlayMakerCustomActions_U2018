@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateChildren.cs",
 "keywords":" deactivates optionnaly define recursion affects many levels ActivateChildren FsmBool deactivate given their direct grand children means FsmInt objects when exiting Useful you want nNote applies last deactivated won work changes store the can Reset resetOnExit parent activate bool SetActive recursiveDepth Value currentDepth transform SetActiveRecursively child gameObject _nextDepth",
+"documentation":{
 "description":"Activates/deactivates children of a gameObject. Can optionnaly define depth of recursion to only affects so many levels of children"
+}
 }

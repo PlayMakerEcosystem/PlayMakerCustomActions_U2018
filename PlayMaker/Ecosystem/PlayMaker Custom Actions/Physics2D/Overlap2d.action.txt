@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/Overlap2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Overlap2d.cs",
 "keywords":" Author Digitom https index php topic topicseen script dependancies Assets Custom Physics Overlap2dEditor intersecting other colliders Overlap2d enum will Diagonally opposite corner rectangle CapsuleDirection2D FsmVector2 MUTUAL EFFECTORS greater include with coordinate less than equal FsmFloat something otherwise Store ArrayEditor FsmArray Repeat every Typically would Layer Detect these layers Draw Note Gizmos View see FsmBool the line Vector2 Collider2D Reset FsmInt debugColor cyan everyFrame DoOverlap transform position shape Circle OverlapCircleAll radius Box OverlapBoxAll boxSize Area OverlapAreaAll pointA pointB Capsule OverlapCapsuleAll offset direction ShapeType Physics2D OverlapPointAll pos point layerMask minDepth maxDepth Length storeGameObjects Values collidedObjects gameObject storeDidHit Value",
+"documentation":{
 "description":"Bool check to see if the overlap is intersecting with other colliders. "
+}
 }

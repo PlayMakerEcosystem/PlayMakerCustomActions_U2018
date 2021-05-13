@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsBoolTest.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsBoolTest.cs",
 "keywords":" player Sends based corresponding preference file PlayerPrefsBoolTest sensitive FsmString FsmBool Boolvalue send the PlayerPref was not Reset bool Equals PlayerPrefs GetInt boolVariable _value isTrue isFalse keyNotFound",
+"documentation":{
 "description":"Sends event based on the value corresponding to key in the preference file."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTransformParts.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformParts.cs",
 "keywords":" Gets either individual Pos Sca GetTransformParts ObjectType entire FsmObject FsmQuaternion The FsmVector3 bool Reset everyFrame DoGetTransform GameObject storeTransform storePosition position storeRotation eulerAngles storeQuaternion rotation storeScale Value transform localScale",
+"documentation":{
 "description":"Gets a Game Object's Transform as either a Transform or individual Pos/Rot/Sca Vector3's."
+}
 }

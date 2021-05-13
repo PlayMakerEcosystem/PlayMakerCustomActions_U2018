@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/AndroidVibrateAdvance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/AndroidVibrateAdvance.cs",
 "keywords":" causes device custom settings Please instruction clicking link incorrectly odd behavior result http php topic AndroidVibrateAdvance unity3d GetStatic getSystemService AndroidJavaClass unityPlayer currentActivity AndroidJavaObject off Setup means create Note index followed rest first indicates number wait before turning entering with immediately after calling may not have time begin vibrating will never when sleeps vibration stops Output FsmBool The send you Reset FsmInt disableSleepTimeout Screen SleepTimeout NeverSleep notAndroid notAndroidEvent Length setPattern patternTemp cancelVibrator Value vibratorCancelled Handheld milliseconds vibrate pattern repeat HasVibrator vibrator Call cancel bool isAndroid endif",
+"documentation":{
 "description":"Android - causes the device to vibrate with custom settings. Please read instruction by clicking on the action url link. If set incorrectly, you may get odd behavior as a result!"
+}
 }

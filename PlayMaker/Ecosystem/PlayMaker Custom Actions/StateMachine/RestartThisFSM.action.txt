@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/RestartThisFSM.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/RestartThisFSM.cs",
 "keywords":" Author Deek StateMachine http index php topic Restarts current beginning after NOTE sure not cause infinite loops having direct path the without any between RestartThisFSM Optional FsmFloat bool Reset realTime FsmTime RealtimeSinceStartup startTime deltaTime timer delay Value DoRestart string SetState startState",
+"documentation":{
 "description":"Restarts the current FSM at the beginning (the Start State) after an optional delay. NOTE: Make sure to not cause any infinite loops by having a direct path from the Start State to this action without any delay in between or in this action."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetHingeJointProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetHingeJointProperties.cs",
 "keywords":" covers with differences define Physics some hinge joints SetHingeJointProperties control General Repeat every Reset FsmGameObject breakForce breakTorque FsmVector3 FsmBool FsmFloat OwnerOption gameObject HingeJoint everyFrame DoSetProperties JointSpring connectedBody Rigidbody anchor axis useSpring damper targetPosition spring _springJoint useMotor targetVelocity force freeSpin _jointMotor useLimits min max minBounce maxBounce bounceMinVelocity bounciness contactDistance Value _joint _jointLimits endif",
+"documentation":{
 "description":"Set some hinge joints properties"
+}
 }

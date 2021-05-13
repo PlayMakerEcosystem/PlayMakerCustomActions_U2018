@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayShuffle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayShuffle.cs",
 "keywords":" Made nightcorelv forumlink http php topic Generic StateMachine Optionally part FsmArrayShuffle BaseFsmVariableAction that owns FsmString Optional shuffling starting greater than Leave effect will shuffle the whole Reset FsmInt ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName startIndex Mathf Min Count shufflingRange Value Random Range swapWithPos tmp fsmArray Values _list ToArray",
+"documentation":{
 "description":"Shuffle values in a FSM array. Optionally set a start index and range to shuffle only part of the array."
+}
 }

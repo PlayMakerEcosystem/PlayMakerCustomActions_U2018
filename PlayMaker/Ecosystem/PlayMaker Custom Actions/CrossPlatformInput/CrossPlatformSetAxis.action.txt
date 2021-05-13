@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetAxis.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetAxis.cs",
 "keywords":" UnityStandardAssets pragma disable specified Requires Standard CrossPlatformSetAxis FsmString values are the range FsmFloat Sent not Repeat every bool Reset string ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput AxisExists axisNotFound everyFrame DoSetAxis CROSS_PLATFORM_INPUT CrossPlatformInputManager SetAxis axisName Value endif",
+"documentation":{
 "description":"Sets the value of the specified Input Axis. Requires Standard Assets CrossPlatformInput."
+}
 }

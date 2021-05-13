@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SubtractFsmInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SubtractFsmInt.cs",
 "keywords":" StateMachine another that owns Optional FsmString Subtract Repeat Useful changing with Every bool PlayMakerFSM Reset everyFrame gameObject goLastFrame the changed ActionHelpers GetGameObjectFsm Could not find fsmName FsmVariables GetFsmInt variableName perSecond subtractValue Value deltaTime DoSubtractFsmInt",
+"documentation":{
 "description":"Subtract the value of a Int Variable in another FSM."
+}
 }

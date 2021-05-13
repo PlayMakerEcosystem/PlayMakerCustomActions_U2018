@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/SetMultiIntValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/SetMultiIntValue.cs",
 "keywords":" multi multiple Source Math Sets the many http index php topic SetMultiIntValue Count bool Reset FsmInt everyFrame DoSetIntValue Length Equals intVariable values Value",
+"documentation":{
 "description":"Sets the value of many Int Variable."
+}
 }

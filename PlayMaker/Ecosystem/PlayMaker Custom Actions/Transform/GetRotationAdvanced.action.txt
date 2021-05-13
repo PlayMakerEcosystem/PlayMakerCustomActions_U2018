@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetRotationAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetRotationAdvanced.cs",
 "keywords":" script dependancies Assets Custom __Internal Gets stores Axis you define when execute the GetRotationAdvanced FsmStateActionAdvanced FsmQuaternion Title FsmVector3 FsmFloat Reset everyFrame DoGetRotation gameObject World transform localEulerAngles qXAngle qYAngle qZAngle Quaternion Euler vector xAngle yAngle zAngle Value rotation",
+"documentation":{
 "description":"Gets the Rotation of a Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable. Advanced option let you define when to execute the action, on update, fixedupdate or lateupdate"
+}
 }

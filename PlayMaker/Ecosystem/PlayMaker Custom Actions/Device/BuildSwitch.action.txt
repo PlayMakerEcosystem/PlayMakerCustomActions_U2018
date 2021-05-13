@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/BuildSwitch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/BuildSwitch.cs",
 "keywords":" Source Device Send based build http index php topic BuildSwitch Reset sendEventUnityEditor sendEventIos sendEventAndroid sendEventEditorWin sendEventEditorOsx sendEventStandaloneOsx sendEventStandaloneWin sendEventStandaloneLinux sendEventStandalone sendEventWebplayer sendEventIphone sendEventWebGl sendEventTizen endif",
+"documentation":{
 "description":"Send event based on build."
+}
 }

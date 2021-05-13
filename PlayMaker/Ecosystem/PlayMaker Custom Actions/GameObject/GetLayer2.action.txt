@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetLayer2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetLayer2.cs",
 "keywords":" Gets stores GetLayer2 FsmGameObject FsmInt FsmString bool Reset everyFrame DoGetLayer storeIntValue storeNameValue LayerMask LayerToName gameObject Value layer",
+"documentation":{
 "description":"Gets a Game Object's Layer and stores it in an Int Variable or a String Variable."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/StringSplitToStrings.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringSplitToStrings.cs",
 "keywords":" Math into number indicated which shift backslash StringSplitToStrings with dividers Example Frank Tony Bill Jorge Making that identifies between strings character Result stored individual FsmString bool Reset divider everyFrame DoStringSplit inputString Length The Split input string more segments than variables store them results Value splitArray",
+"documentation":{
 "description":"Split a string into a static number of segments at each indicated divider character. Default divider is '|' which is shift backslash."
+}
 }

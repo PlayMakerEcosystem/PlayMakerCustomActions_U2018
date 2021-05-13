@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsGetEyeTextureResolutionScale.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsGetEyeTextureResolutionScale.cs",
 "keywords":" Controls texture specified lower which may improve expense less sharp Values greater than will higher resulting potentially sharper image cost performance increased memory usage XRSettingsGetEyeTextureResolutionScale actual eye textures multiplier the device resolution FsmFloat Reset Value XRSettings eyeTextureResolutionScale",
+"documentation":{
 "description":"Controls the actual size of eye textures as a multiplier of the device's default resolution.A value of 1.0 will use the default eye texture resolution specified by the XR device. Values less than 1.0 will use lower resolution eye textures, which may improve performance at the expense of a less sharp image. Values greater than 1.0 will use higher resolution eye textures, resulting in a potentially sharper image at a cost to performance and increased memory usage."
+}
 }

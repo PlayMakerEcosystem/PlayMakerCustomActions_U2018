@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/DestroyObjectMulti.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DestroyObjectMulti.cs",
 "keywords":" Destroys DestroyObjectMulti Count Detach before destroying the Reset FsmGameObject FsmBool Length gameObject Value transform DetachChildren Destroy",
+"documentation":{
 "description":"Destroys a Game Object."
+}
 }

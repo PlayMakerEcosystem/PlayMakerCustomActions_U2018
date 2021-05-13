@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Social/ShareAppAndroid.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Social/ShareAppAndroid.cs",
 "keywords":" Source Social msg available apps WORK WITH FACEBOOK TWITTER http index php topic ShareAppAndroid Setup FsmString Does not app after select FsmBool Reset DoShare android content Intent setAction ACTION_SEND setType plain EXTRA_SUBJECT title putExtra string EXTRA_TEXT message AndroidJavaClass unity3d UnityPlayer GetStatic androidChooserOn Value intentClass CallStatic AndroidJavaObject createChooser Share Via jChooser currentActivity Call startActivity intentObject endif",
+"documentation":{
 "description":"Share msg via android available apps - DOES NOT WORK WITH FACEBOOK/TWITTER"
+}
 }

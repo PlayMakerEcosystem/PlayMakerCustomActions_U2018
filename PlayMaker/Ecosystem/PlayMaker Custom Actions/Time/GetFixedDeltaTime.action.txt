@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetFixedDeltaTime.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetFixedDeltaTime.cs",
 "keywords":" during call GetFixedDeltaTime the delta FsmFloat Repeat every bool Reset everyFixedFrame executeAction Value fixedDeltaTime",
+"documentation":{
 "description":"Get the fixedDeltaTime during the fixedUpdate call"
+}
 }

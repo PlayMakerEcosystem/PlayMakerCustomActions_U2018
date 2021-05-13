@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/PhysicsIgnoreCollision.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/PhysicsIgnoreCollision.cs",
 "keywords":" Makes detection PhysicsIgnoreCollision first second FsmGameObject Wether ignore not the collisions between FsmBool Reset doIgnoreCollision collider1 GameObject collider2 Physics go1 go2 Collider ignoreCollision Value",
+"documentation":{
 "description":"Makes the collision detection system ignore all collisions between collider1 and collider2."
+}
 }

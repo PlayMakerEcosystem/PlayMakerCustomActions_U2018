@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertIntToEnum.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertIntToEnum.cs",
 "keywords":" ConvertIntToEnum convert FsmInt FsmEnum Fired conversion failed that not found the Repeat every bool Reset everyFrame DoSetEnumValue IsDefined Enum Parse enumVariable GetType ToString _valueCache Value errorEvent",
+"documentation":{
 "description":"Convert an int value to an Enum Variable"
+}
 }

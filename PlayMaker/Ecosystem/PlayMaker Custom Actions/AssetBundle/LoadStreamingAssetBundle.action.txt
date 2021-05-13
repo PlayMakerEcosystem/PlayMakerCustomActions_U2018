@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AssetBundle/LoadStreamingAssetBundle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AssetBundle/LoadStreamingAssetBundle.cs",
 "keywords":" streaming assets store See docs more details LoadStreamingAssetBundle within StreamingAsset Folder Results ObjectType Gets FsmObject message during FsmString How far download progressed FsmFloat Events when the finished send there was AssetBundleCreateRequest Reset LoadFromFileAsync Application streamingAssetsPath path loading progress LoadAsset assetbundlemanifest Hash128 _hash GetAssetBundleHash GetAllAssetBundles manifest storeBundle _request assetBundle errorString Value isDone isError",
+"documentation":{
 "description":"Gets a Bundle from the streaming assets and store it in a FsmObject. See Bundles docs for more details."
+}
 }

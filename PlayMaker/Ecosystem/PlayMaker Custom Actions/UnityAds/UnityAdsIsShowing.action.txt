@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsShowing.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsShowing.cs",
 "keywords":" Generic Advertisements status UnityAdsIsShowing The current ready FsmBool sent when not useful you want changes Reset everyFrame checkIsShowing bool Advertisement Value _isShowing isShowingEvent isNotShowingEvent UnityAds supported IOS Android Platforms endif",
+"documentation":{
 "description":"Get the current showing status of UnityAds."
+}
 }

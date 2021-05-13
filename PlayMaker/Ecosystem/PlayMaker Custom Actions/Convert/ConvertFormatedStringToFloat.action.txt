@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertFormatedStringToFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFormatedStringToFloat.cs",
 "keywords":" Converts ConvertFormatedStringToFloat convert FsmString Store FsmFloat Repeat every Useful the String changing bool Reset Globalization NumberStyles Any everyFrame DoConvertStringToFloat TryParse stringVariable numberStyle floatVariable Value result",
+"documentation":{
 "description":"Converts an String value to a Float value."
+}
 }

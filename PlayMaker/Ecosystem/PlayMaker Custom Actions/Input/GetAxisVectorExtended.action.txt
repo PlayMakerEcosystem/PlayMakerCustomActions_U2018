@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetAxisVectorExtended.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetAxisVectorExtended.cs",
 "keywords":" Edited DjayDino Gets used third person controller with GetAxisVectorExtended enum See Manager FsmString reported lets you range world map onto result typically main camera FsmGameObject FsmVector3 length Store Ranges being fully left FsmFloat will prevent when both bool Reset Horizontal Vertical relativeTo mapToPlane AxisPlane NOTE mode ans are same normalized transform TransformDirection Vector3 relative Always orthogonal the individual leaving blank set sets horizontalAxis verticalAxis calculate resulting forward multiplier storeVector storeMagnitude checkAngleIfAxis0 direction magnitude storeAngle Value Atan2 Mathf Rad2Deg GetInputAxis string useRawAxis GetAxisRaw Input GetAxis axis",
+"documentation":{
 "description":"Gets a world direction Vector from 2 Input Axis. Typically used for a third person controller with Relative To set to the camera."
+}
 }

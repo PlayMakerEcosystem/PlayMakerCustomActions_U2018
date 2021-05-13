@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetDistance2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetDistance2.cs",
 "keywords":" Measures betweens vectors stores the are offseted GameObjects declared GetDistance2 FsmGameObject FsmVector3 FsmFloat bool Reset everyFrame DoGetDistance OwnerOption GameObject orVector3 zero transform position orVector3Target storeResult Value Vector3 Distance",
+"documentation":{
 "description":"Measures the Distance betweens 2 Game Objects or vectors and stores the result in a Float Variable. Vector3 are offseted to GameObjects if declared"
+}
 }

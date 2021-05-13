@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/ColorMix.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/ColorMix.cs",
 "keywords":" Made Thore http index php topic Mixes two colors together ColorMix blend Between equal mix Below first Above bias towards second FsmFloat Set store bool Code that runs entering the everyFrame colorResult Lerp color1 color2 mixRatio Value",
+"documentation":{
 "description":"Mixes two colors together."
+}
 }

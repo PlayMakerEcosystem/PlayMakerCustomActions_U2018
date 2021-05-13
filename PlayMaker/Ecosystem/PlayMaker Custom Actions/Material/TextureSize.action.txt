@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureSize.cs",
 "keywords":" Text Material http index php topic TextureSize FsmTexture FsmString Always FsmFloat Reset textureVariable Texture2D GetRawTextureData storeResult floatMb Value LongLength texItem tex BytesToString KiB Convert ToInt32 Floor Round bytes Pow Math Sign byteCount num ToString suf place",
+"documentation":{
 "description":"Size of String (b, kb, mb, etc)"
+}
 }

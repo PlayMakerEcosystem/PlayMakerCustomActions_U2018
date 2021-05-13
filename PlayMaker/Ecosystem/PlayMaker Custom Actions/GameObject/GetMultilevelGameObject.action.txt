@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetMultilevelGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetMultilevelGameObject.cs",
 "keywords":" Author Deek http php topic specified How many Directories down example would grandparent attached returns Anything below goes other direction first You can also high number definitely root FsmInt FsmGameObject reached FsmString Follow path takes throws every passes there are several entries with same means that given higher the parents lower than children FsmBool Reset startingFrom Starting ascending Parent descending GetChild Invert add current Index GetMultilevelGameObject Child transform gameObject storeResultName storeResult Value",
+"documentation":{
 "description":"Get the Game Object and name of a higher parent or lower child specified by an index."
+}
 }

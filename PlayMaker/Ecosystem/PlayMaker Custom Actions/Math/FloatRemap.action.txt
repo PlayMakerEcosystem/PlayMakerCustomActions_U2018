@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRemap.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRemap.cs",
 "keywords":" mapper range cross multiplication rule three Math scale other example have existing remapping between would give Valuae reference Store FsmFloat Repeat every Useful any the values are changing bool Reset 50f 100f everyFrame DoFloatRemap storeResult theFloat baseStart baseEnd targetStart targetEnd Value map",
+"documentation":{
 "description":"Remap a float from one scale to the other. example: we have 2 existing between 1 and 3, remapping 2 between 0 and 10 would give 5"
+}
 }

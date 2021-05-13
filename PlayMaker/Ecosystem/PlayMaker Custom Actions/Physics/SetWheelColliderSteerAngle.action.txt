@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetWheelColliderSteerAngle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetWheelColliderSteerAngle.cs",
 "keywords":" Physics Sets SetWheelColliderSteerAngle ComponentAction The steer FsmFloat Repeats every usefull changes overtime bool Reset everyFrame ExecuteAction UpdateCache gameObject WheelCollider cachedComponent _wc steerAngle Value",
+"documentation":{
 "description":"Sets the wheelCollider Steer Angle"
+}
 }

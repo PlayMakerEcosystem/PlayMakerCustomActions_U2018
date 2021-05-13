@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetRigidBodyConstraints.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetRigidBodyConstraints.cs",
 "keywords":" http index php topic Physics Sets SetRigidBodyConstraints ComponentAction Positions Rotations The constraint Leave effect repeats every Reset FsmBool everyFrame DoSetConstraints UpdateCache gameObject FreezePositionX FreezePositionY FreezePositionZ FreezeRotationX FreezeRotationY FreezeRotationZ FreezeAll FreezePosition Value rigidbody RigidbodyConstraints FreezeRotation",
+"documentation":{
 "description":"Sets the constraints of a rigidBody"
+}
 }

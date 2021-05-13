@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringReverse.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringReverse.cs",
 "keywords":" http index php topic StringReverse FsmString Reset storeResult stringVariable Value text ToCharArray Reverse string charArray",
+"documentation":{
 "description":"Reverse a string"
+}
 }

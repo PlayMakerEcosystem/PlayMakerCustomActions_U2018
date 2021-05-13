@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/DestroyRoot.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DestroyRoot.cs",
 "keywords":" Destroys transfom DestroyRoot its Optional before destroying the FsmFloat Reset Destroy transform root gameObject delay Value",
+"documentation":{
 "description":"Destroys a Game Object's transfom root."
+}
 }

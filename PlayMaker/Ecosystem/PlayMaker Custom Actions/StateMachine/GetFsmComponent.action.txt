@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetFsmComponent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetFsmComponent.cs",
 "keywords":" Author Deek StateMachine http index php topic specified send attached Optionally search FsmString FsmObject doesn have with the given any Wheter every once FsmBool Reset everyFrame DoGetFsmComponent GameObject GetComponents PlayMakerFSM string Length fsmName result Value allFSMs noneFoundEvent",
+"documentation":{
 "description":"Get the FSM component on the specified GameObject. Optionally send an event if the GameObject doesn't have any FSM component attached."
+}
 }

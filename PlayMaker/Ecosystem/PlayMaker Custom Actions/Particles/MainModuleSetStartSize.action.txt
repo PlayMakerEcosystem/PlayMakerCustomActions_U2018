@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/MainModuleSetStartSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/MainModule/MainModuleSetStartSize.cs",
 "keywords":" Particle Shuriken Particles Sets MainModuleSetStartSize HideIf Leave effect FsmFloat MainModule MinMaxCurve ModeIsNot_Constant bool ModeIsNot_TwoConstant Reset gameObject _go ParticleSystem _ps main everyFrame DoExecute constant TwoConstants constantMin minStartSize constantMax maxStartSize Value _mm startSize _mmc string ErrorCheck ParticleSystemCurveMode TwoCurves Curve modes are not supported yet",
+"documentation":{
 "description":"Sets particleSystem main Module start size(s)"
+}
 }

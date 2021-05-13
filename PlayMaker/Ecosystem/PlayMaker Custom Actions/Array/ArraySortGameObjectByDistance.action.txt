@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArraySortGameObjectByDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArraySortGameObjectByDistance.cs",
 "keywords":" GameObjects within based ArraySortGameObjectByDistance FsmArray Compare items list the declared offset FsmVector3 bool Reset everyframe DoSortByDistance orDistanceFromVector3 Value distanceFrom _rootGo bubble sort transforms Length _item_e0 _item_e1 transform position root sqrMagnitude sqrMag2 sqrMag1 GameObject objectReferences tempStore SaveChanges",
+"documentation":{
 "description":"Sort GameObjects within an array based on the distance of a transform or position."
+}
 }

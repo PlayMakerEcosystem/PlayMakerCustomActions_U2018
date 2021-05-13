@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/PositionInCameraCenter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/PositionInCameraCenter.cs",
 "keywords":" Vector http index php topic PositionInCameraCenter another than the FsmGameObject TitleAttribute Save FsmVector3 Options Setup FsmFloat enum Other Repeat every FsmBool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateSelect UpdateType DoVectorToWorldPoint You cannot Please choose UseMainCamera main otherCamera useFarClipPlane farClipPlane useNearClipPlane zPosition ScreenToWorldPoint Vector3 pixelWidth pixelHeight zTemp camera transform position everyFrame Value",
+"documentation":{
 "description":"Get Vector 3 of center of camera"
+}
 }

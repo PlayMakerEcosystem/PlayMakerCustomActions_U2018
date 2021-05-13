@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsGetBool.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsGetBool.cs",
 "keywords":" playerpref player pref Returns corresponding the preference file exists Uses ints save doesn have built PlayerPrefsGetBool Count sensitive Reset FsmString FsmBool Length Equals variables PlayerPrefs GetInt keys _value",
+"documentation":{
 "description":"Returns the value corresponding to key in the preference file if it exists. Uses ints to save bool value, as playerprefs doesn't have bool type built in."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/ScreenTo3dPlanePoint.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/ScreenTo3dPlanePoint.cs",
 "keywords":" script dependancies Assets Custom ScreenTo3dPlanePointActionEditor Project ScreenTo3dPlanePoint leave attached you want axis will ground screen resulting world FsmVector3 Repeat every active bool RaycastHit _hit_ groundAsTransform FsmGameObject Reset string ErrorCheck _groundTransformIsNone simply the GameObject main everyFrame _groundTransform SetNormalAndPosition groundNormal groundPoint worldPointResult Vector3 _camera ScreenPointToRay screenPoint Value groundPlane Raycast _ray_ GetPoint _hitDistance_ computeWorldPosition",
+"documentation":{
 "description":"Project a screen point on a 3d plane."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Rect/RectContains2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Rect/RectContains2.cs",
 "keywords":" Tests also takes account negative RectContains2 Specify inside send outside Store the FsmBool Repeat every bool Reset FsmRect FsmVector3 FsmFloat everyFrame DoRectContains test inputs width rectangle height results _rect Contains testPoint storeResult Value contained trueEvent falseEvent",
+"documentation":{
 "description":"Tests if a point is inside a rectangle. It also takes in account negative width and height"
+}
 }

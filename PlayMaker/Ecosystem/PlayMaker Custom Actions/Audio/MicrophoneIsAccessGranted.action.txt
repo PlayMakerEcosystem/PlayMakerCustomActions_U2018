@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/MicrophoneIsAccessGranted.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/MicrophoneIsAccessGranted.cs",
 "keywords":" Audio user access MicrophoneIsAccessGranted ObjectType AudioClip FsmBool sent when not accessible Reset Application HasUserAuthorization WebCam UserAuthorization Microphone isAccessGranted Value AccessGrantedEvent AccessDeniedEvent",
+"documentation":{
 "description":"Check if user granted access to microphone"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.cs",
 "keywords":" Generic Advertisements status current platform UnityAdsIsSupported The suppported statux UnityAds FsmBool sent when not Reset bool Advertisement endif Value _isSupported isSupportedEvent isNotSupporedEvent",
+"documentation":{
 "description":"Get the supported status of UnityAds for the current platform."
+}
 }

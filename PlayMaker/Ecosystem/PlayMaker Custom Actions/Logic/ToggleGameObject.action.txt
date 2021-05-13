@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ToggleGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ToggleGameObject.cs",
 "keywords":" Author Deek Logic http index php topic Enables disabled vice versa enum toggle What should are visible scene the independent its parents Wheter every once FsmBool Reset FsmGameObject everyFrame DoToggleGameObject gameObject Value ActiveInHirarchy activeInHierarchy ActiveType SetActive activeSelf",
+"documentation":{
 "description":"Enables a GameObject if it's disabled and vice versa."
+}
 }

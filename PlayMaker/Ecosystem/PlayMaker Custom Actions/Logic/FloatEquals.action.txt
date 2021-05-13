@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FloatEquals.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FloatEquals.cs",
 "keywords":" Source Logic Sends based comparison multiple http index php topic FloatEquals with Simple test almost will instead Advance Description above below the main number bools FsmBool Events sent not bool Reset everyFrame DoFloatCompare keyFloat tolerance descriptionArea off FsmFloat Mathf tolerancePositive _base _float toleranceNegative isEqual isNotEqual Value equal string ErrorCheck Length needs more than compare",
+"documentation":{
 "description":"Sends Events based on the comparison of multiple Floats."
+}
 }

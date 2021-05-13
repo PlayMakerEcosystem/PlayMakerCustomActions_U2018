@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureGetWidth.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureGetWidth.cs",
 "keywords":" Material http index php topic TextureGetWidth FsmTexture FsmInt Reset getWidth texture Value width",
+"documentation":{
 "description":"Get texture width"
+}
 }

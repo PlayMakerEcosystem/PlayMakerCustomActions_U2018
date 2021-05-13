@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/SetMultiFloatValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/SetMultiFloatValue.cs",
 "keywords":" multi multiple Source Math Sets the many http index php topic SetMultiFloatValue Count bool Reset FsmFloat everyFrame DoSetFloatValue Length Equals floatVariable values Value",
+"documentation":{
 "description":"Sets the value of many Float Variable."
+}
 }

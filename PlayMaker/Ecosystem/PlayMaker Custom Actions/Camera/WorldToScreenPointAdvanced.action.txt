@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/WorldToScreenPointAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/WorldToScreenPointAdvanced.cs",
 "keywords":" script dependancies Assets Custom __Internal Transforms NOTE Uses WorldToScreenPointAdvanced FsmStateActionAdvanced transform into World will equal FsmVector3 Store the Otherwise coordinates are pixels FsmBool Reset axis dropdown with selected FsmFloat everyFrame DoWorldToScreenPoint MainCamera defined Vector3 zero worldPosition worldX worldY worldZ Camera main WorldToScreenPoint normalize width Screen height storeScreenPoint storeScreenX storeScreenY Value position",
+"documentation":{
 "description":"Transforms position from world space into screen space. NOTE: Uses the MainCamera!"
+}
 }

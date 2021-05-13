@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/GameObjectLayerSwitch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GameObjectLayerSwitch.cs",
 "keywords":" http index php topic msg32820 topicseen Logic Sends based GameObjectLayerSwitch The test FsmGameObject Switches Compare Send Repeat every bool Reset FsmInt everyFrame DoLayerSwitch gameObject Length layer Value sendEvent",
+"documentation":{
 "description":"Sends an Event based on a Game Object's Layer."
+}
 }

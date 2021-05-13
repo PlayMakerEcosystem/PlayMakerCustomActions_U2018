@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetFogEndDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetFogEndDistance.cs",
 "keywords":" SetFogEndDistance FsmFloat Repeat every Useful the Enable Fog setting changing bool Reset everyFrame _setValue RenderSettings fogEndDistance endDistance Value",
+"documentation":{
 "description":"Set the end distance of the fog"
+}
 }

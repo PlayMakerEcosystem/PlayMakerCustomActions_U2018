@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatLowPassFilter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatLowPassFilter.cs",
 "keywords":" Math low pass reduce sudden FloatLowPassFilter filter Should generally some constantly updated input Determines how much influence changes have keeps unfiltered vector percent the previously filtered FsmFloat Reset filteringFactor floatVariable Value filteredFloat",
+"documentation":{
 "description":"Use a low pass filter to reduce the influence of sudden changes in a float Variable."
+}
 }

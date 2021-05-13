@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetCapsuleCollider2dProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetCapsuleCollider2dProperties.cs",
 "keywords":" Original Thore https index php topic Physics Leave effect SetCapsuleCollider2dProperties ComponentAction with calculate its when auto mass enabled configured attached Sets whether will not used CompositeCollider2D local collider geometry width height area that capsule sides can extend ObjectType Repeat every the active Reset FsmFloat FsmBool FsmVector2 FsmEnum DoSetCapsuleCollider2D UpdateCache density isTrigger usedByEffector usedByComposite offset cachedComponent CapsuleDirection2D direction Value string everyFrame updated once ActionHelpers AutoName gameObject howOften endif",
+"documentation":{
 "description":"Set the properties of a Capsule Collider 2D, Leave properties to none for no effect"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/FOV/DynamicVisionConeFov.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/FOV/DynamicVisionConeFov.cs",
 "keywords":" Generic Visually create inside http php topic DynamicVisionConeFov FsmFloat General these Invert pick layers except those defined above First then index linked amount materials used change example Idle Suspicious Alert you FsmMaterial Optional active FsmGameObject Your agent player npc TitleAttribute FsmString Will Setup When enum FsmBool the draw Reset 15f yellow FsmInt PLAYMAKER_1_8_5_OR_NEWER endif parent father AddComponent MeshFilter receiveShadows LightProbeUsage Rendering ShadowCastingMode Off updateTypeSelect updateType CastRays fovAngle numRays Quaternion AngleAxis forward useTag Physics Raycast ActionHelpers LayerArrayToLayerMask layerMask invertMask filterTag direction fovMaxDistance Add currentAngle quality UpdateMesh Clear Vector3 zero InverseTransformPoint Vector2 newVertices newTriangles newUV RecalculateNormals mesh RecalculateBounds UpdateMeshMaterial status material forceFinish meshRenderer Output Untagged Length tag insideFov OnDrawGizmos debugColor Count raysGizmosEnabled Value sizeOfList RaycastHit hits DrawSphere 04f Gizmos DrawLine gameObject transform position hit point",
+"documentation":{
 "description":"Visually create a FOV mesh and set bool if target is inside gameobject FOV."
+}
 }

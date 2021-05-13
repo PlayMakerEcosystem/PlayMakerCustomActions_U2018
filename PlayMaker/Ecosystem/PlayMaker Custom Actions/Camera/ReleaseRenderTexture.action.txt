@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/ReleaseRenderTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/ReleaseRenderTexture.cs",
 "keywords":" ReleaseRenderTexture The FsmTexture Reset OwnerOption GameObject Camera targetTexture OrRenderTexture Value RenderTexture Release",
+"documentation":{
 "description":"Release a RenderTexture"
+}
 }

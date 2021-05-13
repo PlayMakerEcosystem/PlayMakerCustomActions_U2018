@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/GetScreenSizeRatio.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/GetScreenSizeRatio.cs",
 "keywords":" Application Gets GetScreenSizeRatio The FsmFloat Reset storeScreenSizeRatio Value height Screen width",
+"documentation":{
 "description":"Gets the Screen size ratio (width/height)."
+}
 }

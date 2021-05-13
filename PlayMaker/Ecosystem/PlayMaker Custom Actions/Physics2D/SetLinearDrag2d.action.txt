@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/SetLinearDrag2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetLinearDrag2d.cs",
 "keywords":" original dudeBxl Physics2D Sets the linear applies positional movement SetLinearDrag2d ComponentAction 10f FsmFloat Repeat every bool Reset everyFrame DoSetDrag UpdateCache gameObject rigidbody2d drag Value",
+"documentation":{
 "description":"Sets the linear drag applies to positional movement."
+}
 }

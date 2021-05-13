@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Garbage Collection/GarbageCollectionSmallHeap.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GarbageCollection/GarbageCollectionSmallHeap.cs",
 "keywords":" strategy often best that have periods gameplay where smooth framerate main concern http index php topic GarbageCollectionSmallHeap Small Heap Setup Allow Garbage FsmInt Options Stop the FsmBool Reset forceCancelled cancelledEvent collectionOn Time frameCount Value",
+"documentation":{
 "description":"This strategy is often best for games that have long periods of gameplay where a smooth framerate is the main concern"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/ResetTransforms.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/ResetTransforms.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic given their inital FsmStateActionAdvanced the Include FsmBool resets updateType Reset FsmGameObject everyFrame DoResetTransforms gameObjects GameObject transform resetPosition position resetRotation rotation Quaternion resetScale Value trans localScale Vector3",
+"documentation":{
 "description":"Resets each Transform of the given GameObjects to their inital value (Position(0, 0, 0), Rotation(0, 0, 0) and Scale(1, 1, 1))."
+}
 }

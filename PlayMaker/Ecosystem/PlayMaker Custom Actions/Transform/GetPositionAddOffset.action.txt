@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetPositionAddOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetPositionAddOffset.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Vector Optionally applies that another same GetPositionAddOffset FsmStateActionAdvanced enum off specify axis individually FsmFloat Wheter local starting should changed with Store will the Reset FsmVector3 Self FsmGameObject everyFrame DoGetPosition gameObject vector3Offset Add Subtract Multiply multResult Divide Vector3 zero xOffset yOffset zOffset divResult Vector3Operation Set input World applyOffsetToGO transform localPosition storeVector3Result Value",
+"documentation":{
 "description":"Get the position of a Game Object and add an offset to that Vector. Optionally applies that offset to another/the same GameObject."
+}
 }

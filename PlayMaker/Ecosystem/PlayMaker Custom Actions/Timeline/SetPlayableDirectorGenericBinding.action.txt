@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/SetPlayableDirectorGenericBinding.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/SetPlayableDirectorGenericBinding.cs",
 "keywords":" Linq Playables pragma disable CS0168 Generic SetPlayableDirectorGenericBinding hold components leave pick Bind the Sent Track not found Reset FsmInt FsmString PlayableDirector playableAsset timelineAction gameObject FirstOrDefault Count ElementAt trackIndex string timelineAsset outputs First streamName trackName Value Exception failureEvent timeline SetGenericBinding _playableBinding sourceObject bindingObject",
+"documentation":{
 "description":"Set Generic Binding for a PlayableDirector"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetWheelColliderBrakeTorque.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetWheelColliderBrakeTorque.cs",
 "keywords":" Physics Sets SetWheelColliderBrakeTorque ComponentAction The Brake FsmFloat Repeats every usefull changes overtime bool Reset everyFrame ExecuteAction UpdateCache gameObject WheelCollider cachedComponent _wc brakeTorque Value",
+"documentation":{
 "description":"Sets the wheelCollider BrakeTorque"
+}
 }

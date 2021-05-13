@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraDepth.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraDepth.cs",
 "keywords":" Sets The FsmInt bool Reset OwnerOption gameObject everyFrame DoSetCameraDepth _camera depth Value",
+"documentation":{
 "description":"Sets the depth of a Camera."
+}
 }

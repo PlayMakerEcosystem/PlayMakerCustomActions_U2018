@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/RotateAround.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/RotateAround.cs",
 "keywords":" http index php topic msg4509 FsmGameObject offset Rotation FsmVector3 will local FsmBool bool Amount rotate degrees before stopping animation Zero rotates forever FsmFloat Reset everyFrame stopAngle DoRotateAround Vector3 rotationAxis position aroundgo TransformDirection perSecond deltaTime rotatedAngle transform RotateAround _rotationPoint _axis _angle string ErrorCheck Value useAroundGameObjectAxisSpace effective aroundGameObject defined",
+"documentation":{
 "description":"Rotates Around a Game Object."
+}
 }

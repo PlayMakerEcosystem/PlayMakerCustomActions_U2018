@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetWheelColliderProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetWheelColliderProperties.cs",
 "keywords":" script dependancies Assets Custom version ChangeLogStart Added access thanks http index php topic msg42561 note Initial Release ChangeLogEnd Physics Sets cause they are not accessible via SetProperty design SetWheelColliderProperties The Wheel Suspension Forward Sideways Repeats every usefull must change overtime bool FsmFloat PlayMakerWheelFrictionCurveClass Reset gameObject WheelCollider everyFrame _setProperties mass radius suspensionDistance distance JointSpring damper targetPosition suspensionSpring _spring forwardFriction _forwardFrictionCurve WheelFrictionCurve extremumValue extremumSlip asymptoteValue asymptoteSlip stiffness Value _wc sidewaysFriction _sidewaysFrictionCurve",
+"documentation":{
 "description":"Sets the suspension, forward and sideways properties, cause they are not accessible via SetProperty by design"
+}
 }

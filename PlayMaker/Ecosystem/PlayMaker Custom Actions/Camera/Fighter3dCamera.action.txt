@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/Fighter3dCamera.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/Fighter3dCamera.cs",
 "keywords":" Original Source Fighter fighting style anything you want http index php topic the main should have Character FsmGameObject Options Setup 80f 01f 20f FsmFloat TitleAttribute Axis Title Input FsmVector3 Function Linear enum animationCurvebool FsmBool Reset PLAYMAKER_1_8_5_OR_NEWER endif gameObject everyFrame updateTypeSelect updateType DoFighter3DCamera objDirection sensitivity charB charA Cross betweenVector perpendicular upDistance Do3DCamera Lerp targetCamPosition objTransform LookAt middle Getvectordirection left forward down back Vector3 Vector3Direction other positionObjectbool direction GetInterpolation Quadratic snappyness EaseIn Cos EaseOut Smoothstep Smootherstep 15f 10f deltaTime SimpleSine DoubleSine DoubleByHalfSine Mathf Time timeSinceLevelLoad distance LerpInterpolationType Off lerpOn Value",
+"documentation":{
 "description":"Camera for a 3D fighting style game (or anything else you want)"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/SetGravityfromAcceleration.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/SetGravityFromAcceleration.cs",
 "keywords":" Adjust direction based the device Typically control rolling balls SetGravityfromAcceleration FsmFloat Reset 10f SetGravity multiplier Value Screen ScreenOrientation LandscapeLeft Physics gravity Vector3 Input acceleration _mult",
+"documentation":{
 "description":"Adjust the gravity direction based on the device acceleration. Typically to control rolling balls"
+}
 }

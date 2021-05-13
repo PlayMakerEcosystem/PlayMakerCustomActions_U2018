@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/SetIntIfBetween.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/SetIntIfBetween.cs",
 "keywords":" Logic values SetIntIfBetween first min max TitleAttribute FsmInt bools FsmBool Repeat every Useful the variables changing you waiting particular result bool Reset everyFrame DoCompare setInt intValueBetween minInt currentInt maxInt isInBetween isLess isGreater Value",
+"documentation":{
 "description":"Set int (and bool) values if int is between min or max."
+}
 }

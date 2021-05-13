@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasChild.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/HasChild.cs",
 "keywords":" Finds Sends events based not NOTE will through children first specific Find HasChild need match FsmString Store the FsmGameObject was FsmBool Reset Untagged storeResult found notFoundEvent root transform Equals search recursively DoGetChildByName gameObject returnObject ErrorCheck childName string withTag Value Specify Child Tag both",
+"documentation":{
 "description":"Finds the Child of a GameObject by Name and/or Tag. Sends events based on result ( Found or not found). NOTE: This action will search recursively through all children and return the first match; To find a specific child use Find Child."
+}
 }

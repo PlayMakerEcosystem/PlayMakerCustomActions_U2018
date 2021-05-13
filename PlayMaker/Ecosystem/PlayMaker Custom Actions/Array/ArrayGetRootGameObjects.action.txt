@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetRootGameObjects.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetRootGameObjects.cs",
 "keywords":" define SceneManagement root Wait two frames load accurate results http index php topic The FsmArray Setup FsmString Scene Reset ArrayGetRootGameObjects FF9900ff Need minimum unity5 endif SceneManager GetSceneByName sceneName Value DoAction GameObject GetRootGameObjects Resize length Set rootGameObjects",
+"documentation":{
 "description":"Get all the root GameObjects in the scene. Wait two frames for scene to load all objects for accurate results."
+}
 }

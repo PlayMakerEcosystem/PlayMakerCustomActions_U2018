@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/SetColorHSV.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/SetColorHSV.cs",
 "keywords":" script dependancies Assets Custom based values https fogbugz asp W1147 SetColorHSV overrides source The resulting Repeat every bool Reset FsmVector3 FsmFloat everyframe SetHSVColor alpha hue saturation colorResult Value colorhsv ToColor",
+"documentation":{
 "description":"Set a color based on HSV values"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetSphereColliderRadius.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetSphereColliderRadius.cs",
 "keywords":" Physics GetSphereColliderRadius ComponentAction Rigidbody apply Sphere FsmFloat Repeat every the active FsmBool Reset everyFrame DoChange gameObject SphereCollider Value collider radius",
+"documentation":{
 "description":"Get the size of a Sphere Collider"
+}
 }

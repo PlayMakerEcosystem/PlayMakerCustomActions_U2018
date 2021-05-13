@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/BlendShapes/GetBlendShapesCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/BlendShapes/GetBlendShapesCount.cs",
 "keywords":" Returns Requires The number BlendShapes FsmInt Reset OwnerOption GameObject SkinnedMeshRenderer DoGetBlendShapesCount blendShapesCount Value _skr sharedMesh blendShapeCount",
+"documentation":{
 "description":"Returns BlendShapes count on this mesh."
+}
 }

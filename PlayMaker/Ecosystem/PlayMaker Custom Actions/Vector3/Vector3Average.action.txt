@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3Average.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3Average.cs",
 "keywords":" Gets the listed variables Vector3Average FsmVector3 bool Reset everyFrame DoAverage Vector3 storeResult Value average vectorArray Length",
+"documentation":{
 "description":"Gets the average of all listed Vector3 variables."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetClosestGameObjectInSight.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/ArrayGetClosestGameObjectInSight.cs",
 "keywords":" closest within which does not have between itself another ArrayGetClosestGameObjectInSight FsmArray Compare distance items list declared offset FsmVector3 uses colliders Raycast Settings line sweep Layer these Invert the you pick layers except those defined above FsmBool Result FsmGameObject Reset FsmInt everyframe DoFindClosestGo orDistanceFromVector3 distanceFrom _rootGo Mathf objectReferences root sqrMagnitude sqrDist sqrDistTest closestGameObject _go closestIndex _index DoLineCast fromGameObject Vector3 toGameObject transform position bool usePhysics2d RaycastHit2D Physics2D _hit2d collider RaycastHit Physics Linecast startPos endPos rhit ActionHelpers LayerArrayToLayerMask layerMask invertMask Value _hit",
+"documentation":{
 "description":"Return the closest GameObject within an array from a transform or position which does not have a 2d or 3d collider between itself and another GameObject"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/InverseFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/InverseFloat.cs",
 "keywords":" Math Inverts example becomes InverseFloat Where store result offset growth FsmFloat Repeat every the active bool Reset everyFrame DoFloatInverse baseValue floatVariable storeFloat Value temp",
+"documentation":{
 "description":"Inverts a float variable. For example '20.5' becomes '-20.5'"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetCircleCollider2DRadius.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetCircleCollider2DRadius.cs",
 "keywords":" Physics SetCircleCollider2DRadius ComponentAction Rigidbody apply Circle FsmFloat Repeat every the active FsmBool Reset everyFrame DoChange gameObject CircleCollider2D collider radius Value",
+"documentation":{
 "description":"Set the size of a Circle Collider 2D"
+}
 }

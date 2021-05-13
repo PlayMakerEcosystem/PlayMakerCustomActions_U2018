@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/RemoveAccentsOnString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/RemoveAccentsOnString.cs",
 "keywords":" Crafted https github elusiven Globalization Linq Scripts CustomPlayMakerActions RemoveAccentsOnString Input rip Options bool Finished FsmString Reset DoRipping AccentedStr RipAccents RipPunctuation IsPunctuation IgnoreCase ToLower Result Value asciiStr Exception Message RemoveDiacritics FormD Where CharUnicodeInfo GetUnicodeCategory UnicodeCategory NonSpacingMark ToArray chars Normalize NormalizationForm FormC RemoveAccents GetEncoding ISO GetBytes Encoding UTF8 GetString tempBytes text",
+"documentation":{
 "description":"TODO"
+}
 }

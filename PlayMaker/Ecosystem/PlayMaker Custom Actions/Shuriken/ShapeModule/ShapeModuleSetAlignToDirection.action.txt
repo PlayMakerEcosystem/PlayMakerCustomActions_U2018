@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetAlignToDirection.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetAlignToDirection.cs",
 "keywords":" Shuriken ShapeModuleSetAlignToDirection with align flag FsmBool Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm alignToDirection Value",
+"documentation":{
 "description":"Set the align To Direction of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

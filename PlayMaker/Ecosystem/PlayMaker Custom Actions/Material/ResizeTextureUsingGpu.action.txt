@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ResizeTextureUsingGpu.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ResizeTextureUsingGpu.cs",
 "keywords":" min Unity5 Material script the sets http index php topic Setup FsmInt enum Output FsmTexture Reset Input ResizeTextureUsingGpu FF9900ff Nothing happened Please review Bilinear Point Trilinear newTexture setWidth setHeight Value modeSelect texGpuItem scaled TextureFormat ARGB32 Resize ReadPixels texR result _gpu_scale Texture2D filterMode fmode Apply RenderTexture width height SetRenderTarget rtt LoadPixelMatrix Clear Graphics DrawTexture Rect src",
+"documentation":{
 "description":"Resize the texture using GPU - WARNING: This script override the RTT Setup! (It sets a RTT!)"
+}
 }

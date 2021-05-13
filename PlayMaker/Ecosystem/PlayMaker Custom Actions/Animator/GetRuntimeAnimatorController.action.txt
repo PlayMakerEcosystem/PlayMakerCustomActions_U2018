@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Animator/GetRuntimeAnimatorController.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Animator/GetRuntimeAnimatorController.cs",
 "keywords":" Author Deek http index php topic GetRuntimeAnimatorController ObjectType current specified FsmObject Repeat every Useful when normalizedTime manually control animation bool Reset the gameObject everyFrame DoAnimatorPlay getController Value _animator doesn have runtimeAnimatorController",
+"documentation":{
 "description":"Get the runtimeAnimatorController of an Animator Component."
+}
 }

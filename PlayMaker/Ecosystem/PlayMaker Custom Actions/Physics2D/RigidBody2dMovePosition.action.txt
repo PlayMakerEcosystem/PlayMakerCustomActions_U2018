@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/RigidBody2dMovePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/Rigidbody2dMovePosition.cs",
 "keywords":" Physics2D Moves particular more efficient then accessing transform interacts properly with colliders physics materials RigidBody2dMovePosition ComponentAction rigid body FsmVector2 The move Repeat every bool Reset FsmVector3 everyFrame DoPosition UpdateCache gameObject Vector2 _pos orVector3position rigidbody2d MovePosition position Value",
+"documentation":{
 "description":"Moves a RigidBody2d to a particular position. It's more efficient then accessing the transform of the gameObject and interacts properly with colliders and physics materials"
+}
 }

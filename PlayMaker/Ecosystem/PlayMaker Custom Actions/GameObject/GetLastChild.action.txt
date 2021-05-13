@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetLastChild.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetLastChild.cs",
 "keywords":" Author Deek http index php topic Gets GameObjec last the given FsmGameObject Wheter every once FsmBool Reset everyFrame DoGetLastChild result Value GetChild transform childCount gameObject",
+"documentation":{
 "description":"Gets the last child of a GameObject."
+}
 }

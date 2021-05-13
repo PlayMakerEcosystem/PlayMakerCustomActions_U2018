@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetNextRayCastAllHit.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetNextRayCastAllHit.cs",
 "keywords":" Linq Performs time called gets lets quickly them GetNextRayCastAllHit Settings nOr parameter local specfied world infinity FsmFloat Layer these Invert you pick layers except those defined above will perform useful whne exiting before RayCast Draw Note Gizmos View see FsmBool next child send when there are more Reset FsmVector3 FsmInt yellow cache RaycastHit increment hit loop through the resetAction finishedEvent getting RaycastHitInfo nextHitIndex loopEvent DoRaycastAll fromGameObject fromPosition Self transform TransformDirection direction Physics RaycastAll ActionHelpers LayerArrayToLayerMask layerMask invertMask OrderBy distance ToArray Mathf Min DrawLine originPos dirVector debugRayLength debugColor Value hits Length noHitEvent",
+"documentation":{
 "description":"Performs a rayCast hit and Each time this action is called it gets the next hit. This lets you quickly loop through all the hits to perform actions on them."
+}
 }

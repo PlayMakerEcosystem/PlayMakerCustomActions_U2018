@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/SetObjectValueAdvance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/SetObjectValueAdvance.cs",
 "keywords":" setobject UnityObject Sets http index php topic SetObjectValueAdvance the behaviour Note script TitleAttribute FsmString FsmObject Options FsmBool Reset Contains Should not any Example Sprite must SpriteRenderer Capital letters are mandatory everyFrame doAction gos gameObject objectName debugType Value Please correct doDebug A62A2A Input componentTarget GetType ToString 5F9EA0 Output objectVariable TypeName",
+"documentation":{
 "description":"Sets the value from a script/behaviour/component/etc as an Object Variable."
+}
 }

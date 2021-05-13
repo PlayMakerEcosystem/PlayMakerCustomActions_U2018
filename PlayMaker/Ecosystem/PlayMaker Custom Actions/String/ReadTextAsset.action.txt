@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/ReadTextAsset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/ReadTextAsset.cs",
 "keywords":" ReadTextAsset the FsmString Reset content Value textAsset text",
+"documentation":{
 "description":"Get the content of a text asset"
+}
 }

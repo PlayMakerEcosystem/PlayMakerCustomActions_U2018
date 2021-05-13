@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationGetSystemLanguage.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationGetSystemLanguage.cs",
 "keywords":" ApplicationGetSystemLanguage The FsmString Reset Value Application systemLanguage ToString",
+"documentation":{
 "description":"Get System Language"
+}
 }

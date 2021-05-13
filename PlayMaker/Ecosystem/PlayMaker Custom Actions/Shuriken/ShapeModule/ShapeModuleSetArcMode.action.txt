@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetArcMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetArcMode.cs",
 "keywords":" Shuriken ShapeModuleSetArcMode with radius ObjectType FsmEnum Repeat every the active bool ShapeModule Reset Random gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm ParticleSystemShapeMultiModeValue arcMode Value",
+"documentation":{
 "description":"Set the arcMode of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

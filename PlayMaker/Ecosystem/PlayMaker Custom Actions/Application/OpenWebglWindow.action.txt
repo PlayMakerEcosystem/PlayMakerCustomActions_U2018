@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/OpenWebglWindow.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/OpenWebglUrl.cs",
 "keywords":" script dependancies Assets Custom Plugins PlayMakerOpenWindow jslib Runtime InteropServices Opens browser given works Webgl OpenWebglWindow The open FsmString Reset Application OpenURL Value DllImport __Internal openWindow string endif",
+"documentation":{
 "description":"Opens a new browser window for a given url, works only in Webgl"
+}
 }

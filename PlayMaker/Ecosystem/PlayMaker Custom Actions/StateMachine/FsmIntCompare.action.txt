@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmIntCompare.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmIntCompare.cs",
 "keywords":" Made nightcorelv StateMachine the another FsmIntCompare Optional FsmString bool PlayMakerFSM Reset everyFrame DoGetFsmInt gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmInt variableName fsmInt DoIntCompare StoreFsmVariable Value string ErrorCheck Equal LessThan GreaterThan sends events",
+"documentation":{
 "description":"Compare the value of a Float Variable from another FSM."
+}
 }

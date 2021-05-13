@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolMultiCondition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolMultiCondition.cs",
 "keywords":" Logic multiple variables passing above same count evaluated NOT match can fire FsmBool Repeat every active Reports clear information about events Reset everyFrame DoEvaluate BoolMultiCondition Fatal The number must equal Value Failure bool Element booleans against its pass condition failEvent list Length boolean conditions passed _lastResult passEvent",
+"documentation":{
 "description":"Check multiple bool variables for conditions."
+}
 }

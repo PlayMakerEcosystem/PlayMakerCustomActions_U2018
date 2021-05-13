@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatEvaluateOnCurve.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatEvaluateOnCurve.cs",
 "keywords":" animation Math example linear ranging evaluating would FloatEvaluateOnCurve defining mapping between ranges Store FsmFloat Repeat every Useful any the values are changing bool Reset FsmAnimationCurve everyFrame DoFloatEvaluate storeResult Evaluate theFloat Value ErrorCheck animCurve curve string",
+"documentation":{
 "description":"Evaluate a float using a curve. example: for a linear curve ranging from 0,0, to 1,1, evaluating 0.5f would return 0.5f as a result"
+}
 }

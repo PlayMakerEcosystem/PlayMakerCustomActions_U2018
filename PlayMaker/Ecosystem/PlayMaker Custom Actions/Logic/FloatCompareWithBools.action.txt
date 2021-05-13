@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FloatCompareWithBools.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FloatCompareWithBools.cs",
 "keywords":" Logic Sends Events based comparison with storing options FloatCompareWithBools first second test almost FsmFloat equals within sent Store FsmBool Repeat every Useful the variables changing you waiting particular result bool Reset everyFrame DoCompare Mathf tolerance storeResultEqual lessThan storeResultLess float1 float2 greaterThan storeResultGreater Value",
+"documentation":{
 "description":"Sends Events based on the comparison of 2 Floats with bool storing options"
+}
 }

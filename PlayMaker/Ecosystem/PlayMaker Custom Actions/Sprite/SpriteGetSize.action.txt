@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteGetSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteGetSize.cs",
 "keywords":" Gets must have Sprite SpriteGetSize ComponentAction control SpriteRenderer FsmVector2 The FsmFloat Repeat every bool Reset everyFrame Execute UpdateCache gameObject sizeX sizeY Value cachedComponent",
+"documentation":{
 "description":"Gets a Sprite size. Object must have a Sprite Renderer."
+}
 }

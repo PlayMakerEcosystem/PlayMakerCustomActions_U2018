@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/DeviceStillEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/DeviceStillEvent.cs",
 "keywords":" Sends mobile device stops actually falls shaking DeviceStillEvent Amount under which trigger the low numbers FsmFloat send when Shake exceded Reset Input acceleration sqrMagnitude shakeThreshold Value sendEvent",
+"documentation":{
 "description":"Sends an Event when the mobile device stops shaking ( actually, when it falls under a shaking threshold)."
+}
 }

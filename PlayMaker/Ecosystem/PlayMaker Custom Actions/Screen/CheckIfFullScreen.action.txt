@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Screen/CheckIfFullScreen.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Screen/CheckIfFullScreen.cs",
 "keywords":" Checks CheckIfFullScreen FsmBool send application not full Runs are sent discretly first execution then when changes occur bool Reset everyFrame isFullScreenEvent _cache isFullScreen Value isNotFullScreenEvent",
+"documentation":{
 "description":"Checks if screen is full screen"
+}
 }

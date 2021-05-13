@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetPixelColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetPixelColor.cs",
 "keywords":" must otherwise function will fail GetPixelColor needs have readable flag set import settings FsmTexture FsmInt the position defined texture Texture2D texture1 GetPixel Value",
+"documentation":{
 "description":"The texture must have the Is Readable flag set in the import settings, otherwise this function will fail. "
+}
 }

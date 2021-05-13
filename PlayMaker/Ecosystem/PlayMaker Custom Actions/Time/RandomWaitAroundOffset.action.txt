@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/RandomWaitAroundOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/RandomWaitAroundOffset.cs",
 "keywords":" Author Deek Like also randomizes values the result more unpredictable RandomWaitAroundOffset Minimum Maximum amount wait FsmFloat send when finished Ignore scale bool Reset max min offset Value minFrom minTo maxFrom maxTo Random Range realTime FsmTime RealtimeSinceStartup startTime deltaTime timer time finishEvent",
+"documentation":{
 "description":"Like 'Random Wait' but also randomizes the min and max values by a random offset to make the result even more unpredictable."
+}
 }

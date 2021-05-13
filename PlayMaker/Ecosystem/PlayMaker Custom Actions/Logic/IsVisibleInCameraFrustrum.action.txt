@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/IsVisibleInCameraFrustrum.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/IsVisibleInCameraFrustrum.cs",
 "keywords":" Original http index php topic msg53550 Logic see within Because dynamic shadows better IsVisibleInCameraFrustrum test with leave send NOT Store the FsmBool Plane Reset OwnerOption SpecifyGameObject FsmGameObject everyFrame DoIsVisible gameObject goCam main _cam storeResult Value isVisible trueEvent falseEvent bool IsVisibleFrom CalculateFrustumPlanes camera endif GeometryUtility TestPlanesAABB planes renderer bounds",
+"documentation":{
 "description":"Check to see if a gameobject is visible within the camera's frustrum. Because dynamic shadows break isVisible, it's better to use this check."
+}
 }

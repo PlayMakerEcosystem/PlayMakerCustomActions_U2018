@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Terrain/GetTerrainSampleHeight.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Terrain/GetTerrainSampleHeight.cs",
 "keywords":" Generic Splat Map GetTerrainSampleHeight sample will offset world FsmVector3 Leave pick active The texture FsmFloat Repeat bool everyframe _terrain Reset ExecuteAction Vector3 zero GameObject our _go transform activeTerrain Value terrain SampleHeight _position",
+"documentation":{
 "description":"Get Terrain Splat Texture Map Name over Game Object Position."
+}
 }

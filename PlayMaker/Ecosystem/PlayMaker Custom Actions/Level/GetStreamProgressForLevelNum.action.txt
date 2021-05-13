@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/GetStreamProgressForLevelNum.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Level/GetStreamProgressForLevelNum.cs",
 "keywords":" Stream progres GetStreamProgressForLevelNum load Must list levels defined File Build Settings FsmInt Store loading range FsmFloat send when loaded NOTE makes sense still the scene Reset GetProgress Application GetStreamProgressForLevel level loadingProgress Value loadedEvent",
+"documentation":{
 "description":"Get the Stream progres for a level id"
+}
 }

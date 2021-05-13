@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SwapSpriteRandom.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SwapSpriteRandom.cs",
 "keywords":" Made DjayDino Replaces any must have SwapSpriteRandom Weight ObjectType FsmBool Reset FsmFloat gameObject SwapSingleSprite resetOnExit _orig SwapSprites Length Repeat Value ActionHelpers GetRandomWeightedIndex weights lastIndex spriteRenderer sprites randomIndex Sprite",
+"documentation":{
 "description":"Replaces a Random Sprite on any GameObject. Object must have a Sprite Renderer."
+}
 }

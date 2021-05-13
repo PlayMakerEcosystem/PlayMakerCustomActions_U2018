@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsReady.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsReady.cs",
 "keywords":" Generic Advertisements status UnityAdsIsReady can defined setup Leave behavior Result The current FsmBool sent not useful you want when will become Reset FsmString everyFrame checkIsReady bool Advertisement zoneId Value _isReady isReadyEvent isNotReadyEvent UnityAds supported IOS Android Platforms endif",
+"documentation":{
 "description":"Get the current status of UnityAds."
+}
 }

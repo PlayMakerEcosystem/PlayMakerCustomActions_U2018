@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationOpenUrl.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationOpenUrl.cs",
 "keywords":" link browser ApplicationOpenUrl When webgl will define the that here FsmString Reset isWebPlayer ExternalEval window open WebWindowTitle Application OpenURL Value endif",
+"documentation":{
 "description":"Open a Url link in the browser"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CutToCamera2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CutToCamera2.cs",
 "keywords":" Activates the scene instead reference CutToCamera2 bool Reset gameObject main makeMainCamera tag MainCamera cutBackOnExit _go oldCamera SwitchCamera Camera camera1 camera2 enabled",
+"documentation":{
 "description":"Activates a Camera in the scene. Use GameObject reference instead of camera reference"
+}
 }

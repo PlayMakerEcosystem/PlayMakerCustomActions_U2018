@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioMixerSetMultiFloatValues.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AudioMixer/AudioMixerSetMultiFloatValues.cs",
 "keywords":" original Tropical http index php topic msg52963 Sets multiple parameters AudioMixerSetMultiFloatValues ObjectType Audio with FsmObject Count the exposed parameter bool Reset FsmString FsmFloat everyFrame DoSetMixerFloatValues AudioMixer Length Equals _TheMixer SetFloat _ExposedFloatName _Floatvalue",
+"documentation":{
 "description":"Sets the float values of multiple exposed parameters for a Unity Audio Mixer."
+}
 }

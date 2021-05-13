@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientMode.cs",
 "keywords":" Rendering Gets GetAmbientMode ObjectType FsmEnum Store the Ambient FsmString Reset DoSetAmbientColor ambientModeAsString Value RenderSettings ambientMode ToString",
+"documentation":{
 "description":"Gets the RenderSettings Ambient mode."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GenerateGuid.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GenerateGuid.cs",
 "keywords":" original Kiriri http index php topic msg7348 GameObject Generates GenerateGuid unique identification FsmString storeResult Value NewGuid ToString",
+"documentation":{
 "description":"Generates a unique identification string"
+}
 }

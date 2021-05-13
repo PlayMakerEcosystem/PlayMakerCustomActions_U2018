@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetGameobjectMaxFsmFloatIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetGameObjectMaxFsmFloatIndex.cs",
 "keywords":" Returns within which have max its ArrayGetGameobjectMaxFsmFloatIndex The FsmArray Optional FsmString bool Result FsmGameObject FsmInt goLastFrame PlayMakerFSM Reset everyframe DoFindMaxGo objectReferences ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName storeMaxValue compValue fsmFloat maxGameObject _go maxIndex Value _index",
+"documentation":{
 "description":"Returns the Gameobject within an array which have the max float value in its FSM"
+}
 }

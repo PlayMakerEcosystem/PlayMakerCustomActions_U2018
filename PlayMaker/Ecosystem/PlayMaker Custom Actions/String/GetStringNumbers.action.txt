@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetStringNumbers.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetStringNumbers.cs",
 "keywords":" Author Deek Linq http index php topic given GetStringNumbers Store Repeat every the active FsmBool Reset FsmInt FsmFloat FsmString everyFrame DoGetNumbers startString Where IsDigit ToArray storeNumbersAsString storeNumbersAsFloat storeNumbersAsInt Value Parse tmpString",
+"documentation":{
 "description":"Get all numbers in the given String."
+}
 }

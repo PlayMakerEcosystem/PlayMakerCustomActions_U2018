@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayConcatenate.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayConcatenate.cs",
 "keywords":" merge combine add Linq UnityEditor ArrayConcatenate The concatenate together Reset Contains arrays ArrayUtility AddRange fsmArray Values _source result SaveChanges",
+"documentation":{
 "description":"Concatenate arrays together"
+}
 }

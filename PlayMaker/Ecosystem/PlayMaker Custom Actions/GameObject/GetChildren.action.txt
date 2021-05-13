@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetChildren.cs",
 "keywords":" Author Deek http index php topic Finds multiple their GetChildren search Children Note you can specify path Arm Finger where LeftShoulder would Store the current Reset FsmString FsmGameObject DoFindChild Length Find childNames storeResult Value transform gameObject",
+"documentation":{
 "description":"Finds multiple children of a GameObject by their names."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MousePick2dXY.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MousePick2dXY.cs",
 "keywords":" Perform Mouse scene stores results Distance how close must MousePick2dXY was otherwise FsmGameObject FsmVector2 Store picked FsmFloat Layer these Invert you layers except those defined above FsmBool Repeat every bool Reset FsmInt everyFrame DoMousePick2d Physics2D GetRayIntersection Camera main ScreenPointToRay Input mousePosition Mathf ActionHelpers LayerArrayToLayerMask layerMask invertMask storeDidPickObject didPick collider hitInfo TODO not sure the strategy storeGameObject storePoint Vector3 zero storePointX storePointY Value",
+"documentation":{
 "description":"Perform a Mouse Pick on a 2d scene and stores the results. Use Ray Distance to set how close the camera must be to pick the 2d object."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/GetResourcesCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/GetResourcesCount.cs",
 "keywords":" original Amaranth http index php post topic last_msg resource directory GetResourcesCount FsmString number files the folder FsmInt sent found Reset DoGetFileCount Resources LoadAll folderName resourceDir Length fileCount Value _count noResourcesEvent",
+"documentation":{
 "description":"Get the number of files in a resource directory."
+}
 }

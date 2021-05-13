@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/DisableThisFSM.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/DisableThisFSM.cs",
 "keywords":" Author Deek StateMachine http index php topic Deactivate the current DisableThisFSM FsmComponent enabled",
+"documentation":{
 "description":"Deactivate the current FSM."
+}
 }

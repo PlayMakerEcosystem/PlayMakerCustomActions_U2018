@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Random/RandomCharacters.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Random/RandomCharacters.cs",
 "keywords":" Author Deek Returns given Optionally includes further ranges lets you yourself Useful cryptography kinds behavior RandomCharacters Define picked Keep mind that following options are additive when enabled adds custom variants commonly used special also include Takes Inlude Lower into account Defines how many should added resulting FsmInt Store the Wheter repeat every once FsmBool GameObject Reset FsmString everyFrame GetRandomCharacter abcdefghijklmnopqrstuvwxyz ÄÖÜß äöü Random resultLength rand Next Length chars num tmpResult ErrorCheck includeUpperCaseLetters includeLowerCaseLetters includeNumbers includeSpecialCharacters includeUmlauts string customRange Value range characters specified",
+"documentation":{
 "description":"Returns a random set of characters in given range(s). Optionally includes further ranges or lets you define the range yourself. Useful for cryptography or all kinds of random behavior."
+}
 }

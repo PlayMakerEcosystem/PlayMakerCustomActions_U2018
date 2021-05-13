@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/TriggerCount2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/TriggerCount2d.cs",
 "keywords":" Physics2D Detect objects that have RigidBody2D components nNOTE events STAY EXIT are sent when any collides with the trigger filter collisions TriggerCount2d FsmString FsmInt FsmBool Reset Untagged HandleTriggerEnter2D HandleTriggerExit2D everyFrame DoTriggerEnter2D DoTriggerExit2D Collider2D other gameObject collideTag collideCount collidedBool Value",
+"documentation":{
 "description":"Detect collisions with objects that have RigidBody2D components. 
 NOTE: The system events, TRIGGER ENTER 2D, TRIGGER STAY 2D, and TRIGGER EXIT 2D are sent when any 2D object collides with the trigger. Use this action to filter collisions by Tag."
+}
 }

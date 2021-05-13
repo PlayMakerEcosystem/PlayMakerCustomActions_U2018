@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/MoveRigidBody2D.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/MoveRigidBody2D.cs",
 "keywords":" Generic Physics2D another easing properties Collisions are respected during MoveRigidBody2D EaseFsmAction FsmGameObject FsmVector3 bool Reset objectToMove Rigidbody2D destination transform fromFloats toFloats fromVector resultFloats finishEvent finishAction _rb2d MovePosition Vector2 reverse fromValue toVector Value finishInNextStep",
+"documentation":{
 "description":"Move a rigidbody2d to another GameObject using easing properties. Collisions are respected during move."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetButton.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetButton.cs",
 "keywords":" UnityStandardAssets pragma disable specified Requires Standard CrossPlatformSetButton the FsmString FsmBool Sent not Repeat every bool Reset string ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput ButtonExists buttonNotFound everyFrame DoSetButton CROSS_PLATFORM_INPUT SetButtonUp CrossPlatformInputManager SetButtonDown buttonName Value endif",
+"documentation":{
 "description":"Sets the value of the specified Input Button. Requires Standard Assets CrossPlatformInput."
+}
 }

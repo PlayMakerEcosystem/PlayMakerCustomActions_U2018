@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/ComponentIsActive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/ComponentIsActive.cs",
 "keywords":" UnityObject WITH Some Components Might ComponentIsActive Place here FsmObject componenet COLLIDERS NOT WORK FsmBool Reset Selected Behaviour Renderer isActive Value rend enabled",
+"documentation":{
 "description":"Check if  a Component is active. WARNING! COLLIDERS DO NOT WORK WITH THIS ACTION and Some Components Might not work!"
+}
 }

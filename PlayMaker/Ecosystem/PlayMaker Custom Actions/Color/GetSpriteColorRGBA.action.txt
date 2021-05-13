@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/GetSpriteColorRGBA.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/GetSpriteColorRGBA.cs",
 "keywords":" made DjayDino Sets sprite GetSpriteColorRGBA Store channel Repeat every Useful the changing FsmBool Reset FsmFloat gameObject SpriteRenderer everyFrame GetSpriteColo sRenderer green blue alpha Value spriteColor",
+"documentation":{
 "description":"Sets the color RGBA of sprite renderer"
+}
 }

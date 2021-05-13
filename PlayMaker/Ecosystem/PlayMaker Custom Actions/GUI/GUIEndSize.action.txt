@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GUIEndSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GUIEndSize.cs",
 "keywords":" script dependancies Assets Custom Generic GUIEndSize OnGUI GUISizer EndGUI",
+"documentation":{
 "description":"GUI End Size."
+}
 }

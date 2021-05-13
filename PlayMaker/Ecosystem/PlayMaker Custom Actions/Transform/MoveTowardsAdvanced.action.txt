@@ -4,6 +4,8 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/MoveTowardsAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/MoveTowardsAdvanced.cs",
 "keywords":" script dependancies Assets Custom __Internal version Moves Optionally sends successful specified specify both then features allows selection MoveTowardsAdvanced below FsmGameObject world Otherwise used local offset FsmVector3 Ignore any height difference FsmBool maximum movement You can change which move considered finished sent FsmFloat send when the reached Reset 10f PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector DoMoveTowards MoveTowards maxSpeed deltaTime magnitude finishDistance finishEvent bool UpdateTargetPos gameObject _rb Rigidbody targetObject TransformPoint goTarget targetPosition ignoreVertical Value transform position GetTargetPos targetPos Vector3 GetTargetPosWithVertical targetPosWithVertical",
+"documentation":{
 "description":"Moves a Game Object towards a Target. Optionally sends an event when successful. The Target can be specified as a Game Object or a world Position. If you specify both, then the Position is used as a local offset from the Object's Position.
  Advanced features allows selection of update type."
+}
 }

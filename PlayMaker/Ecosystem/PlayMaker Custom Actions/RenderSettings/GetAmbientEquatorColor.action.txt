@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientEquatorColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientEquatorColor.cs",
 "keywords":" Rendering Gets GetAmbientEquatorColor Store the Ambient Equator Repeats every bool Reset everyFrame DoSetAmbientEquatorColor Value RenderSettings ambientEquatorColor",
+"documentation":{
 "description":"Gets the RenderSettings Ambient Equator Color."
+}
 }

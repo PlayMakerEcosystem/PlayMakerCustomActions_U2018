@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetCollisionRayCastInfo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetCollisionRayCastInfo.cs",
 "keywords":" last variables See docs GetCollisionRayCastInfo relative controlling reactions selecting appropriate sound contact spawning collision vector aligning spawned colliding Useful triggering different effects Audio particles FsmString Infos Did something FsmBool FsmGameObject world position Title along store FsmFloat barycentric FsmVector3 barycentricCoordinate triangle that was FsmInt secondary texture lightmap coordinate the impact FsmVector2 Reset gameObjectHit relativeSpeed magnitude relativeVelocity physicsMaterialName material Length contactPoint contactNormal contacts Physics Raycast _ray gameObjectRaycastHit collider gameObject point normal distance triangleIndex textureCoord textureCoord2 Value _hit lightmapCoord StoreCollisionInfo",
+"documentation":{
 "description":"Raycast using info on the last collision event and store raycast infos in variables. See Unity Physics docs."
+}
 }

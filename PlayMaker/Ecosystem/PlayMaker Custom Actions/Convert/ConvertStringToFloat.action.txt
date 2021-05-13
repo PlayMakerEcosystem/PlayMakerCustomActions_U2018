@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToFloat.cs",
 "keywords":" Added DjaDino Converts convert FsmString Store result FsmFloat Repeat every Useful the String changing bool Reset everyFrame DoConvertStringToFloat floatVariable Parse stringVariable Value",
+"documentation":{
 "description":"Converts an String value to an Float value."
+}
 }

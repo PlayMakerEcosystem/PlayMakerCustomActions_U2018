@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/FollowMouse2D.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/FollowMouse2D.cs",
 "keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Moves optional simulate Currently supports orthographic cameras FsmStateActionAdvanced attached that capture FsmGameObject poisition independent much delay applied closer more lags behind stands still Title Center dragged not supposed directly under FsmVector2 Store current FsmVector3 Select you want off with mouse determines how close edge can Keep used FsmFloat Toggle Wheter move back before Reset FindGameObjectWithTag MainCamera Vector2 zero 25f FsmBool updateType FrameUpdateSelector everyFrame DoFollowMouse2D attachedGameObject Camera Input keeps inside the keepOnScreen currCam ScreenToWorldPoint Screen wScreenWidth wScreenHeight screenOffset xleft xright ytop ybottom camPos skip GameObject destroyed Stop enabled stopDragging resetPosition Vector3 Lerp storeMousePosition smoothing Value transform position initGOPos",
+"documentation":{
 "description":"Moves a GameObject under the current mouse position in 2D space with optional smoothing to simulate a dragging-delay. (Currently) only supports orthographic cameras."
+}
 }

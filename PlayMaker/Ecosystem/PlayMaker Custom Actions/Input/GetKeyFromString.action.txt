@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyFromString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyFromString.cs",
 "keywords":" Made Djaydino http www jinxtergames Gets pressed GetKeyFromString keystring test Waring must valid FsmString Store the down FsmBool Repeat every Useful you waiting press release bool Reset Enum Parse keyCode everyFrame DoGetKey storeResult Value Input GetKey",
+"documentation":{
 "description":"Gets the pressed state of the Keystring. Waring!! The String must be a valid KeyCode."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraShapeWipeFade.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraShapeWipeFade.cs",
 "keywords":" script dependancies Assets Min between two http index php topic CameraShapeWipeFade FsmGameObject General FsmAnimationCurve Settings enum Grow FsmFloat You should FsmMaterial Output FsmBool Reset cameraFrom cameraTo StartCoroutine fadeTime zoomTypeSelect setMesh amountRotate OnExit StopCoroutine routine AlphaTimer alpha bool enableThis cam1Active AudioListener reEnableListener listener enabled IEnumerator ShapeWipe Shader Find Custom DepthMask AddComponent MeshRenderer Rendering ShadowCastingMode Off receiveShadows gobjShape Renderer shapeMaterial CameraSetup Camera useCam CameraClearFlags MeshFilter position forward nearClipPlane 01f transform localRotation Quaternion identity useCurve curve Evaluate zoom ZoomType Shrink deltaTime rate Lerp Mathf localScale localEulerAngles Vector3 rotateAmount yield originalClearFlags otherCam originalDepth CameraCleanup cam1 cam2 parent SetActive destroyMesh MonoBehaviour Destroy shape gameObject isWorking inProgress Value",
+"documentation":{
 "description":"Shape wipe fade between two camera"
+}
 }

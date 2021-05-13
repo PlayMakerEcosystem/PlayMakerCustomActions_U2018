@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjectChild.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjectChild.cs",
 "keywords":" Source deactivates with exception hide show areas enable disable many Behaviours once http index php topic ActivateGameObjectChild The Parent Except deactivate FsmBool Repeat every Useful changes time activatedGameObject Reset FsmGameObject everyFrame DoActivateGameObject activate SetActiveRecursively bool transform Length exceptThisChild Value temp equal child gameObject SetActive",
+"documentation":{
 "description":"Activates/deactivates a Game Object child with an exception. Use this to hide/show areas, or enable/disable many Behaviours at once."
+}
 }

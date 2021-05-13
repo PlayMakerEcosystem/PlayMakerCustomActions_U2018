@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientIntensity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientIntensity.cs",
 "keywords":" Rendering Gets GetAmbientIntensity Store the Ambient FsmFloat Repeats every bool Reset everyFrame DoGetValue Value RenderSettings ambientIntensity",
+"documentation":{
 "description":"Gets the RenderSettings Ambient Intensity."
+}
 }

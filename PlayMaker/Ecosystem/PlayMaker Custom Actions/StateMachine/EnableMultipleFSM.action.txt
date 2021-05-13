@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/EnableMultipleFSM.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/EnableMultipleFSM.cs",
 "keywords":" author djaydino multi StateMachine multiple Components GameObjects EnableMultipleFSM Count PlayMakerFSM disable initial when exiting the FsmBool Reset DoMultiEnableFSM resetOnExit Length fsmComponent enabled enable Value",
+"documentation":{
 "description":"Enable/Disable multiple FSM Components on GameObjects"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetJoystickButton.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetJoystickButton.cs",
 "keywords":" joystick down http index php topic GetJoystickButton button Manager FsmString the result FsmBool Repeat every Typically would bool Reset everyFrame DoGetAxis Input GetAxis buttonName axisValue temp store Value",
+"documentation":{
 "description":"Set bool of joystick button down/up"
+}
 }

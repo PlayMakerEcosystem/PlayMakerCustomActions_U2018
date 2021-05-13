@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/AddTextureWatermark.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/AddTextureWatermark.cs",
 "keywords":" Material Add image http index php topic AddTextureWatermark Input Position FsmInt Output FsmTexture Reset newTexture texture AddWatermark Texture2D xOffset yOffset Value width height watermark GetPixel startX startY Lerp bgColor wmColor SetPixel final_color Apply background",
+"documentation":{
 "description":"Add watermark on image"
+}
 }

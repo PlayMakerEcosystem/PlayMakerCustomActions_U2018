@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasRigidBody.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/HasRigidBody.cs",
 "keywords":" attached Sends events based result not HasRigidBody The was FsmBool Reset gameObject bool Rigidbody Value _found notFoundEvent",
+"documentation":{
 "description":"Check if a GameObject has a RigidBody attached. Sends events based on result ( Found or not found)."
+}
 }

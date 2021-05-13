@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformSiblingIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformSiblingIndex.cs",
 "keywords":" given SetTransformSiblingIndex Description format text large info box string descriptionArea NOT its sibling local list move will clamped between the last child FsmInt Reset SetTransformParent available until Set instead you must work version gameObject SetSiblingIndex Mathf Clamp index Value transform parent childCount endif",
+"documentation":{
 "description":"Move the transform to a given index in the local transform list."
+}
 }

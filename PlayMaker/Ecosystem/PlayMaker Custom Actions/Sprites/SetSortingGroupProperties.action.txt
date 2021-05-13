@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Sprites/SetSortingGroupProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SetSortingGroupProperties.cs",
 "keywords":" Author thore Rendering Sprites https index php topic msg90056 SetSortingGroupProperties ComponentAction with attached SortingLayer The Sorting Provide Repeat every bool Reset FsmInt FsmString everyFrame DoSetSortingGroup UpdateCache gameObject sortingOrder OrderInLayer cachedComponent Value method string sortingLayerName will ignored because orSortingLayerID set ErrorCheck",
+"documentation":{
 "description":"TODO"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/MouseMoveActivityEvents.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/MouseMoveActivityEvents.cs",
 "keywords":" still after some inactivity can fine tuned MouseMoveActivityEvents seconds under which are sent not duration trigger future moved FsmFloat Result FsmBool Where move FsmEventTarget becomes The when moves again NOTE Events must marked Global send between bool Reset WatchMouse Vector3 Input Equals mouseMoveEvent _lastPosition _mousePosition realtimeSinceStartup _lastMoveTime inactivityThreshold Value _isInactive eventTarget mouseStillEvent",
+"documentation":{
 "description":"Send Events when mouse becomes still and moves after some inactivity, inactivity time can be fine tuned."
+}
 }

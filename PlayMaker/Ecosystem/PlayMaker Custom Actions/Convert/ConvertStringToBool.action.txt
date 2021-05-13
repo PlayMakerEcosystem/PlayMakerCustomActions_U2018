@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToBool.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToBool.cs",
 "keywords":" Text RegularExpressions Convert Converts into ConvertStringToBool expected format representing boolean sensitive FsmString The FsmBool Repeats every bool Reset everyFrame DoParsing storeResult string Equals source trueValue Value",
+"documentation":{
 "description":"Converts a string into a Bool variable."
+}
 }

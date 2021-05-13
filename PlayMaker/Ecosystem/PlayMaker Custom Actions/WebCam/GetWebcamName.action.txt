@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/GetWebcamName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/GetWebcamName.cs",
 "keywords":" Adam brzozowsky gmail http index php topic msg53819 Find webcam store GetWebcamName FsmInt Reset Length FsmString storeWebcamCount numOfCams WebCamTexture devices storeWebcamName camName Value",
+"documentation":{
 "description":"Find webcam and store name as string"
+}
 }

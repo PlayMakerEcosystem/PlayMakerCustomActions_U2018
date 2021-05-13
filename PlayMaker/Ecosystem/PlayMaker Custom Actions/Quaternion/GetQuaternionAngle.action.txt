@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Quaternion/GetQuaternionAngle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Quaternion/GetQuaternionAngle.cs",
 "keywords":" Gets quaternions GetQuaternionAngle QuaternionBaseAction First Second between the two FsmFloat Reset OwnerOption SpecifyGameObject FsmGameObject FsmQuaternion everyFrame everyFrameOption everyFrameOptions DoQuatAngle orQuaternion1 gameObject1 _Go1 orQuaternion2 gameObject2 _Go2 transform rotation Value Quaternion Angle _Q1 _Q2",
+"documentation":{
 "description":"Gets the angle between two quaternions"
+}
 }

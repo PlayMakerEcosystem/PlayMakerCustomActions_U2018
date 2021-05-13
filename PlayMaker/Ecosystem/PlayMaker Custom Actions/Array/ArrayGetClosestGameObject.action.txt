@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetClosestGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetClosestGameObject.cs",
 "keywords":" closest within ArrayGetClosestGameObject FsmArray Compare distance items list the declared offset FsmVector3 bool Result FsmGameObject FsmInt Reset everyframe DoFindClosestGo orDistanceFromVector3 distanceFrom _rootGo Mathf objectReferences transform position root sqrMagnitude sqrDist sqrDistTest closestGameObject _go closestIndex Value _index",
+"documentation":{
 "description":"Return the closest GameObject within an array from a transform or position."
+}
 }

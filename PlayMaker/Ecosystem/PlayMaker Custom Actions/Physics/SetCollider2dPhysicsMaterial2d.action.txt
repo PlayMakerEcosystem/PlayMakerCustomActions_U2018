@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetCollider2dPhysicsMaterial2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetCollider2dPhysicsMaterial2d.cs",
 "keywords":" Original Thore https index php topic Physics SetCollider2dPhysicsMaterial2d ComponentAction CapsuleCollider2D with Capsule Collider PhysicsMaterial2D Repeat every the active bool Reset Execute UpdateCache cachedComponent sharedMaterial material string everyFrame updated once ActionHelpers AutoName gameObject howOften endif",
+"documentation":{
 "description":"Set the physicsMaterial2d of a Capsule Collider 2D"
+}
 }

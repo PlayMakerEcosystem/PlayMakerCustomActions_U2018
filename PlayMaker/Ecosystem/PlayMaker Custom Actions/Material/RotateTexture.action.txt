@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/RotateTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/RotateTexture.cs",
 "keywords":" Material Rotate the http index php topic RotateTexture Options enum FsmTexture Reset textureInput angle AngleType textureOutput Value texTemp RotateClockwise90 RotateCounterclockwise90 Rotate180 format SetPixel width height GetPixel Apply rotatedTexture2D",
+"documentation":{
 "description":"Rotate the Fsm texture"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialFloatToChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialFloatToChildren.cs",
 "keywords":" Updated sebaslive Sets named its SetMaterialFloatToChildren FsmInt FsmString FsmFloat FsmBool string Reset DictionaryEntry Item namedFloat _Shininess Hashtable revertOnExit everyFrame DoSetMaterialColor affectAllHierarchy Transform childCount ApplyColorToHierarchy parent GetChild DoSetMaterialColorToGO GameObject bool material Length materialIndex GetFloat Renderer materials _mat SetFloat floatName Value storeOriginalFloat _originalFloats Add _originalFloat",
+"documentation":{
 "description":"Sets a named float value in a game object's  material and its children."
+}
 }

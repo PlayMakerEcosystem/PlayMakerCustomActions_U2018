@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteGetFlip.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteGetFlip.cs",
 "keywords":" Gets Flips values must have Sprite SpriteGetFlip control The FsmBool Repeat every bool Reset gameObject SpriteFlip everyFrame GetFlipSprites flipX Value spriteRenderer flipY",
+"documentation":{
 "description":"Gets the Flips values of a Sprite. Object must have a Sprite Renderer."
+}
 }

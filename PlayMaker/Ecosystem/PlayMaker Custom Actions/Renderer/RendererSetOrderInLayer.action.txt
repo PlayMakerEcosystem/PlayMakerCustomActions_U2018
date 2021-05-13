@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/RendererSetOrderInLayer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/RendererSetOrderInLayer.cs",
 "keywords":" RendererSetOrderInLayer ComponentAction with the Renderer attached Provide FsmInt Repeat every bool Reset everyFrame DoSetSortingGroup UpdateCache gameObject cachedComponent sortingOrder orderInLayer Value method",
+"documentation":{
 "description":"TODO"
+}
 }

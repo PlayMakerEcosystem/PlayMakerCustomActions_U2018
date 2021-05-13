@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/ArrayGetChildrenOfGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetChildrenOfGameObject.cs",
 "keywords":" Original DudeBxl Generic Store direct ArrayGetChildrenOfGameObject The FsmBool Reset FsmArray GetAllChilds GetComponentsInChildren includeInactive childs includeParent Value parent transform Add trans gameObject objectReferences list ToArray storeChildren SaveChanges",
+"documentation":{
 "description":"Store all direct childs of GameObject (active and/or inactive) from a parent."
+}
 }

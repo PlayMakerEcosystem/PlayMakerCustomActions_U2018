@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/WaitLateUpdate.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/WaitLateUpdate.cs",
 "keywords":" Source Wait Time every frame after functions have been called useful order execution http index php topic WaitLateUpdate Reset PLAYMAKER_1_8_5_OR_NEWER endif finishEvent",
+"documentation":{
 "description":"LateUpdate is called every frame. LateUpdate is called after all Update functions have been called. This is useful for order execution."
+}
 }

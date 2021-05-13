@@ -4,7 +4,9 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/CreateEmptyObject2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/CreateEmptyObject2.cs",
 "keywords":" Creates nUse you specify will CreateEmptyObject2 create Usually Prefab Optional defined used local offset NOTE Overrides Spawn Optionally store the created FsmGameObject Reset FsmVector3 Vector3 zero TransformPoint spawnPoint Instantiate GameObject EmptyObjectFromNull storeObject Value spawnPosition newObject transform eulerAngles spawnRotation",
+"documentation":{
 "description":"Creates a Game Object at a spawn point.
 Use a Game Object and/or Position/Rotation for the Spawn Point. If you specify a Game Object, Position is used as a local offset, and Rotation will override the object's rotation.
 v2: Fixed local offset for spawn point position"
+}
 }

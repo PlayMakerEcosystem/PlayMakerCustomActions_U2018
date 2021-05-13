@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/LookAt2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/LookAt2.cs",
 "keywords":" Rotates forward points can specify both then specifies Optionnaly you define that works LookAt2 FsmGameObject offset specified its hinted See Look docs more details rotate vertically Keep will local not world axis Title Draw FsmBool the Repeat every Reset FsmVector3 yellow PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoLookAt LookAt DrawLine debugLineColor bool UpdateLookAtPosition gameObject targetObject goTarget targetPosition upVector keepVertical constraintLocally InverseTransformPoint TransformPoint TransformDirection Vector3 ProjectOnPlane Quaternion LookRotation lookAtPosFinal upVectorValue rotation qTo lookAtPos transform position",
+"documentation":{
 "description":"Rotates a Game Object so its forward vector points at a Target. The Target can be specified as a GameObject or a world Position. If you specify both, then Position specifies a local offset from the target object's Position. Optionnaly let you define the look in local space, so that 'keep vertical' works locally"
+}
 }

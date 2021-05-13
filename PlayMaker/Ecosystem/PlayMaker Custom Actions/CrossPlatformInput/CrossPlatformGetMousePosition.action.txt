@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetMousePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetMousePosition.cs",
 "keywords":" UnityStandardAssets pragma disable Gets Requires Standard CrossPlatformGetMousePosition FsmVector3 FsmVector2 Store the mouse FsmFloat Repeat every bool Reset string ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput everyFrame DoGetMousePosition Vector3 zero CROSS_PLATFORM_INPUT CrossPlatformInputManager endif normalize width Screen height mousePosition mousePosition2d Vector2 mousePositionX mousePositionY mousePositionZ Value _position",
+"documentation":{
 "description":"Gets mousePosition from CrossPlatformInput Manager. Requires Standard Assets CrossPlatformInput."
+}
 }

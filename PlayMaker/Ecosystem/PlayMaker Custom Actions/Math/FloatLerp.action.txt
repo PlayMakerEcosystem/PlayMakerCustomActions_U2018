@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatLerp.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatLerp.cs",
 "keywords":" Math Linearly interpolates against allowing framerate indepedant animations First Second Interpolate clamped range half way between multiplied Store Repeat every Useful any the values are changing bool Reset FsmFloat everyFrame DoFloatLerp lerpAgainstDeltaTime deltaTime storeResult Mathf Lerp fromFloat toFloat Value _amount",
+"documentation":{
 "description":"Linearly interpolates between 2 floats. It has an option to lerp against deltaTime for the amount, allowing framerate indepedant animations."
+}
 }

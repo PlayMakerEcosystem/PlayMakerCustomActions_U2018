@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetBoxColliderSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetBoxColliderSize.cs",
 "keywords":" Physics Box http index php topic GetBoxColliderSize ComponentAction Rigidbody apply FsmVector3 along axis leave unchanged Repeat every the active FsmBool Reset FsmFloat everyFrame DoChange gameObject BoxCollider Value collider",
+"documentation":{
 "description":"Set the size of a Box Collider"
+}
 }

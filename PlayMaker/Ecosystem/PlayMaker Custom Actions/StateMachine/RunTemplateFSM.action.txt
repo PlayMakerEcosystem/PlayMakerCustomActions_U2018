@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/RunTemplateFSM.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/RunTemplateFSM.cs",
 "keywords":" StateMachine Creates saved define time via Unlike you can assign variables simply running instead RunTemplateFSM ObjectType FsmObject FsmInt send when usually because ran Reset Forward events sub bool IsGlobal IsSystemEvent entering fsmTemplate CreateSubFsm OnEnable Started storeID Value DoTriggerEnter HandleTriggerEnter OnTriggerEnter DoTriggerStay HandleTriggerStay OnTriggerStay DoTriggerExit Collider HandleTriggerExit OnTriggerExit other DoCollisionEnter HandleCollisionEnter OnCollisionEnter DoCollisionStay HandleCollisionStay OnCollisionStay DoCollisionExit Collision HandleCollisionExit OnCollisionExit DoControllerColliderHit OnControllerColliderHit collisionInfo HandleOnGUI OnGUI exiting the summary OnExit Stop FsmTemplateControl CheckIfFinished runFsm Finished finishEvent",
+"documentation":{
 "description":"Creates an FSM from a saved FSM Template. Let's you define the template at run time via a FsmObject Variable. Unlike RunFSM, you can't assign variables, simply send event to this running fsm instead."
+}
 }

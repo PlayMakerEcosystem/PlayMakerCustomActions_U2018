@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntRoundToNearest.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntRoundToNearest.cs",
 "keywords":" Author Deek http index php topic Rounds specified down given then HealthManager consticted IntRoundToNearest rounded should repeat useful changes time bool Reset FsmInt entering the everyFrame Code that runs every frame DoRound intVariable result Math Round baseValue Value",
+"documentation":{
 "description":"Rounds an Int Variable to the specified base up or down. If the given Int is 36 and the Base is 10, then the result is 40. Useful for HealthManager or consticted Slider."
+}
 }

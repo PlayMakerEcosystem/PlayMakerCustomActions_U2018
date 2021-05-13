@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetHaloStrength.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetHaloStrength.cs",
 "keywords":" GetHaloStrength Light halos FsmFloat Repeat every Useful the changing bool Reset everyFrame _getValue Value RenderSettings haloStrength",
+"documentation":{
 "description":"Get the Size of the Light halos."
+}
 }

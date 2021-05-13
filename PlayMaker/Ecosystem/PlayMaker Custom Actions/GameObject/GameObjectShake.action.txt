@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GameObjectShake.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GameObjectShake.cs",
 "keywords":" Source Canvas Cube http index php topic GameObjectShake enum Linear numbers such subtle example Select means are recommended above depends selection works FsmAnimationCurve strength disabled FsmFloat Events Leave when finished shaking Description Repeat every frame allow force quit active change FsmBool rotationDecay Reset 02f PLAYMAKER_1_8_5_OR_NEWER endif gameObject2 shakeSpeed rotationAmount isCamera doSetup exitOnFinish exit DoObjShake loop lerpFactor DoObjShakerotation OriginalRot Range Quaternion newPosRot localRotation rotationIntent DoObjShakeLerp Distance originalPos Random insideUnitSphere shakeAmount lerpCurve Evaluate Vector3 Lerp objTransform localPosition newPos shakeTime GetInterpolation Quadratic EaseIn Cos EaseOut Smoothstep Smootherstep 15f 10f deltaTime SimpleSine DoubleSine DoubleByHalfSine Mathf timeSinceLevelLoad setTime Value Curve LerpInterpolationType Off animationCurvebool lerpOn string ErrorCheck Need GameObject",
+"documentation":{
 "description":"Shake an object (GameObject: Camera, Canvas, Cube, etc)"
+}
 }

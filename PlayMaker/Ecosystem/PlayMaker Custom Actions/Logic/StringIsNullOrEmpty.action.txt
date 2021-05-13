@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/StringIsNullOrEmpty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringIsNullOrEmpty.cs",
 "keywords":" Logic sends Events based FsmString Store FsmBool Repeat every Useful any the changing time Reset everyFrame DoStringIsNullOrEmpty bool string stringVariable storeResult Value _isNullOrEmpty isNullOrEmptyEvent isNotNullOrEmptyEvent",
+"documentation":{
 "description":"Check if a String variable is null or empty and sends Events based on the result."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Effects/DrawCurve.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Effects/DrawCurve.cs",
 "keywords":" Drawing code https wikibooks org wiki Cg_Programming A9zier_Curves Other elements DrawLine AndrewRaphaelLukasik live http index php topic Needs least control point should occupy first last two slots respectively Effects Draws Bézier between three Objects DrawCurve will automatically FsmMaterial FsmFloat Number with which drawn FsmInt Repeat every Destroys exiting the bool startObjectPosition middleObjectPosition FsmGameObject endObjectPosition Reset clear white GameObject draw AddComponent material Shader Find Particles Additive everyFrame line startColor startColour endColor endColour startWidth endWidth positionCount set quadratic Bezier curve middle transform Vector3 numberOfPoints SetPosition position destroyOnExit Destroy goLineRenderer Value",
+"documentation":{
 "description":"Draws a Quadratic Bézier Curve between three Game Objects using Unity's Line Renderer."
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics 2d/InsideCollider2DInfo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/InsideCollider2DInfo.cs",
 "keywords":" Physics Send you are inside outside http index php topic InsideCollider2DInfo FsmObject FsmBool Reset gameObject colliderTarget Collider2D temp Sprite tempRen colliderBounds Intersects myObj insideEvent insideCollider Value outsideEvent",
+"documentation":{
 "description":"Send event if you are inside or outside a 2D collider"
+}
 }

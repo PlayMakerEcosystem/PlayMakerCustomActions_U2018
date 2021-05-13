@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventIfBool.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventIfBool.cs",
 "keywords":" StateMachine Sends after based they Browser SendEventIfBool test Indicate fire FsmBool Options Where FsmEventTarget The NOTE must marked Global send between Optional seconds FsmFloat Repeat every Rarely needed Doesn work Delayed Reset think more flexible than separate events because you can control runtime easily with boolVariable testBool DoEvent everyFrame WasSent 001f DelayedEvent eventTarget sendEvent delay Value",
+"documentation":{
 "description":"Sends an Event after an optional delay based on a Bool variable. NOTE: To send events between FSMs they must be marked as Global in the Events Browser."
+}
 }

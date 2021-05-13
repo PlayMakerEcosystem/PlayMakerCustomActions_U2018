@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Sprite/SpriteGetName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteGetName.cs",
 "keywords":" Author Deek SpriteGetName ObjectType Store the FsmString Wheter repeat every once FsmBool Reset FsmObject everyFrame DoGetSpriteName result sprite Value",
+"documentation":{
 "description":"Get the name of a Unity Sprite."
+}
 }

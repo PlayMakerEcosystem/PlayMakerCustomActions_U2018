@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmStringSwitch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringSwitch.cs",
 "keywords":" Made nightcorelv forumlink http index php topic StateMachine Sends based FsmStringSwitch that owns Optional the Switches Compare Send bool PlayMakerFSM Reset everyFrame Ggop gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName fsmString ttop Length StoreFsmVariable compareTo Value sendEvent",
+"documentation":{
 "description":"Sends an Event based on the FSM value of a String Variable."
+}
 }

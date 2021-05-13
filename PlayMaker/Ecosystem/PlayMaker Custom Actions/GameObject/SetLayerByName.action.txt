@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetLayerByName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetLayerByName.cs",
 "keywords":" Sets reference the SetLayerByName FsmString Reset DoSetLayer gameObject LayerMask NameToLayer _layer Exception Value not valid layer Message layerNotFoundEvent",
+"documentation":{
 "description":"Sets a Game Object's Layer using a string reference for the layer."
+}
 }

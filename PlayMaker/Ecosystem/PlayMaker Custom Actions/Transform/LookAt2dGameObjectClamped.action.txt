@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/LookAt2dGameObjectClamped.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/LookAt2dGameObjectClamped.cs",
 "keywords":" original created collidernyc http index php topic msg37373 Rotates axis its forward vector points Optional between angles LookAt2dGameObjectClamped rotate Look FsmGameObject starting your facing left minimum maximum angle being degrees Leave effect Title Draw FsmBool the Repeat every bool lookAtPos Reset FsmFloat green everyFrame DoLookAt gameObject targetObject Normalize Atan2 diff Rad2Deg rotationOffset MinAngleLimit 180f MaxAngleLimit Clamp min max rotation Quaternion Euler Mathf final_rot_z 01f not almost equal magnitude TransformDirection Vector3 distance RealPointingtip DrawLine goTarget transform position debugLineColor Value",
+"documentation":{
 "description":"Rotates a 2d Game Object on it's z axis so its forward vector points at a Target. Optional clamp between angles"
+}
 }

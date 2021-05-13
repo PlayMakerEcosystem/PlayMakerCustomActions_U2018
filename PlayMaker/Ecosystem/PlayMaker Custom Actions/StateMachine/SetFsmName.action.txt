@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmName.cs",
 "keywords":" Marc Saubion Ecosystem http index php topic msg79738 StateMachine SetFsmName TextArea FsmString Reset Value",
+"documentation":{
 "description":"Set this FSM name."
+}
 }

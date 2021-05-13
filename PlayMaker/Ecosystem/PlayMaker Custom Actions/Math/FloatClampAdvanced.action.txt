@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatClampAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatClampAdvanced.cs",
 "keywords":" script dependancies Assets Custom __Internal Math Clamps Min Max versrion you choose between different types updates FloatClampAdvanced FsmStateActionAdvanced minimum The maximum FsmFloat Reset DoClamp Mathf Clamp floatVariable minValue maxValue Value",
+"documentation":{
 "description":"Clamps the value of Float Variable to a Min/Max. This advanced versrion let you choose between the different types of updates"
+}
 }

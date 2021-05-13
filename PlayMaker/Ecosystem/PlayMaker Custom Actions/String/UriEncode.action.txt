@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/UriEncode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/UriEncode.cs",
 "keywords":" Converts its escaped representation UriEncode FsmString FsmBool Reset everyFrame DoReplace storeResult Uri EscapeDataString stringVariable Value",
+"documentation":{
 "description":"Converts a string to its escaped representation."
+}
 }

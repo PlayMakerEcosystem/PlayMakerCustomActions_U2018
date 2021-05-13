@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidbodyMassCalculator.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyMassCalculator.cs",
 "keywords":" Physics Used approximate proper the colliders given http index php topic RigidbodyMassCalculator Setup FsmFloat Options Box Circle Polygon FsmBool Reset is2D Rigidbody Rigidbody2D 6B8E23ff rigibody RecalculateMass RecalculateMass2D GetComponentsInChildren Length cols transform localScale rb2d mass density Value GetVolume BoxCollider MeshCollider SphereCollider CapsuleCollider direction CharacterController chc GetVolume2D BoxCollider2D PolygonCollider2D bounds extents CircleCollider2D uniScale Invalid attempt GetType gameObject BoxVolume Vector3 CapsuleVolume SphereVolume radius twice large bigger than degenerates into sphere CylinderVolume cylHeight sphereVol cylVol Box2DVolume Vector2 Sphere2DVolume Mathf",
+"documentation":{
 "description":"Used to approximate a proper mass value from all the colliders in a given Rigidbody (m = d * v)."
+}
 }

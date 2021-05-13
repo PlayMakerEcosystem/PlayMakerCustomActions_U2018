@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomWeightedInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomWeightedInt.cs",
 "keywords":" http php topic msg41731 Math Pick weighted picked RandomWeightedInt Weight Can hit the same number twice FsmBool Reset FsmInt FsmFloat PickRandom Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex result ints randomIndex Value",
+"documentation":{
 "description":"Pick a random weighted Int picked from an array of Ints."
+}
 }

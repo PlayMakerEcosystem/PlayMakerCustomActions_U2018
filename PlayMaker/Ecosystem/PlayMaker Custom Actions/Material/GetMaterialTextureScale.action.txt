@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialTextureScale.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialTextureScale.cs",
 "keywords":" Gets Useful special effects GetMaterialTextureScale ComponentAction that applied GameObjects can have multiple Specify specific FsmInt named parameter shader FsmString FsmVector2 the FsmFloat bool Vector2 Reset _MainTex everyFrame DoGetTextureScale gameObject UpdateCache material Length renderer materials materialIndex GetTextureScale namedTexture scaleX scaleY Value _scale",
+"documentation":{
 "description":"Gets the Scale of a named texture in a Game Object's Material. Useful for special effects."
+}
 }

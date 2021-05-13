@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayClear.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayClear.cs",
 "keywords":" Made nightcorelv forumlink http index php topic PlayMakerFSM StateMachine Sets items depending their Optionally defines FsmArrayClear BaseFsmVariableAction that owns the FsmString Optional Leave ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName Length Reset Resize UpdateValue resetValue GetValue count fsmArray Set _val",
+"documentation":{
 "description":"Sets all items in a FSM Array to their default value: 0, empty string, false, or null depending on their type. Optionally defines a reset value to use."
+}
 }

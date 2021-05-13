@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Random/RandomFloatAroundRange.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Random/RandomFloatAroundRange.cs",
 "keywords":" Author Deek http index php topic Receive starting anything Useful variations values like attack damage drop chances combination success rates RandomFloatAroundRange wraps around down Imagine circle circumference any radius can endresult inside specified FsmFloat goes not below example between instead Repeat until change bool Reset entering the everyFrame Code that runs every frame DoGetRandomFromRange unsigned startFloat result Value Random Range min max",
+"documentation":{
 "description":"Receive a random float value around a specified range. If the range is set to 1 and the starting float is 0.5, the result can be anything between -0.5 and 1.5. Useful to get variations from fixed values like attack damage, drop chances and combination success rates."
+}
 }

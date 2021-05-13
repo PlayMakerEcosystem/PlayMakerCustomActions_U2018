@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GUIBeginSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GUIBeginSize.cs",
 "keywords":" script dependancies Assets Custom Generic Begin GUIBeginSize OnGUI GUISizer BeginGUI",
+"documentation":{
 "description":"GUI Begin Size."
+}
 }

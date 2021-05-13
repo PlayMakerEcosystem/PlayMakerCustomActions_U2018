@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventByTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventByTag.cs",
 "keywords":" Source Generic StateMachine Sends filtered then selected they Browser http index php topic SendEventByTag incl Filter FsmBool Setup The NOTE Events must marked Global between TitleAttribute send FsmString string Repeat every Rarely needed bool Reset FindGameObjectsWithTag everyFrame SendEventag Length layer layerFilterOn GetFsmEvent sendEventName Value SendEventToFsmOnGameObject gos fsmName sendEvent",
+"documentation":{
 "description":"Sends an Event to GameObject filtered by (1) Tag then by (2) layer (if layer option selected). NOTE: To send events between FSMs they must be marked as Global in the Events Browser."
+}
 }

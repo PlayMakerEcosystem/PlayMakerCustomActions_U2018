@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.cs",
 "keywords":" Device Opens native provided screen single setting Hides inputed Swith theme FsmBool entering FsmString becomes Comes back keep sent when the user bool Reset TouchScreenKeyboardType TouchScreenKeyboard keyBoardType autoCorrection multiLine secure alert textPlaceHolder OPEN NOT Value text _active active _done OpenDeviceKeyBoard done endif",
+"documentation":{
 "description":"Opens the native keyboard provided by OS on the screen"
+}
 }

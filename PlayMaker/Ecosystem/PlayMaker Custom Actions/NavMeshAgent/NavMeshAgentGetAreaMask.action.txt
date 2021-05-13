@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/NavMeshAgentGetAreaMask.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/NavMeshAgentGetAreaMask.cs",
 "keywords":" Author Deek http index php topic given Optionally send area changed NavMeshAgentGetAreaMask with the attached FsmInt Wheter every once FsmBool Reset everyFrame isInit hasChangedEvent GetAreaMask GameObject NavMeshAgent bool _nearestPointFound SamplePosition transform position nmAgent height NavMesh AllAreas _NavMeshHit prevMask areaMask Value",
+"documentation":{
 "description":"Get the area mask the given NavMeshAgent is on. Optionally send an event if the area mask has changed."
+}
 }

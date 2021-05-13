@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/SetSleepTimeOut.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/SetSleepTimeOut.cs",
 "keywords":" Application power saving dim some time after last active user interaction useful allowing preserve battery life most efficient ways Does nothing handheld devices measured The varies platform generally being SetSleepTimeOut never means revert settings above zero values are seconds FsmInt Reset SystemSetting NeverSleep Screen sleepTimeout Value",
+"documentation":{
 "description":"A power saving setting, allowing the screen to dim some time after the last active user interaction. 0 means never sleep, -1 means revert to system settings, above zero values are in seconds. Most useful for handheld devices, allowing OS to preserve battery life in most efficient ways. Does nothing on non-handheld devices. SleepTimeout is measured in seconds. The default value varies from platform to platform, generally being non-zero."
+}
 }

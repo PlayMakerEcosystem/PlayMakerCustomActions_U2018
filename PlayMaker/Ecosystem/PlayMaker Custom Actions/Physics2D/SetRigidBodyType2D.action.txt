@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/SetRigidBodyType2D.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetRigidBodyType2D.cs",
 "keywords":" Created Thore http index php topic Physics2D Allows parameters Rigidbody SetRigidBodyType2D ComponentAction Rigidbody2D enum Dynamic Kinematic FsmBool Reset UpdateCache gameObject simulated Value DontChange cachedComponent RigidbodyType2D bodyType",
+"documentation":{
 "description":"Allows to change Body Type and Simulated parameters of Rigidbody."
+}
 }

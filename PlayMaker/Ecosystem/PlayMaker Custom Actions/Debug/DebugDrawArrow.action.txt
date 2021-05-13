@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Debug/DebugDrawArrow.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Debug/DebugDrawArrow.cs",
 "keywords":" Draw towards http index php topic DebugDrawArrow Min Setup TitleAttribute distance head needed spehere FsmFloat arrow FsmVector3 not manually setting FsmGameObject Options Correct gizmo when looking FsmBool the center line Reset forward yellow 20f 25f OnDrawGizmos gameObject setColor left using2D LookRotation Quaternion Euler arrowHeadAngle Vector3 DrawRay direction normalized radius down arrowHeadLength sphereColor Gizmos DrawSphere transform position sphereSize Value",
+"documentation":{
 "description":"Draw gizmo arrow in direction or towards target."
+}
 }

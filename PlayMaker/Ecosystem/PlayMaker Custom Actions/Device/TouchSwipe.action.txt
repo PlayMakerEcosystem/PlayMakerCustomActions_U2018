@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/TouchSwipe.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/TouchSwipe.cs",
 "keywords":" Device Detect http index php topic TouchSwipe Setup enum Output currently was successful FsmBool The last finger swip FsmVector2 Reset fingerId FsmInt touchCount deltaPosition sqrMagnitude Vector2 Input GetTouch lastPosition Mathf Left swipeDir SwipeDirection Down swiping sendEvent Value",
+"documentation":{
 "description":"Detect Touch Swipe"
+}
 }

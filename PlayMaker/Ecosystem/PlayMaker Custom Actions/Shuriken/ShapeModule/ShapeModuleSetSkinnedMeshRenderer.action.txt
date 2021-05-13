@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetSkinnedMeshRenderer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetSkinnedMeshRenderer.cs",
 "keywords":" Shuriken ShapeModuleSetSkinnedMeshRenderer with ObjectType FsmObject Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm skinnedMeshRenderer Value",
+"documentation":{
 "description":"Set the SkinnedMeshRenderer of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

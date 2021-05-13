@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/TakeCameraScreenshotTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/TakeCameraScreenshotTexture.cs",
 "keywords":" NOTE Application Saves Save png jpg http index php topic take have FsmGameObject Setup FsmInt Automatically current NOT RECOMMENDED Output FsmTexture FsmBool Must precision the bits When used then buffer created Reset PLAYMAKER_1_8_5_OR_NEWER endif Auto setDepth _16 depthSelect _24 RequestHelper AddComponent bool getPicture Depth Texture2D TextureFormat RGB24 Render ReadPixels Rect Apply Camera targetTexture RenderTexture active newTexture screenShot inclGui _helperTex getResolutions useCurrentRes currentResolution resWidth width resHeight Value Screen height RequestHelperTex MonoBehaviour startEndofFrame TakeCameraScreenshotTexture StartCoroutine IEnumerator getPictureIENUM yield WaitForEndOfFrame takePicture Destroy gameObject",
+"documentation":{
 "description":"Saves a Screenshot from the camera. Save as png or jpg."
+}
 }

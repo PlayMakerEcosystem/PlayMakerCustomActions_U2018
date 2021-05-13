@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringAddNewLine.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringAddNewLine.cs",
 "keywords":" Adds together separated StringAddNewLine List strings compose Store the Reset FsmString DoBuildString string Length count stringParts storeResult Value result",
+"documentation":{
 "description":"Adds strings together separated by a line."
+}
 }

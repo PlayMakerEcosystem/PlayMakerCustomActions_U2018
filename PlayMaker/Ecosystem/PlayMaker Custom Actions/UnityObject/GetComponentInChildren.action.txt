@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetComponentInChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetComponentInChildren.cs",
 "keywords":" UnityObject Gets attached its stores owns Store nNOTE theObject that AudioListener the camera FsmObject Repeat every bool Reset everyFrame DoGetComponent gameObject Value targetObject GetComponentInChildren storeComponent ObjectType",
+"documentation":{
 "description":"Gets a Component attached to a GameObject or its children and stores it in an Object variable. NOTE: Set the Object variable's Object Type to get a component of that type. E.g., set Object Type to UnityEngine.AudioListener to get the AudioListener component on the camera."
+}
 }

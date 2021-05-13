@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetArcSpeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetArcSpeed.cs",
 "keywords":" Arc Shuriken ShapeModuleSetArcSpeed with FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm arcSpeed Value",
+"documentation":{
 "description":"Set Arc Speed of a particleSystem's ShapeModule ( Shuriken)"
+}
 }

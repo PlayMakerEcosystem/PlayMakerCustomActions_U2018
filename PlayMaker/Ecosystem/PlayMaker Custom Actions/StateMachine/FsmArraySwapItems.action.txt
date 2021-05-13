@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArraySwapItems.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArraySwapItems.cs",
 "keywords":" Made nightcorelv StateMachine two specified indexes FsmArraySwapItems BaseFsmVariableAction that owns Optional FsmString first second index swap FsmInt trigger the removeAt errors Reset ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName index2 fsmArray Values index1 Value _item2 Exception Message failureEvent",
+"documentation":{
 "description":"Swap two items at a specified indexes of a FSM Array"
+}
 }

@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/GetStaticProperty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/GetStaticProperty.cs",
 "keywords":" Reflection Generic ScriptControl GetStaticProperty Full path that contains method FsmString NOTE must match Repeat every parametersArray Reset everyFrame DoGetStaticValue SetValue GetValue bool ReflectionUtils GetGlobalType cachedClassName className NETFX_CORE cachedPropertyInfo GetTypeInfo GetDeclaredField cachedType GetField BindingFlags FlattenHierarchy endif Invalid Property cachedPropertyName propertyName ErrorCheck DoCache errorString not found ReferenceEquals RealType propertyValue the wrong should cachedFieldInfo FieldType string",
+"documentation":{
 "description":"Get a public static property from a class."
+}
 }

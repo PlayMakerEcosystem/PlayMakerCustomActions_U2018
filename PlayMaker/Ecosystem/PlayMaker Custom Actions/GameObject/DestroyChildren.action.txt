@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/DestroyChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DestroyChildren.cs",
 "keywords":" Author Deek http index php topic Destroys the specified Reset DoDestroyChildren bool Application childCount Transform GetChild isPlaying parent Destroy DestroyImmediate child gameObject",
+"documentation":{
 "description":"Destroys all children from the specified GameObject."
+}
 }

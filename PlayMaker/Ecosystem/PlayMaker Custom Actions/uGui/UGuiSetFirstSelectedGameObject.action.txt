@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/uGui/UGuiSetFirstSelectedGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/uGui/UGuiSetFirstSelectedGameObject.cs",
 "keywords":" EventSystems uGui Sets first UGuiSetFirstSelectedGameObject FsmGameObject FsmBool Reset everyFrame firstSelectedGameObject EventSystem current SetSelectedGameObject firstSelected Value",
+"documentation":{
 "description":"Sets a game object as first selected AND selected game object. "
+}
 }

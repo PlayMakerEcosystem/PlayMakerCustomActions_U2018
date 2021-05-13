@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertRectToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertRectToString.cs",
 "keywords":" Convert Converts flexible are placeholders ConvertRectToString itself FsmRect pattern express vector components strings Useful you want optimized generated The FsmString Repeats every bool Reset everyFrame DoToString floatConversion rect width Replace _val height ToString _fFormat storeResult Value _result",
+"documentation":{
 "description":"Converts a rect to a string. Format is flexible, [x] [y] [w] and [h] are placeholders"
+}
 }

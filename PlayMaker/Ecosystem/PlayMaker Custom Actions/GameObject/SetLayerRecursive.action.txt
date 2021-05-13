@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetLayerRecursive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetLayerRecursive.cs",
 "keywords":" Sets the its SetLayerRecursive bool Reset DOSetLayer GetComponentsInChildren Transform trans gameObject layer",
+"documentation":{
 "description":"Sets the layer and the layer of its children too"
+}
 }

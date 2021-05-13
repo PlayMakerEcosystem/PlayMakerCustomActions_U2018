@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmStringIsNullOrEmpty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringIsNullOrEmpty.cs",
 "keywords":" Made nightcorelv forumlink http index php topic StateMachine Compare another FsmStringIsNullOrEmpty that owns Optional the FsmBool PlayMakerFSM Reset everyFrame ggop gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName fsmString ttop bool string StoreFsmVariable storeResult Value _isNullOrEmpty isNullOrEmptyEvent isNotNullOrEmptyEvent",
+"documentation":{
 "description":"Compare the value of a FSM String Variable from another FSM."
+}
 }

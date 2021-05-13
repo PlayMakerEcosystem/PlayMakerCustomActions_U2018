@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/TargetsTrackingOrthoCamera.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/TargetsTrackingOrthoCamera.cs",
 "keywords":" Source Fighter smooth follow track multiple focuses every screen Unlimited objs must same http index php topic TargetsTrackingOrthoCamera main should have The Buffer FsmFloat FsmGameObject TitleAttribute FsmString Function FsmBool enum LerpInterpolationType Off Linear Quadratic EaseIn EaseOut Smoothstep Smootherstep SimpleSine DoubleSine DoubleByHalfSine Reset 20f 100f 15f PLAYMAKER_1_8_5_OR_NEWER endif orthographic Please review everyFrame updateTypeSelect updateType CalculateCameraPosition Vector2 boundingBoxCenter CalculateBounds useTag GameObject FindGameObjectsWithTag MainCamera transform position tempPlayer players targets Length MinMaxRect minX maxY maxX minY boundingBoxPadding CalculateCameraPosAndSize Rect Vector3 WorldToViewportPoint topRight topRightAsViewport width aspect boundingBox height Clamp Mathf Lerp _camera orthographicSize smoothDeltaTime zoomSpeed orthoSizeMin orthoSizeMax Value tempResult goDebug 6B8E23ff always need you will problems",
+"documentation":{
 "description":"2D Camera track multiple targets - Camera focuses on every GameObject on the screen. Unlimited objs - must all have same Tag OR set targets array."
+}
 }

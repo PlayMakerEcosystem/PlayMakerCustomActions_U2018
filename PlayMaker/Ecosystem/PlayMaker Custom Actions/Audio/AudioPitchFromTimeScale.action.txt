@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioPitchFromTimeScale.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioPitchFromTimeScale.cs",
 "keywords":" slowmotion Sets Clip played the Will create rewind fastforward sound deping your http index php topic AudioPitchFromTimeScale options FsmFloat Reset gameObject AudioSource realtimeSinceStartup Clamp timeScale minPitch maxPitch Mathf Lerp audio targetPitch lerpSpeed Value timeDelta previousRealTime currentTime",
+"documentation":{
 "description":"Sets the Pitch of the Audio Clip to TimeScale played by the AudioSource component on a Game Object. Will create a rewind or fastforward sound FX deping on your TimeScale"
+}
 }

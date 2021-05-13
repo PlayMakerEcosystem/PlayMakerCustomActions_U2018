@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialFloat.cs",
 "keywords":" Gets that applied GameObjects can have multiple specific FsmInt Alternatively specify instead FsmMaterial NamedColor named shader FsmString the parameter FsmFloat sent was not found executes every bool Reset everyframe DoGetMaterialFloat namedFloat _Shininess gameObject material Length Renderer HasProperty fail materials materialIndex Value GetFloat floatName",
+"documentation":{
 "description":"Gets a named float value from a game object's material."
+}
 }

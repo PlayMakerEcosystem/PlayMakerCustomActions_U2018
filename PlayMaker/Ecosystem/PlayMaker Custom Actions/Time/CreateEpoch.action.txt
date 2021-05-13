@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/CreateEpoch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/CreateEpoch.cs",
 "keywords":" Create http index php topic CreateEpoch Output Result Unix timestamp Optional Positive Negative added FsmInt Reset TimeSpan offset UtcNow AddHours DateTime getEpoch Value TotalSeconds",
+"documentation":{
 "description":"Create a epoch timestamp (Unix)"
+}
 }

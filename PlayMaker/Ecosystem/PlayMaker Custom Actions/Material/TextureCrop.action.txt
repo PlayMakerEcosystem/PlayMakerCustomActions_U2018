@@ -4,5 +4,7 @@
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureCrop.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureCrop.cs",
 "keywords":" Material Square NOTE Write enabled not created http index php topic TextureCrop Input Options FsmInt Output FsmTexture RectTransform _rt Reset Texture2D GetPixels width offsetY height offsetX SetPixels cropSize data Apply newTexture Value inportTex cropTex",
+"documentation":{
 "description":"Square crop Texture - NOTE: Read/Write has to be enabled if texture not created in-game"
+}
 }
