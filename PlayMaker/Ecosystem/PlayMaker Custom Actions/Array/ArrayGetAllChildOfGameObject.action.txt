@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetAllChildOfGameObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetAllChildOfGameObject.cs",
-"keywords":" Generic Store levels ArrayGetAllChildOfGameObject FsmArray The Reset getAllChilds GetComponentsInChildren includeInactive Transform childs includeParent Value parent Add trans Values _list ToArray"
+"keywords":" Generic Store levels ArrayGetAllChildOfGameObject FsmArray The FsmBool Reset getAllChilds GetComponentsInChildren includeInactive Transform childs includeParent Value parent Add trans gameObject Values _list ToArray",
+"description":"Store all (all levels) childs of GameObject (active and/or inactive) from a parent."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetMasterTextureLimit.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetMasterTextureLimit.cs",
-"keywords":" Source Master applied textures Off half quarter http index php topic SetMasterTextureLimit Reset QualitySettings masterTextureLimit level Value"
+"keywords":" Source Master texture applied textures Off half quarter http index php topic SetMasterTextureLimit FsmInt Reset QualitySettings masterTextureLimit level Value",
+"description":"A texture size limit applied to all textures. Tip: 0 is Off - 1 is half - 2 is a quarter - etc.. "
 }

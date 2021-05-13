@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ClearTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ClearTexture.cs",
-"keywords":" Clear the ClearTexture Reset Value"
+"keywords":" Material Clear the ClearTexture FsmTexture Reset texture Value",
+"description":"Clear the texture"
 }

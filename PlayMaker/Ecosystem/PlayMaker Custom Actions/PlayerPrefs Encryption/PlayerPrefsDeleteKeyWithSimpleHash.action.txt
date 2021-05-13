@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs Encryption/PlayerPrefsDeleteKeyWithSimpleHash.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/PlayerPrefsDeleteKeyWithSimpleHash.cs",
-"keywords":" Source Encryption Removes with its corresponding the preferences http index php topic PlayerPrefsDeleteKeyWithSimpleHash Reset _hash Equals PlayerPrefs DeleteKey tempString Value"
+"keywords":" Source Encryption Removes with its corresponding the preferences http index php topic PlayerPrefsDeleteKeyWithSimpleHash FsmString Reset _hash Equals PlayerPrefs DeleteKey tempString Value",
+"description":"Removes key with hash and its corresponding value from the preferences."
 }

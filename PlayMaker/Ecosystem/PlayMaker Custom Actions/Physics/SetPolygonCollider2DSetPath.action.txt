@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetPolygonCollider2DSetPath.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetPolygonCollider2DSetPath.cs",
-"keywords":" Physics Sets defining the polygon SetPolygonCollider2DSetPath ComponentAction PolygonCollider2D Reset UpdateCache Length cachedComponent SetPath pathIndex Value _array"
+"keywords":" Physics Sets defining the polygon SetPolygonCollider2DSetPath ComponentAction PolygonCollider2D FsmInt Reset UpdateCache gameObject Length FsmVector2 cachedComponent SetPath pathIndex Value _array",
+"description":"Sets the path defining the polygon for a PolygonCollider2D"
 }

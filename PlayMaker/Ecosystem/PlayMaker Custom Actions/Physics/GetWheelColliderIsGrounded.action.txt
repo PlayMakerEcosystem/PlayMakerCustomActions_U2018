@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetWheelColliderIsGrounded.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetWheelColliderIsGrounded.cs",
-"keywords":" Physics Tests GetWheelColliderIsGrounded Reset WheelCollider everyFrame DoIsGrounded _wheel store Value sendEventOnlyIfChange _newIsGrounded fire isGrounded isGroundedEvent isNotGroundedEvent"
+"keywords":" Physics Tests GetWheelColliderIsGrounded FsmBool Reset gameObject WheelCollider everyFrame DoIsGrounded _wheel store Value bool sendEventOnlyIfChange _newIsGrounded fire isGrounded isGroundedEvent isNotGroundedEvent",
+"description":"Tests if a wheel Collider is grounded."
 }

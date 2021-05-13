@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/particleSystemRewind.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/particleSystemRewind.cs",
-"keywords":" Source Shuriken Note smooth awake Loop http index php topic particleSystemRewind Setup then restart Cannot when active Controls enable disable You can change rewinding effect 01f TitleAttribute particles rBegin Reset GetComponentsInChildren Transform trans randomSeed gos main endif IsAlive Past the lifetime won work isPlaying Pause rewindGo duration deltaTime Mathf timeMax timer ParticleSystem Simulate continuePlay rewindBy EventsGo exitClear Clear inclChildren finishEvent resetOnExit playParticle playBegin speed speedTemp rewind Value"
+"keywords":" Source Shuriken Note smooth awake Loop http index php topic particleSystemRewind Setup then restart Cannot when active Controls enable disable You can change rewinding effect 01f FsmFloat TitleAttribute particles FsmBool bool rBegin Reset GetComponentsInChildren Transform trans randomSeed gos GameObject main endif IsAlive Past the lifetime won work isPlaying Pause rewindGo duration deltaTime Mathf timeMax timer ParticleSystem Simulate continuePlay rewindBy EventsGo exitClear Clear inclChildren finishEvent resetOnExit playParticle playBegin speed speedTemp rewind Value"
 }

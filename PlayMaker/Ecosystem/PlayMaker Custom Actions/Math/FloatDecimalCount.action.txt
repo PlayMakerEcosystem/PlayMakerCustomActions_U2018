@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatDecimalCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatDecimalCount.cs",
-"keywords":" into http index php topic FloatDecimalCount Result Reset floatVariable number decimalNumberCount Value decimalCount Pow Math Round multiplied GetDecimals"
+"keywords":" into http index php topic FloatDecimalCount FsmFloat Result FsmInt Reset floatVariable number decimalNumberCount Value decimalCount Pow Math Round multiplied GetDecimals",
+"description":"Count Float decimals into an Int"
 }

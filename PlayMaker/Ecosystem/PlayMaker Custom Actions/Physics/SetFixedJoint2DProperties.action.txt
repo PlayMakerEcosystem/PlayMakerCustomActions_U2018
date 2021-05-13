@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetFixedJoint2DProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetFixedJoint2DProperties.cs",
-"keywords":" Physics Sets the various SetFixedJoint2DProperties ComponentAction FixedJoint2D Reset everyFrame ExecuteAction UpdateCache autoConfigureConnectedAnchor enableCollision breakForce breakTorque dampingRatio frequency cachedComponent connectedBody Value Rigidbody2D"
+"keywords":" Physics Sets the various SetFixedJoint2DProperties ComponentAction FixedJoint2D Reset FsmVector2 FsmBool FsmFloat FsmGameObject everyFrame ExecuteAction UpdateCache gameObject autoConfigureConnectedAnchor enableCollision breakForce breakTorque dampingRatio frequency cachedComponent connectedBody Value Rigidbody2D",
+"description":"Sets the various properties of a FixedJoint2D component."
 }

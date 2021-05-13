@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraAnimateToOrtho.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraAnimateToOrtho.cs",
-"keywords":" Smooth perspective instead reference CameraAnimateToOrtho animate not defined uses MainCamera orthographic distance Leave effect the animation sent when transition done Reset 50f _startTime AnimateToOrtho _go main nearClipPlane farClipPlane orthographicSize Value width Screen height Ortho aspect _orthoSize _near _far _duration _camera projectionMatrix _orthoMatrix transitionDoneEvent MatrixLerp Matrix4x4 Mathf Lerp time"
+"keywords":" Smooth perspective instead reference CameraAnimateToOrtho animate not defined uses MainCamera orthographic distance Leave effect the animation sent when transition done Reset 50f FsmFloat _startTime AnimateToOrtho GameObject _go main nearClipPlane farClipPlane orthographicSize Value width Screen height Ortho aspect _orthoSize _near _far _duration _camera projectionMatrix _orthoMatrix transitionDoneEvent MatrixLerp Matrix4x4 Mathf Lerp time",
+"description":"Smooth animation from perspective ( or ortho ) to Ortho. Use GameObject reference instead of camera reference"
 }

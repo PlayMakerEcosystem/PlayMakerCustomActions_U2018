@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetAmbientGroundColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetAmbientGroundColor.cs",
-"keywords":" Rendering Sets The Ambient Ground Repeats every Reset everyFrame DoSetAmbientGroundColor RenderSettings ambientGroundColor Value"
+"keywords":" Rendering Sets The Ambient Ground Repeats every bool Reset everyFrame DoSetAmbientGroundColor RenderSettings ambientGroundColor Value",
+"description":"Sets the RenderSettings Ambient Ground Color."
 }

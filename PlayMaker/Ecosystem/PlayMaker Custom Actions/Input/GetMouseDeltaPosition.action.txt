@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetMouseDeltaPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetMouseDeltaPosition.cs",
-"keywords":" Gets the mouse individual axis GetMouseDeltaPosition Reset DoGetMouseDelta Input normalize width Screen height mouseDeltaPosition mousePositionDeltaVector2 mouseDeltaPositionX mouseDeltaPositionY Value _delta _lastPosition _mousePosition"
+"keywords":" Gets the mouse individual axis GetMouseDeltaPosition FsmVector3 FsmVector2 FsmFloat bool Reset DoGetMouseDelta Input Vector3 normalize width Screen height mouseDeltaPosition mousePositionDeltaVector2 Vector2 mouseDeltaPositionX mouseDeltaPositionY Value _delta _lastPosition _mousePosition",
+"description":"Gets the delta Position of the mouse as a Vector3, vector2, or individual axis."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/WheelColliderGetWorldPose.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/WheelColliderGetWorldPose.cs",
-"keywords":" Physics Gets accounting ground contact suspension limits steer angle angles degrees WheelColliderGetWorldPose with FsmQuaternion Matches the wheel world Repeat every Quaternion Reset OwnerOption SpecifyGameObject _go WheelCollider everyFrame _component GetWorldPose Value _position _dummy transform _rotation"
+"keywords":" Physics Gets accounting ground contact suspension limits steer angle angles degrees WheelColliderGetWorldPose with FsmVector3 FsmQuaternion Matches the wheel world Repeat every bool Vector3 Quaternion Reset OwnerOption SpecifyGameObject FsmGameObject gameObject _go WheelCollider everyFrame _component GetWorldPose Value _position _dummy transform _rotation",
+"description":"Gets the world space pose of the wheel accounting for ground contact, suspension limits, steer angle, and rotation angle (angles in degrees)."
 }

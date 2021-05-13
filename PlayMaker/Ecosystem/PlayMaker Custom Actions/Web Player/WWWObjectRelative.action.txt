@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Web Player/WWWObjectRelative.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWObjectRelative.cs",
-"keywords":" Linq Web Player store variables See docs more details WWWObjectRelative folder Results ObjectType Gets message during How far download progressed Events when the data finished loading send there was file Application dataPath Reset pathIsRelative urlPrefix WWW progress Equals storeText storeTexture storeAudio GetAudioClip storeMovieTexture GetMovieTexture Dispose wwwObject errorString Value isDone isError endif"
+"keywords":" Linq Web Player store variables See docs more details WWWObjectRelative folder FsmBool Results FsmTexture ObjectType Gets FsmObject message during FsmString How far download progressed FsmFloat Events when the data finished loading send there was file Application dataPath Reset pathIsRelative urlPrefix WWW progress Equals storeText text storeTexture storeAudio GetAudioClip storeMovieTexture GetMovieTexture Dispose wwwObject errorString Value isDone isError endif",
+"description":"Gets data from a url and store it in variables. See Unity WWW docs for more details."
 }

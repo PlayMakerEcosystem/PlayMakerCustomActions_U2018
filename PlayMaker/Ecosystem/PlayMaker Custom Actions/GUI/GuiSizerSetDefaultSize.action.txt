@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiSizerSetDefaultSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiSizerSetDefaultSize.cs",
-"keywords":" script dependancies Assets Custom the gui when GuiBeginSize GuiEndSize GuiSizerSetDefaultSize Reset defaultWidth GUISizer defaultHeight Value"
+"keywords":" script dependancies Assets Custom the gui when GuiBeginSize GuiEndSize GuiSizerSetDefaultSize FsmInt Reset defaultWidth GUISizer defaultHeight Value",
+"description":"Set the default size of the gui when using GuiBeginSize and GuiEndSize"
 }

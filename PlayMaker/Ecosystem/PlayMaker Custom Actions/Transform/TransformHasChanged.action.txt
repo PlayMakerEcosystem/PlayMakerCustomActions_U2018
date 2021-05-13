@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/TransformHasChanged.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/TransformHasChanged.cs",
-"keywords":" made Sebaslive link http index php topic Edited DjayDino Sets The Reset DoTransformHasChanged changedEvent storeResult Value transform hasChanged"
+"keywords":" made Sebaslive link http index php topic Edited DjayDino Sets The FsmBool Reset DoTransformHasChanged gameObject changedEvent storeResult Value transform hasChanged",
+"description":"Sets a bool to true if Transform has changed."
 }

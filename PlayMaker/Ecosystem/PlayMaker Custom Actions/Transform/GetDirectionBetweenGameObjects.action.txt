@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetDirectionBetweenGameObjects.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetDirectionBetweenGameObjects.cs",
-"keywords":" script dependancies Assets Custom __Internal raycast both self normalized well GetDirectionBetweenGameObjects FsmStateActionAdvanced what result express reference between two gameobjects sense when normaized Reset OwnerOption SpecifyGameObject everyFrame ExecuteAction World InverseTransformDirection transform position Normalize direction direction2d Value distance _dir magnitude ErrorCheck _source _target Source can not the same"
+"keywords":" script dependancies Assets Custom __Internal raycast Vector both self normalized well GetDirectionBetweenGameObjects FsmStateActionAdvanced what result bool FsmVector3 express reference FsmVector2 between two gameobjects sense when normaized FsmFloat Vector3 Reset OwnerOption SpecifyGameObject everyFrame ExecuteAction World InverseTransformDirection transform position Normalize direction direction2d Value distance _dir magnitude string ErrorCheck _source _target Source can not the same GameObject",
+"description":"Get a Direction Vector Between two gameobjects, return both 3d or 2d direction, in world or self space, direction can be normalized as well"
 }

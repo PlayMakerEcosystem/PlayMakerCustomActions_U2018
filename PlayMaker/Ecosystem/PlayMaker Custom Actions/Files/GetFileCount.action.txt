@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/GetFileCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/GetFileCount.cs",
-"keywords":" options you search sub folders number the folder sent file found Reset TopDirectoryOnly DoGetFileCount Directory GetFiles folderPath searchPattern searchOption Length fileCount Value _count noFilesEvent"
+"keywords":" FsmString options you search sub folders number the folder FsmInt sent file found Reset TopDirectoryOnly DoGetFileCount Directory GetFiles folderPath searchPattern searchOption Length fileCount Value _count noFilesEvent",
+"description":"Get the number of files in a directory."
 }

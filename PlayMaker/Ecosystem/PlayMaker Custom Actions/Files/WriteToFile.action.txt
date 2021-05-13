@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/WriteToFile.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/WriteToFile.cs",
-"keywords":" Files WriteToFile example Assets myfile txt TextArea Reset Exists Create instance StreamWriter filePath Write Value Close successEvent does not exist Did you the correct filename file extension failureEvent"
+"keywords":" Files WriteToFile example Assets myfile txt TextArea FsmString Reset Exists Create instance StreamWriter filePath Write text Value Close successEvent does not exist Did you the correct filename file extension failureEvent",
+"description":"Write string to a File"
 }

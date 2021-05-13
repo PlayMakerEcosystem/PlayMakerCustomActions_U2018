@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsShowAd.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsShowAd.cs",
-"keywords":" Generic Advertisements Advert feedback reward example UnityAdsShowAd defined setup LEave behavior property can pass identifier server item redeem callbacks current status you fired not will wait when properly watched Sent showing user Reset isNotReadyEvent ShowAd ShowOptions resultCallback gamerSid Show options isAdReady Advertisement zoneId Value _isReady HandleShowResult Finished successfully successEvent was skipped before reaching skippedEvent ShowResult The failed shown UnityAds supported IOS Android Platforms failedEvent endif"
+"keywords":" Generic Advertisements Advert feedback reward example UnityAdsShowAd defined setup LEave behavior property can pass identifier server item redeem callbacks current status FsmBool you fired not will wait when properly watched Sent showing user Reset FsmString isNotReadyEvent ShowAd ShowOptions resultCallback string gamerSid Show options isAdReady bool Advertisement zoneId Value _isReady HandleShowResult Finished successfully successEvent was skipped before reaching skippedEvent ShowResult The failed shown UnityAds supported IOS Android Platforms failedEvent endif",
+"description":"Show a UnityAds Advert. Can get feedback on result to reward user for example if ad was watched."
 }

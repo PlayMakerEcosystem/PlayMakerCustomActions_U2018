@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomFloatSeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomFloatSeed.cs",
-"keywords":" http index php topic msg83571 Generic Math Sets between RandomFloatSeed Reset InitState seed storeResult Random Range max Value"
+"keywords":" http index php topic msg83571 Generic Math Sets between RandomFloatSeed FsmInt FsmFloat Reset InitState seed storeResult Random Range min max Value",
+"description":"Sets a Float Variable to a random value between Min/Max."
 }

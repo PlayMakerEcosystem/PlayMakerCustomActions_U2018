@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetConnectedJoystickNumber.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetConnectedJoystickNumber.cs",
-"keywords":" How many GetConnectedJoystickNumber Store the amount are Joysticks send when there more than connected Reset CheckJoystick Input GetJoystickNames Length joystickQuantity emptyEvent everyFrame Value finishedEvent"
+"keywords":" How many GetConnectedJoystickNumber Store the amount FsmInt are Joysticks send when there more than connected FsmBool Reset CheckJoystick Input GetJoystickNames Length joystickQuantity emptyEvent everyFrame Value finishedEvent",
+"description":"How many joysticks are connected"
 }

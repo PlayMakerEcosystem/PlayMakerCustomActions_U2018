@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3ClampMagnitudeAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3ClampMagnitudeAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal version Clamps the Vector3ClampMagnitudeAdvanced Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3ClampMagnitude ClampMagnitude vector3Variable maxLength Value"
+"keywords":" script dependancies Assets Custom __Internal version Clamps the Vector3ClampMagnitudeAdvanced FsmVector3 FsmFloat bool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3ClampMagnitude Vector3 ClampMagnitude vector3Variable maxLength Value",
+"description":"Clamps the Magnitude of Vector3 Variable."
 }

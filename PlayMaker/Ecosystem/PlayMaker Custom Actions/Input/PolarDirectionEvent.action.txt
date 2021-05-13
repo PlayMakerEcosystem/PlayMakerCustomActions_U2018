@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/PolarDirectionEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/PolarDirectionEvents.cs",
-"keywords":" Sends based polar NNW SEE Expose changed PolarDirectionEvent defined Manager The Range being South North West centered send when changes Reset Horizontal Vertical discreteEvents noDirection NorthEvent NorthNorthEstEvent NorthEstEvent NorthEstEstEvent SouthEstEstEvent SouthSouthEstEvent SouthEvent SouthSouthWestEvent SouthWestEvent SouthWestWestEvent NorthWestWestEvent NorthNorthWestEvent GetCurrentDirection horizontalAxis Input GetAxis verticalAxis squared center offset Equals Atan2 Mathf Rad2Deg storeAngle Value rawAngle 25f 360f angle"
+"keywords":" Sends based polar NNW SEE Expose changed PolarDirectionEvent defined Manager FsmString The Range being FsmFloat South North West centered send when changes bool Reset Horizontal Vertical discreteEvents noDirection NorthEvent NorthNorthEstEvent NorthEstEvent NorthEstEstEvent SouthEstEstEvent SouthSouthEstEvent SouthEvent SouthSouthWestEvent SouthWestEvent SouthWestWestEvent NorthWestWestEvent NorthNorthWestEvent GetCurrentDirection horizontalAxis Input GetAxis verticalAxis squared center offset Equals Atan2 Mathf Rad2Deg storeAngle Value rawAngle 25f 360f angle",
+"description":"Sends events based on 16 polar direction ( NNW, SEE, etc). Expose an option to only send event when direction changed."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/GetGravity2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetGravity2d.cs",
-"keywords":" author ransomink physics store the channels Variables GetGravity2d Reset everyFrame DoGetGravity Physics2D storeX StoreY storeVector Value gravity"
+"keywords":" author ransomink physics store the channels Variables GetGravity2d FsmVector2 bool Reset FsmFloat everyFrame DoGetGravity Vector2 Physics2D storeX StoreY storeVector Value gravity",
+"description":"Get the gravity as a Vector2 Variable, or store the XY channels in Float Variables."
 }

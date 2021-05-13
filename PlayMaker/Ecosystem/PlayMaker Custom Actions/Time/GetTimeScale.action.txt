@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetTimeScale.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetTimeScale.cs",
-"keywords":" Author Deek http index php topic GetTimeScale Store current GameTime the intervall wich physics other rate operates Repeat every Reset everyFrame DoTimeScale currentTimeScale timeScale Value fixedDeltaTime"
+"keywords":" Author Deek http index php topic GetTimeScale Store current GameTime the intervall wich physics other rate operates Repeat every bool Reset FsmFloat everyFrame DoTimeScale currentTimeScale timeScale Value fixedDeltaTime",
+"description":"Get the current TimeScale (the time at wich the game operates at)."
 }

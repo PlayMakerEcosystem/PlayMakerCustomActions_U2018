@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/grid2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/grid2d.cs",
-"keywords":" Source Create http index php topic grid2d between objects grid options Reset verticalSpawn width height Instantiate gridPlane transform position Value"
+"keywords":" Source Create http index php topic grid2d FsmGameObject FsmInt between objects grid FsmFloat options FsmBool Reset verticalSpawn width height Instantiate gameObject Vector2 gridPlane transform position Value"
 }

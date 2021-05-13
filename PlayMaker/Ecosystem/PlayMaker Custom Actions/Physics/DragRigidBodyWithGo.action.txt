@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/DragRigidBodyWithGo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/DragRigidBodyWithGo.cs",
-"keywords":" Physics Rigid with another DragRigidBodyWithGo springness damping angular during Force between being dragged eone when starting would center mass whether feedback current the wanted dragDistance Reset 50f 10f zero OnExit StartDragging OwnerOption __Rigidbody dragger__ Rigidbody _RB_draggerGo AddComponent isKinematic UseStartDistance delta Mathf minDistance maxDistance tension _draggingGO _draggedRB transform position magnitude distance dragAnchor damper spring Value StopDragging _isDragging oldDrag oldAngularDrag springJoint connectedBody"
+"keywords":" Physics Rigid with another DragRigidBodyWithGo FsmGameObject springness damping angular during Force between being dragged eone when starting vector would center mass FsmVector3 whether FsmBool feedback current the wanted FsmFloat bool dragDistance Reset 50f 10f zero OnExit StartDragging OwnerOption GameObject __Rigidbody dragger__ Rigidbody _RB_draggerGo AddComponent isKinematic UseStartDistance Vector3 delta Mathf minDistance maxDistance tension _draggingGO _draggedRB transform position magnitude distance dragAnchor damper spring Value StopDragging _isDragging oldDrag oldAngularDrag springJoint connectedBody",
+"description":"Drag a Rigid body with another GameObject."
 }

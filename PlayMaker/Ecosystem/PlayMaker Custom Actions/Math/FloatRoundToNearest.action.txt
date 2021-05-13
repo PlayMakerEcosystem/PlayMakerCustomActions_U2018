@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRoundToNearest.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRoundToNearest.cs",
-"keywords":" Math the specified Optional store FloatRoundToNearest Reset everyFrame DoFloatRound Round floatVariable nearest resultAsInt Mathf RoundToInt resultAsFloat Value"
+"keywords":" Math the specified Optional store FloatRoundToNearest FsmInt FsmFloat bool Reset everyFrame DoFloatRound Round floatVariable nearest resultAsInt Mathf RoundToInt resultAsFloat Value",
+"description":"Round a Float to the specified nearest value. Optional Int store value."
 }

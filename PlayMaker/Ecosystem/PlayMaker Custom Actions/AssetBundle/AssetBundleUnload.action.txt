@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AssetBundle/AssetBundleUnload.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AssetBundle/AssetBundleUnload.cs",
-"keywords":" Optionaly AssetBundleUnload Asset compressed file data inside unloaded actual already kept intact course you won any more When that were loaded destroyed well there are your scene referencing those assets the references them will become Reset assetBundle _bundle Unload unloadAllLoadedObjects Value"
+"keywords":" Optionaly AssetBundleUnload Asset FsmObject compressed file data inside unloaded actual already kept intact course you won any more When that were loaded destroyed well there are your scene referencing those assets the references them will become FsmBool Reset assetBundle _bundle Unload unloadAllLoadedObjects Value",
+"description":"Unload AssetBundle. Optionaly unload all Loaded objects"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatAbsAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatAbsAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal invert Math Sets its absolute FloatAbsAdvanced FsmStateActionAdvanced force the result negative example Reset everyFrame DoFloatAbs Mathf floatVariable multiplier Value"
+"keywords":" script dependancies Assets Custom __Internal invert Math Sets its absolute FloatAbsAdvanced FsmStateActionAdvanced force the result negative example Reset FsmFloat everyFrame DoFloatAbs Mathf floatVariable multiplier Value",
+"description":"Sets a Float variable to its absolute value."
 }

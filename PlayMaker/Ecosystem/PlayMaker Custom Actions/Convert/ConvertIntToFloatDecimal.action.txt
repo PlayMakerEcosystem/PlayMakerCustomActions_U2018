@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertIntToFloatDecimal.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertIntToFloatDecimal.cs",
-"keywords":" Convert into http index php topic ConvertIntToFloatDecimal Input Output Store result Options How many leading the example would mean 000xxx Reset everyFrame DoAction decimalNumber Floor Log10 tempInt leadingZeros floatVariable Value tamp Math Pow"
+"keywords":" Convert into http index php topic ConvertIntToFloatDecimal Input Output Store result FsmFloat Options How many leading the example would mean 000xxx FsmInt FsmBool Reset everyFrame DoAction decimalNumber Floor Log10 tempInt leadingZeros floatVariable Value tamp Math Pow",
+"description":"Convert an Int into Float decimal."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/CopyMaterialProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/CopyMaterialProperties.cs",
-"keywords":" paste onto another CopyMaterialProperties Reset CopyMaterial recipient CopyPropertiesFromMaterial source Value"
+"keywords":" paste onto another CopyMaterialProperties FsmMaterial Reset CopyMaterial recipient CopyPropertiesFromMaterial source Value",
+"description":"Copy a material properties onto another."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Files/BinarySave.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Files/BinarySave.cs",
-"keywords":" Author Romi Fauzi Disk Runtime Serialization Formatters Files later Binary Load working feel free test other types BinarySave your here more than can different integer are currently tested the that will outputted Reset DoSave floatVar intVar stringVar boolVar arrayVar Clone Resize Length BinaryFormatter FileStream Create Application persistentDataPath filename Value Serialize saveData file Close Serializable SavedData savedFloat savedInt savedString savedBool FsmArray savedArray"
+"keywords":" Author Romi Fauzi Disk Runtime Serialization Formatters Files later Binary Load working feel free test other types BinarySave your here more than can different integer are currently tested the that will outputted Reset DoSave floatVar intVar stringVar boolVar arrayVar Clone Resize Length BinaryFormatter FileStream Create Application persistentDataPath filename Value Serialize saveData file Close Serializable SavedData FsmFloat savedFloat FsmInt savedInt FsmString savedString FsmBool savedBool FsmArray savedArray",
+"description":"Save Data to be load later using Binary Load, for Array only type of float, integer, string that are currently working, feel free to test other data types"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialPropertyBlockColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialPropertyBlockColor.cs",
-"keywords":" Sets SetMaterialPropertyBlockColor ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset black MaterialPropertyBlock everyFrame DoSetMaterialColor propertyName _Color UpdateCache GetPropertyBlock SetColor colorName Value renderer SetPropertyBlock _propBlock"
+"keywords":" Sets SetMaterialPropertyBlockColor ComponentAction that applied named shader Must have PerRendererData attribute FsmString parameter Repeat every Useful the animated bool Reset black MaterialPropertyBlock everyFrame DoSetMaterialColor propertyName _Color gameObject UpdateCache Material GetPropertyBlock SetColor colorName Value renderer SetPropertyBlock _propBlock",
+"description":"Sets a named color value in a game object's material PropertyBlock. "
 }

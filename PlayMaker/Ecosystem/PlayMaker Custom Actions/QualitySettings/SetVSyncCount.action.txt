@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetVSyncCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetVSyncCount.cs",
-"keywords":" Source The number VSyncs that should pass frame http index php topic SetVSyncCount Reset must between QualitySettings vSyncCount level Value"
+"keywords":" Source The number VSyncs that should pass frame http index php topic SetVSyncCount FsmInt Reset must between QualitySettings vSyncCount level Value",
+"description":"The number of VSyncs that should pass between each frame. Value must be 0, 1 2 3 o 4"
 }

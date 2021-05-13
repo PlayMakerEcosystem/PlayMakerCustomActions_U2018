@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/WebcamIsFrontFacing.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/WebcamIsFrontFacing.cs",
-"keywords":" Checks faces the same direction screen Output camera send front webcam was found Reset WebCamDevice Length webcamName WebCamTexture devices webcamIsFrontFacing isFrontFacing Value"
+"keywords":" Checks faces the same direction screen Output camera FsmString send front webcam was found FsmBool string Reset WebCamDevice Length webcamName WebCamTexture devices webcamIsFrontFacing isFrontFacing Value",
+"description":"Checks if camera faces the same direction as screen."
 }

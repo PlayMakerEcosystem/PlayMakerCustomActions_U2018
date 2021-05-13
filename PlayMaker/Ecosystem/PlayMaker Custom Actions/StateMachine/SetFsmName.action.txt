@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmName.cs",
-"keywords":" Marc Saubion Ecosystem http index php topic msg79738 StateMachine SetFsmName TextArea Reset Value"
+"keywords":" Marc Saubion Ecosystem http index php topic msg79738 StateMachine SetFsmName TextArea FsmString Reset Value",
+"description":"Set this FSM name."
 }

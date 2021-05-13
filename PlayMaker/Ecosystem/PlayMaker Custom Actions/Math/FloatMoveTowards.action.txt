@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatMoveTowards.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatMoveTowards.cs",
-"keywords":" script dependancies Assets Custom __Internal Math Moves current essentially same Lerping instead function will ensure speed never exceeds Negative values pushes away FloatMoveTowards FsmStateActionAdvanced maximum change that should applied multiplied framerate independant animations which move considered finished sent continous execution resulting remaining send when the reached Reset DoMoveTowards timeBasedMaxDelta deltaTime MoveTowards floatVariable _maxDelta targetValue _result remainingDistance _distance Mathf finishDistance Value finishEvent"
+"keywords":" script dependancies Assets Custom __Internal Math Moves current essentially same Lerping instead function will ensure speed never exceeds Negative values pushes away FloatMoveTowards FsmStateActionAdvanced maximum change that should applied multiplied framerate independant animations bool which move considered finished sent continous execution resulting remaining send when the reached Reset FsmFloat DoMoveTowards timeBasedMaxDelta deltaTime MoveTowards floatVariable _maxDelta targetValue _result remainingDistance _distance Mathf finishDistance Value finishEvent",
+"description":"Moves a value current towards target. This is essentially the same as Lerping but instead the function will ensure that the speed never exceeds maxDelta. Negative values of maxDelta pushes the value away from target."
 }

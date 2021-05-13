@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FsmIntOperator.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmIntOperator.cs",
-"keywords":" Made nightcorelv forumlink http index php topic Performs math operations Ints FsmIntOperator enum owns Optional original that will change the PlayMakerFSM Reset everyFrame Ggop ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmInt variableName storeFsmValue ModifyFsmValue Add Subtract Multiply Divide Operation StoreResult Value Mathf Max"
+"keywords":" Made nightcorelv forumlink http index php topic Performs math operations Ints FsmIntOperator enum owns Optional FsmString original that will change the FsmBool bool PlayMakerFSM Reset everyFrame Ggop gameObject ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmInt variableName storeFsmValue ModifyFsmValue fsmInt Add Subtract Multiply Divide Min Operation StoreResult Value Mathf Max",
+"description":"Performs math operations on FSM Ints: Add, Subtract, Multiply, Divide, Min, Max."
 }

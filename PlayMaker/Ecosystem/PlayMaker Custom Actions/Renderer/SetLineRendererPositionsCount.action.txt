@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetLineRendererPositionsCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetLineRendererPositionsCount.cs",
-"keywords":" line vertex position SetLineRendererPositionsCount Setup with The number positions Repeat every Reset everyFrame SetPositionCount LineRenderer positionCount _lr SetVertexCount Mathf Max count Value endif"
+"keywords":" line vertex position SetLineRendererPositionsCount Setup with The number positions FsmInt Repeat every bool Reset everyFrame SetPositionCount gameObject LineRenderer positionCount _lr SetVertexCount Mathf Max count Value endif",
+"description":"Set the number of positions of a lineRenderer"
 }

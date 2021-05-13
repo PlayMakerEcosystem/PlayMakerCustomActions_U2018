@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertVector2ToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertVector2ToString.cs",
-"keywords":" Convert Converts flexible are placeholders ConvertVector2ToString itself pattern express components strings Useful you want optimized generated The Repeats every Reset everyFrame DoToString floatConversion Replace _val ToString _fFormat storeResult Value _result"
+"keywords":" Convert Converts flexible are placeholders ConvertVector2ToString itself FsmVector2 pattern express vector components strings Useful you want optimized generated The FsmString Repeats every bool Reset everyFrame DoToString floatConversion vector2 Replace _val ToString _fFormat storeResult Value _result",
+"description":"Converts a vector2 to a string. Format is flexible, [x] and [y] are placeholders"
 }

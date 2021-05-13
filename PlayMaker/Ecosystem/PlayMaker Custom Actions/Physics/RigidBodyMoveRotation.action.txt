@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidBodyMoveRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyMoveRotation.cs",
-"keywords":" Rotates particular more efficient then accessing transform interacts properly with colliders physics materials RigidBodyMoveRotation The rigid FsmQuaternion Repeat every Reset everyFrame DoRotate rigidBody MoveRotation rotation Value"
+"keywords":" Rotates particular more efficient then accessing transform interacts properly with colliders physics materials RigidBodyMoveRotation The rigid FsmQuaternion Repeat every bool Reset gameObject everyFrame DoRotate rigidBody MoveRotation rotation Value",
+"description":"Rotates a RigidBody to a particular rotation. It's more efficient then accessing the transform of the gameObject and interacts properly with colliders and physics materials"
 }

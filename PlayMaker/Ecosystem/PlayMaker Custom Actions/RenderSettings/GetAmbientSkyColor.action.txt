@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetAmbientSkyColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetAmbientSkyColor.cs",
-"keywords":" Rendering Gets GetAmbientSkyColor Store the Ambient Sky Repeats every Reset everyFrame DoSetAmbientSkyColor Value RenderSettings ambientSkyColor"
+"keywords":" Rendering Gets GetAmbientSkyColor Store the Ambient Sky Repeats every bool Reset everyFrame DoSetAmbientSkyColor Value RenderSettings ambientSkyColor",
+"description":"Gets the RenderSettings Ambient Sky Color."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetVirtualMousePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformSetVirtualMousePosition.cs",
-"keywords":" UnityStandardAssets pragma disable Requires Standard Assets CrossPlatformInput CrossPlatformSetVirtualMousePosition the mouse Repeat every Reset everyFrame DoSetMousePosition CROSS_PLATFORM_INPUT mousePosition mousePosition2d Value SetVirtualMousePositionX SetVirtualMousePositionY CrossPlatformInputManager SetVirtualMousePositionZ _pos endif"
+"keywords":" UnityStandardAssets pragma disable Requires Standard Assets CrossPlatformInput CrossPlatformSetVirtualMousePosition the mouse Repeat every bool Reset FsmVector3 FsmVector2 FsmFloat everyFrame DoSetMousePosition CROSS_PLATFORM_INPUT Vector3 mousePosition mousePosition2d Value SetVirtualMousePositionX SetVirtualMousePositionY CrossPlatformInputManager SetVirtualMousePositionZ _pos endif",
+"description":"Sets the value of the virtual MousePosition. Requires Standard Assets CrossPlatformInput."
 }

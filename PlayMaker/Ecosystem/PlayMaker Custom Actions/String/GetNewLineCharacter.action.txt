@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetNewLineCharacter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetNewLineCharacter.cs",
-"keywords":" Gets prevents having paste StringSplit example GetNewLineCharacter The Reset Value Environment NewLine"
+"keywords":" Gets prevents having paste text StringSplit example GetNewLineCharacter The FsmString Reset Value Environment NewLine",
+"description":"Gets the newline character, prevents having to copy paste from text editor. Use it in StringSplit action for example"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTag2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetTag2.cs",
-"keywords":" Gets stores GetTag2 the runs useful expected change often Reset everyFrame DoGetTag OwnerOption storeResult Value _go tag"
+"keywords":" Gets stores GetTag2 the FsmString runs useful expected change often bool Reset everyFrame DoGetTag OwnerOption GameObject storeResult Value _go tag",
+"description":"Gets a Game Object's Tag and stores it in a String Variable."
 }

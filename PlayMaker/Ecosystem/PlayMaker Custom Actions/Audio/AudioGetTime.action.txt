@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioGetTime.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioGetTime.cs",
-"keywords":" Sound current playback compressed position does not necessary reflect actual the track http index php topic AudioGetTime Setup Output seconds Reset AudioSource time timeSample audio timeSamples everyframe Value"
+"keywords":" Sound current playback compressed position does not necessary reflect actual the track http index php topic AudioGetTime Setup FsmBool Output FsmInt seconds FsmFloat Reset gameObject AudioSource time timeSample audio timeSamples everyframe Value",
+"description":"Read current playback time. On a compressed audio track position does not necessary reflect the actual time in the track "
 }

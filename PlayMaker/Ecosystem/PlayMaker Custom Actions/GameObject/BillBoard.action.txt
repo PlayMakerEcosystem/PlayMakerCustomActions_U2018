@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/BillBoard.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/BillBoard.cs",
-"keywords":" Align always optionnally decide BillBoard Leave you want will the current keep constant scaled that Reset cameraTarget _go main camera LookAt back rotation ConstantScreenSize distanceBase Value _cam position magnitude transform localScale dist _originalDistance _originalScale"
+"keywords":" Align always optionnally decide BillBoard Leave FsmGameObject you want bool will the current keep constant scaled that FsmFloat Reset GameObject cameraTarget _go main camera LookAt back rotation ConstantScreenSize Vector3 distanceBase Value _cam position magnitude transform localScale dist _originalDistance _originalScale",
+"description":"Align an object to always face the camera. You optionnally decide to keep a constant screensize."
 }

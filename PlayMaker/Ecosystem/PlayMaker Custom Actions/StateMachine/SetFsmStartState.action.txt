@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmStartState.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmStartState.cs",
-"keywords":" StateMachine SetFsmStartState Drag here specifyng above specify that owns Optional left blank will first Store the PlayMakerFSM Reset Awake DoSetFsmState fsmComponent ActionHelpers GetGameObjectFsm Could not find fsmName StartState stateName Value"
+"keywords":" StateMachine SetFsmStartState Drag here specifyng above specify that owns Optional left blank will first Store the FsmString PlayMakerFSM Reset Awake DoSetFsmState fsmComponent gameObject ActionHelpers GetGameObjectFsm Could not find fsmName StartState stateName Value",
+"description":"set a new start state on an fsm."
 }

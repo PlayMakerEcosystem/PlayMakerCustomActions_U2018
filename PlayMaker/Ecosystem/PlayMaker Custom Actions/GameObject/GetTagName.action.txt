@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetTagName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetTagName.cs",
-"keywords":" Original goren enderunstudios Gets the given GetTagName Reset Untagged storeResult tag Value"
+"keywords":" Original goren enderunstudios GameObject Gets the given GetTagName FsmString Reset Untagged string storeResult tag Value",
+"description":"Gets the name of a given tag"
 }

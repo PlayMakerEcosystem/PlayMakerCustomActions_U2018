@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidBodyMovePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyMovePosition.cs",
-"keywords":" Moves particular more efficient then accessing transform interacts properly with colliders physics materials RigidBodyMovePosition rigid The move Repeat every Reset everyFrame DoPosition rigidBody MovePosition position Value"
+"keywords":" Moves particular more efficient then accessing transform interacts properly with colliders physics materials RigidBodyMovePosition rigid The move FsmVector3 Repeat every bool Reset gameObject everyFrame DoPosition rigidBody MovePosition position Value",
+"description":"Moves a RigidBody to a particular position. It's more efficient then accessing the transform of the gameObject and interacts properly with colliders and physics materials"
 }

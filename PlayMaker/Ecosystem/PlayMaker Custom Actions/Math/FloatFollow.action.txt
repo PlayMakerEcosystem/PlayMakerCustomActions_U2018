@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatFollow.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatFollow.cs",
-"keywords":" Math outside defined Typically camera movement player when getting close screen sides FloatFollow enum follow trigger lerping distance between greater than The startTime currentTime endTime looping Reset PLAYMAKER_1_8_5_OR_NEWER endif margin Mathf Lerp lerpSmoothing deltaTime Value _result updateType FrameUpdateSelector"
+"keywords":" Math outside defined Typically camera movement player when getting close screen sides FloatFollow enum follow trigger lerping distance between greater than The FsmFloat startTime currentTime endTime bool looping Reset PLAYMAKER_1_8_5_OR_NEWER endif margin Mathf Lerp lerpSmoothing deltaTime Value _result updateType FrameUpdateSelector",
+"description":"Follow a float value and lerp if outside the defined margin. Typically use for camera movement to follow player when getting close to the screen sides"
 }

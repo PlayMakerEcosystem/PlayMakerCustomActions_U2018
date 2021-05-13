@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertVector3ToVector2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertVector3ToVector2.cs",
-"keywords":" original collidernyc http index php topic Convert Store into Drops you can optionally save ConvertVector3ToVector2 The Optional stored Reset everyFrame ExecuteAction zValue Value"
+"keywords":" original collidernyc http index php topic Convert Store into Drops you can optionally save ConvertVector3ToVector2 FsmVector3 The FsmVector2 Optional stored FsmFloat bool Reset everyFrame ExecuteAction Vector2 zValue vector3 Value",
+"description":"Store a Vector3 XY component into a Vector2 XY component. Drops the Vector3 z component, you can optionally save it to a float."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialColorToChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialColorToChildren.cs",
-"keywords":" Updated sebaslive Sets named its SetMaterialColorToChildren Reset black DictionaryEntry Item namedColor _Color Hashtable revertOnExit everyFrame DoSetMaterialColor affectAllHierarchy Transform childCount ApplyColorToHierarchy parent GetChild DoSetMaterialColorToGO Length materialIndex GetColor Renderer materials _mat SetColor colorName Value storeOriginalColor _originalColors Add _originalColor"
+"keywords":" Updated sebaslive Sets named its SetMaterialColorToChildren FsmInt FsmString FsmBool string Reset black DictionaryEntry Item namedColor _Color Hashtable revertOnExit everyFrame DoSetMaterialColor affectAllHierarchy Transform childCount ApplyColorToHierarchy parent GetChild DoSetMaterialColorToGO GameObject bool material Length materialIndex GetColor Renderer materials _mat SetColor colorName Value storeOriginalColor _originalColors Add _originalColor",
+"description":"Sets a named color value in a game object's  material and its children."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetRigidBody2dConstraints.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetRigidBody2dConstraints.cs",
-"keywords":" constraint Physics Sets the http index php topic SetRigidBody2dConstraints Reset DoSetConstraints RigidBody FreezeAll FreezePositionX FreezePositionY freezeRotationZ Value Rigidbody2D constraints RigidbodyConstraints2D FreezeRotation"
+"keywords":" constraint Physics Sets the http index php topic SetRigidBody2dConstraints FsmBool Reset DoSetConstraints gameObject RigidBody FreezeAll FreezePositionX FreezePositionY freezeRotationZ Value Rigidbody2D constraints RigidbodyConstraints2D FreezeRotation",
+"description":"Sets the constraints of a 2D rigidBody"
 }

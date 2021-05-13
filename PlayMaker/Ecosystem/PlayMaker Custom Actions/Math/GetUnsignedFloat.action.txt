@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetUnsignedFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetUnsignedFloat.cs",
-"keywords":" Author Deek Math http index php topic Returns absolute optionally sets that GetUnsignedFloat Apply unsigned Repeat every Useful the changing Reset everyFrame DoFloatAbs Mathf applyToOriginal floatVariable result Value"
+"keywords":" Author Deek Math http index php topic Returns absolute optionally sets that GetUnsignedFloat Apply unsigned FsmBool Repeat every Useful the changing bool Reset FsmFloat everyFrame DoFloatAbs Mathf applyToOriginal floatVariable result Value",
+"description":"Returns the absolute value of an Float variable and optionally sets it to that."
 }

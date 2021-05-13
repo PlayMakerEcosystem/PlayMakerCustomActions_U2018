@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetSphericalDirectionAmount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetSphericalDirectionAmount.cs",
-"keywords":" Spherical Shuriken ShapeModuleSetSphericalDirectionAmount with Spherize Direction Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm sphericalDirectionAmount Value"
+"keywords":" Spherical Shuriken ShapeModuleSetSphericalDirectionAmount with Spherize Direction FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm sphericalDirectionAmount Value",
+"description":"Set Spherical Direction Amount of a particleSystem's ShapeModule ( Shuriken)"
 }

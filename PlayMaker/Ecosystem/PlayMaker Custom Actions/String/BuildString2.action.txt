@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/BuildString2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/BuildString2.cs",
-"keywords":" Builds other optional can inserted BuildString2 enum Strings combine character behavior Store Repeat every the active Reset everyFrame DoBuildString Before After separatorInsert separatorInsertion InBetween stringParts Length separator storeResult Value result"
+"keywords":" Builds other optional can inserted BuildString2 enum Strings combine character behavior Store Repeat every the active bool Reset FsmString everyFrame DoBuildString Before After separatorInsert separatorInsertion InBetween stringParts Length separator storeResult Value result",
+"description":"Builds a String from other Strings. Separator is optional and can be inserted before, after or in between parts."
 }

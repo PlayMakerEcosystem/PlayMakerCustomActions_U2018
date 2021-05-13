@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRemapWithCurve.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRemapWithCurve.cs",
-"keywords":" mapper cross multiplication rule three Math scale other example linear have existing remapping would give FloatRemapWithCurve reference defining between ranges Store Repeat every Useful any the values are changing Reset 50f 100f FsmAnimationCurve AnimationCurve Keyframe everyFrame DoFloatRemap theFloat baseStart baseEnd Evaluate _unitTarget storeResult _curveTarget targetStart targetEnd map ErrorCheck time animCurve keys Length value Curve must define mapping range"
+"keywords":" mapper cross multiplication rule three Math scale other example linear have existing remapping would give FloatRemapWithCurve reference defining between ranges Store FsmFloat Repeat every Useful any the values are changing bool Reset 50f 100f FsmAnimationCurve AnimationCurve Keyframe everyFrame DoFloatRemap theFloat baseStart baseEnd Evaluate _unitTarget storeResult _curveTarget targetStart targetEnd map ErrorCheck time animCurve keys Length value Curve must define mapping range string",
+"description":"Remap a float from one scale to the other using a curve. example: for a linear curve we have 2 existing between 1 and 3, remapping 2 between 0 and 10 would give 5"
 }

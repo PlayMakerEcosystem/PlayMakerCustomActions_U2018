@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetWheelColliderGroundHitProperties.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetWheelColliderGroundHitProperties.cs",
-"keywords":" Physics Gets collision GetWheelColliderGroundHitProperties other hitting between ground pointing magnitude being applied contact rolling Acceleration negative braking positive Tire the sideways direction Reset WheelCollider everyFrame DoGetGroundHit _wheel GetGroundHit Collider data point normal forwardDir force forwardSlip Value _wheelhit sidewaysSlip"
+"keywords":" Physics Gets collision GetWheelColliderGroundHitProperties other hitting FsmGameObject between ground pointing FsmVector3 magnitude being applied contact rolling Acceleration negative braking positive Tire the sideways direction FsmFloat bool Reset WheelCollider everyFrame DoGetGroundHit _wheel GetGroundHit gameObject Collider data point normal forwardDir force forwardSlip Value _wheelhit sidewaysSlip",
+"description":"Gets ground collision data for the wheel"
 }

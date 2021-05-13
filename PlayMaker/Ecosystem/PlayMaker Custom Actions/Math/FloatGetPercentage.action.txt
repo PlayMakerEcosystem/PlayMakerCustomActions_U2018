@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatGetPercentage.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatGetPercentage.cs",
-"keywords":" Math FloatGetPercentage persentage Repeat every active The Reset everyFrame DoFloatAdd result floatVariable percentage Value"
+"keywords":" Math FloatGetPercentage persentage Repeat every active bool The FsmFloat Reset everyFrame DoFloatAdd result floatVariable percentage Value",
+"description":"Get the percentage from a float"
 }

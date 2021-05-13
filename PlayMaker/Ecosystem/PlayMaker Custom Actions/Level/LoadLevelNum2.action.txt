@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/LoadLevelNum2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Level/LoadLevelNum2.cs",
-"keywords":" Loads number async loading gives progress feedback Before can you add list levels defined LoadLevelNum2 File Build Settings additively keeping current scene send after loaded NOTE components disabled then enabled Disable keep active Reset Have the since will parent destroyed transform DontDestroyOnLoad root LoadLevelAdditive Application LoadLevel levelIndex Value loadedEvent"
+"keywords":" Loads number async loading gives progress feedback Before can you add list levels defined LoadLevelNum2 File Build Settings FsmInt additively keeping current scene send after loaded NOTE components disabled then enabled Disable keep active FsmBool Reset Have the since will parent destroyed transform DontDestroyOnLoad root gameObject LoadLevelAdditive Application LoadLevel levelIndex Value loadedEvent",
+"description":"Loads a Level by Index number. For async loading, gives progress feedback. Before you can load a level, you have to add it to the list of levels defined in File->Build Settings..."
 }

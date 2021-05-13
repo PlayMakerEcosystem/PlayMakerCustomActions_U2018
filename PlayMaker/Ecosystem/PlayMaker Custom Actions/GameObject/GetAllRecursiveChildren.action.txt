@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetAllRecursiveChildren.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetAllRecursiveChildren.cs",
-"keywords":" Childs Linq pragma disable gets recursivly GetAllRecursiveChildren recursive will list gameobjects the FsmArray Reset Find _go GetComponentsInChildren includeInactive Value Where source index ToArray Resize Length _result store Set transform"
+"keywords":" Childs Linq pragma disable gets recursivly GetAllRecursiveChildren recursive will list gameobjects FsmBool the FsmArray Reset Find _go GetComponentsInChildren includeInactive Value Where source index ToArray Resize Length _result store Set transform gameObject",
+"description":"gets all children recursivly"
 }

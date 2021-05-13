@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraRectWipeFade.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraCrossRectWipeFade.cs",
-"keywords":" NOTE Cross between two CameraRectWipeFade General FsmAnimationCurve Settings enum Grow Output Reset cameraFrom cameraTo StartCoroutine fadeTime zoomTypeSelect OnExit StopCoroutine routine AlphaTimer alpha enableThis cam1Active AudioListener reEnableListener listener enabled SetActive IEnumerator RectWipe CameraSetup Camera otherCam useCurve curve Evaluate zoom ZoomType Shrink deltaTime rate Lerp Mathf yield originalRect useCam originalDepth CameraCleanup cam1 cam2 isWorking inProgress Value"
+"keywords":" NOTE Min Cross between two CameraRectWipeFade FsmGameObject General FsmFloat FsmAnimationCurve Settings enum Grow Output FsmBool Reset cameraFrom cameraTo StartCoroutine fadeTime zoomTypeSelect OnExit StopCoroutine routine AlphaTimer alpha bool enableThis cam1Active AudioListener reEnableListener listener enabled gameObject SetActive IEnumerator RectWipe CameraSetup Camera otherCam useCurve curve Evaluate zoom ZoomType Shrink deltaTime rate Lerp Mathf yield originalRect useCam originalDepth CameraCleanup cam1 cam2 isWorking inProgress Value",
+"description":"Cross fade between two camera"
 }

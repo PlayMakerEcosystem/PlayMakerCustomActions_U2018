@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/EnableScript.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/EnableScript.cs",
-"keywords":" Source ScriptControl Enables Disables single range tag layer filter http index php topic Setup that owns Optionally drag directly into Note must same Project view TitleAttribute Options Should the included disable will ignored Reset gos allScripts DoEnableScript componentTarget childCount transform GetChild Dropdown does not work with incl child Please input DisableAll GetComponents scriptComponents inclChildren GetComponentsInChildren Behaviour scriptChildComponents script enabled enable Value"
+"keywords":" Source ScriptControl Enables Disables single range tag layer filter http index php topic Setup that owns Optionally drag directly into Note must same Project view TitleAttribute FsmString Options Should the included disable will ignored FsmBool Reset gos allScripts DoEnableScript componentTarget childCount transform GetChild string Dropdown does not work with incl child Please input DisableAll GetComponents scriptComponents inclChildren gameObject GetComponentsInChildren Behaviour scriptChildComponents script enabled enable Value",
+"description":"Enables/Disables a Script in a single GameObject or a range by tag (with layer filter)."
 }

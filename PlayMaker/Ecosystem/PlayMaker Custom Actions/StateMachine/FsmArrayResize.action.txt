@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayResize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayResize.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine FsmArrayResize BaseFsmVariableAction that owns Optional the Reset ggop UpdateCache fsmName FsmVariables GetFsmArray variableName fsmArray Resize range newSize Value sizeOutOfRangeEvent"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine FsmArrayResize BaseFsmVariableAction that owns Optional the FsmString FsmInt Reset ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName fsmArray Resize range newSize Value sizeOutOfRangeEvent",
+"description":"Resize an array."
 }

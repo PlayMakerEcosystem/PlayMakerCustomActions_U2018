@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Social/ShareAppAndroid.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Social/ShareAppAndroid.cs",
-"keywords":" Source Social msg available apps WORK WITH FACEBOOK TWITTER http index php topic ShareAppAndroid Setup Does not app after select Reset DoShare android content Intent setAction ACTION_SEND setType plain EXTRA_SUBJECT title putExtra EXTRA_TEXT message AndroidJavaClass unity3d UnityPlayer GetStatic androidChooserOn Value intentClass CallStatic AndroidJavaObject createChooser Share Via jChooser currentActivity Call startActivity intentObject endif"
+"keywords":" Source Social msg available apps WORK WITH FACEBOOK TWITTER http index php topic ShareAppAndroid Setup FsmString Does not app after select FsmBool Reset DoShare android content Intent setAction ACTION_SEND setType plain EXTRA_SUBJECT title putExtra string EXTRA_TEXT message AndroidJavaClass unity3d UnityPlayer GetStatic androidChooserOn Value intentClass CallStatic AndroidJavaObject createChooser Share Via jChooser currentActivity Call startActivity intentObject endif",
+"description":"Share msg via android available apps - DOES NOT WORK WITH FACEBOOK/TWITTER"
 }

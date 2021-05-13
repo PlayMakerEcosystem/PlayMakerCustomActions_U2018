@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/NoiseModule/NoiseModuleSetScrollSpeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/NoiseModule/NoiseModuleSetScrollSpeed.cs",
-"keywords":" Made Ubik3D Link http index php topic topicseen Shuriken NoiseModuleSetScrollSpeed with Strength Repeat every the active NoiseModule Reset _go ParticleSystem _ps noise everyFrame DoExecute _nm scrollSpeed Value"
+"keywords":" Made Ubik3D Link http index php topic topicseen Shuriken NoiseModuleSetScrollSpeed with Strength FsmFloat Repeat every the active bool NoiseModule Reset gameObject _go ParticleSystem _ps noise everyFrame DoExecute _nm scrollSpeed Value",
+"description":"Set Strength of a particleSystem's NoiseModule ( Shuriken)"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntOddEvenTest.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntOddEvenTest.cs",
-"keywords":" Math given Store result boolean send events IntOddEvenTest Reset everyFrame DoCheck isEven Value isOddEvent _isOdd isEvenEvent"
+"keywords":" Math given Store result boolean send events IntOddEvenTest FsmInt FsmBool Reset everyFrame DoCheck bool isEven Value isOddEvent _isOdd isEvenEvent",
+"description":"Return if a given Int is odd or even. Store result in boolean variable and/or send events."
 }

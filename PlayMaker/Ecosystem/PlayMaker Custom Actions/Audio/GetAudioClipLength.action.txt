@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/GetAudioClipLength.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/GetAudioClipLength.cs",
-"keywords":" Author Deek http index php topic Retrieve inside specified given GetAudioClipLength ComponentAction with AudioSource Supply directly the Reset UpdateCache audio Value _audioClip length"
+"keywords":" Author Deek http index php topic Retrieve inside specified given GetAudioClipLength ComponentAction with AudioSource Supply directly the FsmFloat Reset FsmObject gameObject UpdateCache audio Value _audioClip length",
+"description":"Retrieve the length of the AudioClip inside the specified AudioSource or from the given object."
 }

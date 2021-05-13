@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringCompareSetMulti.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringCompareSetMulti.cs",
-"keywords":" Author Deek http index php topic Sets based the another Optionally send Match StringCompareSetMulti Switches raise matching Strings Reset everyFrame DoStringSwitch Length stringToCompare compare stringToSet set Value hasFound NoMatchEvent"
+"keywords":" Author Deek http index php topic Sets based the another Optionally send Match StringCompareSetMulti Switches raise matching Strings FsmBool Reset FsmString everyFrame DoStringSwitch bool Length stringToCompare compare stringToSet set Value hasFound NoMatchEvent",
+"description":"Sets a String value based on the value of another String Variable. Optionally send a No-Match-Event."
 }

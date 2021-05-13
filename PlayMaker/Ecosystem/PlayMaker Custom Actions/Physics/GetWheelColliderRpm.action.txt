@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetWheelColliderRpm.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetWheelColliderRpm.cs",
-"keywords":" Physics Gets GetWheelColliderRpm ComponentAction The wheel Repeats every usefull changes overtime Reset everyFrame ExecuteAction UpdateCache WheelCollider cachedComponent Value _wc rpm"
+"keywords":" Physics Gets GetWheelColliderRpm ComponentAction The wheel FsmFloat Repeats every usefull changes overtime bool Reset everyFrame ExecuteAction UpdateCache gameObject WheelCollider cachedComponent Value _wc rpm",
+"description":"Gets the wheelCollider rpm"
 }

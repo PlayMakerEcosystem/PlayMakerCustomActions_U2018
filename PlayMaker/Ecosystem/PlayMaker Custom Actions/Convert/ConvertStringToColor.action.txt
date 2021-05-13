@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToColor.cs",
-"keywords":" RegularExpressions Convert Converts into flexible are placeholders escape special chars like parenthesis example ConvertStringToColor representing expected pattern 32bit colors their values ranges Repeats every performance will affected Reset everyFrame DoParsing format could improved with some more inject the not there Replace floatregex fullregex Match source use32BitColor Parse Groups storeResult Value _col"
+"keywords":" Text RegularExpressions Convert Converts into flexible are placeholders escape special chars like parenthesis example ConvertStringToColor representing expected pattern FsmString 32bit colors their values ranges FsmBool Repeats every performance will affected bool Reset everyFrame DoParsing string format could improved with some more inject the not there Replace floatregex fullregex Match source use32BitColor Parse Groups storeResult Value _col",
+"description":"Converts a string into a color variable. Format is flexible, [r] [g] [b] and [a] are placeholders, escape special chars like \ for parenthesis for example "
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntFlip.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntFlip.cs",
-"keywords":" Author Deek Math http index php topic Inverts sign given positive gets becomes negative vice versa IntFlip divide flipped Repeat every Useful the variables are changing Reset everyFrame DoFlip result intVariable Value"
+"keywords":" Author Deek Math http index php topic Inverts sign given positive gets becomes negative vice versa IntFlip divide flipped FsmInt Repeat every Useful the variables are changing bool Reset everyFrame DoFlip result intVariable Value",
+"description":"Inverts the sign of an int variable. If the given int is positive, it gets flipped and becomes negative and vice versa."
 }

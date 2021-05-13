@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/TranslateAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/TranslateAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal Translates XYZ components leave unchanged TranslateAdvanced FsmStateActionAdvanced The NOTE You can individual below along local world translation seconds uses unaffected scale Reset dropdown with selected Self everyFrame DoTranslate specified any axis Value apply perSecond realtime unscaledDeltaTime _transform translate deltaTime"
+"keywords":" script dependancies Assets Custom __Internal Translates XYZ components leave unchanged TranslateAdvanced FsmStateActionAdvanced The FsmVector3 NOTE You can individual below along local world translation seconds uses unaffected scale bool Reset FsmVector2 dropdown with selected FsmFloat Self gameObject everyFrame DoTranslate specified Vector3 vector vector2 any axis Value apply perSecond realtime unscaledDeltaTime _transform translate deltaTime",
+"description":"Translates a Game Object. Use a Vector3 and/or Vector2 variable and/or XYZ components. To leave any axis unchanged, set variable to 'None'."
 }

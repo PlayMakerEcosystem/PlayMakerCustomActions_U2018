@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioListenerSetPause.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioListenerSetPause.cs",
-"keywords":" Paused audio will not generate sound Similar setting the volume AudioListenerSetPause Reset everyFrame SetPause AudioListener pause Value"
+"keywords":" Paused audio will not generate sound Similar setting the volume AudioListenerSetPause FsmBool bool Reset everyFrame SetPause AudioListener pause Value",
+"description":"Paused state of the audio. If set to True, the listener will not generate sound. Similar to setting the volume to 0.0."
 }

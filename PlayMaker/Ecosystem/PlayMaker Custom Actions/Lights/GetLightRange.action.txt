@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Lights/GetLightRange.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Lights/GetLightRange.cs",
-"keywords":" Lights Gets the ComponentAction Reset 20f everyFrame DoGetLightRange UpdateCache lightRange Value light range"
+"keywords":" Lights Gets the ComponentAction FsmFloat bool Reset 20f everyFrame DoGetLightRange gameObject UpdateCache lightRange Value light range",
+"description":"Gets the Range of a Light."
 }

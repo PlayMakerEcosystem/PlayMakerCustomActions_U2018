@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Web/WWWPOSTMobile.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Web/WWWPOSTMobile.cs",
-"keywords":" Web store Accept variables See docs more details WWWPOSTMobile POST Results Gets ObjectType setting message during How far download progressed Events when the finished loading send there was Reset Length postKeys _Fsmkey Texture2D textureValue AddBinaryData EncodeToPNG AddField _key ToString _wwwForm WWW progress storeText storeTexture storeAudio GetAudioClip audio3d audioStream audioType Dispose wwwObject errorString Value isDone isError ErrorCheck postValues Unknown _Fsmvar not supported endif"
+"keywords":" Web store Accept variables See docs more details WWWPOSTMobile POST Results FsmTexture Gets ObjectType FsmObject FsmBool setting message during How far download progressed FsmFloat Events when the finished loading send there was Reset Length FsmString postKeys _Fsmkey Texture2D textureValue AddBinaryData EncodeToPNG AddField _key ToString _wwwForm WWW progress storeText text storeTexture texture storeAudio GetAudioClip audio3d audioStream audioType Dispose wwwObject errorString Value isDone isError string ErrorCheck postValues Material Unknown _Fsmvar not supported endif",
+"description":"Gets data from a url and store it in variables, Accept Post variables. See Unity WWW docs for more details."
 }

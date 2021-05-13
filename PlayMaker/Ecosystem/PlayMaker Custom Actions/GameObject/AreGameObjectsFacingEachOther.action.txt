@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/AreGameObjectsFacingEachOther.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/AreGameObjectsFacingEachOther.cs",
-"keywords":" look align Checks see two objects are with tolerance means they must perfectly aligned AreGameObjectsFacingEachOther Reset 15f everyFrame DoFacingCheck Mathf Angle transform forward dot threshold isFacing Value NotFacing"
+"keywords":" look align Checks see two objects are with tolerance means they must perfectly aligned AreGameObjectsFacingEachOther FsmGameObject FsmFloat FsmBool bool Reset 15f everyFrame DoFacingCheck Mathf Vector3 Angle gameObject transform forward dot threshold isFacing Value NotFacing",
+"description":"Checks to see if two game objects are facing each other with a tolerance. A tolerance of 0 means they must be perfectly aligned to return true."
 }

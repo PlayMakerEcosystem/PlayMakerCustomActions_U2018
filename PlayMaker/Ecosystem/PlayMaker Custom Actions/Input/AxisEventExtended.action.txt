@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/AxisEventExtended.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/AxisEventExtended.cs",
-"keywords":" based Also sends intermedidate directions Expose changed AxisEventExtended defined Manager should trigger deadzone must between Range being full left the down centered when changes Reset Horizontal Vertical discreteEvents noDirection send events bases upRightEvent UpRight upEvent upLeftEvent downLeftEvent downEvent tolerance downRightEvent GetCurrentDirection horizontalAxis Input GetAxis verticalAxis squared center offset Equals Atan2 Mathf Rad2Deg storeAngle Value rawAngle 360f angle"
+"keywords":" based Also sends intermedidate directions Expose changed AxisEventExtended defined Manager FsmString should trigger deadzone must between Range being full FsmFloat left the down centered when changes bool Reset Horizontal Vertical discreteEvents noDirection send events bases upRightEvent UpRight upEvent upLeftEvent downLeftEvent downEvent tolerance downRightEvent GetCurrentDirection horizontalAxis Input GetAxis verticalAxis squared center offset Equals Atan2 Mathf Rad2Deg storeAngle Value rawAngle 360f angle",
+"description":"Sends events based on the direction of Input Axis (Left/Right/Up/Down...). Also sends intermedidate directions ( left-Right). Expose an option to only send event when direction changed."
 }

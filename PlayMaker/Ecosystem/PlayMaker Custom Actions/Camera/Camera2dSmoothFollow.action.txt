@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/Camera2dSmoothFollow.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/Camera2dSmoothFollow.cs",
-"keywords":" Camera2dSmoothFollow Setup Approximately take smaller will faster usefull need stay same you can another enable follow the zero Reset 15f PLAYMAKER_1_8_5_OR_NEWER endif disable SmoothCamera targetGameObject WorldToViewportPoint followX xOffset followY yOffset Camera ViewportToWorldPoint xValue yValue point delta SmoothDamp transform position destination velocity dampTime Value"
+"keywords":" Camera2dSmoothFollow Setup Approximately take smaller will faster FsmGameObject FsmFloat usefull need stay same you can another enable follow the FsmBool zero Reset 15f PLAYMAKER_1_8_5_OR_NEWER endif disable SmoothCamera targetGameObject WorldToViewportPoint followX xOffset followY yOffset Camera ViewportToWorldPoint xValue yValue point delta Vector3 SmoothDamp gameObject transform position destination velocity dampTime Value",
+"description":"Camera 2d  SmoothFollow"
 }

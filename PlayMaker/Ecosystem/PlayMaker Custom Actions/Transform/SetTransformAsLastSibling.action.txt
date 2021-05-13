@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetTransformAsLastSibling.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetTransformAsLastSibling.cs",
-"keywords":" child local list SetTransformAsLastSibling Description format large info box descriptionArea NOT move the last Reset SetTransformParent available until Set Parent instead you must work version transform SetAsLastSibling endif"
+"keywords":" child local list SetTransformAsLastSibling Description format text large info box string descriptionArea NOT move the last Reset SetTransformParent available until Set Parent instead you must work version gameObject transform SetAsLastSibling endif",
+"description":"Move the transform to the end of the local transform list."
 }

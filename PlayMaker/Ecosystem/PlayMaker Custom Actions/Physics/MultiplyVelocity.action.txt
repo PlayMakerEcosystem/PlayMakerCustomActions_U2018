@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/MultiplyVelocity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/MultiplyVelocity.cs",
-"keywords":" original trentSterling http index php topic msg32820 Physics Multiplies the leave unchanged NOTE must have MultiplyVelocity Reset dropdown with selected everyFrame DoSetVelocity InverseTransformDirection any axis Value apply Rigidbody World transform TransformDirection velocity"
+"keywords":" original trentSterling http index php topic msg32820 Physics Multiplies the leave unchanged NOTE must have MultiplyVelocity FsmVector3 bool Reset dropdown with selected FsmFloat everyFrame DoSetVelocity gameObject Vector3 InverseTransformDirection vector any axis Value apply Rigidbody World transform TransformDirection velocity",
+"description":"Multiplies the Velocity of a Game Object. To leave any axis unchanged, set variable to 'None'. NOTE: Game object must have a rigidbody."
 }

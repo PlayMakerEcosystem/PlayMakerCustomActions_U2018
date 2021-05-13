@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ReadFromClipboard.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ReadFromClipboard.cs",
-"keywords":" original https index php topic msg97434 Application lets you systems store ReadFromClipboard that will receive content Repeat every the active everyFrame GetClipboard Value GUIUtility systemCopyBuffer"
+"keywords":" original https index php topic msg97434 Application lets you systems store ReadFromClipboard that will receive content FsmString Repeat every the active bool everyFrame GetClipboard String Value GUIUtility systemCopyBuffer",
+"description":"This action lets you read a value from the systems clipboard and store it in a string."
 }

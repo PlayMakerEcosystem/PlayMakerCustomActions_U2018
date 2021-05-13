@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/ConvertStringCase.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringCase.cs",
-"keywords":" original http index php topic Converts ConvertStringCase Select ObjectType FsmEnum Reset everyFrame DoSetStringValue operation _case ToLower result Value ToUpper"
+"keywords":" original http index php topic Converts ConvertStringCase Select ObjectType FsmEnum FsmString bool Reset everyFrame DoSetStringValue operation _case ToLower result String Value ToUpper",
+"description":"Converts a string to upper or lower case."
 }

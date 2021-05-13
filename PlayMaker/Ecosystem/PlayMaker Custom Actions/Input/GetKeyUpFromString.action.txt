@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyUpFromString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyUpFromString.cs",
-"keywords":" Made Djaydino http www jinxtergames Sends when released GetKeyUpFromString keystring test Waring The must valid Reset Enum Parse Input GetKeyUp storeKey keyCode sendEvent storeResult Value keyUp"
+"keywords":" Made Djaydino http www jinxtergames Sends when released GetKeyUpFromString keystring test Waring The must valid FsmBool FsmString Reset Enum Parse bool Input GetKeyUp storeKey keyCode sendEvent storeResult Value keyUp",
+"description":"Sends an Event when the Keystring is released. Waring!! The String must be a valid KeyCode."
 }

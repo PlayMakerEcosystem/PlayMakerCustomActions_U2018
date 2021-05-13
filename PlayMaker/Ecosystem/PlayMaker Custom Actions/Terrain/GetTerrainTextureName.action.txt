@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Terrain/GetTerrainTextureName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Terrain/GetTerrainTextureName.cs",
-"keywords":" Generic GetTerrainTextureName look under Reset ExecuteAction texturePosition alphamapWidth transform position terrainPos alphamapHeight x_floated Mathf RoundToInt z_floated GetAlphamaps Length terrain splaptexture intensity more than our the main splat map mainTexture Value terrainData splatPrototypes"
+"keywords":" Generic GetTerrainTextureName GameObject look under FsmString Reset ExecuteAction texturePosition alphamapWidth transform position terrainPos alphamapHeight x_floated Mathf RoundToInt z_floated GetAlphamaps Length terrain splaptexture intensity more than our the main splat map mainTexture Value terrainData splatPrototypes texture",
+"description":"Get Terrain Splat Texture Map Name over Game Object Position."
 }

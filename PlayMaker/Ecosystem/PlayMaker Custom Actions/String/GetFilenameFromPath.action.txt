@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetFilenameFromPath.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetFilenameFromPath.cs",
-"keywords":" the GetFilenameFromPath Reset Combine GetFileName GetFileNameWithoutExtension Value GetExtension _path"
+"keywords":" Text the GetFilenameFromPath FsmString Reset string Combine GetFileName GetFileNameWithoutExtension Value GetExtension _path",
+"description":"Get the filename from a path string"
 }

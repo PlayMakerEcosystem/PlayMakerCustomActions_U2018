@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/LocalAxisAlignedBoundingBox.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Meshes/LocalAxisAlignedBoundingBox.cs",
-"keywords":" Input Gets local allows you know Bounding arbitrary directions LocalAxisAlignedBoundingBox represent compute Store the result Repeat every Typically would Reset axis meshTarget root MeshFilter everyFrame DoGetBounds _mesh vertices _transform InverseTransformPoint _targetTransform TransformPoint _vertex Encapsulate _localVertex BoundsSize Value _bounds"
+"keywords":" Input Gets local allows you know Bounding arbitrary directions LocalAxisAlignedBoundingBox represent compute Store the result FsmVector3 Repeat every Typically would bool Reset axis GameObject meshTarget root MeshFilter everyFrame DoGetBounds Vector3 _mesh vertices _transform InverseTransformPoint _targetTransform TransformPoint _vertex Encapsulate _localVertex BoundsSize Value _bounds",
+"description":"Gets the Bounds of a Target Mesh using a local Transform. Typically, this allows you to know the Bounding size in arbitrary directions."
 }

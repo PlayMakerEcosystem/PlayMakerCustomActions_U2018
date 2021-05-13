@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/GameObjectIsActiveInHierarchy.cs",
-"keywords":" Logic Tests GameObjectIsActiveInHierarchy test send GamObject NOT Store the console Repeat every Reset debugging everyFrame DoIsGameObjectActive activeInHierarchy storeResult Value goIsActive isActive isNotActive"
+"keywords":" Logic Tests GameObjectIsActiveInHierarchy test FsmGameObject send GamObject NOT Store the FsmBool console Repeat every bool Reset debugging everyFrame DoIsGameObjectActive gameObject activeInHierarchy storeResult Value goIsActive isActive isNotActive",
+"description":"Tests if a GameObject Variable is Active or not."
 }

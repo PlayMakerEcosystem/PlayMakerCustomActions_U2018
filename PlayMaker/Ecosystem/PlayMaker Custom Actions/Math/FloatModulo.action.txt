@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatModulo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatModulo.cs",
-"keywords":" Math Find the between two FloatModulo Reset everyFrame DoModulo result dividend diviser Value Exception Modulo"
+"keywords":" Math Find the between two FloatModulo FsmFloat bool Reset everyFrame DoModulo result dividend diviser Value Exception Modulo",
+"description":"Find the modulo between two floats dividend % diviser."
 }

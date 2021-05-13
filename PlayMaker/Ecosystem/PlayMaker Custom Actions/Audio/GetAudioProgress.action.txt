@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/GetAudioProgress.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/GetAudioProgress.cs",
-"keywords":" Author Deek http index php topic Retrieve Optionally sends past specified GetAudioProgress ComponentAction with AudioSource currently playing Optional Must above otherwise ignores send when reached the amount Reset UpdateCache _audioClip audio time length currentProgress onPercentage Value sendEvent"
+"keywords":" Author Deek http index php topic Retrieve Optionally sends past specified GetAudioProgress ComponentAction with AudioSource currently playing Optional Must above otherwise ignores FsmFloat send when reached the amount Reset gameObject UpdateCache _audioClip audio time length currentProgress onPercentage Value sendEvent",
+"description":"Retrieve the progress (in %) of the specified AudioSource. Optionally sends an Event when past the specified percentage."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/AxisEndedEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/AxisEndedEvent.cs",
-"keywords":" Made Djaydino Sends based AxisEndedEvent defined Manager will direction ObjectType FsmEnum when should trigger deadzone must between other works send the Reset Horizontal Vertical axes offsets horizontalAxis Input GetAxis verticalAxis directionToCheck down checkOtherAxis otherAxisActive upLeft upRight downLeft Directions downRight tolerance directionInactive Value endedEvent"
+"keywords":" Made Djaydino Sends based AxisEndedEvent defined Manager will FsmString direction ObjectType FsmEnum when should trigger deadzone must between FsmFloat other works FsmBool send the Reset Horizontal Vertical axes offsets horizontalAxis Input GetAxis verticalAxis directionToCheck down checkOtherAxis otherAxisActive upLeft upRight downLeft Directions downRight tolerance directionInactive Value endedEvent",
+"description":"Sends an event based on the  inactive direction of Input Axis"
 }

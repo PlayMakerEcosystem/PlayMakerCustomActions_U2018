@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/BoolAnyFalse.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/BoolAnyFalse.cs",
-"keywords":" made DjayDino Logic Tests given BoolAnyFalse send any are Store Repeat every the active Reset everyFrame DoAnyTrue Length boolVariables sendEvent storeResult Value"
+"keywords":" made DjayDino Logic Tests given BoolAnyFalse send any are Store FsmBool Repeat every the active bool Reset everyFrame DoAnyTrue Length boolVariables sendEvent storeResult Value",
+"description":"Tests if any of the given Bool Variables are False."
 }

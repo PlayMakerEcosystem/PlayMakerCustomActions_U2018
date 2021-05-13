@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsIsSupported.cs",
-"keywords":" Generic Advertisements status current platform UnityAdsIsSupported The suppported statux UnityAds sent when not Reset Advertisement endif Value _isSupported isSupportedEvent isNotSupporedEvent"
+"keywords":" Generic Advertisements status current platform UnityAdsIsSupported The suppported statux UnityAds FsmBool sent when not Reset bool Advertisement endif Value _isSupported isSupportedEvent isNotSupporedEvent",
+"description":"Get the supported status of UnityAds for the current platform."
 }

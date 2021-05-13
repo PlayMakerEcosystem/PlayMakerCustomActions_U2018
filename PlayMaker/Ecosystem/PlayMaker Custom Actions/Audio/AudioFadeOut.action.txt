@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioFadeOut.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioFadeOut.cs",
-"keywords":" Fades Audio Clip played AudioFadeOut Fade seconds send when finished Ignore TimeScale Useful paused the linear equation Reset realTime FsmTime RealtimeSinceStartup startTime deltaTime _audioSource volume currentTime time Value finishEvent"
+"keywords":" Fades Audio Clip played AudioFadeOut Fade seconds FsmFloat send when finished Ignore TimeScale Useful paused bool the linear equation Reset gameObject realTime FsmTime RealtimeSinceStartup startTime deltaTime _audioSource volume currentTime time Value finishEvent",
+"description":"Fades out the Volume of the Audio Clip played by the AudioSource component on a Game Object."
 }

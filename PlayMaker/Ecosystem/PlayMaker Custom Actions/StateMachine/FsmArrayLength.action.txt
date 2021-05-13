@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayLength.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayLength.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine Gets number items FsmArrayLength BaseFsmVariableAction that owns Optional Store the Reset ggop UpdateCache fsmName FsmVariables GetFsmArray variableName Value fsmArray Length"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Gets number items FsmArrayLength BaseFsmVariableAction that owns Optional FsmString Store the FsmInt Reset ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName Value fsmArray Length",
+"description":"Gets the number of items in a FSM Array."
 }

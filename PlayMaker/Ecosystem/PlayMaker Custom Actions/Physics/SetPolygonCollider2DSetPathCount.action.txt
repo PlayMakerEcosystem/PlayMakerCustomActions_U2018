@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetPolygonCollider2DSetPathCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetPolygonCollider2DSetPathCount.cs",
-"keywords":" Physics Sets number path defining the polygon SetPolygonCollider2DSetPathCount ComponentAction PolygonCollider2D Reset UpdateCache cachedComponent pathCount Value"
+"keywords":" Physics Sets number path defining the polygon SetPolygonCollider2DSetPathCount ComponentAction PolygonCollider2D FsmInt Reset UpdateCache gameObject cachedComponent pathCount Value",
+"description":"Sets the number of path path defining the polygon for a PolygonCollider2D"
 }

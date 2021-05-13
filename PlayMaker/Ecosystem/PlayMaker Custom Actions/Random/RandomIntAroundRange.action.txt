@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Random/RandomIntAroundRange.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Random/RandomIntAroundRange.cs",
-"keywords":" Author Deek http index php topic Receive starting anything Useful variations values like attack damage drop chances combination success rates RandomIntAroundRange wraps around down Imagine circle circumference any radius can endresult inside specified goes not below example between instead Repeat until change Reset entering the everyFrame Code that runs every frame DoGetRandomFromRange unsigned startInt result Value Random Range max"
+"keywords":" Author Deek http index php topic Receive starting anything Useful variations values like attack damage drop chances combination success rates RandomIntAroundRange wraps around down Imagine circle circumference any radius can endresult inside specified FsmInt goes not below example between instead Repeat until change bool Reset entering the everyFrame Code that runs every frame DoGetRandomFromRange unsigned startInt result Value Random Range min max",
+"description":"Receive a random int value around a specified range. If the range is set to 5 and the starting float is 24, the result can be anything between 19 and 29. Useful to get variations from fixed values like attack damage, drop chances and combination success rates."
 }

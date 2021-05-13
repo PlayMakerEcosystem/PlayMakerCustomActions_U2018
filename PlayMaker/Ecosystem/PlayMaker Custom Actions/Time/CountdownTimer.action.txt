@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/CountdownTimer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/CountdownTimer.cs",
-"keywords":" made DjayDino certain possible display left CountdownTimer Countdown Stop when reached must lower than Reset realTime FsmTime RealtimeSinceStartup startTime deltaTime theTime timer storeValue stopOn Value finishEvent"
+"keywords":" made DjayDino certain possible display left CountdownTimer Countdown Stop when reached must lower than bool FsmFloat Reset realTime FsmTime RealtimeSinceStartup startTime deltaTime theTime timer storeValue stopOn Value finishEvent",
+"description":"Countdown from a certain time to a certain time and possible to display time left"
 }

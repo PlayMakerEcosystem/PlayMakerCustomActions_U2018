@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetFlareStrength.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetFlareStrength.cs",
-"keywords":" GetFlareStrength intensity flares scene Repeat every Useful the changing Reset everyFrame _getValue Value RenderSettings flareStrength"
+"keywords":" GetFlareStrength intensity flares scene FsmFloat Repeat every Useful the changing bool Reset everyFrame _getValue Value RenderSettings flareStrength",
+"description":"Get the intensity of all flares in the scene."
 }

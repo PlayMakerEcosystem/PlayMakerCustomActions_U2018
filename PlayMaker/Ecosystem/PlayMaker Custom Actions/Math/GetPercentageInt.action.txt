@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetPercentageInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetPercentageInt.cs",
-"keywords":" Author Deek Math http index php topic Returns Integer current dividing the multiplying GetPercentageInt Reset everyFrame DoGetPercentage storeResult Mathf RoundToInt _value _base Value"
+"keywords":" Author Deek Math http index php topic Returns Integer current dividing the multiplying GetPercentageInt FsmInt bool Reset everyFrame DoGetPercentage storeResult Mathf RoundToInt _value _base Value",
+"description":"Returns the percentage of a base Integer and the current value by dividing the value by the base and multiplying it by 100."
 }

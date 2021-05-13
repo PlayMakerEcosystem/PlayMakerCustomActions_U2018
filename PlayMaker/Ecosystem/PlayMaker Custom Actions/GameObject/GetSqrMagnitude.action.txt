@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetSqrMagnitude.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetSqrMagnitude.cs",
-"keywords":" Measures between Objects stores faster than relative comparision preferable GetSqrMagnitude Measure Store the square Repeat every Reset everyFrame DoGetDistance storeResult SqrMagnitude Value transform position"
+"keywords":" Measures between Objects stores faster than relative comparision preferable GetSqrMagnitude Measure FsmGameObject Store the square FsmFloat Repeat every bool Reset everyFrame DoGetDistance gameObject storeResult Vector3 SqrMagnitude Value transform position",
+"description":"Measures the Square Distance between 2 Game Objects and stores the result in a Float Variable. It's faster than distance, so for relative comparision, it's preferable"
 }

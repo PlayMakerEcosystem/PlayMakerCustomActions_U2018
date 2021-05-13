@@ -3,5 +3,7 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetNextRandomInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetNextRandomInt.cs",
-"keywords":" made Jeanfabre added djaydino Math gets which means always unique results with duplicated ints might iteration number because already GetNextRandomInt Starts Defines How many picks within before finished looping Store series carries force you want renter back item child send when there are children cache changes increment reset ArrayList Add DoGetNextPick intSerieCount Random Range intPool RemoveAt randomIndex storeNextInt more second time avoid possible infinite loop called Practically enabled calling will again iterating first intPoolCount Value finishedEvent iterate the next _nextPick loopEvent"
+"keywords":" made Jeanfabre added djaydino Math gets which means always unique results with duplicated ints might iteration number because already GetNextRandomInt Starts Defines How many picks within before finished looping Store series FsmInt carries force you want renter back item FsmBool child send when there are children cache changes GameObject increment reset ArrayList Add DoGetNextPick intSerieCount Random Range intPool RemoveAt randomIndex storeNextInt more second time avoid possible infinite loop called Practically enabled calling will again iterating first intPoolCount Value finishedEvent iterate the next _nextPick loopEvent",
+"description":"Each time this action is called it gets a random int from a pool, which means always unique results, you will end up with no duplicated ints.
+so if you want a series within a range of 5, you might get first 3, the next iteration will pick a random number in 1 2 4 5, because 3 is out already."
 }

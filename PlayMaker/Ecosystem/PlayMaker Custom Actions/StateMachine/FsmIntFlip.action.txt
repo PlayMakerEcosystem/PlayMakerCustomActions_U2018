@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmIntFlip.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmIntFlip.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine Inverts sign given positive gets flipped becomes negative vice versa FsmIntFlip owns Optional Flip that will change the PlayMakerFSM Reset everyFrame Ggop ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmInt variableName FlipFsmValue StoreResult storeFsmValue"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Inverts sign given positive gets flipped becomes negative vice versa FsmIntFlip owns Optional FsmString Flip that will change the FsmBool bool PlayMakerFSM Reset everyFrame Ggop gameObject ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmInt variableName FlipFsmValue fsmInt StoreResult storeFsmValue",
+"description":"Inverts the sign of an FSM int variable. If the given int is positive, it gets flipped and becomes negative and vice versa."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObjectByType.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindGameObjectByType.cs",
-"keywords":" Finds FindGameObjectByType Should sent was not the hierarchy Reset Camera Find GetType FindObjectOfType _type _result store Value notFound"
+"keywords":" Finds FindGameObjectByType Should string FsmGameObject sent was not the hierarchy Reset Camera Find GetType FindObjectOfType _type _result store Value gameObject notFound",
+"description":"Finds a Game Object by type"
 }

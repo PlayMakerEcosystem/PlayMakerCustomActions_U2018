@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetTransformSiblingIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformSiblingIndex.cs",
-"keywords":" Gets children GetTransformSiblingIndex Description format large info box descriptionArea NOT its sibling local list move will clamped between the last child Reset SetTransformParent available until Set Parent instead you must work version Value transform GetSiblingIndex endif"
+"keywords":" Gets children GetTransformSiblingIndex Description format text large info box string descriptionArea NOT its sibling local list move will clamped between the last child FsmInt Reset SetTransformParent available until Set Parent instead you must work version gameObject Value transform GetSiblingIndex endif",
+"description":"Gets the transform sibling index in the parent transform list of children."
 }

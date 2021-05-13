@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/BlendShapes/GetBlendShapeName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/BlendShapes/GetBlendShapeName.cs",
-"keywords":" BlendShapes Returns its Requires The BlendShape Reset OwnerOption SkinnedMeshRenderer DoGetBlendShapeName _skr sharedMesh GetBlendShapeName blendShapeIndex Value"
+"keywords":" BlendShapes Returns its Requires FsmInt The BlendShape FsmString Reset OwnerOption GameObject SkinnedMeshRenderer DoGetBlendShapeName _skr sharedMesh GetBlendShapeName blendShapeIndex Value",
+"description":"Returns the BlendShape name using its index."
 }

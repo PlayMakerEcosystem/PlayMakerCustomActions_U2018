@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AssetBundle/GetAssetBundleHashIsValid.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AssetBundle/GetAssetBundleHash.cs",
-"keywords":" given its GetAssetBundleHashIsValid ObjectType the sent not Reset assetBundle _ab LoadAsset assetbundlemanifest Hash128 GetAssetBundleHash assetBundleName _hash Value _isValid isValidEvent isNotValidEvent"
+"keywords":" given its GetAssetBundleHashIsValid ObjectType FsmObject the FsmString FsmBool sent not Reset bool assetBundle _ab LoadAsset assetbundlemanifest Hash128 GetAssetBundleHash assetBundleName _hash Value _isValid isValidEvent isNotValidEvent",
+"description":"Get the hash for the given AssetBundle, and its isValid value."
 }

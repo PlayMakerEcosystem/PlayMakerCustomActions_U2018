@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/getTimelineDirectorWrapMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/getTimelineDirectorWrapMode.cs",
-"keywords":" Playables current timelines controls how time incremented when goes beyond duration playable getTimelineDirectorWrapMode hold components the wrap ObjectType DirectorWrapMode FsmEnum box preform every Reset PlayableDirector everyFrame timelineAction wrapMode Value timeline extrapolationMode"
+"keywords":" Playables current timelines controls how time incremented when goes beyond duration playable getTimelineDirectorWrapMode hold components the wrap ObjectType DirectorWrapMode FsmEnum box preform every FsmBool Reset PlayableDirector everyFrame timelineAction gameObject wrapMode Value timeline extrapolationMode"
 }

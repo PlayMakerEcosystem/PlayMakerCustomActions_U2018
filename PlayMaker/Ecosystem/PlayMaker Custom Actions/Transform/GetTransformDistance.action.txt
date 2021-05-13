@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetTransformDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetTransformDistance.cs",
-"keywords":" http index php topic msg52121 based GetTransformDistance enum Gets positive values depending the Reset everyFrame DoGetDistance OwnerOption selectDistanceType Vector3Distance newPos xDistance newX yDistance newY distanceSelect zDistance getNegative InverseTransformPoint newZ storeResult Mathf Value transform position"
+"keywords":" http index php topic msg52121 based GetTransformDistance FsmGameObject enum Gets positive values depending the FsmBool FsmFloat bool Reset everyFrame DoGetDistance OwnerOption GameObject selectDistanceType Vector3Distance newPos Vector3 xDistance newX yDistance newY distanceSelect zDistance getNegative InverseTransformPoint newZ storeResult Mathf Value transform position",
+"description":"Gets the distance based on the Transform Values."
 }

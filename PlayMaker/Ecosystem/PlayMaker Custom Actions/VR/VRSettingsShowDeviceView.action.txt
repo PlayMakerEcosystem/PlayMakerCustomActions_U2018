@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/VR/VRSettingsShowDeviceView.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsShowDeviceView.cs",
-"keywords":" Mirror what shown VRSettingsShowDeviceView will show device the main display possible Reset XRSettings showDeviceView Value"
+"keywords":" Mirror what shown VRSettingsShowDeviceView will show device the main display possible FsmBool Reset XRSettings showDeviceView Value",
+"description":"Mirror what is shown on the device to the main display, if possible."
 }

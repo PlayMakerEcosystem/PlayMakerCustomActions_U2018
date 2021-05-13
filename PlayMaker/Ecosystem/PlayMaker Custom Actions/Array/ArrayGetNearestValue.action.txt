@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetNearestValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetNearestValue.cs",
-"keywords":" Linq given works ArrayGetNearestValue FsmArray Store MatchElementType nearest found Repeat every the active Reset everyFrame ErrorCheck ints are supported DoGetNearestValue floatValues ElementType OrderBy Mathf GetValue First result SetValue index Value IndexOf intValues closest"
+"keywords":" Linq given works ArrayGetNearestValue FsmArray Store MatchElementType nearest found FsmInt Repeat every the active bool Reset everyFrame ErrorCheck string ints are supported DoGetNearestValue floatValues ElementType OrderBy Mathf GetValue First result SetValue index Value IndexOf intValues closest",
+"description":"Get the nearest index and value for a given variable. Only works for float and int"
 }

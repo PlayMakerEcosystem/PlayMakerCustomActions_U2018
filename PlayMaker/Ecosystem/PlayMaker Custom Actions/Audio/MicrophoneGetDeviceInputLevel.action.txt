@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/MicrophoneGetDeviceInputLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Microphone/MicrophoneGetDeviceInputLevel.cs",
-"keywords":" current MicrophoneGetDeviceInputLevel Passing will pick MicrophoneGetDeviceById example ObjectType audio where saved Device input volume Reset GetPosition deviceName means first microphone AudioClip clipRecord GetData micPosition Getting last samples waveData wavePeak equals the highest normalized power small number because Mathf Sqrt levelMax multiplier maxLevel level Value"
+"keywords":" current MicrophoneGetDeviceInputLevel Passing will pick MicrophoneGetDeviceById example FsmString ObjectType audio where saved FsmObject Device input volume FsmFloat Reset GetPosition deviceName means first microphone AudioClip clipRecord GetData micPosition Getting last samples waveData wavePeak equals the highest normalized power small number because Mathf Sqrt levelMax multiplier maxLevel level Value",
+"description":"Get a microphone device current input volume level"
 }

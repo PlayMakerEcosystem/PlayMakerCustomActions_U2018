@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetConstantLifetime.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetConstantLifetime.cs",
-"keywords":" Shuriken TrailModuleSetConstantLifetime with Repeat every the active TrailModule MinMaxCurve Reset _go ParticleSystem _ps trails everyFrame DoExecute ParticleSystemCurveMode constant Value _tm lifetime _mmc"
+"keywords":" Shuriken TrailModuleSetConstantLifetime with FsmFloat Repeat every the active bool TrailModule MinMaxCurve Reset gameObject _go ParticleSystem _ps trails everyFrame DoExecute ParticleSystemCurveMode constant Value _tm lifetime _mmc",
+"description":"Set the lifetime of a particleSystem's TrailModule ( Shuriken)"
 }

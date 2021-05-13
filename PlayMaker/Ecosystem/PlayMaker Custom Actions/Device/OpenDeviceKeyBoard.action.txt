@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/OpenDeviceKeyBoard.cs",
-"keywords":" Device Opens native provided screen single setting Hides inputed Swith theme entering becomes Comes back keep sent when the user Reset TouchScreenKeyboardType TouchScreenKeyboard keyBoardType autoCorrection multiLine secure alert textPlaceHolder OPEN NOT Value _active active _done OpenDeviceKeyBoard done endif"
+"keywords":" Device Opens native provided screen single setting Hides inputed Swith theme FsmBool entering FsmString becomes Comes back keep sent when the user bool Reset TouchScreenKeyboardType TouchScreenKeyboard keyBoardType autoCorrection multiLine secure alert textPlaceHolder OPEN NOT Value text _active active _done OpenDeviceKeyBoard done endif",
+"description":"Opens the native keyboard provided by OS on the screen"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Mesh/WaveMeshFx.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Mesh/WaveMeshFx.cs",
-"keywords":" Create wave effect http index php topic Setup Options Reset 01f 05f MeshFilter WaveMeshFx FF9900ff Please review failureEvent forceQuit WaveAction Distance waveSource waveLength amp time freq Value Mathf dist mesh vertices"
+"keywords":" Create wave effect http index php topic Setup FsmVector3 FsmFloat Options FsmBool Reset 01f 05f gameObject MeshFilter WaveMeshFx FF9900ff Please review failureEvent forceQuit WaveAction Vector3 Distance waveSource waveLength amp time freq Value Mathf dist mesh vertices",
+"description":"Create a wave effect on a mesh"
 }

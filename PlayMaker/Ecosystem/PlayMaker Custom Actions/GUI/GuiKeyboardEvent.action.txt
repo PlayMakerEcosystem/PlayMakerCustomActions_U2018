@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiKeyboardEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiKeyboardEvent.cs",
-"keywords":" Sends Always before textfield example GuiKeyboardEvent The send when detected Reset OnGUI EventType KeyDown current keyCode sendEvent"
+"keywords":" Sends Always before textfield example GuiKeyboardEvent The send when detected Reset OnGUI EventType KeyDown current keyCode sendEvent",
+"description":"Sends an Event when a KeyCode is detected in the GUI. Always use this before a textfield action to catch enter for example"
 }

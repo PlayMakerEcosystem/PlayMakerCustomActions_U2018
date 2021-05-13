@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/MaterialEnableKeyword.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/MaterialEnableKeyword.cs",
-"keywords":" Shader parameter Sets MaterialEnableKeyword ComponentAction that the applied GameObjects can have multiple specific Alternatively specify instead enable sent was not found Reset fail DoSetMaterialProperty _vector4 UpdateCache Length materialIndex EnableKeyword Value renderer materials"
+"keywords":" Shader parameter Sets MaterialEnableKeyword ComponentAction that the applied GameObjects can have multiple specific FsmInt Alternatively specify instead FsmMaterial enable FsmString sent was not found Reset fail bool DoSetMaterialProperty _vector4 UpdateCache gameObject material Length materialIndex EnableKeyword Value renderer materials",
+"description":"Sets a enableKeyword property of a material."
 }

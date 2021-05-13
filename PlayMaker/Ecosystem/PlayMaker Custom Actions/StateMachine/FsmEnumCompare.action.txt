@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmEnumCompare.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmEnumCompare.cs",
-"keywords":" Made nightcorelv StateMachine another FsmEnumCompare Store the PlayMakerFSM Reset everyFrame ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmEnum variableName compare Equals StoreFsmEnum CompareToEnum storeResult Value equal notEqualEvent"
+"keywords":" Made nightcorelv StateMachine another FsmEnumCompare FsmString Store the FsmBool bool PlayMakerFSM Reset everyFrame ggop gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmEnum variableName compare Equals StoreFsmEnum CompareToEnum storeResult Value equal notEqualEvent",
+"description":"Compare the value of an Enum Variable from another FSM."
 }

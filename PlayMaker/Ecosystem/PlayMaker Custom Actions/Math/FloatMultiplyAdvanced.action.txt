@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatMultiplyAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatMultiplyAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal Math Multiplies another version lets you choose betweent different types updates FloatMultiplyAdvanced FsmStateActionAdvanced Multiply the Reset everyFrame floatVariable multiplyBy Value"
+"keywords":" script dependancies Assets Custom __Internal Math Multiplies another version lets you choose betweent different types updates FloatMultiplyAdvanced FsmStateActionAdvanced Multiply the FsmFloat Reset everyFrame floatVariable multiplyBy Value",
+"description":"Multiplies one Float by another. This advanced version lets you choose betweent the different types of updates"
 }

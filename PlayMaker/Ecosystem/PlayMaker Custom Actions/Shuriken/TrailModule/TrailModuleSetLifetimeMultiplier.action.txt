@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetLifetimeMultiplier.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetLifetimeMultiplier.cs",
-"keywords":" Shuriken TrailModuleSetLifetimeMultiplier with Repeat every the active TrailModule Reset _go ParticleSystem _ps trails everyFrame DoExecute _tm lifetimeMultiplier Value"
+"keywords":" Shuriken TrailModuleSetLifetimeMultiplier with FsmFloat Repeat every the active bool TrailModule Reset gameObject _go ParticleSystem _ps trails everyFrame DoExecute _tm lifetimeMultiplier Value",
+"description":"Set the LifetimeMultiplier of a particleSystem's TrailModule ( Shuriken)"
 }

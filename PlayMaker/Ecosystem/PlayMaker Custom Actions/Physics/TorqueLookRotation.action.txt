@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TorqueLookRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TorqueLookRotation.cs",
-"keywords":" Physics Order look its axi TorqueLookRotation effect should looking ObjectType FsmEnum The apply Reset 100f PLAYMAKER_1_8_5_OR_NEWER endif DoLookAt targetObject position Angle storeAngleTo transform forward targetDelta ClampMagnitude maxSpeed Rigidbody AddTorque cross angleDiff forceMultiplier forceMode Value"
+"keywords":" Physics Order look its axi TorqueLookRotation effect should looking FsmGameObject ObjectType FsmEnum The apply Reset 100f FsmFloat PLAYMAKER_1_8_5_OR_NEWER endif DoLookAt gameObject targetObject position Angle storeAngleTo transform forward targetDelta Vector3 ClampMagnitude maxSpeed Rigidbody AddTorque cross angleDiff forceMultiplier forceMode Value",
+"description":"Order a game object to look at a target by using Torque on its axi"
 }

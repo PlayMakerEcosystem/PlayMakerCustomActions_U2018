@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/CheckSphere.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/CheckSphere.cs",
-"keywords":" Generic Returns collider inside Settings Center trigger Filter Layer these Invert you pick layers except those defined above Results hits send the does not any Reset everyFrame DoCheckSphere radius ignoreTriggerColliders Ignore Physics CheckSphere transform position range ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide didHit Value noHitEvent"
+"keywords":" Generic Returns collider inside Settings Center FsmFloat trigger Filter Layer these Invert you pick layers except those defined above Results hits send the does not any FsmBool Reset FsmInt everyFrame DoCheckSphere GameObject radius ignoreTriggerColliders Ignore Physics CheckSphere transform position range ActionHelpers LayerArrayToLayerMask layerMask invertMask QueryTriggerInteraction Collide didHit Value noHitEvent",
+"description":"Returns a hit event if a collider is inside of the sphere. Option to ignore colliders set to trigger."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailRenderer/TrailRendererGetPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailRenderer/TrailRendererGetPosition.cs",
-"keywords":" Shuriken TrailRendererGetPosition with particleSystem vertex given sent not found Repeat every the active Reset _go TrailRenderer everyFrame DoExecute positionCount _tr GetPosition index outOfRange Value outOfRangeEvent"
+"keywords":" Shuriken TrailRendererGetPosition with particleSystem vertex FsmInt given FsmVector3 FsmBool sent not found Repeat every the active bool Reset gameObject _go TrailRenderer everyFrame DoExecute positionCount _tr GetPosition index outOfRange Value outOfRangeEvent",
+"description":"Get the position of a vertex of a particleSystem's TrailRenderer ( Shuriken)"
 }

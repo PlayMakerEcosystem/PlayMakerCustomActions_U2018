@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetRotationAddOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetRotationAddOffset.cs",
-"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Optionally applies that another same GetRotationAddOffset FsmStateActionAdvanced enum off specify axis individually Wheter local starting should changed with Store will the Reset Self everyFrame DoGetRotation xOffset yOffset zOffset vector3Offset Add Subtract Inverse Multiply multResult Divide zero Quaternion divResult QuaternionOperation Set storeVector3Result input World applyOffsetToGO Value transform localRotation quat"
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Optionally applies that another same GetRotationAddOffset FsmStateActionAdvanced enum off specify axis individually FsmFloat Wheter local starting should changed with Store will the Reset FsmVector3 Self FsmGameObject everyFrame DoGetRotation xOffset yOffset zOffset gameObject vector3Offset Add Subtract Inverse Multiply multResult Divide zero Quaternion divResult QuaternionOperation Set storeVector3Result Vector3 input World applyOffsetToGO Value transform localRotation quat",
+"description":"Get the rotation of a Game Object and add an offset to that Quaternion. Optionally applies that offset to another/the same GameObject."
 }

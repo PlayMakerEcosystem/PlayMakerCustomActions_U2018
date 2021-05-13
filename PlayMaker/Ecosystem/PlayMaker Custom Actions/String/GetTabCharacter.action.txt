@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetTabCharacter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetTabCharacter.cs",
-"keywords":" Gets prevents having paste StringSplit example GetTabCharacter The Reset tab Value"
+"keywords":" Gets prevents having paste text StringSplit example GetTabCharacter The FsmString Reset tab Value",
+"description":"Gets the tab character, prevents having to copy paste from text editor. Use it in StringSplit action for example"
 }

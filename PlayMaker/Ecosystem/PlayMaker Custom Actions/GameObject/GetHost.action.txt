@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetHost.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetHost.cs",
-"keywords":" Gets the when runnin sub GetHost Reset hostName Value Host"
+"keywords":" GameObject Gets the when runnin sub GetHost FsmString Reset hostName Value Host",
+"description":"Gets the fsm name of the host  when runnin as a sub Fsm"
 }

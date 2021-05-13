@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dFriction.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetPhysicsMaterial2dFriction.cs",
-"keywords":" Sets Physics SetPhysicsMaterial2dFriction that applied Requires components alternativly can directly without reference Leave targeting Repeat every Useful the animated Reset everyFrame DoSetMaterialValue physicsMaterial2d _go Collider2D _col2d sharedMaterial friction Value"
+"keywords":" Sets Physics SetPhysicsMaterial2dFriction that applied Requires components alternativly can directly without reference Leave targeting FsmFloat Repeat every Useful the animated bool Reset everyFrame DoSetMaterialValue physicsMaterial2d gameObject _go Collider2D _col2d sharedMaterial friction Value",
+"description":"Sets the friction value of a Physics Material 2d."
 }

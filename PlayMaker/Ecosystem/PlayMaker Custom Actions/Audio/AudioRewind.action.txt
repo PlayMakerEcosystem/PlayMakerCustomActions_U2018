@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioRewind.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioRewind.cs",
-"keywords":" Sound Fastforward slowmotion Clip played the http index php topic AudioRewind options TitleAttribute Reset AudioSource Mathf finalSpeed timeSamples audio previousPitch rewind everyFrame Value"
+"keywords":" Sound Fastforward slowmotion Clip played the http index php topic AudioRewind options TitleAttribute FsmFloat FsmBool Reset gameObject AudioSource Mathf finalSpeed timeSamples audio previousPitch rewind everyFrame Value",
+"description":"Rewind the Audio Clip played by the AudioSource component on a Game Object."
 }

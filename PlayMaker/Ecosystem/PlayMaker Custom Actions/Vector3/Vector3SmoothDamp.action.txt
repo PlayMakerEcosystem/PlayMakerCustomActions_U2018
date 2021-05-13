@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3SmoothDamp.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3SmoothDamp.cs",
-"keywords":" Gradually changes towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars Vector3SmoothDamp modified function every call take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the Reset DoVector3Damp maxSpeed SmoothDamp smoothTime _velocity_x _velocity_y _velocity_z currentVelocity _velocity_cache current _isDone isDone Value IsApproximately 01f Mathf tolerance"
+"keywords":" Gradually changes towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars Vector3SmoothDamp vector modified function every call FsmVector3 take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the FsmBool Reset Vector3 FsmFloat DoVector3Damp maxSpeed SmoothDamp smoothTime _velocity_x _velocity_y _velocity_z currentVelocity _velocity_cache current _isDone isDone Value bool IsApproximately 01f Mathf tolerance",
+"description":"Gradually changes a vector3 towards a desired goal over time. The value is smoothed by some spring-damper like function, which will never overshoot. The function can be used to smooth any kind of value, positions, colors, scalars."
 }

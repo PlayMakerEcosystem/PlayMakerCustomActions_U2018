@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Rect/SetMultiRectValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Rect/SetMultiRectValue.cs",
-"keywords":" multi multiple Source Sets the many http index php topic SetMultiRectValue Count Reset FsmRect everyFrame DoSetRectValue Length rectVariable values Value"
+"keywords":" multi multiple Source Sets the many http index php topic SetMultiRectValue Count bool Reset FsmRect everyFrame DoSetRectValue Length rectVariable values Value",
+"description":"Sets the value of many Rect Variable."
 }

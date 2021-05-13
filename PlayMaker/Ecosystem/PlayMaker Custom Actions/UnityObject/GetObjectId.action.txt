@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityObject/GetObjectId.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetObjectId.cs",
-"keywords":" Source getobject UnityObject instance always guaranteed http index php topic GetObjectId that needs identified The unique TitleAttribute Reset objectVariable objectValue Value GetInstanceID"
+"keywords":" Source getobject UnityObject instance always guaranteed http index php topic GetObjectId that needs identified FsmObject The unique TitleAttribute FsmInt Reset objectVariable objectValue Value GetInstanceID",
+"description":"Get Object ID. The instance id of an object is always guaranteed to be unique."
 }

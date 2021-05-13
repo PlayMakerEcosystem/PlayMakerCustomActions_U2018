@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/GetMicInputLoudness.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/GetMicInputLoudness.cs",
-"keywords":" Microphone decibel script dependancies Assets Custom Scripts Audio Mic Volume Requires active your scene GetMicInputLoudness audioSource playing Repeat every Useful the changing Reset everyFrame Execute MicLoudness Value MicInput MicLoudnessInDecibels"
+"keywords":" Microphone decibel script dependancies Assets Custom Scripts Audio Mic Volume Requires active your scene GetMicInputLoudness audioSource playing FsmFloat Repeat every Useful the changing bool Reset everyFrame Execute MicLoudness Value MicInput MicLoudnessInDecibels",
+"description":"Check the default Mic Input Volume. Requires an active MicInput Component in your scene"
 }

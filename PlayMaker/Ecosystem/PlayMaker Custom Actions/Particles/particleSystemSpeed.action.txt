@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/particleSystemSpeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/particleSystemSpeed.cs",
-"keywords":" Source Shuriken Particles Control http index php topic particleSystemSpeed Count Setup Cannot below TitleAttribute Will disable itself events are used Reset Negative particle not supported Corrected now please correct Must above Length MainModule _main simulationSpeed ParticleSystem playbackSpeed Mathf speed Value endif everyFrame"
+"keywords":" Source Shuriken Particles Control http index php topic particleSystemSpeed Count Setup Cannot below TitleAttribute FsmBool Will disable itself events are used bool Reset FsmFloat Negative particle not supported Corrected now please correct Must above Length gameObject MainModule _main simulationSpeed ParticleSystem playbackSpeed Mathf speed Value endif everyFrame"
 }

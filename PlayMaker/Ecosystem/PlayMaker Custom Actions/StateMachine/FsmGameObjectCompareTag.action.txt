@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmGameObjectCompareTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmGameobjectCompareTag.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine Compares Objects sends Events based FsmGameObjectCompareTag that owns Optional the PlayMakerFSM Reset Untagged everyFrame Ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmGameObject variableName ttop storeFsmValue CompareTag storeResult Value hasTag trueEvent falseEvent"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Compares Objects sends Events based FsmGameObjectCompareTag that owns Optional FsmFloat the FsmString FsmBool bool PlayMakerFSM Reset Untagged everyFrame Ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmGameObject variableName fsmGameObject ttop storeFsmValue CompareTag storeResult Value hasTag trueEvent falseEvent",
+"description":"Compares FSM Game Objects and sends Events based on the result."
 }

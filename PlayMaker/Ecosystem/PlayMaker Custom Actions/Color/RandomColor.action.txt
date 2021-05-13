@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/RandomColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/RandomColor.cs",
-"keywords":" script dependancies Assets Custom http answers unity3d questions distinct possible html Pick Optionnaly leave channel alone https fogbugz asp W1148 RandomColor The Includes ranging avoid totally invisible colors Reset _col 360f colorhsv ToColor includeAlpha Random Range storeResult Value result"
+"keywords":" script dependancies Assets Custom http answers unity3d questions distinct possible html Pick Optionnaly leave channel alone https fogbugz asp W1148 RandomColor The Includes ranging avoid totally invisible colors FsmBool Reset _col 360f colorhsv ToColor includeAlpha Random Range storeResult Value result",
+"description":"Pick a random color. Optionnaly leave the alpha channel alone"
 }

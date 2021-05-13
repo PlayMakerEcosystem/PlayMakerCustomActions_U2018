@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Renderer/SetLineRendererPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/SetLineRendererPosition.cs",
-"keywords":" script dependancies Assets Custom __Internal version line particular SetLineRendererPosition Setup with The Repeat every Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame Execute LineRenderer _lr SetPosition index position Value"
+"keywords":" script dependancies Assets Custom __Internal version line particular SetLineRendererPosition Setup with FsmInt The FsmVector3 Repeat every bool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame Execute gameObject LineRenderer _lr SetPosition index position Value",
+"description":"Set a particular position of a lineRenderer"
 }

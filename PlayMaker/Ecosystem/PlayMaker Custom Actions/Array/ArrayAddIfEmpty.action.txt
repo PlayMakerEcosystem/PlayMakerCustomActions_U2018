@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayAddIfEmpty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayAddIfEmpty.cs",
-"keywords":" Author Deek http index php topic Optionally reverse ArrayAddIfEmpty FsmArray MatchElementType Item add Adds otherwise Reset DoAddValue incorporate not the ifEmpty stringValue Resize UpdateValue Set Length GetValue"
+"keywords":" Author Deek http index php topic Optionally reverse ArrayAddIfEmpty FsmArray MatchElementType Item add Adds otherwise FsmBool Reset DoAddValue incorporate not the ifEmpty string stringValue Resize UpdateValue Set Length GetValue",
+"description":"Add an item to the end of an Array if it's null or empty. Optionally reverse the check."
 }

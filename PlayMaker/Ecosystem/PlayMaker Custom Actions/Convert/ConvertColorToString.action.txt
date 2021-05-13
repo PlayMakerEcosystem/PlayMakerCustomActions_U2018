@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertColorToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertColorToString.cs",
-"keywords":" Convert Converts flexible are placeholders ConvertColorToString itself 32bit colors their values ranges pattern express The Repeats every Reset everyFrame DoToString format use32BitColor Replace _val ToString storeResult Value _result"
+"keywords":" Convert Converts flexible are placeholders ConvertColorToString itself 32bit colors their values ranges FsmBool pattern express The FsmString Repeats every bool Reset everyFrame DoToString format use32BitColor Replace _val ToString storeResult Value _result",
+"description":"Converts a color to a string. Format is flexible, [r] [g] [b] and [a] are placeholders"
 }

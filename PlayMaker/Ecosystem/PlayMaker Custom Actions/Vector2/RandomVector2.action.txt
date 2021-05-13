@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/RandomVector2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/RandomVector2.cs",
-"keywords":" Creates represents magnitude can inside RandomVector2 enum generator Leave randomness number you want predictability repeatability imaginary Define where randomize occurs The randomized every Reset OnCirclePerimeter seed everyFrame GetValue RandomUnitCircleOption InsideCircle insideUnitCircle Random onUnitSphere unitCircleRadius storeResult Value"
+"keywords":" Creates represents magnitude can inside RandomVector2 enum generator Leave randomness number you want predictability repeatability imaginary FsmFloat Define where randomize occurs The randomized vector FsmVector2 every bool Reset FsmInt OnCirclePerimeter seed everyFrame GetValue RandomUnitCircleOption InsideCircle insideUnitCircle Vector3 Random onUnitSphere unitCircleRadius storeResult Value Vector2",
+"description":"Creates a random Vector2. The unitCircleRadius represents the magnitude of the randomized vector. Result can be set fo be on the circle perimeter or inside the circle."
 }

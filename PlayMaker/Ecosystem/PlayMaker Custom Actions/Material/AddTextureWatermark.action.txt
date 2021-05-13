@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/AddTextureWatermark.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/AddTextureWatermark.cs",
-"keywords":" Add image http index php topic AddTextureWatermark Input Position Output Reset newTexture AddWatermark Texture2D xOffset yOffset Value width height watermark GetPixel startX startY Lerp bgColor wmColor SetPixel final_color Apply background"
+"keywords":" Material Add image http index php topic AddTextureWatermark Input Position FsmInt Output FsmTexture Reset newTexture texture AddWatermark Texture2D xOffset yOffset Value width height watermark GetPixel startX startY Lerp bgColor wmColor SetPixel final_color Apply background",
+"description":"Add watermark on image"
 }

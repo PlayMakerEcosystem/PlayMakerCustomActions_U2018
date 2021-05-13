@@ -1,0 +1,33 @@
+<div id="actionImg"><p><img src="http://mywebsite.com/docs/img/AnalyticsSetUserBirthYear.png" title="" width="350" /></p></div>
+<div id="actionDesc">
+<p>
+Sets the birthYear of the user. Depending on the genre of your project, creating custom segments around gender and age of your users may interest you. Whether you're receiving this information on signup of your project, or from a third-party SDK, eg: Facebook, you can send these demographics to Unity Analytics.</p>
+</div>
+<div id="paramRow">
+	<div id="paramName">
+Birth Year</div>
+	<div id="paramDesc">
+Birth year of user. Must be 4-digit year format, only.</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Result</div>
+	<div id="paramDesc">
+Result</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Success</div>
+	<div id="paramDesc">
+Event Sent if execution went OK</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Failure</div>
+	<div id="paramDesc">
+Event Sent if execution failed. Check result for more infos</div>
+</div>
+

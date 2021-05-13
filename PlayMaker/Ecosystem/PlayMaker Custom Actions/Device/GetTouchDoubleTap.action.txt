@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/GetTouchDoubleTap.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/GetTouchDoubleTap.cs",
-"keywords":" Device Send user taps http index php topic GetTouchDoubleTap Reset touchCount Input touches touchPhase tapSpeed storeFingerId Value touch fingerId sendEvent lastTapTime time"
+"keywords":" Device Send user taps http index php topic GetTouchDoubleTap FsmFloat Reset FsmInt touchCount Input touches touchPhase tapSpeed storeFingerId Value touch fingerId sendEvent lastTapTime time",
+"description":"Send event if user double taps"
 }

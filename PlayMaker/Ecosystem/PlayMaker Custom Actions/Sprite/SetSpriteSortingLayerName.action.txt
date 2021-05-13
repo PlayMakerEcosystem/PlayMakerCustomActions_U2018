@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Sprite/SetSpriteSortingLayerName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SetSpriteSortingLayerName.cs",
-"keywords":" sorting layer Optionally SpriteRendered found the SetSpriteSortingLayerName Reset ErrorCheck DoSetLayerName setAllSpritesInChildren GetComponentsInChildren sprites _sprite SpriteRenderer sortingLayerName Value"
+"keywords":" sorting layer Optionally SpriteRendered found the SetSpriteSortingLayerName FsmString bool Reset string ErrorCheck DoSetLayerName gameObject setAllSpritesInChildren GetComponentsInChildren sprites _sprite SpriteRenderer sortingLayerName Value",
+"description":"Set the sorting layer name of a SpriteRendered. Optionally set all SpriteRendered found on the gameobject Target."
 }

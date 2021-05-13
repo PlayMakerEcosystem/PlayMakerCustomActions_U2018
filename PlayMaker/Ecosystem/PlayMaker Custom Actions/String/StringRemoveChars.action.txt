@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRemoveChars.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRemoveChars.cs",
-"keywords":" Author Deek http index php topic Removes specified Characters given StringRemoveChars Insert any that should removed Store Can same keep separate revert these changes replaces with instead removing them Repeat every the active Reset everyFrame DoRemove chars charsToRemove ToCharArray startString Length tmpChar leaveEmpty Replace ToString storeResult Value stringToModify"
+"keywords":" Author Deek http index php topic Removes specified Characters given StringRemoveChars Insert any that should removed Store Can same keep separate revert these changes FsmString replaces with instead removing them Repeat every the active FsmBool Reset everyFrame DoRemove chars charsToRemove ToCharArray startString Length tmpChar leaveEmpty Replace ToString string storeResult Value stringToModify",
+"description":"Removes any specified Characters from the given String."
 }

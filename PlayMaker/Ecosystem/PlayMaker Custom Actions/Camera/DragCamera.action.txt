@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/DragCamera.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/DragCamera.cs",
-"keywords":" Source Drag with http index php topic DragCamera Setup The main have Title Camera Movement How smooth should Highest number Higher Smoothness not Axis Mouse Options Off enum TitleAttribute Reset PLAYMAKER_1_8_5_OR_NEWER endif mouseButton Left ClickVariable Middle GetKey disable disableExit MouseControl storeResult GetMouseButtonDown GetMouseButtonUp mouseInt TouchControl touchCount dragCameraAction active zoomOnly touchInput GetTouch Input mousePosition smoothControl cameraMoving cameraObj transform position dragPos swipePos Screen width speed Value setKey KeyCode useKey"
+"keywords":" Source Drag with http index php topic DragCamera Setup The main have Title Camera FsmGameObject Movement FsmFloat How smooth should Highest number Higher Smoothness FsmInt not Axis Mouse Options Off enum TitleAttribute FsmBool bool Reset PLAYMAKER_1_8_5_OR_NEWER endif mouseButton Left ClickVariable Middle GetKey disable disableExit MouseControl storeResult GetMouseButtonDown GetMouseButtonUp mouseInt TouchControl touchCount dragCameraAction active zoomOnly touchInput GetTouch Input mousePosition smoothControl cameraMoving cameraObj transform position Vector3 dragPos swipePos Screen width speed Value setKey KeyCode useKey",
+"description":"Drag Camera with mouse or touch."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/SetTimeScale.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/SetTimeScale.cs",
-"keywords":" SetTimeScale Scales normal half speed Repeat every Useful when animating the Reset everyFrame DoTimeScale Time timeScale Value"
+"keywords":" SetTimeScale Scales normal half speed FsmFloat Repeat every Useful when animating the bool Reset everyFrame DoTimeScale Time timeScale Value",
+"description":"Scales time: 1 = normal, 0.5 = half speed, 2 = double speed."
 }

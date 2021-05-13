@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/DeleteSingletonReference.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/DeleteSingletonReference.cs",
-"keywords":" ECOSYSTEM NOT script dependancies Assets Custom Generic Logic Delete added DeleteSingletonReference Reset Singleton SingletonManager SINGLETONS Remove reference Value"
+"keywords":" ECOSYSTEM NOT script dependancies Assets Custom GameObject Generic Logic Delete added DeleteSingletonReference FsmString Reset Singleton SingletonManager SINGLETONS Remove reference Value",
+"description":"Delete a singleton reference added using SingletonManager action."
 }

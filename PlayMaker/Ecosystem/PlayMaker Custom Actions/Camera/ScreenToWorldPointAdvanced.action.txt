@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/ScreenToWorldPointAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/ScreenToWorldPointAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal Transforms NOTE Uses ScreenToWorldPointAdvanced FsmStateActionAdvanced See Distance into units coordinates considered otherwise they are expected pixels Store the world Reset axis dropdown with selected everyFrame DoScreenToWorldPoint MainCamera defined zero screenVector screenX screenY screenZ normalized width Screen height Camera main ScreenToWorldPoint storeWorldVector storeWorldX storeWorldY storeWorldZ Value position"
+"keywords":" script dependancies Assets Custom __Internal Transforms NOTE Uses ScreenToWorldPointAdvanced FsmStateActionAdvanced See Distance into units coordinates considered otherwise they are expected pixels FsmBool FsmVector3 Store the world Reset axis dropdown with selected FsmFloat everyFrame DoScreenToWorldPoint MainCamera defined Vector3 zero screenVector screenX screenY screenZ normalized width Screen height Camera main ScreenToWorldPoint storeWorldVector storeWorldX storeWorldY storeWorldZ Value position",
+"description":"Transforms position from screen space into world space. NOTE: Uses the MainCamera!"
 }

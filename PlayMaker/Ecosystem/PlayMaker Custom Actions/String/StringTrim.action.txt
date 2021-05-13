@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringTrim.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringTrim.cs",
-"keywords":" Removes leading trailing white characters StringTrim Reset everyFrame DoReplace storeResult stringInput Value Trim"
+"keywords":" Removes leading trailing white characters StringTrim FsmString bool Reset everyFrame DoReplace storeResult stringInput Value Trim",
+"description":"Removes all leading and trailing white-space characters from a String"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsGetDebugMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsGetDebugMode.cs",
-"keywords":" Generic Advertisements Gets UnityAdsGetDebugMode The sent Reset Value Advertisement debugMode isInDebuggingModeEvent isNotInDebuggingModeEvent UnityAds supported IOS Android Platforms endif"
+"keywords":" Generic Advertisements Gets UnityAdsGetDebugMode The FsmBool sent Reset Value Advertisement debugMode isInDebuggingModeEvent isNotInDebuggingModeEvent UnityAds supported IOS Android Platforms endif",
+"description":"Gets the debug mode of UnityAds."
 }

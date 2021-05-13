@@ -1,0 +1,61 @@
+<div id="actionImg"><p><img src="http://mywebsite.com/docs/img/AnalyticsSendTransaction.png" title="" width="350" /></p></div>
+<div id="actionDesc">
+<p>
+Tracking Monetization. Requires a price parameter, a currency and an optional Apple iTunes / Google Play receipt string.</p>
+</div>
+<div id="paramRow">
+	<div id="paramName">
+Product Id</div>
+	<div id="paramDesc">
+The Product ID</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Amount</div>
+	<div id="paramDesc">
+The amount</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Receipt Purchase Data</div>
+	<div id="paramDesc">
+Receipt data (iOS) / receipt ID (android) / for in-app purchases to verify purchases with Apple iTunes / Google Play. Use null in the absence of receipts.</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Signature</div>
+	<div id="paramDesc">
+Android receipt signature. If using native Android use the INAPP_DATA_SIGNATURE string containing the signature of the purchase data that was signed with the private key of the developer. The data signature uses the RSASSA-PKCS1-v1_5 scheme. Pass in null in absence of a signature.</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Currency</div>
+	<div id="paramDesc">
+The Currency. Abbreviation of the currency used for the transaction. For example “USD” (United States Dollars). See http://en.wikipedia.org/wiki/ISO_4217 for a standardized list of currency abbreviations.</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Result</div>
+	<div id="paramDesc">
+Result</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Success</div>
+	<div id="paramDesc">
+Event Sent if execution went OK</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Failure</div>
+	<div id="paramDesc">
+Event Sent if execution failed. Check result for more infos</div>
+</div>
+

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/FollowMouse.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/FollowMouse.cs",
-"keywords":" Original Amaranth Have FollowMouse Follow Show specific axis away Select off with mouse determines how close edge can used distance Reset GetScreenSize DoSetPosition MainCamera defined zero offsetX Input mousePosition offsetY you want keep keeps objects inside the keepOnScreen screenWidth screenHeight screenOffset xleft xright ytop ybottom distanceToCamera Value move world transform Camera main ScreenToWorldPoint position"
+"keywords":" Original Amaranth Have FollowMouse Follow Show specific axis away Select off with mouse FsmBool determines how close edge can used distance FsmFloat Reset GetScreenSize DoSetPosition MainCamera defined gameObject Vector3 zero offsetX Input mousePosition offsetY you want keep keeps objects inside the keepOnScreen screenWidth screenHeight screenOffset xleft xright ytop ybottom distanceToCamera Value move world transform Camera main ScreenToWorldPoint position",
+"description":"Have an object follow the mouse."
 }

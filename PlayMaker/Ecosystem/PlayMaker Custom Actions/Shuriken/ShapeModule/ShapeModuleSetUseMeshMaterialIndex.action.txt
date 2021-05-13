@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetUseMeshMaterialIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetUseMeshMaterialIndex.cs",
-"keywords":" Shuriken ShapeModuleSetUseMeshMaterialIndex with Mesh flag Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshMaterialIndex Value"
+"keywords":" Shuriken ShapeModuleSetUseMeshMaterialIndex with Mesh Material flag FsmBool Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshMaterialIndex Value",
+"description":"Set the Use Mesh Material Index flag of a particleSystem's ShapeModule ( Shuriken)"
 }

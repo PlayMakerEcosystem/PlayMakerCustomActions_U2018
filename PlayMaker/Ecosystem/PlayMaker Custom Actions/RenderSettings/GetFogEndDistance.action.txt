@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/GetFogEndDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/GetFogEndDistance.cs",
-"keywords":" GetFogEndDistance Repeat every Useful the Fog setting changing Reset everyFrame _getValue Value RenderSettings fogEndDistance"
+"keywords":" GetFogEndDistance FsmFloat Repeat every Useful the Fog setting changing bool Reset everyFrame _getValue Value RenderSettings fogEndDistance",
+"description":"Get the end distance of the fog"
 }

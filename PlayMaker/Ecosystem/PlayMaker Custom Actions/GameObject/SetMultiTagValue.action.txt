@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetMultiTagValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetMultiTagValue.cs",
-"keywords":" multi multiple Source Sets the many http index php topic SetMultiTagValue Count Title Reset everyFrame DoSetGameObjectTagValue Length Untagged gameobjectVariable tag Value"
+"keywords":" multi multiple Source Sets the many http index php topic SetMultiTagValue Count Title bool GameObject Reset FsmString everyFrame DoSetGameObjectTagValue Length Untagged gameobjectVariable tag Value",
+"description":"Sets the value of many Game Object's Tag."
 }

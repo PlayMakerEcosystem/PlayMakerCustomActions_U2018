@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObjectsWithTag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindGameObjectsWithTag.cs",
-"keywords":" pragma disable Finds GameObjects with FsmArray fired not found typically possible you are define the Reset Untagged Find FindGameObjectsWithTag withTag store RawValue _result UnityException TagDoesntExistEvent"
+"keywords":" pragma disable Finds GameObjects with FsmArray fired not found typically possible you are FsmString define the Reset Untagged Find GameObject FindGameObjectsWithTag withTag store RawValue _result UnityException TagDoesntExistEvent",
+"description":"Finds GameObjects by Tag."
 }

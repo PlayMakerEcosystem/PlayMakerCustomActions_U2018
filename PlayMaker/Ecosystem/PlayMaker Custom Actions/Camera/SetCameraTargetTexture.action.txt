@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraTargetTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraTargetTexture.cs",
-"keywords":" Sets SetCameraTargetTexture The that Reset OwnerOption _camera ErrorCheck Value RenderTexture can used Camera TargetTexture"
+"keywords":" Sets SetCameraTargetTexture The that FsmTexture Reset OwnerOption gameObject _camera string ErrorCheck Value RenderTexture can used Camera TargetTexture",
+"description":"Sets the TargetTexture of a Camera."
 }

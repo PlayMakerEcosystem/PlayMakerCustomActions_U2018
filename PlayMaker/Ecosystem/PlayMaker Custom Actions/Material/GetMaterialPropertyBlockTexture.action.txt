@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockTexture.cs",
-"keywords":" Gets GetMaterialPropertyBlockTexture ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset MaterialPropertyBlock everyFrame DoGetMaterialTexture _MainTex UpdateCache renderer GetPropertyBlock Value _propBlock GetTexture _propertyName"
+"keywords":" Gets GetMaterialPropertyBlockTexture ComponentAction that applied named shader Must have PerRendererData attribute FsmString parameter FsmTexture Repeat every Useful the animated bool Reset MaterialPropertyBlock everyFrame DoGetMaterialTexture string _MainTex gameObject UpdateCache Material renderer GetPropertyBlock Value _propBlock GetTexture _propertyName",
+"description":"Gets a named texture value in a game object's material PropertyBlock. "
 }

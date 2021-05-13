@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteSetFlip.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteSetFlip.cs",
-"keywords":" must have Sprite SpriteSetFlip control The values when exits Repeat every Reset SpriteFlip everyFrame Enabled resetOnExit flipX_orig flipY_orig FlipSprites flipX spriteRenderer flipY Value"
+"keywords":" must have Sprite SpriteSetFlip control The values when exits FsmBool Repeat every bool Reset gameObject SpriteFlip everyFrame Enabled resetOnExit flipX_orig flipY_orig FlipSprites flipX spriteRenderer flipY Value",
+"description":"Flip a Sprite. Object must have a Sprite Renderer."
 }

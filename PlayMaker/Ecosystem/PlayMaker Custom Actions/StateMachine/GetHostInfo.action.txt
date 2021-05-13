@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GetHostInfo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GetHostInfo.cs",
-"keywords":" StateMachine Gets information the when template running Sub GetHostInfo Reset everyFrame GetInfo hostFsmName GameObjectName currentStateName Value Host ActiveStateName"
+"keywords":" StateMachine Gets information the when template running Sub GetHostInfo FsmGameObject FsmString bool Reset everyFrame GetInfo hostFsmName GameObject GameObjectName currentStateName Value Host ActiveStateName",
+"description":"Gets information from the Host when a template is running as a Sub FSM."
 }

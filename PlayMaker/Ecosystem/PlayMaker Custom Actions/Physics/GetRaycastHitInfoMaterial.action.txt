@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetRaycastHitInfoMaterial.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetRaycastHitInfoMaterial.cs",
-"keywords":" Physics Gets last Raycast store variables GetRaycastHitInfoMaterial the that was hit Repeat every Reset There are stored triangle RaycastHitInfo triangleIndex subMeshCount _meshCollider sharedMesh GetTriangles Length limit numIndices Value sharedMaterials submesh everyFrame GetRaycastInfo ErrorCheck _meshRenderer _skinnedMeshRenderer must have SkinnedMeshRenderer attached"
+"keywords":" Physics Gets last Raycast store variables GetRaycastHitInfoMaterial the that was hit FsmMaterial Repeat every bool Reset There are stored triangle RaycastHitInfo triangleIndex subMeshCount _meshCollider sharedMesh GetTriangles Length limit numIndices material Value sharedMaterials submesh everyFrame GetRaycastInfo ErrorCheck _meshRenderer _skinnedMeshRenderer must have SkinnedMeshRenderer attached string",
+"description":"Gets the material  on the last Raycast and store in variables."
 }

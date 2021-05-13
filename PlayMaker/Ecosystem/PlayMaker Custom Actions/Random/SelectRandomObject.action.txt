@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Random/SelectRandomObject.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Random/SelectRandomObject.cs",
-"keywords":" Author Deek http php topic Selects Random Weight Reset DoSelectRandomObject Length ActionHelpers GetRandomWeightedIndex weights storeObject objects randomIndex Value"
+"keywords":" Author Deek http php topic Selects Random Weight Reset FsmObject FsmFloat DoSelectRandomObject Length ActionHelpers GetRandomWeightedIndex weights storeObject objects randomIndex Value",
+"description":"Selects a Random Object from an array of Objects."
 }

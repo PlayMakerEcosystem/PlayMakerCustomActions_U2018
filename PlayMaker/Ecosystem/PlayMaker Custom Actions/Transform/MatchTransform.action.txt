@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/MatchTransform.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/MatchTransform.cs",
-"keywords":" Made Terry sebasLive http index php topic Sets match MatchTransform that will The matched local Repeat every Perform Reset PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoSetTransform targetObject Value matchPosition localPosition position matchRotation World localRotation rotation matchScale goTarget transform localScale scale"
+"keywords":" Made Terry sebasLive http index php topic Sets match MatchTransform that will The matched FsmGameObject local Repeat every Perform bool Vector3 Reset PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoSetTransform gameObject targetObject Value matchPosition localPosition position matchRotation World localRotation rotation matchScale goTarget transform localScale scale",
+"description":"Sets GameObject's transform to match TargetObject's."
 }

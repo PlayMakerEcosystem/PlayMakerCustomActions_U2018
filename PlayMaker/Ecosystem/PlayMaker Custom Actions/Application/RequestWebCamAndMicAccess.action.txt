@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/RequestWebCamAndMicAccess.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/RequestWebCamAndMicAccess.cs",
-"keywords":" Requests sent when denied Reset AddComponent AccessGrantedEvent AccessDeniedEvent _helper bridge perform RequestWebCamAccessHelper MonoBehaviour RequestAuthorization RequestWebCamAndMicAccess StartCoroutine IEnumerator yield RequestUserAuthorization AccessGranted Application HasUserAuthorization WebCam UserAuthorization Microphone Destroy"
+"keywords":" Requests sent when denied Reset AddComponent bool AccessGrantedEvent AccessDeniedEvent _helper bridge perform RequestWebCamAccessHelper MonoBehaviour RequestAuthorization RequestWebCamAndMicAccess StartCoroutine IEnumerator yield RequestUserAuthorization AccessGranted Application HasUserAuthorization WebCam UserAuthorization Microphone Destroy gameObject",
+"description":"Requests access to webcam and microphone"
 }

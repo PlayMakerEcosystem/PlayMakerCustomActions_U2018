@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SceneObjectsCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SceneObjectsCount.cs",
-"keywords":" Gets that Store the number children Optional Find with Reset DoSceneObjectsCount FindObjectsOfType FindGameObjectsWithTag findWithTag storeResult Value theGameObjects Length"
+"keywords":" Gets that Store the number children FsmInt Optional Find with FsmString Reset DoSceneObjectsCount string FindObjectsOfType FindGameObjectsWithTag findWithTag GameObject storeResult Value theGameObjects Length",
+"description":"Gets the number of children that a GameObject has."
 }

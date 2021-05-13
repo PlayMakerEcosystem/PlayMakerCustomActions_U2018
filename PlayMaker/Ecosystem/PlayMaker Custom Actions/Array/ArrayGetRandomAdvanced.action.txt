@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetRandomAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetRandomAdvanced.cs",
-"keywords":" Author Deek Optionally disallow result ArrayGetRandomAdvanced FsmArray Store MatchElementType Can same twice every active Reset Code that runs entering the everyFrame DoGetRandomValue repeat Random Range Length storeValue SetValue prevItem currItem"
+"keywords":" Author Deek Optionally disallow result ArrayGetRandomAdvanced FsmArray Store MatchElementType Can same twice FsmBool every active bool Reset Code that runs entering the everyFrame DoGetRandomValue repeat Random Range Length storeValue SetValue prevItem currItem",
+"description":"Get a Random item from an Array. Optionally disallow to get the same result twice in a row."
 }

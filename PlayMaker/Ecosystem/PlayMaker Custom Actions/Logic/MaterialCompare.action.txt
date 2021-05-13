@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/MaterialCompare.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/MaterialCompare.cs",
-"keywords":" Logic Variables events based MaterialCompare send values not equal Store the Repeat every Reset everyFrame DoCompare materialVariable compareTo storeResult Value result notEqualEvent"
+"keywords":" Logic Variables events based MaterialCompare FsmMaterial send values not equal Store the FsmBool Repeat every bool Reset everyFrame DoCompare materialVariable compareTo storeResult Value result notEqualEvent",
+"description":"Compare 2 Material Variables and send events based on the result."
 }

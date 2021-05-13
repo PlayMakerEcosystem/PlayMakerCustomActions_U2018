@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Trigonometry/GetDeltaAngle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Trigonometry/GetDeltaAngle.cs",
-"keywords":" Source http index php topic was created Wesley Brown BadSeedGames Trigonometry rotations GetDeltaAngle enum Reset PLAYMAKER_1_8_5_OR_NEWER endif Perform everyFrame not every frame DoGetAngleToTarget targetObject with first spot Breaks there detected Choose which axis work GetSignedAngleToTargetDirection Gets delta between the two values storeAngle Value Mathf DeltaAngle transform localEulerAngles"
+"keywords":" Source http index php topic was created Wesley Brown BadSeedGames Trigonometry rotations GetDeltaAngle enum FsmGameObject FsmFloat bool Reset PLAYMAKER_1_8_5_OR_NEWER endif Perform everyFrame not every frame DoGetAngleToTarget gameObject targetObject with first spot Breaks there detected Choose which axis work GetSignedAngleToTargetDirection Gets delta between the two values storeAngle Value Mathf DeltaAngle transform localEulerAngles",
+"description":"Gets the Delta-angle between to rotations."
 }

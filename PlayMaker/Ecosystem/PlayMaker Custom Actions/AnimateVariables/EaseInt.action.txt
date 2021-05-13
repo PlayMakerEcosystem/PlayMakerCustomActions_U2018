@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AnimateVariables/EaseInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AnimateVariables/EaseInt.cs",
-"keywords":" Author Deek AnimateVariables http index php topic Easing Animation EaseInt EaseFsmAction enum Reset fromFloats toFloats OnExit isRunning resultFloats Nearest Round Ceiling RoundTo Math Floor finishEvent finishAction intVariable reverse fromValue toValue Value finishInNextStep"
+"keywords":" Author Deek AnimateVariables http index php topic Easing Animation EaseInt EaseFsmAction enum FsmInt bool Reset fromFloats toFloats OnExit isRunning resultFloats Nearest Round Ceiling RoundTo Math Floor finishEvent finishAction intVariable reverse fromValue toValue Value finishInNextStep",
+"description":"Easing Animation - Int"
 }

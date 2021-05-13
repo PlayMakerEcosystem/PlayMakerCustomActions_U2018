@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs Encryption/PlayerPrefsGetFloatWithSimpleHashing.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Encryption/PlayerPrefsGetFloatWithSimpleHashing.cs",
-"keywords":" Security Cryptography Encryption Returns corresponding the preference file exists Checks with http index php topic PlayerPrefsGetFloatWithSimpleHashing Count sensitive Options Optional You can leave blank wanted enum Reset Equals GetFloat _hash GetString SH1 SHA1CryptoServiceProvider Selection MD5 Password MD5CryptoServiceProvider tempString tempString2 PlayerPrefs SetFloat keys variables Value HashAlgorithm algorithm ComputeHash Encoding GetBytes StringBuilder Length Append data ToString"
+"keywords":" Security Cryptography Encryption Returns corresponding the preference file exists Checks with http index php topic PlayerPrefsGetFloatWithSimpleHashing Count sensitive Options Optional You can leave blank wanted enum Reset FsmString FsmFloat Equals GetFloat _hash GetString SH1 SHA1CryptoServiceProvider Selection MD5 Password MD5CryptoServiceProvider tempString tempString2 PlayerPrefs SetFloat keys variables Value HashAlgorithm algorithm ComputeHash Encoding GetBytes Text StringBuilder Length Append data ToString",
+"description":"Returns the value corresponding to key in the preference file if it exists. Checks if data with Hashing - MD5 or SH1."
 }

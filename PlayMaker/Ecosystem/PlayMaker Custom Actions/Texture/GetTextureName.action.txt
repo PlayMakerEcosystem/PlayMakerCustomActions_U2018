@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetTextureName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetTextureName.cs",
-"keywords":" GetTextureName The Reset DoGetMaterialTextureName textureName Value"
+"keywords":" GetTextureName FsmTexture The FsmString Reset DoGetMaterialTextureName texture textureName Value string",
+"description":"Get a texture's name "
 }

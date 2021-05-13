@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyCodeToString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyCodeToString.cs",
-"keywords":" Made Djaydino http www jinxtergames Generic GetKeyCodeToString Reset detectpressedkey Enum GetValues KeyCode GetKey kcode Input anyKey storeResult Value newcode ToString sendEvent"
+"keywords":" Made Djaydino http www jinxtergames Generic GetKeyCodeToString FsmString Reset detectpressedkey Enum GetValues KeyCode GetKey kcode Input anyKey storeResult Value newcode ToString sendEvent",
+"description":"Get KeyCode and set to string "
 }

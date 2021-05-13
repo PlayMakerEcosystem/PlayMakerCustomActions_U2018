@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UnityAds/UnityAdsSetDebugLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityAds/UnityAdsSetDebugLevel.cs",
-"keywords":" Generic Advertisements Sets Obsolete UnityAdsSetDebugMode instead UnityAdsSetDebugLevel The Reset Advertisement debugLevel UnityAds supported IOS Android Platforms endif"
+"keywords":" Generic Advertisements Sets Obsolete UnityAdsSetDebugMode instead UnityAdsSetDebugLevel The Reset Advertisement debugLevel UnityAds supported IOS Android Platforms endif",
+"description":"Sets the debug level of UnityAds."
 }

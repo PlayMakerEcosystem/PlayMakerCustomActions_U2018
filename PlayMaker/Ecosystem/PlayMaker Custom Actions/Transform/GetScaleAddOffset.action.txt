@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetScaleAddOffset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetScaleAddOffset.cs",
-"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Optionally applies that another same GetScaleAddOffset FsmStateActionAdvanced enum off specify axis individually starting should changed with Store will the Reset everyFrame DoGetScale vector3Offset Add Subtract input Multiply multResult Vector3Operation Divide zero xOffset yOffset zOffset divResult applyOffsetToGO transform localScale storeVector3Result Value"
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Vector Optionally applies that another same GetScaleAddOffset FsmStateActionAdvanced enum off specify axis individually FsmFloat starting should changed with Store will the Reset FsmVector3 FsmGameObject everyFrame DoGetScale gameObject vector3Offset Add Subtract input Multiply multResult Vector3Operation Divide Vector3 zero xOffset yOffset zOffset divResult applyOffsetToGO transform localScale storeVector3Result Value",
+"description":"Get the scale of a Game Object and add an offset to that Vector. Optionally applies that offset to another/the same GameObject."
 }

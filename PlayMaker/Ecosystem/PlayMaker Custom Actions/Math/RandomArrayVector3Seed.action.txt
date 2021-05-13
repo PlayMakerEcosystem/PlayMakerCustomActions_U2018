@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomArrayVector3Seed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/RandomArrayVector3Seed.cs",
-"keywords":" http php topic msg83571 Generic Math Sets between RandomArrayVector3Seed The FsmArray Reset InitState seed maxindex Resize Random Range max Set arrayResult Length vector3Result Value"
+"keywords":" http php topic msg83571 Generic Math Sets between RandomArrayVector3Seed FsmInt FsmFloat FsmVector3 The FsmArray Reset InitState seed maxindex Resize Vector3 Random Range min max Set arrayResult Length vector3Result Value",
+"description":"Sets a Float Variable to a random value between Min/Max."
 }

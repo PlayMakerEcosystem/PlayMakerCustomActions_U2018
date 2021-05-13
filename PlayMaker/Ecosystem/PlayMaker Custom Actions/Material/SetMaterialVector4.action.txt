@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/SetMaterialVector4.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/SetMaterialVector4.cs",
-"keywords":" Sets SetMaterialVector4 that applied GameObjects can have multiple specific Alternatively specify instead named parameter shader Repeat every Useful the animated Reset everyFrame DoSetMaterialProperty xValue yValue zValue wValue Length materialIndex SetVector namedVector4 Value _vector4 Renderer materials"
+"keywords":" Sets SetMaterialVector4 that applied GameObjects can have multiple specific FsmInt Alternatively specify instead FsmMaterial named parameter shader FsmString FsmFloat Repeat every Useful the animated bool Reset everyFrame DoSetMaterialProperty xValue yValue zValue wValue gameObject material Length materialIndex SetVector namedVector4 Value _vector4 Renderer materials",
+"description":"Sets a named Vector4 in a game object's material."
 }

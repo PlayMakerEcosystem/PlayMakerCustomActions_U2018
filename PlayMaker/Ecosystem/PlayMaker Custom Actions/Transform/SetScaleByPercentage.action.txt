@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetScaleByPercentage.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetScaleByPercentage.cs",
-"keywords":" Sets http index php topic Setup 200f Increase reduce TitleAttribute Repeat every Perform useful you want the position objects that are animated otherwise positioned Output stored axis Reset 100f PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoSetScale SetScaleByPercentage FF9900ff Does not below Please review originalScale global transform localScale Value scale"
+"keywords":" Sets http index php topic Setup 200f Increase reduce TitleAttribute Repeat every FsmBool Perform useful you want the position objects that are animated otherwise positioned bool Output stored axis FsmVector3 Vector3 Reset 100f FsmFloat PLAYMAKER_1_8_5_OR_NEWER endif GameObject everyFrame DoSetScale SetScaleByPercentage FF9900ff Does not below Please review originalScale global transform localScale vector Value scale",
+"description":"Sets the Scale of a Game Object by percentage (%)"
 }

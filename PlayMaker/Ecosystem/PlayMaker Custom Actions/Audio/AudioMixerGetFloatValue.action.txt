@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioMixerGetFloatValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AudioMixer/AudioMixerGetFloatValue.cs",
-"keywords":" original Tropical http index php topic msg52963 Gets Prior calling SetFloat after ClearFloat been called returned will that current snapshot transition AudioMixerGetFloatValue ObjectType Audio with exposed Title Parameter UIHintAttribute Store the Reset everyFrame DoGetMixerFloatValue AudioMixer _TheMixer GetFloat _ExposedFloatName _storeFloatValue"
+"keywords":" original Tropical http index php topic msg52963 Gets Prior calling SetFloat after ClearFloat been called returned will that current snapshot transition AudioMixerGetFloatValue ObjectType Audio with FsmObject exposed Title Parameter FsmString UIHintAttribute Store the FsmFloat bool Reset everyFrame DoGetMixerFloatValue AudioMixer string _TheMixer GetFloat _ExposedFloatName _storeFloatValue",
+"description":"Gets the float value of an exposed parameter for a Unity Audio Mixer. Prior to calling SetFloat and after ClearFloat has been called on this parameter the value returned will be that of the current snapshot or snapshot transition."
 }

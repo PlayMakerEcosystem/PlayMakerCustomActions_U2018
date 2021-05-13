@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/BlendShapes/SetBlendShapeWeight.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/BlendShapes/SetBlendShapeWeight.cs",
-"keywords":" BlendShapes Sets can continously you manipulating that controls Requires starting indexes produce ignored BlendShape ranging range values will have effect Repeat every the active Reset OwnerOption SkinnedMeshRenderer sharedMesh GetBlendShapeIndex orBlendShapeName everyFrame DoSetBlendShapeWeight _skr SetBlendShapeWeight _blendShapeIndex weight Value"
+"keywords":" BlendShapes Sets can continously you manipulating that controls Requires starting indexes produce FsmInt ignored BlendShape ranging range values will have effect FsmFloat Repeat every the active bool Reset FsmString OwnerOption GameObject SkinnedMeshRenderer sharedMesh GetBlendShapeIndex orBlendShapeName everyFrame DoSetBlendShapeWeight _skr SetBlendShapeWeight _blendShapeIndex weight Value",
+"description":"Sets weight of BlendShape on this renderer. You can use the blendshape index or name. Check Every Frame to update continously, e.g., if you're manipulating a variable that controls this blendshape weight."
 }

@@ -3,5 +3,7 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3AddAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3AddAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal version Adds features allows selection Vector3AddAdvanced Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3Add perSecond deltaTime vector3Variable addVector Value"
+"keywords":" script dependancies Assets Custom __Internal version Adds features allows selection Vector3AddAdvanced bool Reset FsmVector3 PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoVector3Add perSecond deltaTime vector3Variable addVector Value",
+"description":"Adds a value to Vector3 Variable.
+ Advanced features allows selection of update type."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector2/Vector2OperatorAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector2/Vector2OperatorAdvanced.cs",
-"keywords":" Author Deek http index php topic Performs most possible operations version lets you choose perform Vector2OperatorAdvanced FsmStateActionAdvanced enum first second The when applies Reset DoVector2Operator vector1 DotProduct Dot Distance storeFloatResult Angle Add Subtract Multiply multResult Divide zero divResult Vector2Operation storeVector2Result Value Max"
+"keywords":" Author Deek http index php topic Performs most possible operations version lets you choose perform Vector2OperatorAdvanced FsmStateActionAdvanced enum first second vector FsmVector2 The when applies FsmFloat Reset DoVector2Operator vector1 DotProduct Dot Distance storeFloatResult Angle Add Subtract Multiply multResult Divide zero divResult Min Vector2Operation storeVector2Result Value Vector2 Max",
+"description":"Performs most possible operations on 2 Vector2: Dot product, Distance, Angle, Add, Subtract, Multiply, Divide, Min, Max. Advanced version lets you choose the Update type (when to perform the action)."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmFloatCompare.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatCompare.cs",
-"keywords":" Made nightcorelv StateMachine the another FsmFloatCompare Optional PlayMakerFSM Reset everyFrame DoGetFsmFloat goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName DoFloatCompare StoreFsmVariable Value ErrorCheck Equal LessThan GreaterThan sends events"
+"keywords":" Made nightcorelv StateMachine the another FsmFloatCompare Optional FsmString bool PlayMakerFSM Reset everyFrame DoGetFsmFloat gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName fsmFloat DoFloatCompare StoreFsmVariable Value string ErrorCheck Equal LessThan GreaterThan sends events",
+"description":"Compare the value of a Float Variable from another FSM."
 }

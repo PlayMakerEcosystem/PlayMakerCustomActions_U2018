@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/MapGetDistanceGeoCoordinates.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/MapGetDistanceGeoCoordinates.cs",
-"keywords":" Map Geo Logic distance between two sets longitude latitude MapGetDistanceGeoCoordinates Options enum Reset unitSelect Kilometers Nautical_Miles Mode Miles everyFrame result latitudeFrom longitudeFrom latitudeTo longitudeTo Value DistanceTo lon1 lon2 rlat1 rlat2 rtheta Acos Math unitTypeSelect dist"
+"keywords":" Map Geo Logic distance between two sets longitude latitude MapGetDistanceGeoCoordinates FsmFloat Options enum FsmBool Reset unitSelect Kilometers Nautical_Miles Mode Miles everyFrame result latitudeFrom longitudeFrom latitudeTo longitudeTo Value DistanceTo lon1 lon2 rlat1 rlat2 rtheta Acos Math unitTypeSelect dist",
+"description":"Get distance between two sets of longitude/latitude"
 }

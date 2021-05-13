@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatSmoothDampAngle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatSmoothDampAngle.cs",
-"keywords":" Math Gradually changes euler towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars FloatSmoothDampAngle modified function every call take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the Reset DoFloatDamp maxSpeed SmoothDampAngle smoothTime currentVelocity _velocity current _isDone isDone Value IsApproximately 01f Mathf tolerance"
+"keywords":" Math Gradually changes euler towards desired goal smoothed some spring damper like which never overshoot can used smooth any kind positions colors scalars FloatSmoothDampAngle modified function every call take smaller will faster Optionally allows you clamp maximum Result sent when almost equal the FsmBool Reset FsmFloat DoFloatDamp maxSpeed SmoothDampAngle smoothTime currentVelocity _velocity current _isDone isDone Value bool IsApproximately 01f Mathf tolerance",
+"description":"Gradually changes an angle (euler) towards a desired goal over time. The value is smoothed by some spring-damper like function, which will never overshoot. The function can be used to smooth any kind of value, positions, colors, scalars."
 }

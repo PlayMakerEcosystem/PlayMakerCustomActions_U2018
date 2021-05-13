@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetAngularDrag.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetAngularDrag.cs",
-"keywords":" Physics Sets angular applies rotational separately the linear that affects positional movement SetAngularDrag ComponentAction 10f Repeat every Typically would Reset Rigidbody everyFrame DoSetDrag angularDrag drag Value"
+"keywords":" Physics Sets angular applies rotational separately the linear that affects positional movement SetAngularDrag ComponentAction 10f FsmFloat Repeat every Typically would bool Reset gameObject Rigidbody everyFrame DoSetDrag angularDrag drag Value",
+"description":"Sets the angular drag that applies to rotational movement and is set up separately from the linear drag that affects positional movement."
 }

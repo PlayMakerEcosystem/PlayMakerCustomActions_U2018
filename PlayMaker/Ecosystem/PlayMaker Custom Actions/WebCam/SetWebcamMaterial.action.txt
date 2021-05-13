@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/SetWebcamMaterial.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/SetWebcamMaterial.cs",
-"keywords":" Adam brzozowsky gmail http index php topic msg53819 Stream webcam video selected SetWebcamMaterial Reset deviceName webcamName webcamMaterial Value SetTexture _MainTex webCamTexture"
+"keywords":" Adam brzozowsky gmail http index php topic msg53819 Stream webcam video selected SetWebcamMaterial FsmString FsmMaterial Reset deviceName webcamName webcamMaterial Value SetTexture _MainTex webCamTexture",
+"description":"Stream a webcam video to selected material."
 }

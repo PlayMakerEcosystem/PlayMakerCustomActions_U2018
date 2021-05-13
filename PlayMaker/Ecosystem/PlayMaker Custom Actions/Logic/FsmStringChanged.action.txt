@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FsmStringChanged.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringChanged.cs",
-"keywords":" Made nightcorelv Logic Tests the send change store that can used other operations FsmStringChanged Optional PlayMakerFSM Reset Ggop ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmString variableName ttop storeFsmValue previousValue storeResult Value changedEvent"
+"keywords":" Made nightcorelv Logic Tests the send change store that can used other operations FsmStringChanged Optional FsmBool PlayMakerFSM Reset Ggop gameObject ActionHelpers GetGameObjectFsm fsmName goLastFrame FsmVariables GetFsmString variableName fsmString ttop storeFsmValue previousValue storeResult Value changedEvent",
+"description":"Tests if the value of a FSM String variable changed. Use this to send an event on change, or store a bool that can be used in other operations."
 }

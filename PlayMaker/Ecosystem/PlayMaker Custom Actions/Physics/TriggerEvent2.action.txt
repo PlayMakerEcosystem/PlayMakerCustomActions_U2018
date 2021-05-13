@@ -3,5 +3,7 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/TriggerEvent2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/TriggerEvent2.cs",
-"keywords":" Physics objects have RigidBody components nNOTE events are sent when any collides collisions TriggerEvent2 detect Filter Where FsmEventTarget send detected Store that collided with the Reset HandleTriggerEnter HandleTriggerStay HandleTriggerExit storeCollider DoTriggerEnter OnTriggerEnter DoTriggerStay OnTriggerStay DoTriggerExit Collider trigger TriggerType OnTriggerExit Value collideTag StoreCollisionInfo other eventTarget sendEvent ErrorCheck ActionHelpers CheckOwnerPhysicsSetup"
+"keywords":" Physics objects have RigidBody components nNOTE events are sent when any collides collisions TriggerEvent2 detect Filter Where FsmEventTarget send detected Store that collided with the FsmGameObject Reset FsmString HandleTriggerEnter HandleTriggerStay HandleTriggerExit storeCollider DoTriggerEnter OnTriggerEnter DoTriggerStay OnTriggerStay DoTriggerExit Collider trigger TriggerType OnTriggerExit gameObject Value collideTag StoreCollisionInfo other eventTarget sendEvent string ErrorCheck ActionHelpers CheckOwnerPhysicsSetup",
+"description":"Detect collisions with objects that have RigidBody components. 
+NOTE: The system events, TRIGGER ENTER, TRIGGER STAY, and TRIGGER EXIT are sent when any object collides with the trigger. Use this action to filter collisions by Tag."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetEnabled.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetEnabled.cs",
-"keywords":" Shuriken ShapeModuleSetEnabled with flag Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm enabled Value"
+"keywords":" Shuriken ShapeModuleSetEnabled with flag FsmBool Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm enabled Value",
+"description":"Set the enabled flag of a particleSystem's ShapeModule ( Shuriken)"
 }

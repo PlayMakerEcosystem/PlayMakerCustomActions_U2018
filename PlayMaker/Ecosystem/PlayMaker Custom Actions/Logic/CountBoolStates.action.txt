@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/CountBoolStates.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/CountBoolStates.cs",
-"keywords":" Logic Tests given counts ones that are CountBoolStates Store result Repeat every the active Reset everyFrame CheckBools Length boolVariables trueCount numberOfTrueBools falseCount Value numberOfFalseBools"
+"keywords":" Logic Tests given counts ones that are CountBoolStates FsmBool Store result FsmInt Repeat every the active bool Reset everyFrame CheckBools Length boolVariables trueCount numberOfTrueBools falseCount Value numberOfFalseBools",
+"description":"Tests the given Bool Variables and counts the ones that are true and false"
 }

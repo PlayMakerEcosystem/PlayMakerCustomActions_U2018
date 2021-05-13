@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/CreateObjectAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/CreateObjectAdvanced.cs",
-"keywords":" Creates you define CreateObjectAdvanced create Usually Prefab parenting will keep objecr place Leave Activate instance not Optional defined used local offset NOTE Overrides Spawn Optionally store the created Reset OwnerOption SpecifyGameObject zero spawnPoint Instantiate Quaternion Euler storeObject setActive spawnPosition eulerAngles spawnRotation SetParent _parent transform worldPositionStays newObject Value"
+"keywords":" Creates you define CreateObjectAdvanced create Usually Prefab parenting will keep objecr place Leave Activate instance not FsmBool Optional defined used local offset NOTE Overrides Spawn Optionally store the created Reset OwnerOption SpecifyGameObject FsmGameObject FsmString FsmVector3 zero Vector3 spawnPoint GameObject Instantiate Quaternion Euler storeObject setActive spawnPosition eulerAngles spawnRotation SetParent _parent transform worldPositionStays string newObject Value",
+"description":"Creates a Game Object, usually from a Prefab. Let you define parent and name"
 }

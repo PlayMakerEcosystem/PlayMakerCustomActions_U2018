@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetGameObjectSpeed.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetGameObjectSpeed.cs",
-"keywords":" need have with physic GetGameObjectSpeed current local the Reset World doComputeSpeed speed magnitude deltaTime Self InverseTransformPoint transform speedVector Value delta lastPosition currentPosition"
+"keywords":" need have with physic GetGameObjectSpeed FsmFloat current FsmVector3 local the Reset World gameObject doComputeSpeed Vector3 speed magnitude deltaTime Self InverseTransformPoint transform speedVector Value delta lastPosition currentPosition",
+"description":"Get the speed of a gameObject. No need to have it set up with a physic component."
 }

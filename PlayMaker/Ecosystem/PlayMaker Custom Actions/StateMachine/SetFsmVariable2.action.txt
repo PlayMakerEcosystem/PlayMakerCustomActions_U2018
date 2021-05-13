@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmVariable2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmVariable2.cs",
-"keywords":" StateMachine another fixes SetFsmVar SetFsmVariable2 that owns Optional Repeat every PlayMakerFSM NamedVariable Reset everyFrame DoSetFsmVariable GetGameObjectFsm cachedGameObject cachedFsmName fsmName FsmVariables FindVariable cachedVariableName targetVariable RawValue PlayMakerUtils GetValueFromFsmVar setValue Please AutoName Set ActionHelpers GetValueLabel variableName ErrorCheck PLAYMAKER_UTILS Utils the Ecosystem endif"
+"keywords":" StateMachine another fixes SetFsmVar SetFsmVariable2 that owns Optional FsmString Repeat every bool PlayMakerFSM NamedVariable Reset everyFrame DoSetFsmVariable GetGameObjectFsm cachedGameObject cachedFsmName fsmName FsmVariables FindVariable cachedVariableName targetVariable RawValue PlayMakerUtils GetValueFromFsmVar setValue Please AutoName Set ActionHelpers GetValueLabel variableName ErrorCheck PLAYMAKER_UTILS Utils the Ecosystem string endif",
+"description":"Set the value of a variable in another FSM. fixes a bug in SetFsmVar"
 }

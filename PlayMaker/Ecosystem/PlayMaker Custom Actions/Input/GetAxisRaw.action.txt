@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetAxisRaw.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetAxisRaw.cs",
-"keywords":" Gets specified stores See docs Manager values are larger range the result Repeat every Typically would Reset everyFrame DoGetAxis Input GetAxisRaw axisName set assume multiplier store axisValue"
+"keywords":" Gets specified stores See docs Manager values are larger range the result FsmFloat Repeat every Typically would bool Reset everyFrame DoGetAxis FsmString Input GetAxisRaw axisName set assume multiplier store axisValue",
+"description":"Gets the raw value of the specified Input Axis and stores it in a Float Variable. See Unity Input Manager docs."
 }

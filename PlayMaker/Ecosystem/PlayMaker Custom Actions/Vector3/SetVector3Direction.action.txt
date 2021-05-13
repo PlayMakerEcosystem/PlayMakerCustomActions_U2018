@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/SetVector3Direction.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/SetVector3Direction.cs",
-"keywords":" presets SetVector3Direction enum store The preset Reset down left forward Vector3Direction vector3Variable Value back"
+"keywords":" presets SetVector3Direction enum store FsmVector3 The preset Reset down left forward Vector3Direction vector3Variable Value Vector3 back",
+"description":"Sets the value of a Vector3 Variable using direction presets."
 }

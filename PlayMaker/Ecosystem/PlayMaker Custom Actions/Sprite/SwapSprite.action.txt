@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SwapSprite.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SwapSprite.cs",
-"keywords":" Replaces single any must have SwapSprite ObjectType Reset SwapSingleSprite resetOnExit _orig SwapSprites spriteRenderer spriteToSwap Value Sprite"
+"keywords":" Replaces single any must have SwapSprite ObjectType FsmObject FsmBool Reset gameObject SwapSingleSprite resetOnExit _orig SwapSprites spriteRenderer spriteToSwap Value Sprite",
+"description":"Replaces a single Sprite on any GameObject. Object must have a Sprite Renderer."
 }

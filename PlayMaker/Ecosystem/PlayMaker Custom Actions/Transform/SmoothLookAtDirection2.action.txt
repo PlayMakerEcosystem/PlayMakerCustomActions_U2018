@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SmoothLookAtDirection2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SmoothLookAtDirection2.cs",
-"keywords":" its forward points specified Lets you fire reached SmoothLookAtDirection2 smoothly towards length greater threshold Keep pointing any tilt down rotates How quickly rotate Perform eliminate jitters some situations send difference less than the Tolerance track can when changes Reset PLAYMAKER_1_8_5_OR_NEWER endif DoSmoothLookAtDirection initialize changed previousGo desired targetDirection keepVertical LookRotation diff upVector Slerp speed deltaTime lastRotation Quaternion Angle desiredRotation transform rotation minMagnitude Value finishEvent _done"
+"keywords":" its forward points specified Lets you fire reached SmoothLookAtDirection2 smoothly towards length greater threshold Keep pointing any tilt down rotates FsmBool How quickly rotate FsmFloat Perform eliminate jitters some situations send difference less than the min Tolerance track can when changes bool Reset FsmVector3 PLAYMAKER_1_8_5_OR_NEWER endif DoSmoothLookAtDirection gameObject initialize changed previousGo desired targetDirection keepVertical LookRotation diff Vector3 upVector Slerp speed deltaTime lastRotation Quaternion Angle desiredRotation transform rotation minMagnitude Value finishEvent _done",
+"description":"Smoothly Rotates a Game Object so its forward vector points in the specified Direction. Lets you fire an event when minmagnitude is reached"
 }

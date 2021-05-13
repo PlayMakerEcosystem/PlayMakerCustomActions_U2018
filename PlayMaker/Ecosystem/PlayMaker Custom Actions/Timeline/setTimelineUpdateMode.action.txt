@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/setTimelineUpdateMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/setTimelineUpdateMode.cs",
-"keywords":" Playables current timelines method controls how incremented when playing back setTimelineUpdateMode hold components the time ObjectType FsmEnum box preform every Reset PlayableDirector everyFrame timelineAction timeline timeUpdateMode DirectorUpdateMode updateMode Value"
+"keywords":" Playables current timelines method controls how incremented when playing back setTimelineUpdateMode hold components the time ObjectType FsmEnum box preform every FsmBool Reset PlayableDirector everyFrame timelineAction gameObject timeline timeUpdateMode DirectorUpdateMode updateMode Value"
 }

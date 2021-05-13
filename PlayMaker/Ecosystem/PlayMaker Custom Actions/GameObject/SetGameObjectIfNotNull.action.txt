@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/SetGameObjectIfNotNull.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SetGameObjectIfNotNull.cs",
-"keywords":" Author Deek Sets SetGameObjectIfNotNull overwrite with not Optional send the Wheter repeat every once Reset everyFrame SetGameObject Value isNotNull"
+"keywords":" Author Deek Sets SetGameObjectIfNotNull overwrite with not FsmGameObject Optional send the Wheter repeat every once FsmBool Reset everyFrame SetGameObject gameObject Value isNotNull",
+"description":"Sets the value of a Game Object variable if it's not null."
 }

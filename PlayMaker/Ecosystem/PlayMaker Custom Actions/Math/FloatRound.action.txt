@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatRound.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatRound.cs",
-"keywords":" Math Sets its You can store the Reset everyFrame DoFloatRound resultAsInt RoundToInt resultAsFloat Mathf Round floatVariable Value"
+"keywords":" Math Sets its You can store the FsmInt FsmFloat bool Reset everyFrame DoFloatRound resultAsInt RoundToInt resultAsFloat Mathf Round floatVariable Value",
+"description":"Sets a Float Variable to its round value. You can store the round value as a float or as an int"
 }

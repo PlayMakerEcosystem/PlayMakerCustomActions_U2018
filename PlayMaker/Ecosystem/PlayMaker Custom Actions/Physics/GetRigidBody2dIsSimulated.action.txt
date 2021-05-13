@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetRigidBody2dIsSimulated.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetRigidBody2dIsSimulated.cs",
-"keywords":" Physics property GetRigidBody2dIsSimulated ComponentAction the Rigidbody2D Every Reset everyFrame ExecuteAction UpdateCache Value cachedComponent simulated"
+"keywords":" Physics property GetRigidBody2dIsSimulated ComponentAction the Rigidbody2D FsmBool Every bool Reset everyFrame ExecuteAction UpdateCache gameObject Value cachedComponent simulated",
+"description":"Get the simulated property of the Rigidbody2D component"
 }

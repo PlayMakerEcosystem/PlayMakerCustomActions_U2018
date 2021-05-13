@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterials.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterials.cs",
-"keywords":" Gets with GetMaterials that applied the ArrayEditor FsmArray sent was not found Reset fail DoGetMaterialName Values Renderer materials"
+"keywords":" Gets with GetMaterials that applied the ArrayEditor FsmArray sent material was not found Reset fail bool DoGetMaterialName gameObject Values Renderer materials",
+"description":"Gets all material of a GameObject with a Renderer component"
 }

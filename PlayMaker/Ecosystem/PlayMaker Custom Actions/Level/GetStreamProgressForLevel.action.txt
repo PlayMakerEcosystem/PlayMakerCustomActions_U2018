@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/GetStreamProgressForLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Level/GetStreamProgressForLevel.cs",
-"keywords":" Stream progres load Must list levels defined File Build Settings Store loading range send when loaded NOTE makes sense still the scene Reset GetProgress Application GetStreamProgressForLevel levelName loadingProgress Value loadedEvent"
+"keywords":" Stream progres load Must list levels defined File Build Settings FsmString Store loading range FsmFloat send when loaded NOTE makes sense still the scene Reset GetProgress Application GetStreamProgressForLevel levelName loadingProgress Value loadedEvent",
+"description":"Get the Stream progres for a level"
 }

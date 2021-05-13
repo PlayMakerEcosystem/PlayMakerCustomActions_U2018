@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Android/AndroidOsVersion.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Android/AndroidOsVersion.cs",
-"keywords":" example JELLY_BEAN result alternative SystemInfo operatingSystem http developer reference VERSION_CODES html AndroidOsVersion the SDK then data not Reset sdkVersion Value GetSDKLevel FindClass android Build VERSION GetStaticFieldID SDK_INT AndroidJNI GetStaticIntField clazz fieldID sdkLevel endif"
+"keywords":" example JELLY_BEAN result alternative SystemInfo operatingSystem http developer reference VERSION_CODES html AndroidOsVersion the SDK then data not FsmInt Reset sdkVersion Value GetSDKLevel FindClass android Build VERSION GetStaticFieldID SDK_INT AndroidJNI GetStaticIntField clazz fieldID sdkLevel endif",
+"description":"Get the Android SDK version as an Fsm Int  (example: SDK version JELLY_BEAN - int result = 16) - alternative to SystemInfo.operatingSystem"
 }

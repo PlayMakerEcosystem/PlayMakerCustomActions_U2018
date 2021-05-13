@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/ColliderSetIsTrigger.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/ColliderSetIsTrigger.cs",
-"keywords":" Physics Controls ColliderSetIsTrigger with control not the flag Reset DoSetIsTrigger resetOnExit _collider isTrigger _originalValue"
+"keywords":" Physics Controls ColliderSetIsTrigger with control not the flag FsmBool bool Reset DoSetIsTrigger gameObject resetOnExit _collider isTrigger _originalValue",
+"description":"Controls a collider isTrigger Flag"
 }

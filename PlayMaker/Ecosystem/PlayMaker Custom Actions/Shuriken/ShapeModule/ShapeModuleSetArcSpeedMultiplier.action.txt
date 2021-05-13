@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetArcSpeedMultiplier.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetArcSpeedMultiplier.cs",
-"keywords":" Shuriken ShapeModuleSetArcSpeedMultiplier with arc Speed Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm arcSpeedMultiplier Value"
+"keywords":" Shuriken ShapeModuleSetArcSpeedMultiplier with arc Speed FsmFloat Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm arcSpeedMultiplier Value",
+"description":"Set Arc Speed Multiplier of a particleSystem's ShapeModule ( Shuriken)"
 }

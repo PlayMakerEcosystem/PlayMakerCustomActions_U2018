@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/NoiseModule/NoiseModuleSetFrequency.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/NoiseModule/NoiseModuleSetFrequency.cs",
-"keywords":" Made Ubik3D Link http index php topic topicseen Shuriken NoiseModuleSetFrequency with Strength Repeat every the active NoiseModule Reset _go ParticleSystem _ps noise everyFrame DoExecute _nm frequency Value"
+"keywords":" Made Ubik3D Link http index php topic topicseen Shuriken NoiseModuleSetFrequency with Strength FsmFloat Repeat every the active bool NoiseModule Reset gameObject _go ParticleSystem _ps noise everyFrame DoExecute _nm frequency Value",
+"description":"Set Strength of a particleSystem's NoiseModule ( Shuriken)"
 }

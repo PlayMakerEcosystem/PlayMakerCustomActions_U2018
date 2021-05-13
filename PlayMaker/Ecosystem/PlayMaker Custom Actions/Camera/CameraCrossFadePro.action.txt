@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraCrossFadePro.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraCrossFadePro.cs",
-"keywords":" Cross fade between two CameraCrossFadePro General settings Output Reset cameraFrom cameraTo fadeTime OnGUI depth GUI DrawTexture Rect ScaleMode ScaleToFit OnExit StopCoroutine alpha deltaTime rate enableThis cam1Active AudioListener reEnableListener listener enabled SetActive IEnumerator CrossFadePro Camera RenderTexture width Screen height CameraSetup yield StartCoroutine AlphaTimer time targetTexture renderTex Release CameraCleanup cam1 cam2 isWorking inProgress Value"
+"keywords":" Min Cross fade between two CameraCrossFadePro FsmGameObject General settings FsmFloat Output FsmBool Reset cameraFrom cameraTo fadeTime OnGUI depth GUI DrawTexture Rect ScaleMode ScaleToFit OnExit StopCoroutine alpha deltaTime rate bool enableThis cam1Active AudioListener reEnableListener listener enabled gameObject SetActive IEnumerator CrossFadePro Camera RenderTexture width Screen height CameraSetup yield StartCoroutine AlphaTimer time targetTexture renderTex Release CameraCleanup cam1 cam2 isWorking inProgress Value",
+"description":"Cross fade between two camera using RenderTexture"
 }

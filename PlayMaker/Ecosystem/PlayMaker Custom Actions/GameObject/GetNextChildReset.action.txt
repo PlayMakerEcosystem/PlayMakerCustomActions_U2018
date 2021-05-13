@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetNextChildReset.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetNextChildReset.cs",
-"keywords":" added djaydino gets lets quickly perform them specific Find GetNextChildReset Note Store carries force you want renter back item send when there are cache changes increment through DoGetNextChild reset errors storeNextChild Value parent GetChild more children second time avoid possible infinite loop called Practically enabled calling will again iterating first transform childCount finishedEvent iterate the next child nextChildIndex loopEvent"
+"keywords":" added djaydino gets lets quickly perform them specific Find GetNextChildReset Note Store FsmGameObject carries force you want renter back item FsmBool send when there are cache changes increment through DoGetNextChild reset errors storeNextChild Value parent GetChild gameObject more children second time avoid possible infinite loop called Practically enabled calling will again iterating first transform childCount finishedEvent iterate the next child nextChildIndex loopEvent",
+"description":"Each time this action is called it gets the next child of a GameObject. This lets you quickly loop through all the children of an object to perform actions on them. NOTE: To find a specific child use Find Child."
 }

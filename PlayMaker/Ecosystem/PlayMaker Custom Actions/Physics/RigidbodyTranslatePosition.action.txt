@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidbodyTranslatePosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyTranslatePosition.cs",
-"keywords":" Physics Moves calcs smoothing are NOT included RigidbodyTranslatePosition input the distance units that will move its current Reset Rigidbody DoMovement MovePosition transform position inputVector Value"
+"keywords":" Physics Moves calcs smoothing are NOT included RigidbodyTranslatePosition input the distance units that will move its current FsmVector3 Reset gameObject Rigidbody DoMovement MovePosition transform position inputVector Value",
+"description":"Moves the position of a Rigidbody, calcs and smoothing are NOT included."
 }

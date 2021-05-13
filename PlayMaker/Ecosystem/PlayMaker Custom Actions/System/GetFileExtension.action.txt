@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/System/GetFileExtension.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/System/GetFileExtension.cs",
-"keywords":" Author Deek http index php topic Returns Asset speficied starting after Assets Some foo The Reset GetExtension Value couldn found GetFileExtension File Path"
+"keywords":" Author Deek http index php topic Returns Asset speficied starting after Assets Some foo The FsmString Reset GetExtension Value couldn found GetFileExtension File Path",
+"description":"Returns the file-extension of an Asset at the speficied path."
 }

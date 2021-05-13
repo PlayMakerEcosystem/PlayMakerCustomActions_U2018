@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetAmbientEquatorColor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetAmbientEquatorColor.cs",
-"keywords":" Rendering Sets The Ambient Equator Repeats every Reset everyFrame DoSetAmbientEquatorColor RenderSettings ambientEquatorColor Value"
+"keywords":" Rendering Sets The Ambient Equator Repeats every bool Reset everyFrame DoSetAmbientEquatorColor RenderSettings ambientEquatorColor Value",
+"description":"Sets the RenderSettings Ambient Equator Color."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/GoToStateByName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/GoToStateByName.cs",
-"keywords":" http index php topic msg31329 Reflection StateMachine Immediately with selected GoToStateByName that owns Leave Sent the was not found Reset DoGotoState PlayMakerFSM ActionHelpers GetGameObjectFsm fsmName _sourceFsm States stateName Value MethodInfo GetType GetMethod NonPublic BindingFlags Instance switchState Invoke sourceFsm targetState stateFoundEvent stateNotFoundEvent"
+"keywords":" http index php topic msg31329 Reflection StateMachine Immediately with selected GoToStateByName that owns Leave Sent the was not found Reset FsmString DoGotoState gameObject PlayMakerFSM ActionHelpers GetGameObjectFsm fsmName _sourceFsm States stateName Value MethodInfo GetType GetMethod NonPublic BindingFlags Instance switchState Invoke sourceFsm targetState stateFoundEvent stateNotFoundEvent",
+"description":"Immediately switch to a state with the selected name."
 }

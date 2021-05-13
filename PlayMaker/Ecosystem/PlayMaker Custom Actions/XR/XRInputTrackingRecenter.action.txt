@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRInputTrackingRecenter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRInputTrackingRecenter.cs",
-"keywords":" the current pose XRInputTrackingRecenter InputTracking Recenter"
+"keywords":" the current pose XRInputTrackingRecenter InputTracking Recenter",
+"description":"Center tracking on the current pose."
 }

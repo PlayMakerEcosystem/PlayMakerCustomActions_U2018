@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ResizeTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ResizeTexture.cs",
-"keywords":" Resize Example would mean current devided half http php topic Setup Leave change the Output enum modeSelect simpleMode Reset ResizeTexture FF9900ff Input Please review Average Biliner Nearest filterModeFinal ratio newTexture Value texItem ResizeTextureAction GetPixels RoundToInt pSource pScale Texture2D TextureFormat RGBA32 xLength xWidth xHeight Round xSourceIndex xIndexTL xIndexTR Lerp xIndexBL xIndexBR xRatioX xRatioY pFilterMode Max Floor Mathf Ceil vCenter vPixelSize xYFrom xYTo xXFrom xXTo aSourceColor vSourceSize oColorTemp xGridCount SetPixels aColor Apply oNewTex"
+"keywords":" Material Resize Example would mean current devided half http php topic Setup Leave change the FsmFloat Output FsmTexture enum modeSelect bool simpleMode Reset ResizeTexture FF9900ff Input Please review Average Biliner Nearest filterModeFinal ratio newTexture Value texItem ResizeTextureAction GetPixels RoundToInt pSource pScale Texture2D TextureFormat RGBA32 Vector2 xLength xWidth xHeight Round xSourceIndex xIndexTL xIndexTR Lerp xIndexBL xIndexBR xRatioX xRatioY pFilterMode Max Floor Min Mathf Ceil vCenter vPixelSize xYFrom xYTo xXFrom xXTo aSourceColor vSourceSize oColorTemp xGridCount SetPixels aColor Apply oNewTex",
+"description":"Resize the texture. Example: ratio of 0,5 would mean current texture devided by half"
 }

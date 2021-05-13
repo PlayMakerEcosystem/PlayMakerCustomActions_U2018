@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayAddGameObjectIfEnabled.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayAddGameObjectIfEnabled.cs",
-"keywords":" Author Deek http index php topic Optionally reverse ArrayAddGameObjectIfEnabled enum ArrayEditor FsmArray active itself independent any parents Wheter add the disabled Reset ifEnabled ActiveInHirarchy activeInHierarchy ActiveType activeSelf DoAddValue Resize Set Length Value"
+"keywords":" Author Deek http index php topic Optionally reverse ArrayAddGameObjectIfEnabled enum ArrayEditor FsmArray FsmGameObject active itself independent any parents Wheter add the disabled FsmBool Reset ifEnabled ActiveInHirarchy activeInHierarchy ActiveType activeSelf DoAddValue Resize Set Length gameObject Value",
+"description":"Add an GameObject to the end of a GameObject array if it's enabled. Optionally reverse the check."
 }

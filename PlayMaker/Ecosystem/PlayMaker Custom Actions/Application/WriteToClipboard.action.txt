@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/WriteToClipboard.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/WriteToClipboard.cs",
-"keywords":" original https index php topic msg97434 Application lets you write devices WriteToClipboard written into Repeat every active Code that runs entering the everyFrame SetClipboard GUIUtility systemCopyBuffer Value"
+"keywords":" original https index php topic msg97434 Application lets you write devices WriteToClipboard written into FsmString Repeat every active bool Code that runs entering the everyFrame SetClipboard GUIUtility systemCopyBuffer String Value",
+"description":"This action lets you write a string value into the devices clipboard."
 }

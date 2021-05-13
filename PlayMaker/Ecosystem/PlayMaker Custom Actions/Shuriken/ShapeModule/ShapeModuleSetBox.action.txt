@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetBox.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetBox.cs",
-"keywords":" Shuriken ShapeModuleSetBox with Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm scale box Value"
+"keywords":" Shuriken ShapeModuleSetBox with FsmVector3 Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm scale box Value",
+"description":"Set the box of a particleSystem's ShapeModule ( Shuriken)"
 }

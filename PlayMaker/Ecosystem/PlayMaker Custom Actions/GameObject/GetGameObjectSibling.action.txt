@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetGameObjectSibling.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetGameObjectSibling.cs",
-"keywords":" Author Deek http php topic under same GetGameObjectSibling Negative before positive after Starting would above Hirarchy any wouldn reached send there could found Reset startingFrom GetSiblingIndex transform Trying the root not allowed childCount Specified sibling index bounds parent GetChild currChildID storeResultName storeResult Value notFoundEvent"
+"keywords":" Author Deek http php topic under same GetGameObjectSibling Negative before positive after Starting would above Hirarchy any wouldn FsmInt FsmGameObject reached FsmString send there could found Reset startingFrom GetSiblingIndex transform Trying the root not allowed childCount Specified sibling index bounds parent GetChild currChildID gameObject storeResultName storeResult Value notFoundEvent",
+"description":"Get the GameObject before or after the specified GameObject (any GameObject under the same parent)."
 }

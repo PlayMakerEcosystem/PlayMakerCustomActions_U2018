@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArraySwapItems.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArraySwapItems.cs",
-"keywords":" Just Another Added Darkhitor two specified indexes ArraySwapItems FsmArray first second index Result trigger the removeAt errors Reset doArrayListSwap index2 Values index1 Value _item2 Exception Message failureEvent"
+"keywords":" Just Another Added Darkhitor two specified indexes ArraySwapItems FsmArray first second index FsmInt Result trigger the removeAt errors Reset doArrayListSwap index2 Values index1 Value _item2 Exception Message failureEvent",
+"description":"Swap two items at a specified indexes of a PlayMaker Array"
 }

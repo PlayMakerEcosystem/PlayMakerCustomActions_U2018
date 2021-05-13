@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/ResourcesLoad.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/ResourcesLoad.cs",
-"keywords":" pragma disable Loads ResourcesLoad relative any inside Assets folder your project extensions must omitted The stored Reset UnityException Message successEvent failureEvent ErrorCheck Sprites AudioClip are loadResource doNotSpawn Instantiate source GetFsmGameObject _go Texture2D GetFsmTexture _texture GetFsmMaterial _material TextAsset GetFsmString _target _asset Variables GetFsmObject storeAsset variableName Resources Load assetPath GetType ObjectType _var Value not supported"
+"keywords":" pragma disable Loads ResourcesLoad relative any inside Assets folder your project extensions must omitted The stored FsmBool Reset UnityException Message successEvent failureEvent ErrorCheck Sprites AudioClip are bool loadResource doNotSpawn Instantiate source GetFsmGameObject _go Texture2D GetFsmTexture _texture GetFsmMaterial _material TextAsset GetFsmString _target _asset text Variables GetFsmObject storeAsset variableName Resources Load assetPath GetType ObjectType _var Value not supported",
+"description":"Loads an asset stored at path in a Resources folder. The path is relative to any Resources folder inside the Assets folder of your project, extensions must be omitted."
 }

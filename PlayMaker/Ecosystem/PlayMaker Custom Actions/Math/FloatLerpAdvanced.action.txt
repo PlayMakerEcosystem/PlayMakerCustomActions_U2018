@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatLerpAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatLerpAdvanced.cs",
-"keywords":" Math FloatLerpAdvanced enum First Second Interpolate between ToVector clamped range can choosen below Store Repeat every Useful any the values are changing Reset Linear everyFrame DoLerp amount storeResult mult Lerp fromFloat toFloat Value GetInterpolation Quadratic EaseIn Cos EaseOut Mathf Smoothstep Smootherstep 15f 10f LerpInterpolationType deltaTime"
+"keywords":" Math FloatLerpAdvanced enum First Second Interpolate between ToVector clamped range can choosen below Store Repeat every Useful any the values are changing bool Reset FsmFloat Linear everyFrame DoLerp amount storeResult mult Lerp fromFloat toFloat Value GetInterpolation Quadratic EaseIn Cos EaseOut Mathf Smoothstep Smootherstep 15f 10f LerpInterpolationType deltaTime",
+"description":"Advanced interpolation between 2 floats."
 }

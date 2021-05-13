@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetAmbientMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetAmbientMode.cs",
-"keywords":" Rendering Sets SetAmbientMode ObjectType The Ambient FsmEnum Reset DoSetAmbientColor RenderSettings ambientMode Value"
+"keywords":" Rendering Sets SetAmbientMode ObjectType The Ambient FsmEnum Reset DoSetAmbientColor RenderSettings ambientMode Value",
+"description":"Sets the RenderSettings Ambient mode."
 }

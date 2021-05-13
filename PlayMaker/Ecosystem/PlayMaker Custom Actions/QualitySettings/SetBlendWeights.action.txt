@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/SetBlendWeights.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/SetBlendWeights.cs",
-"keywords":" Source Blend Two Four http index php topic SetBlendWeights Reset The can set either OneBone TwoBones level Value QualitySettings BlendWeights FourBones"
+"keywords":" Source Blend Two Four http index php topic SetBlendWeights FsmInt Reset The can set either OneBone TwoBones level Value QualitySettings BlendWeights FourBones",
+"description":"The Blend weights can be set to either One Bone, Two Bones or Four Bones."
 }

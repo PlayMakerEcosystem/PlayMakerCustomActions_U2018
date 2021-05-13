@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics 2d/SetVelocityConstantSpeed2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetVelocityConstantSpeed2d.cs",
-"keywords":" Source Physics Sets constant http index php topic SetVelocityConstantSpeed2d Exit the Reset Rigidbody2D speed velocity normalized exitAction Value"
+"keywords":" Source Physics Sets constant http index php topic SetVelocityConstantSpeed2d FsmFloat Exit the FsmBool Reset gameObject Rigidbody2D speed velocity normalized exitAction Value",
+"description":"Sets fix/constant velocity of a 2d Game Object."
 }

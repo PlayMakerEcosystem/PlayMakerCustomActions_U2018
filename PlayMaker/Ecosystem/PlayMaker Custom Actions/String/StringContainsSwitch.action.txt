@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringContainsSwitch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringContainsSwitch.cs",
-"keywords":" Author Deek http index php topic Tests against Multiple see within them Switches Compare Send raise matches are found Reset everyFrame DoStringContainsSwitch Length stringVariable Contains compareTo Value sendEvent NoMatchEvent"
+"keywords":" Author Deek http index php topic Tests against Multiple see within them Switches Compare Send raise matches are found bool Reset FsmString everyFrame DoStringContainsSwitch Length stringVariable Contains compareTo Value sendEvent NoMatchEvent",
+"description":"Tests a String against Multiple to see if it is within one of them."
 }

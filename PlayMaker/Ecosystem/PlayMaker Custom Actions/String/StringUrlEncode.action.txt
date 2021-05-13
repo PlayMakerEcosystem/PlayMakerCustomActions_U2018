@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringUrlEncode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringUrlEncode.cs",
-"keywords":" Generic RegularExpressions http index php topic StringUrlEncode Reset storeResult stringVariable UrlEncode Dictionary MatchEvaluator toBeEncoded match Value replaceRegex Replace matchEval encoded"
+"keywords":" Generic Text RegularExpressions http index php topic StringUrlEncode FsmString Reset storeResult stringVariable UrlEncode Dictionary MatchEvaluator toBeEncoded match Value string replaceRegex Replace matchEval encoded",
+"description":"Url encode"
 }

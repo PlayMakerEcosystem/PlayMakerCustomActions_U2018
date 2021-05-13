@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/GetCameraAspect.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/GetCameraAspect.cs",
-"keywords":" Gets with not defined will The width height more than sent wide tall Reset everyFrame DoGetCameraAspect main Value isWideEvent isTallEvent _camera aspect isSquareEvent"
+"keywords":" Gets with not defined will The width height FsmFloat more than sent wide tall bool Reset everyFrame DoGetCameraAspect gameObject main Value isWideEvent isTallEvent _camera aspect isSquareEvent",
+"description":"Gets the aspect of the Camera (width/height)."
 }

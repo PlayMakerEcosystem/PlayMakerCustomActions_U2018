@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Trigonometry/Get360AngleToTarget.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Trigonometry/Get360AngleToTarget.cs",
-"keywords":" original https github pedrosanta PlaymakerActionsPack Trigonometry Gets degreees between given axis can defined world you specify both then will used local offset the Get360AngleToTarget enum Reset PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoGetAngleToTarget targetObject goTarget targetPosition transform InverseTransformPoint targetPos invertDirection GetSignedAngleToTargetDirection Atan2 localTarget Mathf Rad2Deg _mult 360f storeAngle Value _angle"
+"keywords":" original https github pedrosanta PlaymakerActionsPack Trigonometry Gets degreees between given axis can defined world you specify both then will used local offset the Get360AngleToTarget enum FsmGameObject FsmBool FsmFloat bool Reset FsmVector3 PLAYMAKER_1_8_5_OR_NEWER endif everyFrame DoGetAngleToTarget gameObject targetObject Vector3 goTarget targetPosition transform InverseTransformPoint targetPos invertDirection GetSignedAngleToTargetDirection Atan2 localTarget Mathf Rad2Deg _mult 360f storeAngle Value _angle",
+"description":"Gets the Angle (in degreees, 0 to 360 ) between a Game Object's given axis and a Target. The Target can be defined as a Game Object or a world Position. If you specify both, then the Position will be used as a local offset from the Object's position."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertFloatToDecibels.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFloatToDecibels.cs",
-"keywords":" https twitter Wahooney status Converts http www playdotsound portfolio item decibel calculator making sense linear values audio tools ConvertFloatToDecibels scale The Full Scalce DBFS result Range Repeats every Reset everyFrame DoConvert 20f Mathf Log10 volume decibels Value 80f"
+"keywords":" https twitter Wahooney status Converts http www playdotsound portfolio item decibel calculator making sense linear values audio tools ConvertFloatToDecibels scale The Full Scalce DBFS result Range FsmFloat Repeats every bool Reset everyFrame DoConvert 20f Mathf Log10 volume decibels Value 80f",
+"description":"Converts a volume value to Full Scale decibels (DBFS)."
 }

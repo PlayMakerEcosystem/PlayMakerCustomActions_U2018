@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUIElement/SetGUITexturePixelInsetPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GuiElement/SetGUITexturePixelInsetPosition.cs",
-"keywords":" GUIElement Sets Pixel the attached Useful moving GUI elements around SetGUITexturePixelInsetPosition Reset everyFrame DoGUITexturePixelInsetPosition Rect AsIncrement PixelInsetX PixelInsetY Value GUITexture pixelInset"
+"keywords":" GUIElement Sets Pixel the attached Useful moving GUI elements around SetGUITexturePixelInsetPosition FsmFloat FsmBool bool Reset everyFrame DoGUITexturePixelInsetPosition gameObject Rect AsIncrement PixelInsetX PixelInsetY Value GUITexture pixelInset",
+"description":"Sets the Pixel Inset Position of the GUITexture attached to a Game Object. Useful for moving GUI elements around."
 }

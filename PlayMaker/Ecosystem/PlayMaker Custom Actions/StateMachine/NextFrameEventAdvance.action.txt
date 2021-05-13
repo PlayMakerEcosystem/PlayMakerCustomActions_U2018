@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/NextFrameEventAdvance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/NextFrameEventAdvance.cs",
-"keywords":" StateMachine Sends after Useful you want states every NextFrameEventAdvance Reset loop frameCount Value AutoName Next Frame sendEvent endif"
+"keywords":" StateMachine Sends after Useful you want states every NextFrameEventAdvance FsmInt Reset loop frameCount Value string AutoName Next Frame sendEvent endif",
+"description":"Sends an Event after x frame. Useful if you want to loop states every x frame."
 }

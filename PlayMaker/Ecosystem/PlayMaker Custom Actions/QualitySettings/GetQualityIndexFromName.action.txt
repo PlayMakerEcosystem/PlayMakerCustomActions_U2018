@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/GetQualityIndexFromName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/GetQualityIndexFromName.cs",
-"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Gets GetQualityIndexFromName find Result level sent was not found the quality list Reset qualityName QualitySettings Equals _value qualityIndex Value qualityFoundEvent qualityNotFoundEvent"
+"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Gets GetQualityIndexFromName find FsmString Result level FsmInt sent was not found the quality list Reset qualityName QualitySettings string Equals _value qualityIndex Value qualityFoundEvent qualityNotFoundEvent",
+"description":"Gets the name of a quality settings from an index."
 }

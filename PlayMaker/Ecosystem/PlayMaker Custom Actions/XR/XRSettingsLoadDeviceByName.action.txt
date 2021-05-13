@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/XR/XRSettingsLoadDeviceByName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/XR/XRSettingsLoadDeviceByName.cs",
-"keywords":" the desired will Note that was already loaded restart may forced XRSettingsLoadDeviceByName device load Reset XRSettings LoadDeviceByName deviceType Value"
+"keywords":" the desired will Note that was already loaded restart may forced XRSettingsLoadDeviceByName device load FsmString Reset XRSettings LoadDeviceByName deviceType Value",
+"description":"Set Type of VR to the desired VR device and it will be loaded. Note that if a VR device was already loaded, a restart may be forced."
 }

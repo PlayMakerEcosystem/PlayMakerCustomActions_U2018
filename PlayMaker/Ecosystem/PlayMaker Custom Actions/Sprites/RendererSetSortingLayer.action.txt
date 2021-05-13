@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Sprites/RendererSetSortingLayer.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Renderer/RendererSetSortingLayer.cs",
-"keywords":" Sprites RendererSetSortingLayer ComponentAction Renderer with attached SortingLayer The Sorting Layer Repeat every Reset everyFrame DoSetSortingGroup UpdateCache cachedComponent Value method sortingLayerName will ignored because orSortingLayerID set ErrorCheck"
+"keywords":" Sprites RendererSetSortingLayer ComponentAction Renderer with attached SortingLayer The Sorting Layer Repeat every bool Reset FsmInt FsmString everyFrame DoSetSortingGroup UpdateCache gameObject cachedComponent Value method string sortingLayerName will ignored because orSortingLayerID set ErrorCheck",
+"description":"TODO"
 }

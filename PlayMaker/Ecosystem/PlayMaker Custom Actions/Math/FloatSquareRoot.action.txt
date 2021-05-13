@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatSquareRoot.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatSquareRoot.cs",
-"keywords":" Math square Reset everyFrame DoFloatSquareRoot result Mathf Sqrt floatVariable Value"
+"keywords":" Math square FsmFloat bool Reset everyFrame DoFloatSquareRoot result Mathf Sqrt floatVariable Value",
+"description":"Get a Float Variable square root value"
 }

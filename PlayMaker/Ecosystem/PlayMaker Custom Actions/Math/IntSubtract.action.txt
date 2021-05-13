@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntSubtract.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntSubstract.cs",
-"keywords":" original Math Integer IntSubtract Repeat active Used with Every Subtracts the operation rate independent Reset everyFrame doSubtract perSecond Mathf deltaTime _absSub _acc intVariable subtract Value"
+"keywords":" original Math Integer IntSubtract FsmInt Repeat active Used with Every Subtracts the operation rate independent bool Reset everyFrame doSubtract perSecond Mathf deltaTime _absSub _acc intVariable subtract Value",
+"description":"Subtracts a value to an Integer Variable."
 }

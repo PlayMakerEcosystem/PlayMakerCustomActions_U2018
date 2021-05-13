@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/WebCam/CheckForWebcam.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/WebCam/CheckForWebcam.cs",
-"keywords":" Adam brzozowsky gmail http index php topic msg53819 Checks CheckForWebcam send webcam was not Reset WebCamTexture devices Length numOfCams webcamFound webcamNotFound"
+"keywords":" Adam brzozowsky gmail http index php topic msg53819 Checks CheckForWebcam send webcam was not Reset WebCamTexture devices Length numOfCams webcamFound webcamNotFound",
+"description":"Checks system for a webcam."
 }

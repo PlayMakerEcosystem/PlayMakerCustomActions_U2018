@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GameObjectKeepActive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GameObjectKeepActive.cs",
-"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Keeps multiple other GameObjectKeepActive FsmStateActionAdvanced enum Specify that being against must order given GameObjects What should are visible scene the independent its parents Reset updateType FrameUpdateSelector everyFrame IsActive CheckState IsNotActive activeSelf ActiveType ActiveInHirarchy activeInHierarchy Value SetActive secReq OnExit gameObjectToCheck OwnerOption DoKeepActive"
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic Keeps multiple other GameObjectKeepActive FsmStateActionAdvanced enum Specify that being against FsmGameObject must order given GameObjects What should are visible scene the independent its parents Reset updateType FrameUpdateSelector everyFrame GameObject bool IsActive CheckState IsNotActive activeSelf ActiveType ActiveInHirarchy activeInHierarchy Value SetActive secReq OnExit gameObjectToCheck OwnerOption DoKeepActive",
+"description":"Keeps multiple GameObjects active, as long as the other GameObject is."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetForwardDirection.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetForwardDirection.cs",
-"keywords":" Transforms local world GetForwardDirection Reset everyFrame DoTransformDirection forwardDirection Value transform forward"
+"keywords":" Transforms local world GetForwardDirection FsmVector3 bool Reset everyFrame DoTransformDirection gameObject forwardDirection Value transform forward",
+"description":"Transforms a Direction from a Game Object's local space to world space."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToVector3.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToVector3.cs",
-"keywords":" RegularExpressions Convert Converts into flexible are placeholders escape special chars like parenthesis example ConvertStringToVector3 expected representing Repeats every performance will affected Reset everyFrame DoParsing format could improved with some more inject the not there Replace floatregex fullregex Match source storeResult Parse Groups Value"
+"keywords":" Text RegularExpressions Convert Converts into flexible are placeholders escape special chars like parenthesis example ConvertStringToVector3 expected representing FsmString FsmVector3 Repeats every performance will affected bool Reset everyFrame DoParsing string format could improved with some more inject the not there Replace floatregex fullregex Match source storeResult Vector3 Parse Groups Value",
+"description":"Converts a string into a vector3 variable. Format is flexible, [x] [y] and [z] are placeholders, escape special chars like \ for parenthesis for example "
 }

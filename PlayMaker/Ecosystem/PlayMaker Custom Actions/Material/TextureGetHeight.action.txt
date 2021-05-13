@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/TextureGetHeight.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/TextureGetHeight.cs",
-"keywords":" http index php topic TextureGetHeight Reset getHeight Value height"
+"keywords":" Material http index php topic TextureGetHeight FsmTexture FsmInt Reset getHeight texture Value height",
+"description":"Get texture height"
 }

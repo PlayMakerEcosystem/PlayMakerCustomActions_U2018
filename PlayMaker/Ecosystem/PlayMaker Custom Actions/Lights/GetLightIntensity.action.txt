@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Lights/GetLightIntensity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Lights/GetLightIntensity.cs",
-"keywords":" Lights Gets the ComponentAction Reset everyFrame DoGetLightIntensity UpdateCache lightIntensity Value light intensity"
+"keywords":" Lights Gets the ComponentAction FsmFloat bool Reset everyFrame DoGetLightIntensity gameObject UpdateCache lightIntensity Value light intensity",
+"description":"Gets the Intensity of a Light."
 }

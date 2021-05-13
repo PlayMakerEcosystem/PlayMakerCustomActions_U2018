@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetRigidbodyPosition.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetRigidbodyPosition.cs",
-"keywords":" Physics more efficient then accessing transform SetRigidbodyPosition rigid rotate The Repeat every Reset everyFrame DoPosition Value rigidBody position _pos"
+"keywords":" Physics more efficient then accessing transform SetRigidbodyPosition rigid rotate The FsmVector3 Repeat every bool Reset FsmFloat gameObject everyFrame DoPosition Vector3 Value rigidBody position _pos",
+"description":"Set a Rigidbody position. It's more efficient then accessing the transform of the gameObject."
 }

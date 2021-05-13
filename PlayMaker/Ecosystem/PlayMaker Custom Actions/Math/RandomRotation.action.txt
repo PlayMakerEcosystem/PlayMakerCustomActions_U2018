@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/RandomRotation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Quaternion/RandomRotation.cs",
-"keywords":" Math Sets RandomRotation FsmQuaternion Store euler Seems related the randomization algorythm could provide better results when avoid similar rotations time Quaternion Reset rotation Random rotationUniform storeResult storeEulerResult Value _quat eulerAngles"
+"keywords":" Math Sets RandomRotation FsmQuaternion Store euler FsmVector3 Seems related the randomization algorythm could provide better results when avoid similar rotations time bool Quaternion Reset rotation Random rotationUniform storeResult storeEulerResult Value _quat eulerAngles",
+"description":"Sets a Quaternion Variable or vector3 variable to a random rotation."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/ConvertColorToHex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/ConvertColorToHex.cs",
-"keywords":" Hexadecimal Convert html ConvertColorToHex Include channel Adds beginning The resulting hexa Repeat every Reset everyframe Execute withAlpha ToHtmlStringRGBA ColorUtility ToHtmlStringRGB appendHashChar result Value _hex"
+"keywords":" Hexadecimal Convert html ConvertColorToHex Include channel Adds beginning The resulting hexa FsmString Repeat every bool string Reset everyframe Execute withAlpha ToHtmlStringRGBA ColorUtility ToHtmlStringRGB appendHashChar result Value _hex",
+"description":"Convert a color to hexa (html)"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/FindGameObject2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/FindGameObject2.cs",
-"keywords":" pragma disable Finds searching tags defined optional when doesn exists FindGameObject2 can leave with specified then must match result fired not found typically possible you are define the Reset Untagged FindGameObjectsWithTag possibleGameObjects FindGameObjectWithTag UnityException TagDoesntExistEvent store Find ErrorCheck objectName withTag Value Specify Tag both"
+"keywords":" pragma disable Finds searching tags defined optional when doesn exists FindGameObject2 can leave with specified then must match result FsmGameObject fired not found typically possible you are FsmString define the Reset Untagged FindGameObjectsWithTag possibleGameObjects FindGameObjectWithTag UnityException TagDoesntExistEvent store GameObject Find ErrorCheck objectName string withTag Value Specify Tag both",
+"description":"Finds a Game Object by Name and/or Tag. If searching by tags defined as FsmString, optional event to catch when tag doesn't exists"
 }

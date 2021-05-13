@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/SetMultiBoolValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/SetMultiBoolValue.cs",
-"keywords":" multi multiple Source Math Sets the many http index php topic SetMultiBoolValue Count Reset everyFrame DoSetBoolValue Length Equals boolVariable values Value"
+"keywords":" multi multiple Source Math Sets the many http index php topic SetMultiBoolValue Count Reset FsmBool everyFrame DoSetBoolValue Length Equals boolVariable values Value",
+"description":"Sets the value of many Bool Variable."
 }

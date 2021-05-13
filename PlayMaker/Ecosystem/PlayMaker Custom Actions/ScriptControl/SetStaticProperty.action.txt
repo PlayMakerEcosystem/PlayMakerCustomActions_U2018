@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/SetStaticProperty.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/SetStaticProperty.cs",
-"keywords":" Reflection Generic ScriptControl SetStaticProperty Full path that contains method NOTE must match Repeat every parametersArray Reset everyFrame DoSetStaticValue UpdateValue SetValue GetValue ReflectionUtils GetGlobalType cachedClassName className NETFX_CORE cachedPropertyInfo GetTypeInfo GetDeclaredField cachedType GetField BindingFlags FlattenHierarchy endif Invalid Property cachedPropertyName propertyName ErrorCheck DoCache errorString not found ReferenceEquals RealType propertyValue the wrong should cachedFieldInfo FieldType"
+"keywords":" Reflection Generic ScriptControl SetStaticProperty Full path that contains method FsmString NOTE must match Repeat every parametersArray Reset everyFrame DoSetStaticValue UpdateValue SetValue GetValue bool ReflectionUtils GetGlobalType cachedClassName className NETFX_CORE cachedPropertyInfo GetTypeInfo GetDeclaredField cachedType GetField BindingFlags FlattenHierarchy endif Invalid Property cachedPropertyName propertyName ErrorCheck DoCache errorString not found ReferenceEquals RealType propertyValue the wrong should cachedFieldInfo FieldType string",
+"description":"Set a public static property in a class."
 }

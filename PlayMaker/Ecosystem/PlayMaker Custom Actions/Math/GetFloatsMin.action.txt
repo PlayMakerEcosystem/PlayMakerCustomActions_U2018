@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatsMin.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatsMin.cs",
-"keywords":" Math Returns minimum list GetFloatsMin The Reset everyFrame DoMinFromFloats Variables GetFsmFloat _value Mathf _val storeResult Value _min"
+"keywords":" Math Returns minimum list GetFloatsMin The bool Reset everyFrame DoMinFromFloats Variables GetFsmFloat _value Mathf _val storeResult Value _min",
+"description":"Returns the minimum float from a list"
 }

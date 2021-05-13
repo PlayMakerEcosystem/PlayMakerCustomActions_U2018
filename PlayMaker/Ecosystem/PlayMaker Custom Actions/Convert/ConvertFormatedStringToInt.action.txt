@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertFormatedStringToInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFormatedStringToInt.cs",
-"keywords":" Converts ConvertFormatedStringToInt convert integer Store result Repeat every Useful the changing Reset Globalization NumberStyles Any everyFrame DoConvertStringToInt intVariable Parse stringVariable Value numberStyle"
+"keywords":" Converts ConvertFormatedStringToInt convert integer FsmString Store result FsmInt Repeat every Useful the String changing bool Reset Globalization NumberStyles Any everyFrame DoConvertStringToInt intVariable Parse stringVariable Value numberStyle",
+"description":"Converts an String value to an Int value."
 }

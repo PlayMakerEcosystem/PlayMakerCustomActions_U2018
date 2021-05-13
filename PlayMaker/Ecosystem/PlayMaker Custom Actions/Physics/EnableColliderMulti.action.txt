@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/EnableColliderMulti.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/EnableColliderMulti.cs",
-"keywords":" Author Deek Physics http index php topic disable several GamObject Optionally found EnableColliderMulti with attached flag Reset DoEnableCollider gameObjects applyToAllColliders cols Find colliders the set them GetComponents cols2D Collider Collider2D enabled enable Value"
+"keywords":" Author Deek Physics http index php topic disable several GamObject Optionally found EnableColliderMulti with attached flag FsmBool Reset FsmGameObject DoEnableCollider gameObjects applyToAllColliders cols Find colliders the gameobject set them GetComponents cols2D Collider Collider2D enabled enable Value",
+"description":"Enable or disable a Collider or Collider2D on several GamObject. Optionally set all colliders found on each GameObject."
 }

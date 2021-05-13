@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/HasSibling.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/HasSibling.cs",
-"keywords":" Author Deek http index php topic Finds Sends events based not NOTE will through siblingren GameObjects first HasSibling need match Store the was Reset Untagged storeResult found notFoundEvent parent skip root transform Equals search recursively DoGetSiblingByName returnObject ErrorCheck siblingName withTag Value Specify sibling tag both"
+"keywords":" Author Deek http index php topic Finds Sends events based not NOTE will through siblingren GameObjects first HasSibling need match FsmString Store the FsmGameObject was FsmBool Reset Untagged storeResult found notFoundEvent parent skip root transform Equals search recursively DoGetSiblingByName gameObject returnObject ErrorCheck siblingName string withTag Value Specify sibling tag both",
+"description":"Finds the sibling of a GameObject by Name and/or Tag. Sends events based on result (found or not found). NOTE: This action will search recursively through all siblingren of the GameObjects parent and return the first match."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/InsideColliderInfo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/InsideColliderInfo.cs",
-"keywords":" Physics Send you are inside outside http index php topic InsideColliderInfo Reset colliderTarget temp Renderer tempRen colliderBounds Intersects myObj insideEvent insideCollider Value outsideEvent"
+"keywords":" Physics Send you are inside outside http index php topic InsideColliderInfo FsmObject FsmBool Reset gameObject colliderTarget temp Renderer tempRen colliderBounds Intersects myObj insideEvent insideCollider Value outsideEvent",
+"description":"Send event if you are inside or outside a collider"
 }

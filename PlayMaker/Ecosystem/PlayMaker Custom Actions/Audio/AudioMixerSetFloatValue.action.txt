@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioMixerSetFloatValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AudioMixer/AudioMixerSetFloatValue.cs",
-"keywords":" original Tropical http index php topic msg52963 Sets AudioMixerSetFloatValue ObjectType Audio with the exposed Parameter Title Reset everyFrame DoSetMixerFloatValue AudioMixer _TheMixer SetFloat _ExposedFloatName _Floatvalue"
+"keywords":" original Tropical http index php topic msg52963 Sets AudioMixerSetFloatValue ObjectType Audio with FsmObject the exposed Parameter FsmString Title FsmFloat bool Reset everyFrame DoSetMixerFloatValue AudioMixer string _TheMixer SetFloat _ExposedFloatName _Floatvalue",
+"description":"Sets the float value of an exposed parameter for a Unity Audio Mixer."
 }

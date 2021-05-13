@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/GetTextureSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/GetTextureSize.cs",
-"keywords":" Gets pixels GetTextureSize The Reset width Value height"
+"keywords":" Gets pixels GetTextureSize FsmTexture FsmVector2 The FsmInt Reset Vector2 width texture Value height",
+"description":"Gets a texture height and width in pixels."
 }

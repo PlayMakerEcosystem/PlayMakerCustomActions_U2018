@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/AlignTransformUsingProxy.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/AlignTransformUsingProxy.cs",
-"keywords":" Aligns another relative that basically Reset DoAlignTransformUsingProxy Value goTarget goProxy _go go_parent proxy_parent Quaternion FromToRotation forward _go_proxy_delta_q rotation _target InverseTransformPoint _proxy position transform Translate _proxy_go_delta"
+"keywords":" Aligns another relative that basically FsmGameObject Reset DoAlignTransformUsingProxy GameObject Value goTarget goProxy _go go_parent proxy_parent Quaternion FromToRotation forward _go_proxy_delta_q rotation Vector3 _target InverseTransformPoint _proxy position transform Translate _proxy_go_delta",
+"description":"Aligns a GameObject to another using a proxy( relative to that proxy basically)"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/SetPlayableDirectorGenericObjectBinding.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/SetPlayableDirectorGenericObjectBinding.cs",
-"keywords":" Linq Playables pragma disable Generic example with Cinemachine Shot SetPlayableDirectorGenericObjectBinding hold components leave pick Bind the Sent Track not found Reset PlayableDirector playableAsset timelineAction FirstOrDefault Count ElementAt trackIndex timelineAsset outputs First streamName trackName Exception failureEvent timeline SetGenericBinding _playableBinding sourceObject bindingObject Value"
+"keywords":" Linq Playables pragma disable Generic example with Cinemachine Shot SetPlayableDirectorGenericObjectBinding hold components leave pick Bind the FsmObject Sent Track not found Reset FsmInt FsmString PlayableDirector playableAsset timelineAction gameObject FirstOrDefault Count ElementAt trackIndex string timelineAsset outputs First streamName trackName Exception failureEvent timeline SetGenericBinding _playableBinding sourceObject bindingObject Value",
+"description":"Set Generic Binding for a PlayableDirector using an Object Variable, for example to use with Timeline's Cinemachine Shot binding"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmArrayRemoveAll.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmArrayRemoveAll.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine Remove items FsmArrayRemoveAll BaseFsmVariableAction that owns Optional the ggop UpdateCache fsmName FsmVariables GetFsmArray variableName Value fsmArray Reset"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Remove items FsmArrayRemoveAll BaseFsmVariableAction that owns Optional the FsmString ggop gameObject UpdateCache fsmName FsmVariables GetFsmArray variableName Value fsmArray Reset",
+"description":"Remove all items from an array."
 }

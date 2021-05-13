@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntModulo.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntModulo.cs",
-"keywords":" Math Find the between two ints IntModulo Reset everyFrame DoModulo dividend diviser result resultAsInt Value _mod Exception Modulo"
+"keywords":" Math Find the between two ints IntModulo FsmFloat FsmInt bool Reset everyFrame DoModulo dividend diviser result resultAsInt Value _mod Exception Modulo",
+"description":"Find the modulo between two ints dividend % diviser."
 }

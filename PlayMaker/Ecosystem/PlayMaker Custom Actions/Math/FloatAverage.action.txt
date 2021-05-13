@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatAverage.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatAverage.cs",
-"keywords":" Math Gets the listed variables FloatAverage Reset everyFrame DoAverage storeResult Value average floatArray Length"
+"keywords":" Math Gets the listed variables FloatAverage FsmFloat bool Reset everyFrame DoAverage storeResult Value average floatArray Length",
+"description":"Gets the average of all listed float variables."
 }

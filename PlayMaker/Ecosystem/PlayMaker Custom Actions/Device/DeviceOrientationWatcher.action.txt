@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/DeviceOrientationWatcher.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/DeviceOrientationWatcher.cs",
-"keywords":" Sends discrete based changes mobile DeviceOrientationWatcher llndscape landscape upside send device entered unkown not fire the found when starts Reset ignoreInitialOrientation DoWatchDeviceOrientation Input FireOrientationEvent _currentOrientation FaceDown FaceDownEvent FaceUp FaceUpEvent LandscapeLeft LandscapeLeftEvent LandscapeRight LandscapeRightEvent Portrait PortraitEvent PortraitUpsideDown PortraitUpsideDownEvent DeviceOrientation Unknown UnknownEvent"
+"keywords":" Sends discrete based changes mobile DeviceOrientationWatcher llndscape landscape upside send device entered unkown not fire the found when starts bool Reset ignoreInitialOrientation DoWatchDeviceOrientation Input FireOrientationEvent _currentOrientation FaceDown FaceDownEvent FaceUp FaceUpEvent LandscapeLeft LandscapeLeftEvent LandscapeRight LandscapeRightEvent Portrait PortraitEvent PortraitUpsideDown PortraitUpsideDownEvent DeviceOrientation Unknown UnknownEvent",
+"description":"Sends discrete Event based on the Orientation changes of the mobile device."
 }

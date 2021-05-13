@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/ConvertFloatToBoolUsingThreshold.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertFloatToBoolUsingThreshold.cs",
-"keywords":" Original thore https index php topic msg32820 topicseen Logic Converts given values ConvertFloatToBoolUsingThreshold input minimum maximum enum Rules within than What happens when equal Result store the resulting Reset DoNotChange everyFrame DoFloatToBool setWhenLarger setWhenSmaller setWhenInThreshold thresholdMin setWhenEqualToMin floatValue thresholdMax SetFalse SetTrue setWhenEqualToMax ThresholdRule FlipBool storeBool Value"
+"keywords":" Original thore https index php topic msg32820 topicseen Logic Converts given values ConvertFloatToBoolUsingThreshold input minimum maximum FsmFloat enum Rules within than What happens when equal Result store the resulting FsmBool Reset DoNotChange everyFrame DoFloatToBool setWhenLarger setWhenSmaller setWhenInThreshold thresholdMin setWhenEqualToMin floatValue thresholdMax SetFalse SetTrue setWhenEqualToMax ThresholdRule FlipBool storeBool Value",
+"description":"Converts a float and given threshold values, set a bool as a result."
 }

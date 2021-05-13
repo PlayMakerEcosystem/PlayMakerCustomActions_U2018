@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/GetResourcesCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/GetResourcesCount.cs",
-"keywords":" original Amaranth http index php post topic last_msg resource directory GetResourcesCount number files the folder sent found Reset DoGetFileCount Resources LoadAll folderName resourceDir Length fileCount Value _count noResourcesEvent"
+"keywords":" original Amaranth http index php post topic last_msg resource directory GetResourcesCount FsmString number files the folder FsmInt sent found Reset DoGetFileCount Resources LoadAll folderName resourceDir Length fileCount Value _count noResourcesEvent",
+"description":"Get the number of files in a resource directory."
 }

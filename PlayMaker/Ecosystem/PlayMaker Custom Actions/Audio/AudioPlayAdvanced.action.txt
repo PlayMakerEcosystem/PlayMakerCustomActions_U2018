@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/AudioPlayAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/AudioPlayAdvanced.cs",
-"keywords":" Made DjayDino inspector plays you wnat change values Wait must turned AudioPlayAdvanced with ObjectType Optionally Spatial reverb Zone Settings Options send when finishes Reset cache the AudioSource oneShotClip PlayOneShot audioClip WaitForEndOfClip failed sound isPlaying finishedEvent volume priority panStereo stereoPan spatialBlend reverbZoneMix endif dopplerLevel audio pitch Value"
+"keywords":" Made DjayDino inspector plays you wnat change values Wait must turned AudioPlayAdvanced with ObjectType Optionally FsmObject Spatial reverb Zone Settings Options bool send when finishes Reset FsmInt FsmFloat gameObject cache the AudioSource oneShotClip PlayOneShot audioClip WaitForEndOfClip failed sound isPlaying finishedEvent volume priority panStereo stereoPan spatialBlend reverbZoneMix endif dopplerLevel audio pitch Value",
+"description":"Plays the Audio Clip set with Set Audio Clip or in the Audio Source inspector on a Game Object. Optionally plays a one shot Audio Clip./n If you wnat to change values while playing Wait For End Of Clip must be turned on"
 }

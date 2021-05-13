@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiFocusControl.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiFocusControl.cs",
-"keywords":" Move keyboard named GuiFocusControl the focus OnlyForce Reset OnGUI GetNameOfFocusedControl GUI FocusControl controlName Value"
+"keywords":" Move keyboard named GuiFocusControl the focus FsmString bool OnlyForce Reset OnGUI GetNameOfFocusedControl string GUI FocusControl controlName Value",
+"description":"Move keyboard focus to a named control."
 }

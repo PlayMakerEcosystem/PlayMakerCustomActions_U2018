@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics2D/SetPlatformEffector2DColliderMask.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/SetPlatformEffector2DColliderMask.cs",
-"keywords":" author zeeawk Physics2D Adds collider Platform Effector SetPlatformEffector2DColliderMask enum with attached Add Remove the collision when exiting Reset PlatformEffector2D resetOnExit Value Operation Enable Disable colliderMask collisionLayer"
+"keywords":" author zeeawk Physics2D Adds collider Platform Effector SetPlatformEffector2DColliderMask enum with attached Add Remove the collision when exiting FsmBool Reset gameObject PlatformEffector2D resetOnExit Value Operation Enable Disable colliderMask collisionLayer",
+"description":"Adds a collider mask to a Platform Effector 2D"
 }

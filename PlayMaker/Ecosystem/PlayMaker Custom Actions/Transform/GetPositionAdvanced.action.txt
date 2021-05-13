@@ -3,5 +3,7 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/GetPositionAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/GetPositionAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal version Gets the stores Axis features allows selection GetPositionAdvanced Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoGetPosition World transform localPosition Value position"
+"keywords":" script dependancies Assets Custom __Internal version Gets the stores Axis features allows selection GetPositionAdvanced FsmVector3 FsmFloat bool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateType PlayMakerActionsUtils EveryFrameUpdateSelector everyFrame DoGetPosition gameObject World transform localPosition vector Value position",
+"description":"Gets the Position of a Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable.
+ Advanced features allows selection of update type."
 }

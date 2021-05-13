@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/EncodeBitFlagField.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/EncodeBitFlagField.cs",
-"keywords":" original http index php topic msg47426 Convert boolean values into which represented integer format EncodeBitFlagField encode Reset Call DoEncodeBitFlag Test see number booleans cleared used function bit flag Iterate through Declare purposes building boolVariables Conditional what assign bitVar Build NOTE will need learn how grok rest Create with loop that works backwards bitFlagString Length Work left Math Pow Conversion intOutput Set output the converted value"
+"keywords":" original http index php topic msg47426 Convert boolean values into which represented integer format EncodeBitFlagField encode FsmBool FsmInt Reset Call DoEncodeBitFlag Test see number booleans cleared used function bit flag Iterate through Declare purposes building boolVariables Conditional what assign bitVar Build NOTE will need learn how grok rest Create with loop that works backwards bitFlagString Length Work left Math Pow Conversion intOutput Set output the converted value",
+"description":"Encode a collection of boolean values into a bit-flag field which is represented as an integer value in decimal format."
 }

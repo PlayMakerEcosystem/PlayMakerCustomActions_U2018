@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToEnum.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToEnum.cs",
-"keywords":" ConvertStringToEnum convert FsmEnum Fired conversion failed that not found the Repeat every Reset everyFrame DoSetEnumValue IsDefined Enum Parse enumVariable GetType _valueCache Value errorEvent"
+"keywords":" ConvertStringToEnum convert FsmString FsmEnum Fired conversion failed that not found the Repeat every bool string Reset everyFrame DoSetEnumValue IsDefined Enum Parse enumVariable GetType _valueCache Value errorEvent",
+"description":"Convert an string value to an Enum Variable"
 }

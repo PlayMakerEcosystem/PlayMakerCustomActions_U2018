@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetLightCullingMask.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetLightCullingMask.cs",
-"keywords":" RenderSettings Sets Culling used http index php topic ComponentAction these Layer Invert the you cull layers except those defined above Reset everyFrame DoSetLightCullingMask UpdateCache light ActionHelpers LayerArrayToLayerMask cullingMask invertMask Value"
+"keywords":" RenderSettings Sets Culling used http index php topic ComponentAction these Layer Invert the you cull layers except those defined above FsmBool bool Reset FsmInt everyFrame DoSetLightCullingMask gameObject UpdateCache light ActionHelpers LayerArrayToLayerMask cullingMask invertMask Value",
+"description":"Sets the Culling Mask used by the light."
 }

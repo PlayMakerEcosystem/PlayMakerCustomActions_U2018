@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetAngularVelocity.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/GetAngularVelocity.cs",
-"keywords":" based http index php topic Physics Gets stores NOTE must have Rigid ComponentAction with axis The Angular referencing Repeat every Useful watch evolve time Reset World everyFrame DoGetAngularVelocity UpdateCache Self rigidbody transform InverseTransformDirection Value _angularVelocity"
+"keywords":" based http index php topic Physics Gets stores NOTE must have Rigid ComponentAction with FsmVector3 axis FsmFloat The Angular referencing Repeat every Useful watch evolve time bool Vector3 Reset World everyFrame DoGetAngularVelocity UpdateCache gameObject Self rigidbody transform InverseTransformDirection vector Value _angularVelocity",
+"description":"Gets the Angular Velocity of a Game Object and stores it in a Vector3 Variable or each Axis in a Float Variable. NOTE: The Game Object must have a Rigid Body."
 }

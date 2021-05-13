@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Transform/SetRotationVelocityDirection2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Transform/SetRotationVelocityDirection2d.cs",
-"keywords":" Sets force direction NOTE sprite should http index php topic SetRotationVelocityDirection2d The rotate Setup enum Reset PLAYMAKER_1_8_5_OR_NEWER endif updateTypeSelect updateType Doit Rigidbody2D velocity Atan2 dir Mathf Rad2Deg _target transform rotation Quaternion AngleAxis angle forward everyFrame Value"
+"keywords":" Sets force direction NOTE sprite should http index php topic SetRotationVelocityDirection2d The rotate Setup enum FsmBool Reset PLAYMAKER_1_8_5_OR_NEWER endif updateTypeSelect updateType Doit gameObject Vector2 Rigidbody2D velocity Atan2 dir Mathf Rad2Deg _target transform rotation Quaternion AngleAxis angle Vector3 forward everyFrame Value",
+"description":"Sets the Rotation of a Game Object to the force / velocity direction 2D - NOTE: sprite at 0.0.0 should face right"
 }

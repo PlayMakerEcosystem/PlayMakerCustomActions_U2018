@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Audio/PlayRandomSoundNoRepeat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Audio/PlayRandomSoundNoRepeat.cs",
-"keywords":" Generic Plays Random defined takes priority You relative control how often they are selected PlayRandomSoundNoRepeat Audio Weight Can hit the same number twice Reset DoPlayRandomClip Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex AudioClip audioClips randomIndex AudioSource PlayClipAtPoint clip transform position volume Value"
+"keywords":" Generic Plays Random defined takes priority You relative control how often they are selected PlayRandomSoundNoRepeat Audio Weight Can hit the same number twice FsmBool Reset FsmVector3 FsmFloat DoPlayRandomClip Length Repeat ActionHelpers GetRandomWeightedIndex weights lastIndex AudioClip audioClips randomIndex gameObject AudioSource PlayClipAtPoint clip transform position volume Value",
+"description":"Plays a Random Audio Clip at a position defined by a Game Object or a Vector3. If a position is defined, it takes priority over the game object. You can set the relative weight of the clips to control how often they are selected."
 }

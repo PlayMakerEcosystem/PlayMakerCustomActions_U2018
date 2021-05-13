@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/RandomVector3InsideSphere.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/RandomVector3InsideSphere.cs",
-"keywords":" script dependancies Assets Custom __Internal original http index php topic msg41337 inside RandomVector3InsideSphere FsmStateActionAdvanced Leave Reset everyFrame DoGetRandomPointInsideSphere Random insideUnitSphere sphereRadius sphereCenter storeResult Value position"
+"keywords":" script dependancies Assets Custom __Internal original http index php topic msg41337 inside RandomVector3InsideSphere FsmStateActionAdvanced Leave Reset FsmVector3 FsmFloat everyFrame DoGetRandomPointInsideSphere Random insideUnitSphere sphereRadius sphereCenter storeResult Value position",
+"description":"Get Random Vector3 inside a sphere"
 }

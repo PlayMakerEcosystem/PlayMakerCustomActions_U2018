@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetObjectName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UnityObject/GetObjectName.cs",
-"keywords":" Author Deek http index php topic Gets stores the specified Reset everyFrame DoGetObjectName specifyObject storeName Value"
+"keywords":" Author Deek GameObject http index php topic Gets stores the specified FsmString bool Reset FsmObject everyFrame DoGetObjectName specifyObject storeName Value",
+"description":"Gets the name of an Object and stores it in a String Variable."
 }

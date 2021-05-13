@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/sprite/SpriteSetSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Sprite/SpriteSetSize.cs",
-"keywords":" Sets must have Sprite SpriteSetSize ComponentAction control SpriteRenderer The flip values when exits Repeat every Reset everyFrame resetOnExit size_orig Execute UpdateCache sizeX sizeY Value cachedComponent _size"
+"keywords":" Sets must have Sprite SpriteSetSize ComponentAction control SpriteRenderer FsmVector2 The flip values when exits FsmBool Repeat every bool Vector2 Reset FsmFloat everyFrame resetOnExit size_orig Execute UpdateCache gameObject sizeX sizeY Value cachedComponent _size",
+"description":"Sets a Sprite size. Object must have a Sprite Renderer."
 }

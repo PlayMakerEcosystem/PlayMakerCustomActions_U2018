@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/SetCameraOrthoSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/SetCameraOrthoSize.cs",
-"keywords":" Sets The ortho Reset everyFrame DoSetCameraOrthoSize _camera orthographicSize orthoSize Value"
+"keywords":" Sets The ortho FsmFloat bool Reset everyFrame DoSetCameraOrthoSize gameObject _camera orthographicSize orthoSize Value",
+"description":"Sets the ortho size of the Camera."
 }

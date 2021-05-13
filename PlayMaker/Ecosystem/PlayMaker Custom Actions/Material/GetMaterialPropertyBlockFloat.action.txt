@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockFloat.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/GetMaterialPropertyBlockFloat.cs",
-"keywords":" Gets GetMaterialPropertyBlockFloat ComponentAction that applied named shader Must have PerRendererData attribute parameter Repeat every Useful the animated Reset MaterialPropertyBlock everyFrame DoGetMaterialFloat _Glossiness UpdateCache renderer GetPropertyBlock floatValue Value _propBlock GetFloat _propertyName"
+"keywords":" Gets GetMaterialPropertyBlockFloat ComponentAction that applied named shader Must have PerRendererData attribute FsmString parameter FsmFloat Repeat every Useful the animated bool Reset MaterialPropertyBlock everyFrame DoGetMaterialFloat string _Glossiness gameObject UpdateCache Material renderer GetPropertyBlock floatValue Value _propBlock GetFloat _propertyName",
+"description":"Gets a named float value in a game object's material PropertyBlock. "
 }

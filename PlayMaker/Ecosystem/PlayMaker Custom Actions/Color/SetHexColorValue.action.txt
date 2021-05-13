@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Color/SetHexColorValue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Color/SetHexColorValue.cs",
-"keywords":" original http index php topic msg48436 Sets the You can RGB apha RGBA SetHexColorValue without with alpha Reset DoSetColorValue HexInput Replace Length Parse hex Substring Globalization NumberStyles HexNumber colorVariable Value"
+"keywords":" original http index php topic msg48436 Sets the You can RGB apha RGBA SetHexColorValue without with alpha FsmString Reset DoSetColorValue HexInput Replace Length Parse hex Substring Globalization NumberStyles HexNumber colorVariable Value",
+"description":"Sets the value of a Color Variable by Hex -  You can use 6 hex = RGB or hex + apha = RGBA"
 }

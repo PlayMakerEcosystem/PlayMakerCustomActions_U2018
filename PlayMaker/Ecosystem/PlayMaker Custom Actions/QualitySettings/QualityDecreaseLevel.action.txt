@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/QualitySettings/QualityDecreaseLevel.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/QualitySettings/QualityDecreaseLevel.cs",
-"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Decrease graphics QualityDecreaseLevel force expensive applied apply anti aliasing Result quality fired when reached the lowest available Reset DecreaseLevel applyExpensiveChanges qualityIndex qualityName Value QualitySettings GetQualityLevel LimitReachedEvent"
+"keywords":" bundle Assets Ecosystem Custom Packages unitypackage Decrease graphics QualityDecreaseLevel force expensive applied apply anti aliasing FsmBool Result quality fired when reached the lowest available Reset FsmInt FsmString DecreaseLevel applyExpensiveChanges qualityIndex qualityName Value QualitySettings GetQualityLevel LimitReachedEvent",
+"description":"Decrease the graphics quality level."
 }

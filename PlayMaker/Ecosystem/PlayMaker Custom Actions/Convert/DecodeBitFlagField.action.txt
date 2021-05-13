@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/DecodeBitFlagField.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/DecodeBitFlagField.cs",
-"keywords":" original http index php topic msg47426 bit DecodeBitFlagField Integer decode values Output location boolean after decoding Reset Call DoDecodeBitFlag conversion function see number booleans Flush clean slate NOTE Yes rough somewhat sloppy best workaround that know point time ToString inputInt will convert into binary representation Reverse iterative loop Length inverted since the two arrays are built inverse another boolVariables Value binString Basic test condition"
+"keywords":" original http index php topic msg47426 bit DecodeBitFlagField Integer decode values FsmInt Output location boolean after decoding FsmBool Reset Call DoDecodeBitFlag conversion function see number booleans Flush clean slate NOTE Yes rough somewhat sloppy best workaround that know point time ToString inputInt will convert into binary representation Reverse iterative loop Length inverted since the two arrays are built inverse another boolVariables Value binString Basic test condition",
+"description":"Decode an integer (bit-flag) value into a collection of booleans"
 }

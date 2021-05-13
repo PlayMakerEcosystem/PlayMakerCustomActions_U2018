@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Particles/particleSystemIsAlive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Particles/particleSystemIsAlive.cs",
-"keywords":" Source Shuriken Particles Emitter http index php topic particleSystemIsAlive Setup when turned off Data How the particle Will disable itself events are used Reset ParticleSystem main endif getDuration everyFrame IsPSAlive trueEvent isAlive Value falseEvent"
+"keywords":" Source Shuriken Particles Emitter http index php topic particleSystemIsAlive Setup when turned off Data FsmBool How the particle FsmFloat Will disable itself events are used bool Reset gameObject ParticleSystem main endif getDuration everyFrame IsPSAlive trueEvent isAlive Value falseEvent"
 }

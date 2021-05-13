@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetFogStartDistance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetFogStartDistance.cs",
-"keywords":" SetFogStartDistance Repeat every Useful the Enable Fog setting changing Reset everyFrame _setValue RenderSettings fogStartDistance startDistance Value"
+"keywords":" SetFogStartDistance FsmFloat Repeat every Useful the Enable Fog setting changing bool Reset everyFrame _setValue RenderSettings fogStartDistance startDistance Value",
+"description":"Set the start distance of the fog"
 }

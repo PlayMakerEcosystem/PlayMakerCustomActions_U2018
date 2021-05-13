@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/SetSphereColliderCenter.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/SetSphereColliderCenter.cs",
-"keywords":" Physics Sphere SetSphereColliderCenter ComponentAction SphereCollider apply add Optionally any with parameters along axis leave unchanged Repeat every the active Reset everyFrame DoChange UpdateCache Value cachedComponent center"
+"keywords":" Physics Sphere SetSphereColliderCenter ComponentAction SphereCollider apply add Optionally any with parameters FsmVector3 along axis leave unchanged Repeat every the active bool Reset FsmFloat everyFrame DoChange UpdateCache gameObject Vector3 vector Value cachedComponent center",
+"description":"Set the center of a Sphere Collider"
 }

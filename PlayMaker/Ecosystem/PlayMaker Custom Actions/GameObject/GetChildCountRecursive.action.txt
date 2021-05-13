@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/GetChildCountRecursive.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/GetChildCountRecursive.cs",
-"keywords":" Linq Gets recursivly not just direct childs that test will count gameobjects Store the number Reset DoGetChildCountRecursive GetComponentsInChildren Transform includeInactive storeResult Value _result Length"
+"keywords":" Linq Gets recursivly not just direct childs that test will count gameobjects FsmBool Store the number FsmInt Reset DoGetChildCountRecursive gameObject GetComponentsInChildren Transform includeInactive storeResult Value _result Length",
+"description":"Gets the number of children recursivly ( all children, not just direct childs) that a GameObject has."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmStringCompare.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmStringCompare.cs",
-"keywords":" Made nightcorelv StateMachine the another FsmStringCompare Optional PlayMakerFSM Reset everyFrame DoGetFsmString goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName DoStringCompare StoreFsmVariable Value equal NotEqualEvent"
+"keywords":" Made nightcorelv StateMachine the another FsmStringCompare Optional bool PlayMakerFSM Reset everyFrame DoGetFsmString gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmString variableName fsmString DoStringCompare StoreFsmVariable Value equal NotEqualEvent",
+"description":"Compare the value of a String Variable from another FSM."
 }

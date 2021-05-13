@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SetFsmLoop.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SetFsmLoop.cs",
-"keywords":" StateMachine http index php topic another SetFsmLoop that owns Optional loop Repeat every Useful the changing PlayMakerFSM Reset goLastFrame fsmNameLastFrame ActionHelpers GetGameObjectFsm FF9900ff Could not find fsmName MaxLoopCountOverride loopOverride everyFrame Value DoSetFsmBool"
+"keywords":" StateMachine http index php topic another SetFsmLoop that owns Optional FsmString loop FsmInt Repeat every Useful the changing string PlayMakerFSM Reset gameObject goLastFrame fsmNameLastFrame ActionHelpers GetGameObjectFsm FF9900ff Could not find fsmName MaxLoopCountOverride loopOverride everyFrame Value DoSetFsmBool",
+"description":"Set the value of loop in another FSM."
 }

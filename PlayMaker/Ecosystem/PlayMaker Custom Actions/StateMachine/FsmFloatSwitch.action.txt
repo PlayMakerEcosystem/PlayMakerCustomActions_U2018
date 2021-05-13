@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/FsmFloatSwitch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/FsmFloatSwitch.cs",
-"keywords":" Made nightcorelv forumlink http index php topic StateMachine Sends based could represent distance angle health left sets ranges correspond Events FsmFloatSwitch that owns Optional the Switches Less Send PlayMakerFSM Reset everyFrame ggop goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName ttop Length StoreFsmVariable lessThan Value sendEvent"
+"keywords":" Made nightcorelv forumlink http index php topic StateMachine Sends based could represent distance angle health left sets ranges correspond Events FsmFloatSwitch that owns Optional the FsmString Switches Less Send bool PlayMakerFSM Reset everyFrame ggop gameObject goLastFrame ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName fsmFloat ttop Length StoreFsmVariable lessThan Value sendEvent",
+"description":"Sends an Event based on the value of a FSM Float Variable. The float could represent distance, angle to a target, health left... The array sets up float ranges that correspond to Events."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringGetLineCount.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringGetLineCount.cs",
-"keywords":" StringGetLineCount The number lines Reset DoGetLineCountFromString not defined theString lineCount Value split Length"
+"keywords":" StringGetLineCount FsmString The number lines FsmInt Reset DoGetLineCountFromString not defined theString lineCount Value split Length",
+"description":"Get the number of lines of a string."
 }

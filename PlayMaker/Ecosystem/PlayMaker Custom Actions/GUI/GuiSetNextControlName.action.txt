@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUI/GuiSetNextControlName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GUI/GuiSetNextControlName.cs",
-"keywords":" Useful focus textfields example GuiSetNextControlName the next Reset control OnGUI GUI SetNextControlName controlName Value"
+"keywords":" Useful focus textfields example GuiSetNextControlName the next FsmString Reset control OnGUI GUI SetNextControlName controlName Value",
+"description":"Set the name of the next control. Useful to control focus on textfields for example"
 }

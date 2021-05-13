@@ -3,5 +3,8 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/CreateObject2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/CreateObject2.cs",
-"keywords":" Creates nUse you specify will remove obsolete old networking properties CreateObject2 create Usually Prefab Optional defined used local offset NOTE Overrides Spawn Optionally store the created Reset zero TransformPoint spawnPoint Instantiate Quaternion Euler endif storeObject Value spawnPosition newObject transform eulerAngles spawnRotation"
+"keywords":" Creates nUse you specify will remove obsolete old networking properties CreateObject2 create Usually Prefab Optional defined used local offset NOTE Overrides Spawn Optionally store the created FsmGameObject Reset FsmVector3 Vector3 zero TransformPoint spawnPoint GameObject Instantiate Quaternion Euler endif storeObject Value spawnPosition newObject transform eulerAngles spawnRotation",
+"description":"Creates a Game Object, usually using a Prefab.
+Use a Game Object and/or Position/Rotation for the Spawn Point. If you specify a Game Object, Position is used as a local offset, and Rotation will override the object's rotation.
+v2: Fixed local offset for spawn point position and remove obsolete old networking properties]"
 }

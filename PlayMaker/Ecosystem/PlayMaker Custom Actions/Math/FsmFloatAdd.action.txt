@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FsmFloatAdd.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FsmFloatAdd.cs",
-"keywords":" Math Adds another Optional PlayMakerFSM Reset everyFrame DoSetFsmFloatAdd goLastFrame the changed ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName perSecond add Value deltaTime"
+"keywords":" Math Adds another Optional FsmString bool PlayMakerFSM Reset everyFrame DoSetFsmFloatAdd gameObject goLastFrame the changed ActionHelpers GetGameObjectFsm fsmName FsmVariables GetFsmFloat variableName perSecond fsmFloat add Value deltaTime",
+"description":"Adds a value to a Float Variable in another FSM."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArraySendEventToGameObjects.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArraySendEventToGameObjects.cs",
-"keywords":" within ArraySendEventToGameObjects FsmArray The NOTE Events must marked Global send between Reset DoSendEvent objectReferences sendEventToGO excludeSelf OwnerOption SpecifyGameObject _go FsmEventTarget sendToChildren Value _eventTarget sendEvent"
+"keywords":" within ArraySendEventToGameObjects FsmArray The NOTE Events must marked Global send between FsmBool Reset DoSendEvent objectReferences sendEventToGO excludeSelf OwnerOption SpecifyGameObject FsmGameObject _go FsmEventTarget GameObject sendToChildren Value _eventTarget sendEvent",
+"description":"Send event to all the GameObjects within an array."
 }

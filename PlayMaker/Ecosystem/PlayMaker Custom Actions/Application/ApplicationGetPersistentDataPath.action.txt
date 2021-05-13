@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationGetPersistentDataPath.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationGetPersistentDataPath.cs",
-"keywords":" ApplicationGetPersistentDataPath Persistent Data adds the Reset Application appendPathDelimiter persistentDataPath Value"
+"keywords":" ApplicationGetPersistentDataPath Persistent Data FsmString adds the bool Reset Application appendPathDelimiter persistentDataPath Value",
+"description":"Get the Application Persistent Data Path"
 }

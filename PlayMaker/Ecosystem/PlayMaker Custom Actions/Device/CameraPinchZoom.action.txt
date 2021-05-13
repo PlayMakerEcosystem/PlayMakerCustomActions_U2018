@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/CameraPinchZoom.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraPinchZoom.cs",
-"keywords":" Source Device Pinch http index php topic CameraPinchZoom Setup current storeGameObject change the should have Title Perspective zoom FOV Minimum below Maximum Cannot above that number Events Disable send Reset useMainCamera Untagged tag MainCamera touchCount Input GetTouch deltaPosition touchZeroPrevPos touchOnePrevPos touchZero touchOne position magnitude prevTouchDeltaMag touchDeltaMag orthographic orthoZoomSpeed orthographicSize deltaMagnitudeDiff perspectiveZoomSpeed Mathf Camera main fieldOfView minSizeClamp maxSizeClamp disableAction Value sendEvent"
+"keywords":" Source Device Pinch http index php topic CameraPinchZoom Setup current storeGameObject change the should have Title FsmGameObject Perspective zoom FOV Minimum below Maximum Cannot above that number FsmFloat Events Disable send FsmBool Reset useMainCamera Untagged gameObject tag MainCamera touchCount Input GetTouch Vector2 deltaPosition touchZeroPrevPos touchOnePrevPos touchZero touchOne position magnitude prevTouchDeltaMag touchDeltaMag orthographic orthoZoomSpeed orthographicSize deltaMagnitudeDiff perspectiveZoomSpeed Mathf Camera main fieldOfView minSizeClamp maxSizeClamp disableAction Value sendEvent",
+"description":"Pinch zoom the main camera (Touch zoom)"
 }

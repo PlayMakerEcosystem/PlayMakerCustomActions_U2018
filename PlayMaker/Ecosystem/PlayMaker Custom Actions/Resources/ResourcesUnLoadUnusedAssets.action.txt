@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/ResourcesUnLoadUnusedAssets.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/ResourcesUnloadUnusedAssets.cs",
-"keywords":" UnLoads unused careful once time crates hickups especially mobile ResourcesUnLoadUnusedAssets AsyncOperation Reset Resources UnloadUnusedAssets _op isDone UnloadDoneEvent"
+"keywords":" UnLoads unused careful once time crates hickups especially mobile ResourcesUnLoadUnusedAssets AsyncOperation Reset Resources UnloadUnusedAssets _op isDone UnloadDoneEvent",
+"description":"UnLoads unused Resources. Be careful to use it only once at a time as it crates hickups especially on mobile."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CreateRenderTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CreateRenderTexture.cs",
-"keywords":" Camera Create CreateRenderTexture ObjectType FsmEnum The Reset RenderTexture width height RenderTextureFormat TextureFormat RenderTextureReadWrite TextureReadWrite ErrorCheck Value depth can"
+"keywords":" Camera Create CreateRenderTexture FsmInt ObjectType FsmEnum The FsmTexture Reset RenderTexture width height RenderTextureFormat TextureFormat RenderTextureReadWrite TextureReadWrite string ErrorCheck Value depth can",
+"description":"Create a new RenderTexture"
 }

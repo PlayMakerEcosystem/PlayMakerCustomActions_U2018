@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/GetFloatExponent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/GetFloatExponent.cs",
-"keywords":" script dependancies Assets Custom __Internal Math Store GetFloatExponent FsmStateActionAdvanced The Reset everyFrame exponent Mathf power Value"
+"keywords":" script dependancies Assets Custom __Internal Math Store GetFloatExponent FsmStateActionAdvanced The Reset FsmFloat everyFrame exponent Mathf power Value",
+"description":"Store a float exponent"
 }

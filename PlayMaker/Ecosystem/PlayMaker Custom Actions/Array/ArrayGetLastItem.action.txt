@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetLastItem.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetLastItem.cs",
-"keywords":" ArrayGetLastItem FsmArray MatchElementType Store last the Reset ExecuteAction SetValue Length AutoName storeValue NamedVar ActionHelpers GetValueLabel storeIndex endif"
+"keywords":" ArrayGetLastItem FsmArray MatchElementType Store last the FsmInt Reset ExecuteAction SetValue Length string AutoName storeValue NamedVar ActionHelpers GetValueLabel storeIndex endif",
+"description":"Get a last item of an array"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Level/LoadLevelClean.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/LoadLevelClean.cs",
-"keywords":" Loads special technic free avoid memory leak WILL itself survive LoadLevelClean Must list levels defined File Build Settings Ideally totally with litterally nothing hierarchy send when loaded NOTE makes sense still the scene enum Reset DebugLog message DontDestroyOnLoad transform root BaselevelName LoadLevelAsync isDone LoadBase UnloadUnusedAssets UnloadUnusedResources asyncOperation Application LoadLevelAdditiveAsync levelName Value loadState LoadLevel LogDebug loading done loadedEvent"
+"keywords":" Loads special technic free avoid memory leak WILL itself survive LoadLevelClean Must list levels defined File Build Settings Ideally totally with litterally nothing hierarchy FsmString send when loaded NOTE makes sense still the scene bool enum Reset string DebugLog message DontDestroyOnLoad transform root gameObject BaselevelName LoadLevelAsync isDone LoadBase UnloadUnusedAssets UnloadUnusedResources asyncOperation Application LoadLevelAdditiveAsync levelName Value loadState LoadLevel LogDebug loading done loadedEvent",
+"description":"Loads a Level using a special technic to free resources and avoid memory leak. This Object WILL set itself to survive level loading."
 }

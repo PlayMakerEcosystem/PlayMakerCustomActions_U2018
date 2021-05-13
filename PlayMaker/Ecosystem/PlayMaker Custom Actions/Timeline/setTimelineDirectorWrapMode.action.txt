@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Timeline/setTimelineDirectorWrapMode.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Timeline/setTimelineDirectorWrapMode.cs",
-"keywords":" Playables current timelines setTimelineDirectorWrapMode hold components the wrap ObjectType FsmEnum box preform every Reset PlayableDirector everyFrame timelineAction timeline extrapolationMode DirectorWrapMode wrapMode Value"
+"keywords":" Playables current timelines setTimelineDirectorWrapMode hold components the wrap ObjectType FsmEnum box preform every FsmBool Reset PlayableDirector everyFrame timelineAction gameObject timeline extrapolationMode DirectorWrapMode wrapMode Value"
 }

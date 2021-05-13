@@ -3,5 +3,7 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetNext2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetNext2.cs",
-"keywords":" gets version lets quickly perform them ArrayGetNext2 FsmArray where leave until send there are iteration raise when indicate you want beginning MatchElementType increment that through Reset resetFlag startIndex DoGetNextItem children errors item result SetValue more items second time avoid possible infinite loop called Practically enabled calling will again iterating first Length endIndex finishedEvent iterate the next child currentIndex Value nextItemIndex loopEvent"
+"keywords":" gets version lets quickly perform them ArrayGetNext2 FsmArray where leave until send there are iteration raise when indicate you want beginning FsmBool MatchElementType increment that through Reset FsmInt resetFlag startIndex DoGetNextItem children errors item result SetValue more items second time avoid possible infinite loop called Practically enabled calling will again iterating first Length endIndex finishedEvent iterate the next child currentIndex Value nextItemIndex loopEvent",
+"description":"Each time this action is called it gets the next item from a Array. This version has a reset flag 
+This lets you quickly loop through all the items of an array to perform actions on them."
 }

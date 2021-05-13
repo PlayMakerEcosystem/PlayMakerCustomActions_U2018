@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/SingletonManager.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/SingletonManager.cs",
-"keywords":" Generic Logic the given exists already then destroyed SingletonManager Reset Singleton List Contains Destroy SINGLETONS Add reference Value"
+"keywords":" Generic Logic the given exists already then gameobject destroyed SingletonManager FsmString Reset Singleton List string Contains Destroy SINGLETONS Add reference Value",
+"description":"Manager Singletons. If the reference given exists already, then this gameobject is destroyed"
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/AddTorqueAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/AddTorqueAdvanced.cs",
-"keywords":" Adds rotational optional setting AddTorqueAdvanced ComponentAction add Optionally parameters around leave unchanged local See Physics docs Repeat every active Translate makes the work instead scaled Reset dropdown with selected Force everyFrame DoAddTorque UpdateCache any axis Value seconds perSecond inRealtime unscaledDeltaTime deltaTime apply World AddTorque rigidbody AddRelativeTorque torque forceMode"
+"keywords":" Adds rotational optional setting AddTorqueAdvanced ComponentAction add Optionally parameters FsmVector3 around leave unchanged local See Physics docs Repeat every active Translate makes the work instead scaled bool Reset dropdown with selected FsmFloat Force everyFrame DoAddTorque gameObject UpdateCache Vector3 vector any axis Value seconds perSecond inRealtime unscaledDeltaTime deltaTime apply World AddTorque rigidbody AddRelativeTorque torque forceMode",
+"description":"Adds torque (rotational force) to a Game Object, with optional per seconds setting."
 }

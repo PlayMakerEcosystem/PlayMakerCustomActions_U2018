@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsAddInt.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/PlayerPrefs/PlayerPrefsAddInt.cs",
-"keywords":" made DjayDino playerpref player pref preference Adds identified moments PlayerPrefsAddInt sensitive Reset Equals GetInt add PlayerPrefs SetInt Value variables"
+"keywords":" made DjayDino playerpref player pref preference Adds identified moments PlayerPrefsAddInt sensitive FsmString FsmInt Reset Equals GetInt add PlayerPrefs SetInt Value variables",
+"description":"Adds a value to a playerprefs int identified by key. WARNING!! use PlayerPrefs only at key moments"
 }

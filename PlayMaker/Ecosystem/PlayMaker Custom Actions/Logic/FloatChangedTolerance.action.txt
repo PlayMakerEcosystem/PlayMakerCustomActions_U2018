@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Logic/FloatChangedTolerance.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Logic/FloatChangedTolerance.cs",
-"keywords":" Made Djaydino Logic Tests changed store that can used other operations FloatChangedTolerance watch change send the changes Reset tolerance previousValue floatVariable storeResult Value changedEvent"
+"keywords":" Made Djaydino Logic Tests changed store that can used other operations FloatChangedTolerance watch change FsmFloat send the changes FsmBool Reset tolerance previousValue floatVariable storeResult Value changedEvent",
+"description":"Tests if the value of a Float variable changed. Use this to send an event on change, or store a bool that can be used in other operations."
 }

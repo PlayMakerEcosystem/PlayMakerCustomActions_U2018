@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/RenderSettings/SetRenderQueue.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/RenderSettings/SetRenderQueue.cs",
-"keywords":" RenderSettings Sets Transparent objects you want something draw choose higher number http index php topic SetRenderQueue Setup that owns the Render TitleAttribute Order Options Reset gos RenderSetupObj renderer data _target Length materials renderQueue m_queues Value"
+"keywords":" RenderSettings Sets Transparent objects you want something draw choose higher number http index php topic SetRenderQueue Setup that owns the Render TitleAttribute Order Options Reset FsmInt gos RenderSetupObj renderer data gameObject Material _target Length materials renderQueue m_queues Value",
+"description":"Sets the RenderQueue of an game object's materials. The default render queue for Transparent objects is 3000. If you want something to draw on top, choose a higher queue number"
 }

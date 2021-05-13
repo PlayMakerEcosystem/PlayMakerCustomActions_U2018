@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/GetStringWithoutBOM.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/GetStringWithoutBOM.cs",
-"keywords":" index php post topic last_msg http answers unity3d questions xmlexception node canot appear html Gets Order Mark can cause parsers like xml example without the Reset DoGetStringWithoutBOM not defined Encoding UTF8 GetBytes source ReadToEnd streamReader memoryStream Close Value _result"
+"keywords":" index php post topic last_msg http answers unity3d questions xmlexception node canot appear html Gets Order Mark can cause parsers like xml example without the FsmString Reset DoGetStringWithoutBOM not defined Text Encoding UTF8 GetBytes source string ReadToEnd streamReader memoryStream Close Value _result",
+"description":"Gets a string without the Byte Order Mark. This can cause error for parsers like xml for example."
 }

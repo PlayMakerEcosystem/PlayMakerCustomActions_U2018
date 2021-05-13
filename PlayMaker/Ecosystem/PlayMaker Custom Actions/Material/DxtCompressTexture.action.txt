@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/DxtCompressTexture.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/DxtCompressTexture.cs",
-"keywords":" into DXT generated runtime Compressed textures less graphics memory are faster render After compression will DXT1 the original DXT5 format had alpha channel http index php topic DxtCompressTexture Input Reset Texture2D Compress highQuality Value temp"
+"keywords":" Material into DXT generated runtime Compressed textures less graphics memory are faster render After compression will DXT1 the original DXT5 format had alpha channel http index php topic DxtCompressTexture Input FsmTexture FsmBool Reset Texture2D Compress highQuality texture Value temp",
+"description":"Compress texture into DXT format. Use this to compress textures generated at runtime. Compressed textures use less graphics memory and are faster to render. After compression, texture will be in DXT1 format if the original texture had no alpha channel, and in DXT5 format if it had alpha channel."
 }

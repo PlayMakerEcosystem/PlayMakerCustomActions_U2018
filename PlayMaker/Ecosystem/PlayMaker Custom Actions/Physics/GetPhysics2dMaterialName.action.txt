@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/GetPhysics2dMaterialName.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics 2d/GetPhysics2dMaterialName.cs",
-"keywords":" Gets Physics2D GetPhysics2dMaterialName that applied requires Alternatively specify Physics instead Index ObjectType PhysicsMaterial2D the sent was not found _token instance Reset fail DoGetMaterialName Collider2D Collider materialName Value sharedMaterial"
+"keywords":" Gets Physics2D GetPhysics2dMaterialName that applied requires Alternatively specify Physics instead Index ObjectType PhysicsMaterial2D FsmObject the FsmString sent was not found string _token instance Reset fail bool DoGetMaterialName gameObject Collider2D Collider materialName Value sharedMaterial",
+"description":"Gets the name of game object's Physics2D material."
 }

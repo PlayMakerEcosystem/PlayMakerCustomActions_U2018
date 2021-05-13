@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetShapeType.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetShapeType.cs",
-"keywords":" Shuriken ShapeModuleSetShapeType with radius ObjectType FsmEnum Repeat every the active ShapeModule Reset Box _go ParticleSystem _ps shape everyFrame DoExecute _sm ParticleSystemShapeType shapeType Value"
+"keywords":" Shuriken ShapeModuleSetShapeType with radius ObjectType FsmEnum Repeat every the active bool ShapeModule Reset Box gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm ParticleSystemShapeType shapeType Value",
+"description":"Set the Shape type of a particleSystem's ShapeModule ( Shuriken)"
 }

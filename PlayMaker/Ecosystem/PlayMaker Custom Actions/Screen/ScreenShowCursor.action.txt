@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Screen/ScreenShowCursor.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Screen/ScreenShowCursor.cs",
-"keywords":" mouse ScreenShowCursor flag show hide Revert its before began animate the visibility time Reset everyFrame DoAction Value resetOnExit Screen showCursor Cursor visible _orig endif"
+"keywords":" mouse ScreenShowCursor flag show hide FsmBool Revert its before began animate the visibility time bool Reset everyFrame DoAction Value resetOnExit Screen showCursor Cursor visible _orig endif",
+"description":"Show or hide the mouse Cursor."
 }

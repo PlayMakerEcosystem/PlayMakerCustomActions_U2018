@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/ShapeModule/ShapeModuleSetUseMeshColors.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ShapeModule/ShapeModuleSetUseMeshColors.cs",
-"keywords":" Shuriken ShapeModuleSetUseMeshColors with Mesh flag Repeat every the active ShapeModule Reset _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshColors Value"
+"keywords":" Shuriken ShapeModuleSetUseMeshColors with Mesh flag FsmBool Repeat every the active bool ShapeModule Reset gameObject _go ParticleSystem _ps shape everyFrame DoExecute _sm useMeshColors Value",
+"description":"Set the Use Mesh Colors flag of a particleSystem's ShapeModule ( Shuriken)"
 }

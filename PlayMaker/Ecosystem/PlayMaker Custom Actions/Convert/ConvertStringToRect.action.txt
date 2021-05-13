@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Convert/ConvertStringToRect.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Convert/ConvertStringToRect.cs",
-"keywords":" RegularExpressions Convert Converts into flexible are placeholders Escape special chars like parenthesis example ConvertStringToRect expected representing Quaternion FsmRect Repeats every performance will affected Reset everyFrame DoParsing format could improved with some more inject the not there Replace floatregex fullregex Match source storeResult Rect Parse Groups Value"
+"keywords":" Text RegularExpressions Convert Converts into flexible are placeholders Escape special chars like parenthesis example ConvertStringToRect expected representing Quaternion FsmString FsmRect Repeats every performance will affected bool Reset everyFrame DoParsing string format could improved with some more inject the not there Replace floatregex fullregex Match source storeResult Rect Parse Groups Value",
+"description":"Converts a string into a Rect variable. Format is flexible, [x] [y] [w] and [h] are placeholders, Escape special chars like \ for parenthesis for example "
 }

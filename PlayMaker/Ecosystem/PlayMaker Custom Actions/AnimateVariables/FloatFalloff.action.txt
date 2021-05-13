@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/AnimateVariables/FloatFalloff.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/AnimateVariables/FloatFalloff.cs",
-"keywords":" based twitter runevision status https www youtube watch 5eoDoMj4E8E AnimateVariables lerp outside defined margin Typically camera movement follow player when getting close screen sides FloatFalloff Input Ranges Repeat every the active Reset everyFrame DoFallOff Mathf Pow result fallOffFactor Value"
+"keywords":" based twitter runevision status https www youtube watch 5eoDoMj4E8E AnimateVariables lerp outside defined margin Typically camera movement follow player when getting close screen sides FloatFalloff Input Ranges FsmFloat Repeat every the active bool Reset everyFrame DoFallOff Mathf Pow result fallOffFactor Value",
+"description":"Follow a float value and lerp if outside the defined margin. Typically use for camera movement to follow player when getting close to the screen sides"
 }

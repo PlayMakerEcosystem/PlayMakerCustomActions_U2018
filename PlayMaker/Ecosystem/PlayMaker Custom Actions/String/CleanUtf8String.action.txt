@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/CleanUtf8String.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/CleanUtf8String.cs",
-"keywords":" RegularExpressions Clean UTF ASCII characters CleanUtf8String TextArea Reset everyFrame DoSetStringValue stringVariable Regex Replace stringValue Value u0000 u007F"
+"keywords":" Text RegularExpressions Clean UTF ASCII characters CleanUtf8String TextArea FsmString FsmBool Reset everyFrame DoSetStringValue stringVariable Regex Replace stringValue Value u0000 u007F string",
+"description":"Clean UTF - 8 non-ASCII characters"
 }

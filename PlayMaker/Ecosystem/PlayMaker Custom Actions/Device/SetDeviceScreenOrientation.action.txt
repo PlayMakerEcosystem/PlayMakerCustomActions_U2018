@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Device/SetDeviceScreenOrientation.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Device/SetDeviceScreenOrientation.cs",
-"keywords":" Device Specifies logical Currently relevant mobile platforms SetDeviceScreenOrientation Amount acceleration under which trigger the low numbers Reset ScreenOrientation Landscape Screen orientation"
+"keywords":" Device Specifies logical Currently relevant mobile platforms SetDeviceScreenOrientation Amount acceleration under which trigger the low numbers Reset ScreenOrientation Landscape Screen orientation",
+"description":"Specifies logical orientation of the screen. Currently screen orientation is only relevant on mobile platforms"
 }

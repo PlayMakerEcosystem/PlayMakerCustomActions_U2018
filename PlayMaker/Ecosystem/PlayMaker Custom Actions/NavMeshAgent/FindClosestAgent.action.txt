@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/NavMeshAgent/FindClosestAgent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Navigation/FindClosestAgent.cs",
-"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic FindClosestAgent FsmStateActionAdvanced containing without consider objects camera Returns with Store the closest resets updateType Reset everyFrame DoTemplate FindObjectsOfType NavMeshAgent allNavMeshAgents skip equals specified withTag Untagged ignoreTag mustBeVisible ActionHelpers IsVisible transform position sqrMagnitude closestAgent closestObj storeDistance Value Mathf Sqrt closestDist"
+"keywords":" Author Deek script dependancies Assets Custom __Internal http index php topic FindClosestAgent FsmStateActionAdvanced containing without FsmString consider objects camera FsmBool Returns with FsmGameObject Store the closest FsmFloat resets updateType Reset everyFrame DoTemplate FindObjectsOfType NavMeshAgent allNavMeshAgents skip equals specified withTag string Untagged ignoreTag mustBeVisible ActionHelpers IsVisible transform position sqrMagnitude gameObject closestAgent closestObj storeDistance Value Mathf Sqrt closestDist",
+"description":"Get the closest agent to the specified one."
 }

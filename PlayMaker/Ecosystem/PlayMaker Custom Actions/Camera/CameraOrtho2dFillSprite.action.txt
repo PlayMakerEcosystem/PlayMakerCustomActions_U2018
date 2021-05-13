@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Camera/CameraOrtho2dFillSprite.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Camera/CameraOrtho2dFillSprite.cs",
-"keywords":" inside assuming setup may occur CameraOrthoFitSprite you want any cropping CameraOrtho2dFillSprite control Leave MainCamera The ObjectType Reset OwnerOption SpecifyGameObject everyFrame DoFill _go main Value _targetGo targetSprite width Screen height _spriteRenderer bounds windowAspect targetAspect _camera orthographicSize heightToBeSeen"
+"keywords":" inside assuming setup may occur CameraOrthoFitSprite you want any cropping CameraOrtho2dFillSprite control Leave MainCamera The ObjectType bool Reset OwnerOption SpecifyGameObject FsmGameObject everyFrame DoFill _go main Value GameObject _targetGo targetSprite width Screen height _spriteRenderer bounds windowAspect targetAspect _camera orthographicSize heightToBeSeen",
+"description":"Fill a sprite inside the screen assuming the camera is in a 2d setup. Cropping may occur, use CameraOrthoFitSprite if you don't want any cropping"
 }

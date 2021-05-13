@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventRandomDelay.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventRandomDelay.cs",
-"keywords":" Author Deek StateMachine PlayMakerFSM http index php topic Sends after they Browser SendEventRandomDelay Where FsmEventTarget NOTE Events must marked Global send between seconds Wheter the delay independent Reset Random Range delayMin delayMax 001f realTime Value FsmTime RealtimeSinceStartup startTime deltaTime timer time eventTarget sendEvent WasSent delayedEvent"
+"keywords":" Author Deek StateMachine PlayMakerFSM GameObject http index php topic Sends after they Browser SendEventRandomDelay Where FsmEventTarget NOTE Events must marked Global send between seconds FsmFloat Wheter the delay independent FsmBool Reset Random Range delayMin delayMax 001f realTime Value FsmTime RealtimeSinceStartup startTime deltaTime timer time eventTarget sendEvent WasSent delayedEvent",
+"description":"Sends an Event after a random delay. NOTE: To send events between FSMs they must be marked as Global in the Events Browser."
 }

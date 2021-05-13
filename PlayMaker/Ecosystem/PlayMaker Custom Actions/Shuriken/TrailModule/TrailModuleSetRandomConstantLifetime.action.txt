@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/TrailModule/TrailModuleSetRandomConstantLifetime.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/TrailModule/TrailModuleSetRandomConstantLifetime.cs",
-"keywords":" random constant Shuriken TrailModuleSetRandomConstantLifetime with minimum maximum bound Repeat every the active TrailModule MinMaxCurve Reset _go ParticleSystem _ps trails everyFrame DoExecute ParticleSystemCurveMode TwoConstants constantMin minLifetime constantMax maxLifetime Value _tm lifetime _mmc"
+"keywords":" random constant Shuriken TrailModuleSetRandomConstantLifetime with minimum maximum bound FsmFloat Repeat every the active bool TrailModule MinMaxCurve Reset gameObject _go ParticleSystem _ps trails everyFrame DoExecute ParticleSystemCurveMode TwoConstants constantMin minLifetime constantMax maxLifetime Value _tm lifetime _mmc",
+"description":"Set the random constant value lifetime of a particleSystem's TrailModule ( Shuriken)"
 }

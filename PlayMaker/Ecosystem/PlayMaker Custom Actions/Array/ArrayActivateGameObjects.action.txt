@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayActivateGameObjects.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayActivateGameObjects.cs",
-"keywords":" within ArrayActivateGameObjects FsmArray deactivate Resets the affected objects when exiting their original Useful you want controlled Reset DoAction Length activeSelf activate resetOnExit Value objectReferences _go SetActive _activeStates endif"
+"keywords":" within ArrayActivateGameObjects FsmArray deactivate Resets the affected objects when exiting their original Useful you want controlled FsmBool Reset DoAction bool Length activeSelf activate resetOnExit Value GameObject objectReferences _go SetActive _activeStates endif",
+"description":"Active/Deactivate all GameObjects within an array."
 }

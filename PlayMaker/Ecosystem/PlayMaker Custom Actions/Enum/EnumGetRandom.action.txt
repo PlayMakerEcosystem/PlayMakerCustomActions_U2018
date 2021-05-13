@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Enum/EnumGetRandom.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Enum/EnumGetRandom.cs",
-"keywords":" Author Deek Generic http index php topic EnumGetRandom FsmEnum Repeat every the active Reset everyFrame DoGetRandomValue List GetType GetValues enumType Add singleItem enumVariable Value Enum Random Range allEnumItems Count"
+"keywords":" Author Deek Generic http index php topic EnumGetRandom FsmEnum Repeat every the active bool Reset everyFrame DoGetRandomValue List GetType GetValues enumType Add singleItem enumVariable Value Enum Random Range allEnumItems Count",
+"description":"Get a Random item from an enum."
 }

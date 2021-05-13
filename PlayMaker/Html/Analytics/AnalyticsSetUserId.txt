@@ -1,0 +1,33 @@
+<div id="actionImg"><p><img src="http://mywebsite.com/docs/img/AnalyticsSetUserId.png" title="" width="350" /></p></div>
+<div id="actionDesc">
+<p>
+Sets the userId of the user.</p>
+</div>
+<div id="paramRow">
+	<div id="paramName">
+User Id</div>
+	<div id="paramDesc">
+The User Id</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Result</div>
+	<div id="paramDesc">
+Result</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Success</div>
+	<div id="paramDesc">
+Event Sent if execution went OK</div>
+</div>
+
+<div id="paramRow">
+	<div id="paramName">
+Failure</div>
+	<div id="paramDesc">
+Event Sent if execution failed. Check result for more infos</div>
+</div>
+

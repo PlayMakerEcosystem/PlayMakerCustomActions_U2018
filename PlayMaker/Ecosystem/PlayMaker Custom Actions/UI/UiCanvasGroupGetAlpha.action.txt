@@ -3,5 +3,5 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/UI/UiCanvasGroupGetAlpha.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/UI/UiCanvasGroupGetAlpha.cs",
-"keywords":" UiCanvasGroupGetAlpha ComponentAction with the CanvasGroup Repeats every useful animation Reset everyFrame DoGetValue UpdateCache Value cachedComponent alpha"
+"keywords":" UiCanvasGroupGetAlpha ComponentAction with the CanvasGroup FsmFloat Repeats every useful animation bool Reset everyFrame DoGetValue UpdateCache gameObject Value cachedComponent alpha"
 }

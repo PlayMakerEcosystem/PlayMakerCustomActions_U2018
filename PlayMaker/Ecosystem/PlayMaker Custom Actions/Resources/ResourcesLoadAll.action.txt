@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Resources/ResourcesLoadAll.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Resources/ResourcesLoadAll.cs",
-"keywords":" Linq pragma disable Loads given ResourcesLoadAll relative any inside folder your project extensions must omitted The stored FsmArray Reset UnityException Message successEvent failureEvent ErrorCheck Sprites Objects are loadAllResource Init ElementType TextAsset Select _asset ToArray RawValue Resources LoadAll assetPath Value storeAssets ObjectType not supported"
+"keywords":" Linq pragma disable Loads given ResourcesLoadAll relative any inside folder your project extensions must omitted FsmString The stored FsmArray Reset UnityException Message successEvent failureEvent ErrorCheck Sprites Objects are bool loadAllResource Init ElementType GameObject Texture Material String TextAsset Select _asset text ToArray RawValue Resources LoadAll assetPath Value storeAssets ObjectType not supported",
+"description":"Loads all assets of a given type stored at path in a Resources folder. The path is relative to any Resources folder inside the Assets folder of your project, extensions must be omitted."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationVersion.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationVersion.cs",
-"keywords":" Gets can optionnaly inside ApplicationVersion optional Leave effect Reset Application version ErrorCheck Value format must contains the replacement tag"
+"keywords":" Gets can optionnaly inside ApplicationVersion optional text Leave effect Reset FsmString Application version ErrorCheck string Value format must contains the replacement tag",
+"description":"Gets the Application version and can optionnaly format it inside a string"
 }

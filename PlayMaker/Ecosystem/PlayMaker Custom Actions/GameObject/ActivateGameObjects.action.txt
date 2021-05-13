@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GameObject/ActivateGameObjects.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GameObject/ActivateGameObjects.cs",
-"keywords":" Author Deek Generic http index php topic multiple once ActivateGameObjects Wheter disable current Recursively deactivate when exiting Useful you want contains IDs accurately List Add recursive GetComponentsInChildren Transform child changes unchanged prevAmount Length sets bools the unlock unset enable item applyToAll skip not wanting reset resetOnExit reverse was changed changedEntries gameObjects entry Value SetActive activeInHierarchy explicitly declare HandleOnGUI OnGUI"
+"keywords":" Author Deek Generic http index php topic multiple once ActivateGameObjects Wheter disable current Recursively deactivate when exiting Useful you want contains IDs accurately List FsmGameObject FsmBool Add recursive GetComponentsInChildren Transform child changes unchanged prevAmount Length sets bools the unlock unset enable item applyToAll skip not wanting reset resetOnExit reverse was changed changedEntries GameObject gameObjects entry Value SetActive activeInHierarchy explicitly declare HandleOnGUI OnGUI",
+"description":"Enable/Disable multiple GameObjects at once."
 }

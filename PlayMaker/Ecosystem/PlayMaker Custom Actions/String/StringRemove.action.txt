@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRemove.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRemove.cs",
-"keywords":" Author Deek http index php topic Removes Strings another StringRemove first instead the beginning Wheter every once Reset everyFrame cachedInitString DoRemoveString stringToRemove removeFromEnd sublength substr _string Value Substring strRemove Length"
+"keywords":" Author Deek http index php topic Removes Strings another StringRemove first instead the beginning Wheter every once FsmBool Reset FsmString everyFrame cachedInitString DoRemoveString stringToRemove removeFromEnd sublength substr _string Value Substring strRemove Length",
+"description":"Removes a Strings from another."
 }

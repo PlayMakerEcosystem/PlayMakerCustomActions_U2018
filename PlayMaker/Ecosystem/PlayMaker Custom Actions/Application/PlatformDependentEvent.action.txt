@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/PlatformDependentEvent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/PlatformDependentEvent.cs",
-"keywords":" Application Sends Events based dependent PlatformDependentEvent The send that Reset valueA GetName valueB platform checking ToString are isMatch COMPARISION Enum Equals FIRE _flag platformDependentFlags _event endif noMatchEvent"
+"keywords":" Application Sends Events based dependent PlatformDependentEvent The send that Reset bool valueA GetName valueB platform checking ToString are isMatch STRING COMPARISION Enum Equals FIRE _flag platformDependentFlags _event endif noMatchEvent",
+"description":"Sends Events based on platform dependent flag"
 }

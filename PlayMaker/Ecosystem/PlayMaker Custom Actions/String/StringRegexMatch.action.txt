@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringRegexMatch.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringRegexMatch.cs",
-"keywords":" http index php topic msg34170 RegularExpressions whether was found StringRegexMatch execute expression sure did the matched sent not matches Executes every Reset everyFrame DoAction Length RegexOptions options optionsBit stringVariable regex storeMatch storeIsSuccess Value match Success trueEvent falseEvent"
+"keywords":" http index php topic msg34170 Text RegularExpressions whether was found StringRegexMatch execute expression sure did the matched FsmBool sent not matches Executes every bool Reset FsmString everyFrame DoAction Length RegexOptions options optionsBit stringVariable regex storeMatch storeIsSuccess Value match Success trueEvent falseEvent",
+"description":"Execute a Regex on a string and return whether a match was found. "
 }

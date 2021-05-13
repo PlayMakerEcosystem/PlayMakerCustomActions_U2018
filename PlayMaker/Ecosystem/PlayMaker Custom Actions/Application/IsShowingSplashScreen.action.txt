@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/IsShowingSplashScreen.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/IsShowingSplashScreen.cs",
-"keywords":" Sends Events not send Showing Splash Repeat every the active Reset everyFrame Application isShowingSplashScreen isTrue isFalse works upwards endif"
+"keywords":" Sends Events not send Showing Splash Repeat every the active bool Reset everyFrame Application isShowingSplashScreen isTrue isFalse works upwards endif",
+"description":"Sends Events if Is Showing Splash Screen or not"
 }

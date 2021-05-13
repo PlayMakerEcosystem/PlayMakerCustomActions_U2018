@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntAverage.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntAverage.cs",
-"keywords":" Math Gets the listed variables IntAverage Reset everyFrame DoAverage storeResult Value average intArray Length"
+"keywords":" Math Gets the listed variables IntAverage FsmInt FsmFloat bool Reset everyFrame DoAverage storeResult Value average intArray Length",
+"description":"Gets the average of all listed int variables."
 }

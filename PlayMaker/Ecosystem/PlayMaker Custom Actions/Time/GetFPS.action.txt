@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Time/GetFPS.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Time/GetFPS.cs",
-"keywords":" calculates also fairly accurate very low counts not simply counting accumulating way with correct overall renders something like credits http unifycommunity wiki index php title FramesPerSecond GetFPS sampling accumulated drawn The current Frame second formated Reset timeScale deltaTime ended values FPS FPS_asString ToString display two fractional digits format timeleft updateInterval Value accum frames"
+"keywords":" calculates also fairly accurate very low counts not simply counting accumulating way with correct overall renders something like credits http unifycommunity wiki index php title FramesPerSecond GetFPS sampling accumulated drawn FsmFloat The current Frame second formated FsmString Reset timeScale deltaTime ended values FPS FPS_asString ToString display two fractional digits format timeleft updateInterval Value accum frames",
+"description":"It calculates frames/second over each updateInterval.It is also fairly accurate at very low FPS counts (<10).We do this not by simply counting frames per interval, butby accumulating FPS for each frame. This way we end up withcorrect overall FPS even if the interval renders something like 5.5 frames. credits: http://unifycommunity.com/wiki/index.php?title=FramesPerSecond"
 }

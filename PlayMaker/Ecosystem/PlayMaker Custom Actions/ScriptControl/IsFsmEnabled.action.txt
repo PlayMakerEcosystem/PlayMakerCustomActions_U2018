@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/ScriptControl/IsFsmEnabled.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/ScriptControl/IsFsmEnabled.cs",
-"keywords":" ScriptControl Gets IsFsmEnabled Optional Store enable the targeted send disabled PlayMakerFSM Reset ActionHelpers GetGameObjectFsm fsmName everyFrame DoGetFsmEnableState isEnabled Value _enabled isEnabledEvent isDisabledEvent"
+"keywords":" ScriptControl Gets IsFsmEnabled Optional FsmString Store enable the targeted FsmBool send disabled PlayMakerFSM Reset gameObject ActionHelpers GetGameObjectFsm fsmName everyFrame DoGetFsmEnableState bool isEnabled Value _enabled isEnabledEvent isDisabledEvent",
+"description":"Gets the Enabled state of a Fsm Component."
 }

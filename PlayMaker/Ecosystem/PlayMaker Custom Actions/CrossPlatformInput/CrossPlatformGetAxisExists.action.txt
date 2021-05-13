@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetAxisExists.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/CrossPlatformInput/CrossPlatformGetAxisExists.cs",
-"keywords":" UnityStandardAssets pragma disable Gets specified Requires Standard CrossPlatformGetAxisExists the sent axis not Reset ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput DoGetAxisExists CROSS_PLATFORM_INPUT CrossPlatformInputManager axisName endif axisExists Value _exists axisExistsEvent axisDoNotExistsEvent"
+"keywords":" UnityStandardAssets pragma disable Gets specified Requires Standard CrossPlatformGetAxisExists the FsmString FsmBool sent axis not Reset string ErrorCheck Cross Platform Asset nImport Assets Import Package CrossPlatformInput DoGetAxisExists bool CROSS_PLATFORM_INPUT CrossPlatformInputManager axisName endif axisExists Value _exists axisExistsEvent axisDoNotExistsEvent",
+"description":"Gets if a specified Input Axis exists. Requires Standard Assets CrossPlatformInput."
 }

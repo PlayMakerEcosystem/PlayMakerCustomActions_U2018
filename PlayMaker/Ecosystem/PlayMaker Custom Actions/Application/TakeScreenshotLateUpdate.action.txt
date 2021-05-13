@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/TakeScreenshotLateUpdate.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/TakeScreenshotLateUpdate.cs",
-"keywords":" Saves during NOTE Does nothing Web Player Android resulting available some time later TakeScreenshotLateUpdate enum Where save used with Custom Add auto incremented the Factor which increase resolution saved info console Reset PLAYMAKER_1_8_5_OR_NEWER GetFolderPath Environment SpecialFolder MyPictures persistentDataPath Destination customPath Replace File Exists screenshotPath screenshotCount png debugLog TakeScreenshot ScreenCapture Application CaptureScreenshot screenshotFullPath superSize ActionHelpers AutoName filename Value autoNumber endif"
+"keywords":" Saves during NOTE Does nothing Web Player Android resulting available some time later TakeScreenshotLateUpdate enum Where save used with Custom FsmString Add auto incremented the Factor which increase resolution FsmInt saved info console FsmBool Reset PLAYMAKER_1_8_5_OR_NEWER GetFolderPath Environment SpecialFolder MyPictures persistentDataPath Destination customPath Replace File Exists screenshotPath screenshotCount png debugLog TakeScreenshot ScreenCapture Application CaptureScreenshot screenshotFullPath superSize string ActionHelpers AutoName filename Value autoNumber endif",
+"description":"Saves a Screenshot during late update. NOTE: Does nothing in Web Player. On Android, the resulting screenshot is available some time later."
 }

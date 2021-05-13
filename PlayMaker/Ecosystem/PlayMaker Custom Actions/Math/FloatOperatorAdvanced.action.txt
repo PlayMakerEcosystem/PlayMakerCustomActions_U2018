@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/FloatOperatorAdvanced.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/FloatOperatorAdvanced.cs",
-"keywords":" script dependancies Assets Custom __Internal Performs operations version you choose when FloatOperatorAdvanced FsmStateActionAdvanced enum first second math perform Store the Reset DoFloatOperator float1 float2 Add Subtract Multiply Divide Max Operation Power storeResult Value Mathf Pow"
+"keywords":" script dependancies Assets Custom __Internal Performs operations version you choose when FloatOperatorAdvanced FsmStateActionAdvanced enum first second math perform Store the FsmFloat Reset DoFloatOperator float1 float2 Add Subtract Multiply Divide Min Max Operation Power storeResult Value Mathf Pow",
+"description":"Performs math operations on 2 Floats: Add, Subtract, Multiply, Divide, Min, Max. This advanced version let you choose when to perform the action."
 }

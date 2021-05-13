@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Mesh/SetTextMech.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Mesh/SetTextMech.cs",
-"keywords":" Sets the attached http index php topic SetTextMech Reset everyFrame DoSetText TextMesh Value"
+"keywords":" Sets the attached http index php topic SetTextMech FsmString bool Reset everyFrame DoSetText gameObject TextMesh text Value",
+"description":"Sets the Text Mech attached to a Game Object."
 }

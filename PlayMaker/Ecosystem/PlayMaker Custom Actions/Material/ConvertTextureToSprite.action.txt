@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Material/ConvertTextureToSprite.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Material/ConvertTextureToSprite.cs",
-"keywords":" http index php topic ConvertTextureToSprite Input convert Output The ObjectType Reset Texture2D Create Rect width height Value Sprite spriteTemp"
+"keywords":" Material http index php topic ConvertTextureToSprite Input convert FsmTexture Output The ObjectType FsmObject Reset Texture2D texture Create Rect width height Vector2 Value Sprite spriteTemp",
+"description":"Convert a texture to sprite"
 }

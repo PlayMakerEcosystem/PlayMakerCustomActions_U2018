@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringInsertAtIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringInsertAtIndex.cs",
-"keywords":" Made Djaydino http www jinxtergames add into StringInsertAtIndex place with the included Reset Length stringResult stringVariable Insert index character Value"
+"keywords":" Made Djaydino http www jinxtergames add into StringInsertAtIndex place FsmInt with the included FsmString Reset Length stringResult stringVariable Insert index character Value",
+"description":"add a character into the string at index nr"
 }

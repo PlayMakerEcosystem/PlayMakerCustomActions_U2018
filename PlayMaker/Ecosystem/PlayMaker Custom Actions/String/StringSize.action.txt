@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/String/StringSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/String/StringSize.cs",
-"keywords":" http index php topic StringSize Always Reset storeResult floatMb ASCIIEncoding ASCII GetByteCount stringVariable Value BytesToString KiB Convert ToInt32 Floor Round bytes Pow Math Sign byteCount num ToString suf place"
+"keywords":" Text http index php topic StringSize FsmString Always FsmFloat Reset storeResult floatMb ASCIIEncoding ASCII GetByteCount stringVariable Value BytesToString KiB Convert ToInt32 Floor Round bytes Pow Math Sign byteCount num ToString suf place",
+"description":"Size of String (b, kb, mb, etc)"
 }

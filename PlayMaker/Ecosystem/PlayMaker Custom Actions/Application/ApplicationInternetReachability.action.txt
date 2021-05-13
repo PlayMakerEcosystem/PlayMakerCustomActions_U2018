@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationInternetReachability.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationInternetReachability.cs",
-"keywords":" gets status ApplicationInternetReachability deemed available the actual ObjectType FsmEnum carrier data via local fired when internet not Reset Application internetReachability NotReachable Value _reachable notReachableEvent ReachableViaCarrierDataNetwork CarrierDataNetworkEvent _reachability NetworkReachability ReachableViaLocalAreaNetwork LocalAreaNetworkEvent"
+"keywords":" gets status ApplicationInternetReachability deemed available FsmBool the actual ObjectType FsmEnum carrier data via local fired when internet not bool Reset Application internetReachability NotReachable Value _reachable notReachableEvent ReachableViaCarrierDataNetwork CarrierDataNetworkEvent _reachability NetworkReachability ReachableViaLocalAreaNetwork LocalAreaNetworkEvent",
+"description":"gets the application internet Reachability status"
 }

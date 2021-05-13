@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Input/GetKeyDownFromString.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Input/GetKeyDownFromString.cs",
-"keywords":" Made Djaydino http www jinxtergames Sends when pressed GetKeyDownFromString keystring test Waring The must valid Reset Enum Parse Input GetKeyDown storeKey keyCode sendEvent storeResult Value keyDown"
+"keywords":" Made Djaydino http www jinxtergames Sends when pressed GetKeyDownFromString keystring test Waring The must valid FsmBool FsmString Reset Enum Parse bool Input GetKeyDown storeKey keyCode sendEvent storeResult Value keyDown",
+"description":"Sends an Event when the Keystring is pressed. Waring!! The String must be a valid KeyCode."
 }

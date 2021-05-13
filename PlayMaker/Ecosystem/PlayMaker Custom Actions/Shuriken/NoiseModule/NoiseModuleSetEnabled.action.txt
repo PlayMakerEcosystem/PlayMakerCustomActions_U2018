@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Shuriken/NoiseModule/NoiseModuleSetEnabled.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/NoiseModule/NoiseModuleSetEnabled.cs",
-"keywords":" Made Ubik3D Link http index php topic topicseen ShapeModule Shuriken NoiseModuleSetEnabled with flag Repeat every the active NoiseModule Reset _go ParticleSystem _ps noise everyFrame DoExecute _nm enabled Value"
+"keywords":" Made Ubik3D Link http index php topic topicseen ShapeModule Shuriken NoiseModuleSetEnabled with flag FsmBool Repeat every the active bool NoiseModule Reset gameObject _go ParticleSystem _ps noise everyFrame DoExecute _nm enabled Value",
+"description":"Set the enabled flag of a particleSystem's ShapeModule ( Shuriken)"
 }

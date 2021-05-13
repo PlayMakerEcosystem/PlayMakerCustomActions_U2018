@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Math/IntCompare2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Math/IntCompare2.cs",
-"keywords":" Math comparision Integers twice Allow saved can send events IntCompare2 enum Half first second integer method The sent Performs comparison usefull when changing Reset everyFrame NOTE very frame rate dependent DoIntCompare integer2 Greater GreaterOrEqual Less LessOrEqual Opposite Operation OppositeSign integer1 Value _result comparisonPassEvent comparisonFailEvent"
+"keywords":" Math comparision Integers twice Allow saved can send events IntCompare2 enum Half first second integer FsmInt method The FsmBool sent Performs comparison usefull when changing Reset everyFrame NOTE very frame rate dependent DoIntCompare integer2 bool Greater GreaterOrEqual Less LessOrEqual Opposite Operation OppositeSign integer1 Value _result comparisonPassEvent comparisonFailEvent",
+"description":"Performs comparision on 2 Integers: ==, >,<,>=,<=,half,twice,opposite, OppositeSign. Allow the result to be saved in a FsmBool, and can send events."
 }

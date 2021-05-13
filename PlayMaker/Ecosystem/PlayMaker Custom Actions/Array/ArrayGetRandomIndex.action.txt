@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Array/ArrayGetRandomIndex.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Array/ArrayGetRandomIndex.cs",
-"keywords":" Made DjayDino item ArrayGetRandomIndex FsmArray Store MatchElementType Can hit same number twice every active Reset Code that runs entering the everyFrame DoGetRandomValue Repeat Random Range Length lastIndex randomIndex storeValue SetValue index Value"
+"keywords":" Made DjayDino item ArrayGetRandomIndex FsmArray Store MatchElementType FsmInt Can hit same number twice FsmBool every active bool Reset Code that runs entering the everyFrame DoGetRandomValue Repeat Random Range Length lastIndex randomIndex storeValue SetValue index Value",
+"description":"Get a Random item from an Array."
 }

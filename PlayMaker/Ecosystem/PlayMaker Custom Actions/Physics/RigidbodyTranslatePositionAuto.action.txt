@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Physics/RigidbodyTranslatePositionAuto.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Physics/RigidbodyTranslatePositionAuto.cs",
-"keywords":" Physics Moves calcs smoothing are RigidbodyTranslatePositionAuto move defined manager the Reset Horizontal Vertical Rigidbody horizontalAxis Input GetAxisRaw verticalAxis DoMovement Set normalized speed deltaTime MovePosition transform position storeVector Value movement"
+"keywords":" Physics Moves calcs smoothing are RigidbodyTranslatePositionAuto move defined manager FsmString the FsmFloat FsmVector3 Vector3 Reset Horizontal Vertical gameObject Rigidbody horizontalAxis Input GetAxisRaw verticalAxis DoMovement Set normalized speed deltaTime MovePosition transform position storeVector Value movement",
+"description":"Moves the position of a Rigidbody, calcs and smoothing are internal."
 }

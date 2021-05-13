@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/iTween/iTweenRotateUpdate2.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/iTween/iTweenRotateUpdate2.cs",
-"keywords":" RotateTo incredibly less expensive usage inside function similar looping situations involving live changing values Does not utilize EaseType you choose tyoe iTweenRotateUpdate2 enum Rotate seconds the animation will take complete used offset Whether animate Reset PLAYMAKER_1_8_5_OR_NEWER endif Hashtable time islocal Self OnExit updateCall PlayMakerUpdateCallType PerformUpdate Remove zero World Add transformRotation transform localEulerAngles vectorRotation Value DoiTween iTween RotateUpdate hash"
+"keywords":" RotateTo incredibly less expensive usage inside function similar looping situations involving live changing values Does not utilize EaseType you choose tyoe iTweenRotateUpdate2 enum Rotate seconds the animation will take complete used offset FsmFloat Whether animate Reset FsmGameObject FsmVector3 PLAYMAKER_1_8_5_OR_NEWER endif Hashtable gameObject time islocal Self OnExit updateCall PlayMakerUpdateCallType PerformUpdate Remove Vector3 zero World Add transformRotation transform localEulerAngles vectorRotation Value DoiTween iTween RotateUpdate hash",
+"description":"Similar to RotateTo but incredibly less expensive for usage inside the Update function or similar looping situations involving a 'live' set of changing values. Does not utilize an EaseType. Let's you choose the tyoe of update."
 }

@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/StateMachine/SendEventToFsmComponent.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/StateMachine/SendEventToFsmComponent.cs",
-"keywords":" StateMachine Sends after SendEventToFsmComponent ObjectType The NOTE must marked Global send between Optional seconds Repeat every Rarely needed can useful when sending events other Reset FsmEventTarget fsmComponent PlayMakerFSM 001f FindEvent delay everyFrame WasSent eventTarget sendEvent Value Mathf delayedEvent GetProgress endif"
+"keywords":" StateMachine GameObject Sends after SendEventToFsmComponent ObjectType FsmObject The NOTE must marked Global send between FsmString Optional seconds FsmFloat Repeat every Rarely needed can useful when sending events other bool Reset FsmEventTarget fsmComponent PlayMakerFSM 001f FindEvent delay everyFrame WasSent eventTarget sendEvent Value Mathf Min delayedEvent GetProgress endif",
+"description":"Sends an Event after an optional delay to an FsmComponent"
 }

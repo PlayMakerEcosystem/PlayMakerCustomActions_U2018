@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Vector3/Vector3EqualCheckAction.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Vector3/Vector3EqualCheckAction.cs",
-"keywords":" ActionCategoryAttribute Sends two Vector3EqualCheckAction RequiredFieldAttribute UIHintAttribute test Wanted that will sent they are NOT Repeat every Reset zero 0001f everyFrame CheckVector3s first second notEqualsEvent V3Equal SqrMagnitude magnitudeForEquality Value"
+"keywords":" ActionCategoryAttribute Sends two Vector3EqualCheckAction RequiredFieldAttribute UIHintAttribute test FsmVector3 Wanted FsmFloat that will sent they are NOT Repeat every Reset zero 0001f everyFrame CheckVector3s first second notEqualsEvent bool V3Equal Vector3 SqrMagnitude magnitudeForEquality Value",
+"description":"Sends an Event if two Vector3 are equal (in wanted magnitude)"
 }

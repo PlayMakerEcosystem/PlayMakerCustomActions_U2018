@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/GUIElement/SetGUITexturePixelInsetSize.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/GuiElement/SetGUITexturePixelInsetSize.cs",
-"keywords":" GUIElement Sets Pixel Soze the attached Useful sizing GUI elements around SetGUITexturePixelInsetSize Reset everyFrame DoGUITexturePixelInsetSize Rect width height Value GUITexture pixelInset"
+"keywords":" GUIElement Sets Pixel Soze the attached Useful sizing GUI elements around SetGUITexturePixelInsetSize FsmFloat bool Reset everyFrame DoGUITexturePixelInsetSize gameObject Rect width height Value GUITexture pixelInset",
+"description":"Sets the Pixel Inset Soze of the GUITexture attached to a Game Object. Useful for sizing GUI elements around."
 }

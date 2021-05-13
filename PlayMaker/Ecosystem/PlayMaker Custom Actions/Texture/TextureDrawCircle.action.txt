@@ -3,5 +3,6 @@
 "Type":"Action",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Texture/TextureDrawCircle.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/Texture/TextureDrawCircle.cs",
-"keywords":" Draw TextureDrawCircle Reset everyFrame center radius Value DoDrawTextureCircle Texture2D GetPixels32 Ceil Mathf Sqrt SetPixel _col SetPixels32 tempArray Apply"
+"keywords":" Draw TextureDrawCircle FsmTexture FsmVector2 FsmInt bool Reset everyFrame texture center radius Value DoDrawTextureCircle Texture2D GetPixels32 Ceil Mathf Sqrt SetPixel _col SetPixels32 tempArray tex Apply",
+"description":"Draw a circle on a texture."
 }
