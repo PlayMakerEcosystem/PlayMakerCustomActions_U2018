@@ -5,6 +5,6 @@
 "Version":"0.9.3",
 "UnityMinimumVersion":"2017.1",
 "PlayMakerMinimumVersion":"1.9",
-"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Photon/PlayMakerPun2.unitypackage",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/ExitGames/PlayMakerPun2.unitypackage",
 "keywords":"PlayMaker Pun Photon Exitgames network multi player"
 }

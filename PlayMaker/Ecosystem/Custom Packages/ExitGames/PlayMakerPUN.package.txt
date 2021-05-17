@@ -1,10 +1,10 @@
 {
 "__ECO__":"__PACKAGE__",
-"Type":"Add-on",
-"Version":"1.9.7",
-"UnityMinimumVersion":"5.6",
-"PlayMakerMinimumVersion":"1.9.0",
-"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/ExitGames/PlayMakerPUN.unitypackage",
-"pingAssetPath":"Assets/PlayMaker PUN/ChangeLog.md",
-"keywords":"Pun Network MultiPlayer Photon Exitgames unet"
+"Author":"Jean fabre",
+"Type":"Addon",
+"Version":"1.101.1",
+"UnityMinimumVersion":"2017.1",
+"PlayMakerMinimumVersion":"1.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Packages/ExitGames/PlayMakerPun.unitypackage",
+"keywords":"PlayMaker Pun Classic Photon Exitgames network multi player"
 }

@@ -5,7 +5,7 @@
 "Version":"0.9",
 "UnityMinimumVersion":"2017.1",
 "PlayMakerMinimumVersion":"1.9",
-"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Photon/Pun2SimpleConnection.unitypackage",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/ExitGames/Pun2SimpleConnection.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Samples/PhotonUnityNetworking/SimpleConnection/SimpleConnection.unity",
 "keywords":"PlayMaker Pun Photon Exitgames network multi player"
 }
