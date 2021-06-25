@@ -1,13 +1,12 @@
 // (c) Copyright HutongGames, LLC 2010-2020. All rights reserved.  
-// License: Attribution 4.0 International(CC BY 4.0)
+// License: Attribution 4.0 International(CC BY 4.0) 
 /*--- __ECO__ __PLAYMAKER__ __ACTION__ ---*/
-// NOTE: For UNITY 5 or UNITY 4+ PRO
-// v1.1
+// v1.2
 
 using System;
 using UnityEngine;
 using System.Collections;
-
+using System.IO;
 
 namespace HutongGames.PlayMaker.Actions
 {
@@ -42,7 +41,6 @@ namespace HutongGames.PlayMaker.Actions
 		public FsmBool autoNumber;
 		
 		[ActionSection("Option")]
-		public FsmBool inclGui;
 		public FsmBool useJpeg;
 		[Tooltip("Must be 0 or 16 or 24 - The precision of the render texture's depth buffer in bits / When 0 is used, then no Z buffer is created by a render texture")]
 		private int Depth;
@@ -53,77 +51,72 @@ namespace HutongGames.PlayMaker.Actions
 			_0,
 			
 		};
-		
+
+
 		public depthSelect setDepth;
 
 		public FsmBool debugOn;
-		
+
+
+		[ActionSection("Result")]
+		public FsmString StoreFilePath;
+
+
 		private int screenshotCount;
 		private string screenshotPath;
 		private string screenshotFullPath;
-		static private RequestHelper _helper;
 		
 		public override void Reset()
 		{
 			gameObject = null;
 			filename = "";
 			autoNumber = false;
-			Auto = true;
+			Auto = false;
 			useCurrentRes = false;
 			resWidth = 2560;
 			resHeight = 1440;
 			useMypictures = false;
 			useDefaultFolder = true;
-			inclGui = true;
 			useJpeg = false;
 			debugOn = false;
+
+			StoreFilePath = null;
 		}
 
 		public override void OnPreprocess()
 		{
-			#if PLAYMAKER_1_8_5_OR_NEWER
-				Fsm.HandleLateUpdate = true;
-			#endif
+			Fsm.HandleLateUpdate = true;
 		}
 
-		public override void OnEnter()
+
+		public override void OnLateUpdate()
 		{
 			if (useCurrentRes.Value == true || Auto.Value == true) getResolutions();
-
+			
 			switch(setDepth){
 			case depthSelect._0:
-					Depth = 0;
-					break;
-
+				Depth = 0;
+				break;
+				
 			case depthSelect._16:
 				Depth = 16;
 				break;
-
+				
 			case depthSelect._24:
 				Depth = 24;
 				break;
 				
 			}
-			if (inclGui.Value == true){
 
-				_helper = ( new GameObject("RequestHelper") ).AddComponent< RequestHelper >();
-				_helper.startEndofFrame(this);
+			getPicture();
 
-			}
-		}
-		
-		public override void OnLateUpdate()
-		{
-			if (inclGui.Value == false)takePicture(true);
+			Finish();
 		}
 
-		public void takePicture (bool state)
-		{
-			if (state) getPicture();
-		}
 
 		public void getPicture()
 		{
+			if (debugOn.Value == true) UnityEngine.Debug.Log("getPicture");
 
 	
 			RenderTexture rt = new RenderTexture(resWidth.Value, resHeight.Value, Depth);
@@ -138,17 +131,34 @@ namespace HutongGames.PlayMaker.Actions
 			UnityEngine.Object.Destroy(rt);
 			
 			
-			if (useMypictures.Value == true && useDefaultFolder.Value  == true){
-				Debug.Log("<b>[SaveTextureAsImage]</b><color=#FF9900ff> useMypictures & useDefaultFolder cannot both be true - Please review!</color>", this.Owner);
+			if (useMypictures.Value == true) 
+			{
+				screenshotPath = Environment.GetFolderPath (Environment.SpecialFolder.MyPictures) + "/";
+
+				if (!string.IsNullOrEmpty(filePath.Value))
+				{
+					screenshotPath += filePath.Value+"/";
+				}
+
+			} else if (useDefaultFolder.Value) 
+			{
+				screenshotPath = Application.persistentDataPath;
+				if (!string.IsNullOrEmpty(filePath.Value))
+				{
+					screenshotPath += "/"+filePath.Value+"/";
+				}
+			}
+			else
+			{
+				screenshotPath = filePath.Value;
 			}
 
-			if (useMypictures.Value == true)screenshotPath = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures)+"/";
-			else if (!useMypictures.Value && !useDefaultFolder.Value) screenshotPath = filePath.Value;
-			else if (!useMypictures.Value && useDefaultFolder.Value == true) screenshotPath = Application.persistentDataPath;
 			
-			
-			if (!useJpeg.Value) screenshotFullPath = screenshotPath + filename.Value + ".png";
-			else screenshotFullPath = screenshotPath + filename.Value + ".jpg";
+			if (!useJpeg.Value) {
+				screenshotFullPath = screenshotPath + filename.Value + ".png";
+			} else {
+				screenshotFullPath = screenshotPath + filename.Value + ".jpg";
+			}
 			
 			
 			if (autoNumber.Value)
@@ -161,18 +171,21 @@ namespace HutongGames.PlayMaker.Actions
 					else screenshotFullPath = screenshotPath + filename.Value + screenshotCount + ".jpg";
 				} 
 			}
-			
+
+			if (debugOn.Value == true) UnityEngine.Debug.Log("File path: "+screenshotFullPath+" File Name: "+filename.Value);
+
+
 			byte[] bytes;
 			if (!useJpeg.Value)
 				bytes = screenShot.EncodeToPNG();
 			else bytes = screenShot.EncodeToJPG();
-			
-			System.IO.File.WriteAllBytes(screenshotFullPath,bytes);
-			
-			if (debugOn.Value == true)Debug.Log("File path: "+screenshotFullPath+" File Name: "+filename.Value);
 
-			if (inclGui.Value == true) _helper = null;
-			Finish();
+			Directory.CreateDirectory (screenshotPath);
+
+			File.WriteAllBytes(screenshotFullPath,bytes);
+
+			StoreFilePath.Value = screenshotFullPath;
+
 		}
 
 		public void getResolutions()
@@ -188,28 +201,5 @@ namespace HutongGames.PlayMaker.Actions
 			return;
 		}
 
-//---------------------
-		public sealed class RequestHelper : MonoBehaviour {
-
-			TakeCameraScreenshot _action;
-
-			public void startEndofFrame(TakeCameraScreenshot action)
-			{
-				_action= action;
-				StartCoroutine("getPictureIENUM");
-				
-			}
-			
-			IEnumerator getPictureIENUM()
-			{
-				yield return new WaitForEndOfFrame();
-				_action.takePicture (true);
-
-				Destroy(this.gameObject);
-			
-			}
-
-
-		}
 	}
 }

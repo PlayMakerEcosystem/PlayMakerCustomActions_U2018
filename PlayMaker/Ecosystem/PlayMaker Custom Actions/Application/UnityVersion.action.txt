@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/UnityVersion.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/UnityVersion.cs",
+"keywords":" gets the place into FsmString Reset Application unityVersion Store Value not endif"
+}
