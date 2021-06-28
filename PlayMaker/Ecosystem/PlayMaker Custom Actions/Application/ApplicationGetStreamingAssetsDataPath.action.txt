@@ -1,0 +1,7 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Action",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Actions/Application/ApplicationGetStreamingAssetsDataPath.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Actions/Application/ApplicationGetStreamingAssetsDataPath.cs",
+"keywords":" ApplicationGetStreamingAssetsDataPath Streaming Assets Data FsmString adds the bool Reset Application persistentDataPath appendPathDelimiter streamingAssetsDataPath Value"
+}
