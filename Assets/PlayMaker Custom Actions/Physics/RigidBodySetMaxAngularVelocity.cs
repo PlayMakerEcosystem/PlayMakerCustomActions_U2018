@@ -52,19 +52,10 @@ namespace HutongGames.PlayMaker.Actions
 				return;
 			}
 
-			#if UNITY_5
-						rigidbody.maxAngularVelocity = maxAngularVelocity.Value;
-			#endif
-
+			rigidbody.maxAngularVelocity = maxAngularVelocity.Value;
+	
 		}
 
-		public override string ErrorCheck()
-		{
-			#if !UNITY_5
-				return "rigidbody.maxAngularVelocity is only available in Unity 5. Use Physics Settings in Unity 4";
-			#endif
-			
-			return "";
-		}
+	
 	}
 }
