@@ -1,0 +1,10 @@
+{
+"__ECO__":"__TEMPLATE__",
+"Type":"Template",
+"unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Template/Color/TemplateTest.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Custom Template/Color/templateTest.asset",
+"keywords":"test",
+"documentation":{
+"description":"template test"
+}
+}
