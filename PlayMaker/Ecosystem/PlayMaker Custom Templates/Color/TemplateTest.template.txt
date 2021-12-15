@@ -2,7 +2,7 @@
 "__ECO__":"__PACKAGE__",
 "Type":"Template",
 "unitypackage":"PlayMaker/Ecosystem/PlayMaker Custom Templates/Color/TemplateTest.unitypackage",
-"pingAssetPath":"Assets/PlayMaker Custom Template/Color/templateTest.asset",
+"pingAssetPath":"Assets/PlayMaker Custom Templates/Color/templateTest.asset",
 "keywords":"test",
 "documentation":{
 "description":"template test"
